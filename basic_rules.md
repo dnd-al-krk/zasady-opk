@@ -199,7 +199,7 @@ Mistrz Gry wyznacza moment zakończenia przygody oraz to, w jakim stopniu zakoń
 
 Najpóźniej w momencie przydzielania nagród, gracze mogą podjąć decyzję na temat zredukowania tempa rozwoju swoich postaci w wyniku tej przygody (szczegółowy opis tej opcji znaleźć można w Zasadach Zaawansowanych). Postać ze zredukowanym tempem rozwoju nie uczestniczy w podziale permanentnych przedmiotów magicznych o rzadkości co najmniej uncommon.
 
-Efekty przygody powinny zostać zanotowane w karcie postępów postaci (patrz [podrozdział 4.1](#logsheet) przez jej właściciela.
+Efekty przygody powinny zostać zanotowane w karcie postępów postaci (patrz [podrozdział 4.1](#logsheet)) przez jej właściciela.
 
 ## 3. Nagrody i inne konsekwencje przygód<a name="nagrody"></a>
 
