@@ -9,7 +9,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 # Spis treści
 
-[III. Zasady zaawansowane](#zaawansowane)
+[Zasady zaawansowane](#zaawansowane)
 
 [Wstęp. Tworzenie zasad](#zaawansowane-wstep)
 
@@ -33,7 +33,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [2.5.Tempo rozwoju](#zaawansowane-tempo-rozwoju)
 
-  [2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją5](#zaawansowane-johny-dispell)
+  [2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją](#zaawansowane-johny-dispell)
 
   [2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnosci)
 
@@ -62,7 +62,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
  [8. Changelog](#zaawansowane-changelog)
 
 
-### III. Zasady zaawansowane<a name="zaawansowane"></a>
+### Zasady zaawansowane<a name="zaawansowane"></a>
 
 W tej części zasad znajdują się szczegółowe koncepcje, których znajomość nie jest niezbędna do uczestnictwa w rozgrywkach OPK. Tutaj rozstrzygamy rzadko spotykane lub mniej istotne w typowej rozgrywce kwestie, a także wyjaśniamy, skąd niektóre zasady się biorą. Tutaj również znaleźć można zasady, które są istotne z perspektywy Mistrza Gry – warto je przeczytać, jeśli chcesz znać powody podejmowania przez nich decyzji lub dołączyć do grona Mistrzów Gry.
 
@@ -298,7 +298,7 @@ Poza możliwością prowadzenia sesji w OPK, Mistrz Gry ma dwa przywileje:
 
 ## 7. Reguły przejściowe: sezon 1 i początek sezonu 2.<a name="zaawansowane-przejsciowe"></a>
 
-Cokolwiek się działo w Krakowskim AL-u, NielegALu lub OPKprzed 1.08.2022, jest uznawane za pierwszy sezon OPK i jest nieważne na potrzeby rozgrywek drugiego sezonu OPK. W szczególności postacie, które wtedy powstały i przygody w których uczestniczyły nie mają wpływu na obecne rozgrywki. Oczywiście, nic nie stoi na przeszkodzie, by stworzyć je od nowa w ramach naszego systemu.
+Cokolwiek się działo w Krakowskim AL-u, NielegALu lub OPK przed 1.08.2022, jest uznawane za pierwszy sezon OPK i jest nieważne na potrzeby rozgrywek drugiego sezonu OPK. W szczególności postacie, które wtedy powstały i przygody w których uczestniczyły nie mają wpływu na obecne rozgrywki. Oczywiście, nic nie stoi na przeszkodzie, by stworzyć je od nowa w ramach naszego systemu.
 
 1.06.2023 w ramach sezonu 2 OPK wprowadzono cały pakiet łatek na reguły i doprecyzowań zasad. W szczególności – weszły w życie zasady w wersji 2.0. Postacie graczy OPK, które swoją pierwszą przygodę rozegrały po tej dacie nie podlegają regułom we wcześniejszych wersjach. Natomiast dla postaci, które powstały wcześniej, potrzebne jest kilka doprecyzowań.
 
