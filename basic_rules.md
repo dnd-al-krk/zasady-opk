@@ -252,8 +252,6 @@ Dla każdej postaci gracz, który jest jej właścicielem, powinien prowadzić k
 
 Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pamiętać, że podczas sesji Mistrz Gry może zapytać o informacje zawarte w karcie postępów postaci. W przypadku, gdy gracz nie jest w stanie wiarygodnie przedstawić tych informacji lub informacje są sprzeczne z zawartością karty postaci, Mistrz Gry może zdecydować o wyłączeniu kontrowersyjnych elementów ekwipunku (a w skrajnym przypadku nawet postaci) z przygody.
 
-###
-
 ### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
 Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu wolnego:
