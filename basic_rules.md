@@ -72,8 +72,6 @@ Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą 
 
 ## 1. Tworzenie postaci<a name="tworzenie-postaci"></a>
 
-###
-
 ### 1.1 Start<a name="start"></a>
 
 Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można mieć ich dowolnie dużo, choć na każdą sesję można zapisać się tylko jedną. Jeśli jakikolwiek aspekt tworzenia postaci w OPK nie jest jasny, zapraszamy na kanał #tworzenie-postaci na naszym Discordzie.
@@ -209,7 +207,6 @@ Postacie otrzymują nagrody z sesji w formie opisanej przez Mistrza Gry podczas 
 
 Jeśli Mistrz Gry nie zaznaczy inaczej, wszelkie nagrody z sesji nie muszą być zużyte natychmiast: przyznany czas wolny, pieniądze i przedmioty pozostają w puli zasobów postaci, dopóki w jakiś sposób nie zostaną zużyte. Otrzymane ACP z wszystkich rozegranych sesji są sumowane w celu ustalenia aktualnego poziomu postaci.
 
-###
 
 ### 3.1. ACP, czas wolny (DT) i pieniądze<a name="acp-dt-pieniadze"></a>
 
@@ -302,7 +299,6 @@ Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby
 
 Niezależnie od wykorzystania czasu wolnego, zakłada się, że pomiędzy kolejnymi przygodami, w których postać uczestniczy odbywa się jeden long rest/długi odpoczynek. Zużycie dni wolnych na wymienione powyżej aktywności liczy się na poczet upływu czasu (np. przy odzyskiwaniu Hit Dice/Kości Wytrzymałości, ładunków przedmiotów magicznych, odbywaniu karencji między możliwościami użycia jakiejś zdolności lub dochodzeniu do pełnej sprawności po wskrzeszeniu).
 
-###
 
 ### 4.4. Przekuwanie magicznej broni<a name="przekuwanie-broni"></a>
 
