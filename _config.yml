@@ -1,0 +1,3 @@
+exclude: ["CNAME", "cc.csv"]
+url : https://zasady.rpgkrakow.pl
+baseurl: /zasady-opk
