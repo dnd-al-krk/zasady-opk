@@ -134,16 +134,11 @@ Jednak to wszystko traci na znaczeniu, gdy zaczyna się sesja, podczas której g
 
 Przede wszystkim, zawsze pamiętajmy o tym, co zapisaliśmy w zasadach podstawowych: każda reguła DnD może zostać zmieniona bądź odrzucona przez Mistrza Gry w trakcie sesji (i jest to zapisane w DMG!), jeśli uważa on, że uczyni to grę ciekawszą i przyjemniejszą dla uczestników. Jednakże, nasi DM-owie z powodów wspomnianych wcześniej starają się nie nadużywać przywileju. Gracze mogą się spodziewać, że w prawie każdej sytuacji gra będzie się toczyć według reguł takich, jakie są zapisane w PHB i innych podręcznikach 5 edycji DnD. W razie wątpliwości DM-owie podpierają się zapisami DMG. Generalnie omijamy stosowanie reguł opcjonalnych (variant: encumberance, flanking itp.), gdyż zwykle nie są one zbyt dopracowane. Reguły opcjonalne, które stosujemy to:
 
-- Human Languages (SCAG)
-
-- Blessing of Corellon (ToF)
-
-- Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB)
-
-- Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE)
-
-- Wszystkie zasady uzupełniające z rozdziału 2 Xanathar's Guide to Everything do sekcji _Invalid Spell Targets_ włącznie, z wyjątkiem zasady Tying Knots.
-
+- Human Languages, Tiefling Variants (SCAG),
+- Blessing of Corellon (ToF),
+- Variant Human, Atuty (featy),wieloklasowość (multiclassing) (PHB),
+- Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE),
+- Wszystkie zasady uzupełniające z rozdziału 2 Xanathar’s Guide to Everything do sekcji Invalid Spell Targets włącznie, z wyjątkiem zasady Tying Knots (XGtE),
 - Playing On Grid (różne podręczniki).
 
 W wyjaśnieniu wątpliwych przypadków sięgamy do tzw. Sage Advice Compendium – dostępnego na stronie wydawcy DnD zbioru pytań i odpowiedzi na temat zasad gry.
@@ -309,11 +304,3 @@ Dlatego ustalono, że:
 - Jeśli jakaś postać rozegrała swoją pierwszą sesję na Szczeblu T2 przed 1.06.2023 i zgodnie z ówczesnymi zasadami wzięła z listy darmowych przedmiotów magiczny przedmiot, który nie jest konsumowalny, to musi go zwrócić. W zamian, jeśli jej właściciel uważa, że ten przedmiot był kluczowy dla koncepcji postaci, może jednorazowo (przed rozegraniem przez postać następnej przygody) wykonać darmowy rebuild tej postaci.
 
 Obowiązek zwrotu przedmiotu nie dotyczy postaci, które z listy darmowych przedmiotów wzięły przedmiot konsumowalny, niezależnie czy go zużyły, czy nie.
-
-## 8. Changelog<a name="zaawansowane-changelog"></a>
-
-1.06.2023 – Data wejścia w życie wersji 2.0 zasad z wprowadzeniem reguł przejściowych.
-
-6.08.2022 – Korekta w przydzielaniu ACP – wersja 1.01 zasad.
-
-1.08.2022 – Rozpoczęcie sezonu 2 OPK, wersja 1.0 zasad.
