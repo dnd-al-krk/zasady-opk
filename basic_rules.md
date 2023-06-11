@@ -98,10 +98,10 @@ Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z 
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
 
-- Human Languages (SCAG)
-- Blessing of Corellon (MToF)
-- Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB)
-- Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE)
+- Human Languages, Tiefling Variants (SCAG),
+- Blessing of Corellon (MToF),
+- Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB),
+- Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE).
 
 Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (background) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
 
