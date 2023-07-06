@@ -202,7 +202,7 @@ No later than when the rewards are handed out, a player can decide to reduce the
 
 The results of an adventure should be noted down in a character's logsheet by their owner (see [chapter 4.1](#logsheet))
 
-## 3. Nagrody i inne konsekwencje przygód<a name="nagrody"></a>
+## 3. Rewards and other consequences of an adventure<a name="nagrody"></a>
 
 Characters receive rewards from the game in the form described by the DM at the end of an adventure. These are usually: ACP (Advancement Checkpoints), Downtime, money, magic and non-magic items and Story Awards. In this chapter we will go through each of those rewards and their use, as well as discuss the negative effects of adventures that a character may experience.
 
