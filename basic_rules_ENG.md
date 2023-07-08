@@ -202,7 +202,7 @@ No later than when the rewards are handed out, a player can decide to reduce the
 
 The results of an adventure should be noted down in a character's logsheet by their owner (see [chapter 4.1](#logsheet))
 
-## 3. Rewards and the Other Consequences of an Adventure<a name="nagrody"></a>
+## 3. Rewards and other consequences of an adventure<a name="nagrody"></a>
 
 Characters receive rewards from the game as described by the DM at the end of an adventure. These are usually: ACP (Advancement Checkpoints), Downtime, money, magic and non-magic items, and Story Awards. In this chapter we will go through each of those rewards and their use, as well as discuss the negative effects of adventures that a character may experience.
 
@@ -244,7 +244,7 @@ c) The character is dead and their body was not recovered from the place of deat
 
 A dead character (regardless of whether the death is permanent or not) cannot perform any activities or gain any resources (this includes DM rewards) except paying for resurrection and selling off equipment for that purpose.
 
-## 4. Character Development Between Adventures<a name="pomiedzy-przygodami"></a>
+## 4. Character development between adventures<a name="pomiedzy-przygodami"></a>
 
 ### 4.1. Character logsheet<a name="logsheet"></a>
 
