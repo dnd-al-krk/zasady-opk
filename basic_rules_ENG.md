@@ -214,7 +214,7 @@ After each game, the player character receives ACP as determined by the DM, depe
 
 A character advances to the next level if, after the DM awards them ACP for an adventure, the sum of their lifetime ACP awards is equal or greater than an appropriate threshold from Table 1 (part II of the rules). In short, Tier 1 characters reach the next level after gaining 4 ACP above the previous one. Characters in other Tiers require 8 ACP to reach the next level.
 
-Downtime is awarded automatically alongside ACP, equally 2.5 DT per 1 ACP. The usage of downtime is described in [chapter 4.3](#downtime).
+Downtime is awarded automatically alongside ACP, equal to 2.5 DT per 1 ACP. The usage of downtime is described in [chapter 4.3](#downtime).
 
 The DM decides on the amount of gold the characters receive, in line with the Advanced Rules. As with ACP, the gold is split evenly between characters, although in extreme circumstances the DM may decide differently.
 
