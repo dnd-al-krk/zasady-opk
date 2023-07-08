@@ -401,8 +401,8 @@ Magic items that are exchanged during that trade must be permanent and 'fully ch
 |                                                                                                                               | Price                                                                                            | Additional restrictions               |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
 | Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanent, fully charged magic item of uncommon or higher rarity +15 DT          |                                       |
-|     Weapon +2 (any)                                                                                                       | Permanent, fully charged magic item of rare or higher rarity + 30 DT + 2000 gp     |     Poziom postaci – co najmniej 5    |
-|     Weapon +3 (any)                                                                                                       | Permanent, fully charged magic item of very rare or higher rarity + 45 DT + 5000gp |     Poziom postaci – co najmniej 11   |
+|     Weapon +2 (any)                                                                                                       | Permanent, fully charged magic item of rare or higher rarity + 30 DT + 2000 gp     |     Character level - at least 5th    |
+|     Weapon +3 (any)                                                                                                       | Permanent, fully charged magic item of very rare or higher rarity + 45 DT + 5000gp |     Character level - at least 11th   |
 
 ## 6. Weapon reforging list<a name="tabela-bronie"></a>
 
