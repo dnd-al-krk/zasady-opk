@@ -74,7 +74,7 @@ OPK Season 2 began on the 1st of August 2022. Whatever happened before is not re
 
 ### 1.1 Start<a name="start"></a>
 
-You need to create at least one character to play in OPK. You may have as many as you'd like, but you may only sign up with one to any particular game. If any part of the character creation process is unclear, we point you to the channel #tworzenie-postaci on the Discord Server.
+You need to create at least one character to play in OPK. You may have as many as you'd like, but you may only sign up with one to any particular game. If any part of the character creation process is unclear, we point you to the channel #tworzenie-postaci on the Discord.
 
 Each new character for OPK starts at 1st Level. If this is your first character for DnD 5th edition, we'd recommend using only races, classes, spells and feats in the Player's Handbook, as all of them are permitted to play. In addition to the Player's Handbook, for character creation and development we permit races, classes, subclasses, spells and feats from the following sources:
 
@@ -248,7 +248,7 @@ A dead character (regardless of whether the death is permanent or not) cannot pe
 
 ### 4.1. Character logsheet<a name="logsheet"></a>
 
-For every character, their player should create a logsheet that contains all changes to the character's possessions during and between adventures. A template for such logsheets can be found on our discord on the #materialy\_dla\_graczy, but the logsheet can be of any format that is comfortable to the player. Importantly, the logsheet should provide information about what adventures the character took part in, who the DM was for those adventures, how they reached their current level and where their equipment (especially magic items) and Story Awards came from.
+For every character, their player should create a logsheet that contains all changes to the character's possessions during and between adventures. A template for such logsheets can be found on our Discord on the #materialy\_dla\_graczy channel, but the logsheet can be of any format that is comfortable to the player. Importantly, the logsheet should provide information about what adventures the character took part in, who the DM was for those adventures, how they reached their current level and where their equipment (especially magic items) and Story Awards came from.
 
 The character logsheet is primarily a helpful tool for the player. However, the DM may request information from the logsheet during a game. If a player is not able to present this information, or it conflicts with the character sheet, the DM can decide to exclude the controversial equipment (or in extreme cases, the character) from the game.
 
@@ -273,7 +273,7 @@ With permission from both sides, two player characters (or even two characters o
 
 The characters can only exchange items of the same rarity (e.g. an uncommon item can only be exchanged for another uncommon item). Additionally, the character may only exchange items appropriate to their tier (Uncommon - T1, Rare - T2, Very Rare - T3, Legendary - T4), even if they somehow obtained a higher tier item before. You cannot exchange consumable magic items (e.g. scrolls, potions, ammunition) or expended magic items that have lost their magical properties.
 
-All trades should be recorded on the discord channel #bazar.
+All trades should be recorded on the Discord channel #bazar.
 
 **2. Exchange permanent magic items with magic items for trade:** 
 
