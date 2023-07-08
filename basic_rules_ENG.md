@@ -68,7 +68,7 @@ If you have any questions or require any rules clarified, we invite you to our D
 
 ### I. Basic Rules<a name="zasady-podstawowe"></a>
 
-OPK Season 2 began on the 1st of August 2022. Whatever happened before is not relevant to games played in the 2nd season (most importantly, characters who played in OPK games before season 2 began are not permitted to play).
+OPK season 2 began on the 1st of August 2022. Whatever happened before is not relevant to games played in the 2nd season (most importantly, characters who played in OPK games before season 2 began are not permitted to play).
 
 ## 1. Character creation<a name="tworzenie-postaci"></a>
 
@@ -325,7 +325,7 @@ Reforged magic weapons that are destructible by dealing damage (e.g. Net) and de
 
 Similarly to the rules in [chapter 4.4](#przekuwanie-broni) arrows can be reforged into bolts and vice versa, maintaining the magic properties of the ammunition (a +2 bolt can be changed into a +2 arrow, and an Arrow of X Slaying into Bolt of X Slaying).
 
-Attention! The rules of Season 2, Version 2 were introduced on 01.06.2023. Transition rules for characters that participated in adventures of a higher tier than T1 in season 2 before 01.06.2023 can be found in Advanced Rules, chapter 7. All other characters can continue playing in OPK without modification.
+Attention! The rules of season 2, Version 2 were introduced on 01.06.2023. Transition rules for characters that participated in adventures of a higher tier than T1 in season 2 before 01.06.2023 can be found in Advanced Rules, chapter 7. All other characters can continue playing in OPK without modification.
 
 ### II. Auxillary tables<a name="tabele-pomocnicze"></a>
 
