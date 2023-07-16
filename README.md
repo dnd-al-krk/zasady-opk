@@ -6,6 +6,8 @@
 
 ## [OPK Rules - basic (for T1 players) - English version](basic_rules_ENG.md)
 
+## [OPK Rules - advanced](advanced_rules_ENG.md)
+
 ## [Katalog przygód](content_catalog.md)
 
 ## [Historia zmian](https://github.com/dnd-al-krk/zasady-opk/commits/master)
