@@ -1,6 +1,6 @@
 # Organised Play Kraków
 
-## [Zasady OPK - podstawowe (dla graczy na T1)](basic_rules.md)
+## [Zasady OPK - podstawowe](basic_rules.md)
 
 ## [Zasady OPK - zaawansowane](advanced_rules.md)
 
