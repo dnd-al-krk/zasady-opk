@@ -21,6 +21,7 @@
 |DDAL00-09         |II            |2h            |Minsc&Boo                                        |
 |DDIA-VOLO         |I             |4-8h          |In Volo’s Wake                                   |
 |DDIA-XGE          |I             |4h            |Underworld Speculation                           |
+|DDHC-MORD-01      |II            |8h            |Riddle of the Raven Queen                        |
 | Sezon 1 - Tyranny of Dragons |
 |DDEX1-1           |I             |5x1h          |Defiance in Phlan                                |
 |DDEX1-2           |I             |4h            |Secrets of Sokol Keep                            |
@@ -658,6 +659,16 @@ An Introductory adventure for Xanthar's Guide to EverythingTM supporting charact
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### Riddle of the Raven Queen](https://www.dmsguild.com/product/242611/Riddle-of-the-Raven-Queen?affiliate_id=925821)
+
+**Informacje o przygodzie**
+Embark on a rescue mission into the heart of the Shadowfell!
+
+**Komentarz**
+Runtime - przygoda składa się z dwóch części po około 4h. Po pierwszej z nich można przydzielić graczom 4ACP oraz zebrane złoto. Magiczne przedmioty pochodzą w całości z części drugiej.
+Złoto - nie wymaga zmian.
+Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej integralne dla fabuły są uncommony (Pipes of Haunting i Mithral Plate) i to je należy usunąć aby sprowadzić magiczne przedmioty do standardowej ilości. Zarówno zmodyfikowany Cloak of the Bat jak i unikatowa broń nie zaburzają balansu i mogę być dane jak opisane w przygodzie.
 
 ### [Defiance in Phlan](https://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e&affiliate_id=925821)
 
