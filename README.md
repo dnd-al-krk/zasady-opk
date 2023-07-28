@@ -1,11 +1,16 @@
 # Organised Play Kraków
 
-## [Zasady OPK - podstawowe](basic_rules.md)
+## Zasady OPK
 
-## [Zasady OPK - zaawansowane](advanced_rules.md)
+### [Podstawowe](basic_rules.md)
 
-## [OPK Rules - basic (for T1 players) - English version](basic_rules_ENG.md)
+### [Zaawansowane](advanced_rules.md)
 
-## [OPK Rules - advanced](advanced_rules_ENG.md)
+### [Historia zmian](https://github.com/dnd-al-krk/zasady-opk/commits/master)
 
-## [Historia zmian](https://github.com/dnd-al-krk/zasady-opk/commits/master)
+## OPK Rules (English)
+
+### [Basic](basic_rules_ENG.md)
+
+### [Advanced](advanced_rules_ENG.md)
+
