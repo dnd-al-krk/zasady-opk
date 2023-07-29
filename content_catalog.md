@@ -660,7 +660,7 @@ An Introductory adventure for Xanthar's Guide to EverythingTM supporting charact
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-### Riddle of the Raven Queen](https://www.dmsguild.com/product/242611/Riddle-of-the-Raven-Queen?affiliate_id=925821)
+### [Riddle of the Raven Queen](https://www.dmsguild.com/product/242611/Riddle-of-the-Raven-Queen?affiliate_id=925821)
 
 **Informacje o przygodzie**
 Embark on a rescue mission into the heart of the Shadowfell!
