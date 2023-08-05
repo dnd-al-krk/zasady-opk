@@ -13,7 +13,7 @@ We wszystkich poniższych zapisach i tabelach przez przygodę rozumiemy pojedync
 
 ### Advancement Checkpoints
 
-Za prowadzenie przygody Mistrz Gry zawsze otrzymuje przynajmniej maksymalną ilość ACP przewidywaną przez przygodę, oraz za Bonus Objectives zrealizowane przez drużynę.
+Za prowadzenie przygody Mistrz Gry otrzymuje maksymalną ilość ACP przewidywaną przez główną część przygody oraz za Bonus Objectives zrealizowane przez drużynę.
 W przypadku APL niższego niż 2 DM otrzymuje ACP w wysokości najwyższej otrzymanej przez którąkolwiek z postaci graczy, w tym zero w przypadku TPK.
 
 Mistrz Gry może przydzielać zgromadzone ACP swoim postaciom w porcjach o dowolnej wielkości. W momencie przydzielenia ACP postaci otrzymują automatycznie za każdy przydzielony ACP:
