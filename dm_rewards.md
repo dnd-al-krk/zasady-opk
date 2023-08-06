@@ -9,6 +9,11 @@ Mistrzem Gry (DMem) jest osoba, która w ostatnim półroczu poprowadziła przyn
 ### Przygody, sesje i godziny prowadzenia
 We wszystkich poniższych zapisach i tabelach przez przygodę rozumiemy pojedynczy segment materiału oznaczony jednym kodem do celów prowadzenia w OPK. Przez sesję rozumiemy jednorazowe wydarzenie poprowadzenia takiej przygody (nawet jeśli czas trwania przygody wymagał zgromadzenia DM i graczy na więcej niż jednym spotkaniu). W szczególności, wielokrotnie można prowadzić sesje oparte na tej samej przygodzie, ale będą się liczyć jako jedna przygoda do misji, w których wymaganiem jest prowadzenie danej liczby różnych przygód. Z drugiej strony, niektóre przygody opatrzone jednym kodem (np. zazwyczaj pierwsze przygody sezonów) składają się z kilku ,,miniprzygód’’. Przykładowo, rozegranie 4 z 5 1-godzinnych ,,miniprzygód” DDEX 1-1 Defiance in Phlan w ciągu dwóch spotkań liczy się jako 4 godziny prowadzenia na potrzeby obliczeń Punktów Magicznych Przedmiotów, natomiast tylko jako jedna sesja/przygoda na potrzeby innych misji.
 
+### Rodzaje wynagrodzenia za prowadzenie
+
+Za prowadzenie przygód w OPK Mistrzowie Gry są wynagradzani na 3 sposoby: podstawowe wynagrodzenie to ACP w ilościach analogicznych do graczy. Druga to Punkty Magicznych Przedmiotów(PMP), które mają zapewnić, że postaci MG mają dostęp do podobnej ilości magicznych przedmiotów co gracze. Trzecia to Punkty Questów (PQ), które zdobywane są za prowadzenie w sposób szczególnie korzystny dla graczy OPK: regularny, różnorodny, zapewniający dostęp nowym graczom i obejmujący cykle fabularne. Za Punkty Questów można uzyskać nagrody "kosmetyczne", nie zwiększające siły postaci, ale dające opcje uznane za zbyt niezwykłe dla tła naszych przygód, by umożliwić je dla każdej postaci np. nietypowe klasy, rasy, familiary, wierzchowce, umożliwienie rebuildów i wskrzeszeń.
+
+
 ## Podstawowe wynagrodzenie za prowadzenie sesji
 
 ### Advancement Checkpoints
@@ -56,12 +61,7 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [DATA]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody lub magicznego przedmiotu w wersji 1.0 nie mogą być przeliczane na odpowiednio Punkty Questów i Punkty Magicznych Przedmiotów.
 Zasady przydzielania ACP/DT/złota w wersji 1.0 i 2.0 się nie zmieniły (zmieniły się jedynie ich sformułowania), więc na ich wykorzystanie aktualizacja zasad do wersji 2.0 nie ma wpływu
 
-## Idee projektowania powyższych zasads
+## Idee projektowania powyższych zasad
 
 ### Ogólne cele i zastrzeżenia wynagrodzeń dla Mistrzów Gry
 Podstawowym celem istnienia wynagrodzeń jest zapewnienie bodźców dla Mistrzów Gry dla prowadzenia w OPK w sposób, który zapewnia jak najwięcej korzyści graczom. Nie chcemy, żeby ze względu na prowadzenie postacie Mistrzów Gry były znacząco słabsze niż postacie graczy, dla których te sesje są prowadzone, ale nie chcemy też, by były znacząco silniejsze. Ponadto, wynagradzane powinny być zachowania korzystne dla społeczności OPK - staramy się uniknąć tworzenia wynagrodzeń za osiągnięcia, które nie dają wielkich korzyści graczom, nawet jeśli te osiągnięcia są trudne do wykonania. Staramy się też promować prowadzenie dla nowych graczy, stąd preferencja wynagrodzeń za prowadzenie na niższych szczeblach.
-
-### Rodzeje wynagrodzenia za prowadzenie
-
-Za prowadzenie przygód w OPK Mistrzowie Gry są wynagradzani na 3 sposoby: podstawowe wynagrodzenie to ACP/DT i złoto otrzymywane w ilościach symulujących rozegranie przygody analogicznej do prowadzonej w roli gracza. Druga, to Punkty Magicznych Przedmiotów(PMP), które mają zapewnić, że postaci, którymi Mistrzowie Gry grają w OPK mają dostęp do magicznych przedmiotów w ilości zbliżonej do zdobywanych przez graczy. Trzecia, to Punkty Questów (PQ), które zdobywane są za prowadzenie w sposób szczególnie korzystny dla graczy OPK: regularny, różnorodny, zapewniający dostęp nowym graczom i obejmujący cykle fabularne. Za Punkty Questów można uzyskać nagrody ,,kosmetyczne’’, nie zwiększające siły postaci, ale dające opcje uznane za zbyt niezwykłe dla tła naszych przygód, by umożliwić je dla każdej postaci np. nietypowe klasy, rasy, familiary, wierzchowce, umożliwienie rebuildów i wskrzeszeń.
-
