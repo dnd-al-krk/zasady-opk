@@ -9,53 +9,59 @@ Mistrzem Gry (DMem) jest osoba, która w ostatnim półroczu poprowadziła przyn
 ### Przygody, sesje i godziny prowadzenia
 We wszystkich poniższych zapisach i tabelach przez przygodę rozumiemy pojedynczy segment materiału oznaczony jednym kodem do celów prowadzenia w OPK. Przez sesję rozumiemy jednorazowe wydarzenie poprowadzenia takiej przygody (nawet jeśli czas trwania przygody wymagał zgromadzenia DM i graczy na więcej niż jednym spotkaniu). W szczególności, wielokrotnie można prowadzić sesje oparte na tej samej przygodzie, ale będą się liczyć jako jedna przygoda do misji, w których wymaganiem jest prowadzenie danej liczby różnych przygód. Z drugiej strony, niektóre przygody opatrzone jednym kodem (np. zazwyczaj pierwsze przygody sezonów) składają się z kilku ,,miniprzygód’’. Przykładowo, rozegranie 4 z 5 1-godzinnych ,,miniprzygód” DDEX 1-1 Defiance in Phlan w ciągu dwóch spotkań liczy się jako 4 godziny prowadzenia na potrzeby obliczeń Punktów Magicznych Przedmiotów, natomiast tylko jako jedna sesja/przygoda na potrzeby innych misji.
 
-### Ogólne cele i zastrzeżenia wynagrodzeń dla Mistrzów Gry
-Podstawowym celem istnienia wynagrodzeń jest zapewnienie bodźców dla Mistrzów Gry dla prowadzenia w OPK w sposób, który zapewnia jak najwięcej korzyści graczom. Nie chcemy, żeby ze względu na prowadzenie postacie Mistrzów Gry były znacząco słabsze niż postacie graczy, dla których te sesje są prowadzone, ale nie chcemy też, by były znacząco silniejsze. Ponadto, wynagradzane powinny być zachowania korzystne dla społeczności OPK - staramy się uniknąć tworzenia wynagrodzeń za osiągnięcia, które nie dają wielkich korzyści graczom, nawet jeśli te osiągnięcia są trudne do wykonania. Staramy się też promować prowadzenie dla nowych graczy, stąd preferencja wynagrodzeń za prowadzenie na niższych szczeblach.
+### Rodzaje wynagrodzenia za prowadzenie
 
-### Rodzeje wynagrodzenia za prowadzenie
+Za prowadzenie przygód w OPK Mistrzowie Gry są wynagradzani na 3 sposoby: podstawowe wynagrodzenie to ACP w ilościach analogicznych do graczy. Druga to Punkty Magicznych Przedmiotów(PMP), które mają zapewnić, że postaci MG mają dostęp do podobnej ilości magicznych przedmiotów co gracze. Trzecia to Punkty Questów (PQ), które zdobywane są za prowadzenie w sposób szczególnie korzystny dla graczy OPK: regularny, różnorodny, zapewniający dostęp nowym graczom i obejmujący cykle fabularne. Za Punkty Questów można uzyskać nagrody "kosmetyczne", nie zwiększające siły postaci, ale dające opcje uznane za zbyt niezwykłe dla tła naszych przygód, by umożliwić je dla każdej postaci np. nietypowe klasy, rasy, familiary, wierzchowce, umożliwienie rebuildów i wskrzeszeń.
 
-Za prowadzenie przygód w OPK Mistrzowie Gry są wynagradzani na 3 sposoby: podstawowe wynagrodzenie to ACP/DT i złoto otrzymywane w ilościach symulujących rozegranie przygody analogicznej do prowadzonej w roli gracza. Druga, to Punkty Magicznych Przedmiotów(PMP), które mają zapewnić, że postaci, którymi Mistrzowie Gry grają w OPK mają dostęp do magicznych przedmiotów w ilości zbliżonej do zdobywanych przez graczy. Trzecia, to Punkty Questów (PQ), które zdobywane są za prowadzenie w sposób szczególnie korzystny dla graczy OPK: regularny, różnorodny, zapewniający dostęp nowym graczom i obejmujący cykle fabularne. Za Punkty Questów można uzyskać nagrody ,,kosmetyczne’’, nie zwiększające siły postaci, ale dające opcje uznane za zbyt niezwykłe dla tła naszych przygód, by umożliwić je dla każdej postaci np. nietypowe klasy, rasy, familiary, wierzchowce, umożliwienie rebuildów i wskrzeszeń.
-
-### Ograniczenie dotyczące przydzielania nagród i magicznych przedmiotów postaciom
-
-Nagrody Mistrzów Gry można przyznać tylko postaciom żywym. Nagrody bezpośrednio przydzielane postaciom muszą być zgodne ze szczeblem postaci, której się je przydziela (np. tabelka złota w rozdziale 2). 
-W szczególności, .magiczny przedmiot przydzielany dzięki Punktom Magicznych Przedmiotów postaci grającej na szczeblu T1 to maksymalnie uncommon, T2 - maksymalnie rare, T3 - maksymalnie very rare, złoto przydzielane jest według tabelki.
-Ponadto, postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleniu liczba posiadanych przez postać magicznych przedmiotów przekracza następujące limity:
--  Postać T1 - 1 przedmiot uncommon
--  Postać T2 - 2 przedmioty uncommon, 1 przedmiot rare
--  Postać T3 - 3 przedmioty uncommon, 2 przedmioty rare, 1 przedmiot very rare.
--  
-Posiadanie większej ilości przedmiotów niższego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
-1.6. ZASADY PRZEJŚCIOWE
-Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [DATA]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody lub magicznego przedmiotu w wersji 1.0 nie mogą być przeliczane na odpowiednio Punkty Questów i Punkty Magicznych Przedmiotów.
-Zasady przydzielania ACP/DT/złota w wersji 1.0 i 2.0 się nie zmieniły (zmieniły się jedynie ich sformułowania), więc na ich wykorzystanie aktualizacja zasad do wersji 2.0 nie ma wpływu
 
 ## Podstawowe wynagrodzenie za prowadzenie sesji
 
-Za prowadzenie przygody Mistrz Gry zawsze otrzymuje przynajmniej maksymalną ilość ACP przewidywaną przez przygodę bez Bonus Objectives o ile APL wynosi przynajmniej 2. Jeżeli drużyna pomyślnie ukończyła przygodę oraz Bonus Objectives to DM otrzymuje również ACP za nie. W przypadku APL niższego niż 2 DM otrzymuje ACP w wysokości najwyższej otrzymanej przez którąkolwiek z postaci graczy. W przypadku TPK przy APL mniejszym niż 2 DM nie otrzymuje nagrody w ACP. 
+### Advancement Checkpoints
+
+Za prowadzenie przygody Mistrz Gry otrzymuje maksymalną ilość ACP przewidywaną przez główną część przygody oraz za Bonus Objectives zrealizowane przez drużynę.
+W przypadku APL niższego niż 2 DM otrzymuje ACP w wysokości najwyższej otrzymanej przez którąkolwiek z postaci graczy, w tym zero w przypadku TPK.
 
 Mistrz Gry może przydzielać zgromadzone ACP swoim postaciom w porcjach o dowolnej wielkości. W momencie przydzielenia ACP postaci otrzymują automatycznie za każdy przydzielony ACP:
--również DT w ilości 2,5 DT za każdy przydzielony ACP
--złoto za każdy przydzielony ACP w ilości zależnej od Szczebla na którym znajduje się postać:
+- 2,5 DT 
+- złoto w ilości zależnej od Szczebla na którym znajduje się postać:
 
-| Tier | Złoto (gp) |
-|------|------------|
-| I    | 45         |
-| II   | 175        |
-| III  | 450        |
-| IV   | 4500       |
+| Tier postaci | Złoto (gp) |
+|--------------|------------|
+| I            | 45         |
+| II           | 175        |
+| III          | 450        |
+| IV           | 4500       |
+
+ACP można przyznać tylko postaciom żywym.
 
 ### Punkty Magicznych Przedmiotów
 
-By postaci Mistrzów Gry nie pozostawały w tyle za postaciami graczy pod względem posiadanych magicznych przedmiotów, za prowadzenie przygód DM otrzymuje też  Punkty Magicznych Przedmiotów (PMP). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
+Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
 
-| Tier | PMP |
-|------|-----|
-| I    | 2,5 |
-| II   | 2   |
-| III  | 1,5 |
-| IV   | 1   |
+| Tier przygody | PMP za 1 ACP |
+|---------------|--------------|
+| I             | 2,5          |
+| II            | 2            |
+| III           | 1,5          |
+| IV            | 1            |
 
 Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP.
 
 PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot lub spellbook, przestrzegając zastrzeżeń podrozdziału 1.5. Nagród Mistrzów Gry. Przydzielić można tylko przedmiot magiczny lub spellbook, który był przewidziany w nagrodach dla graczy w jednej z przygód, którą dany Mistrz Gry poprowadził. Takie przydzielenie kosztuje za każdym razem 50 PMP.
+
+Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleniu liczba posiadanych przez postać magicznych przedmiotów przekroczyłaby następujące limity:
+-  Postać T1 - 1 przedmiot uncommon, 0 rare i wyżej
+-  Postać T2 - 2 przedmioty uncommon, 1 przedmiot rare, 0 very rare i wyżej
+-  Postać T3 - 3 przedmioty uncommon, 2 przedmioty rare, 1 przedmiot very rare, 0 legendary
+
+Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
+
+### Zasady przejściowe
+
+Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [DATA]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody lub magicznego przedmiotu w wersji 1.0 nie mogą być przeliczane na odpowiednio Punkty Questów i Punkty Magicznych Przedmiotów.
+Zasady przydzielania ACP/DT/złota w wersji 1.0 i 2.0 się nie zmieniły (zmieniły się jedynie ich sformułowania), więc na ich wykorzystanie aktualizacja zasad do wersji 2.0 nie ma wpływu
+
+## Idee projektowania powyższych zasad
+
+### Ogólne cele i zastrzeżenia wynagrodzeń dla Mistrzów Gry
+Podstawowym celem istnienia wynagrodzeń jest zapewnienie bodźców dla Mistrzów Gry dla prowadzenia w OPK w sposób, który zapewnia jak najwięcej korzyści graczom. Nie chcemy, żeby ze względu na prowadzenie postacie Mistrzów Gry były znacząco słabsze niż postacie graczy, dla których te sesje są prowadzone, ale nie chcemy też, by były znacząco silniejsze. Ponadto, wynagradzane powinny być zachowania korzystne dla społeczności OPK - staramy się uniknąć tworzenia wynagrodzeń za osiągnięcia, które nie dają wielkich korzyści graczom, nawet jeśli te osiągnięcia są trudne do wykonania. Staramy się też promować prowadzenie dla nowych graczy, stąd preferencja wynagrodzeń za prowadzenie na niższych szczeblach.
