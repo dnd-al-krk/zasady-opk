@@ -56,6 +56,23 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 
 Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
+
+## Misje i nagrody dodatkowe
+
+| Nazwa                  | Misja                                                                      | Nagroda | Komentarz                                                      |
+|------------------------|----------------------------------------------------------------------------|---------|----------------------------------------------------------------|
+| Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      |         |                                                                |
+| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję w tygodniu przez 12 kolejnych tygodni.       |         |                                                                |
+| Nowe horyzonty         | Poprowadź sesję 0 przygody i doprowadź do jej wpisania do Content Catalogu |         |                                                                |
+| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         |                                                                |
+| Tryptyk                | Poprowadź serię przynajmniej 3 przygód CCC połączonych fabularnie          |         |                                                                |
+| Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | Na drugiej sesji może powtarzać się maksymalnie 1 os.          |
+| Mistrz różnorodności   | Poprowadź przygodę której nie prowadziłeś w ciągu ostatniego roku          |         |                                                                |
+|                        |                                                                            |         |                                                                |
+|                        |                                                                            |         |                                                                |
+|                        |                                                                            |         |                                                                |
+|                        |                                                                            |         |                                                                |
+     
 ### Zasady przejściowe
 
 Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [DATA]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody lub magicznego przedmiotu w wersji 1.0 nie mogą być przeliczane na odpowiednio Punkty Questów i Punkty Magicznych Przedmiotów.
