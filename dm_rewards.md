@@ -27,7 +27,7 @@ Mistrz Gry może przydzielać zgromadzone ACP swoim postaciom w porcjach o dowol
 
 | Tier postaci | Złoto (gp) |
 |--------------|------------|
-| I            | 45         |
+| I            | 40         |
 | II           | 175        |
 | III          | 450        |
 | IV           | 4500       |
