@@ -497,6 +497,7 @@
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
 |DDIA-VRGTR        |I             |8h            |House of Lament                                  |
+|GCC-BAX-01        |I/II          |2-5h          |War Tortle Brewery                               |
 
 
 
@@ -6565,16 +6566,10 @@ drank it.
 ### [Mountain Brew](https://www.dmsguild.com/product/342016/Mountain-Brew)
 
 **Informacje o przygodzie**
-Is your party brave enough to follow the path in the Spine of The World and to chase after answers
-no one else chose to pursue? Do you want to find out who or what is behind the disappearance of
-the remains of the barbarians of old? Make this adventure your own!
-This module is designed for three to seven characters within Tier 2 limitations (5-10 character level)
-and is optimised for 5 characters with the average level of 7.
+Is your party brave enough to follow the path in the Spine of The World and to chase after answers no one else chose to pursue? Do you want to find out who or what is behind the disappearance of the remains of the barbarians of old? Make this adventure your own!
 
 **Komentarz**
-Przygoda w obecnej formie nie zawiera skalowania przeciwników, więc wymaga odpowiedniego
-przygotowania wcześniej. Ze względu na losowe ilości złota, należy przydzielić je według zasad
-średnich nagród, zależnie od tego jak głęboko zajdzie eksploracja.
+Przygoda w obecnej formie nie zawiera skalowania przeciwników, więc wymaga odpowiedniego przygotowania wcześniej. Ze względu na losowe ilości złota, należy przydzielić je według zasad średnich nagród, zależnie od tego jak głęboko zajdzie eksploracja.
 Magiczne przedmioty zgodnie z przygodą.
 
 
@@ -6584,18 +6579,10 @@ Magiczne przedmioty zgodnie z przygodą.
 Pochodzi z Van Richten's Guide to Ravenloft
 
 **Informacje o przygodzie**
-"The House of Lament" is an adventure for a party of four to six 1st-level characters, who will
-advance to at least 3rd level by the adventure's conclusion. The adventure's climax serves as a
-springboard into future adventures in the Domains of Dread, should you wish to take your campaign
-into those haunted lands.
+"The House of Lament" is an adventure for a party of four to six 1st-level characters, who will advance to at least 3rd level by the adventure's conclusion. The adventure's climax serves as a springboard into future adventures in the Domains of Dread, should you wish to take your campaign into those haunted lands.
 
 **Komentarz**
-Content warningi są kluczowe - należy uprzedzić o elementach horroru. Treść, nagrody, wyzwania
-itd. nie wymagają dostosowywania, aczkolwiek jest śmiertelna dla postaci i raczej przeznaczona
-jest dla doświadczonych graczy. Przygoda ze względu na wiele potencjalnych torów gry wymaga
-dokładnego przeczytania i położenia nacisku na jasną ekspozycję sytuacji dla graczy. Zdobyte Dark
-Gifts dostępne są tylko w trakcie grania przygody i przestają funkcjonować po opuszczeniu
-Domeny.
+Content warningi są kluczowe - należy uprzedzić o elementach horroru. Treść, nagrody, wyzwania itd. nie wymagają dostosowywania, aczkolwiek jest śmiertelna dla postaci i raczej przeznaczona dla doświadczonych graczy. Przygoda ze względu na wiele potencjalnych torów gry wymaga dokładnego przeczytania i położenia nacisku na jasną ekspozycję sytuacji dla graczy. Zdobyte Dark Gifts dostępne są tylko w trakcie grania przygody i przestają funkcjonować po opuszczeniu Domeny.
 
 ### [Wretches](https://www.dmsguild.com/product/226911/CCCKUMORI0102-Wretches)
 
@@ -6615,6 +6602,39 @@ Something evil is devouring the souls of the living in Chult, but before the cha
 **Komentarz**
 Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
 Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
+
+
+### [War Tortle Brewery](https://www.dmsguild.com/product/319773/War-Tortle-Brewery--Adventure)
+
+**Informacje o przygodzie**
+Strange things are happening at War Tortle Brewery. Not only is the magically automated, multi-level stone tower brewery under the influence of corrupting magic, but a bodacious party of hipsters has taken over the grounds. Management needs help!
+
+Do you have what it takes to gain entrance, brave the tower, and put an end to the corrupting magic? Will you survive the challenges within, or fall trying?
+
+**Komentarz**
+Przygoda T1 lub T2 dla postaci poziomów 5-6.
+
+Przyznawanie ACP:
+ - 2 ACP za główny quest, podwórko z hipisami i rozwiązanie problemu browaru.
+ - 1 ACP za pomoc pracownikom.
+ - 1 ACP za odkrycie kto stoi za wszystkimi problemami.
+
+Bonus Objective
+ - 1 ACP odkrycie dlaczego woda z rzeki nie nadaje się już użytku
+
+Złoto:
+ - 200 gp na PC przy 4 ACP
+ - 140 gp na PC przy 3 ACP
+ - 80 gp na PC przy 2 ACP
+ - 50 gp na PC za sidequest.
+
+Magiczne przedmioty:
+ - Alchemy Jug (blue)
+ - Spell Scroll of Dispel Magic oraz Spell Scroll of Slow. 
+ - Headband of Sobriety. 
+
+
+
 ## Proces dodawania nowych przygód do katalogu OPK
 
 ### Definicja
