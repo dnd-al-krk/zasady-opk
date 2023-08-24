@@ -679,7 +679,10 @@ Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej 
 The walled city of Wheloon holds the criminal population of Cormyr. The residents of that place are bound to it forever and cut off from the outside world. Inside, plans are made and malcontents pool their resources – and outside, forces influence the innocent to ensure that a dire plot can be realized without interference from the knights and mages that guard the realm. Now you’re here with no memory of what brought you to Wheloon, and all you can think of is finding out why!
 
 **Komentarz**
-
+Runtime - Przygoda jest na 4h dla postaci 1-2lvl, w razie konieczności należy dopełnić losowymi encounterami z opisanych w przygodzie.
+Złoto - Brak nagród w złocie, co jest celowe i uzasadnione. Nie należy dawać złota wg. tabelki, co wynagradza nadmiarowa liczba magicznych przedmiotów.
+Magiczne przedmioty - Przygoda zawiera 2 przedmioty common (jest też 3, mystery key który powinien być zużyty w trakcie przygody i nie jest nagrodą) i jeden rare. Z racji na obecne zasady przekuwania rarity przedmiotu należy zmienić na uncommon, nie wymaga innych zmian mechanicznych.
+Scenariusz przygody częściowo opiera się na pregenach, na potrzeby naszych rozgrywek należy opracować w taki sposób aby uwzględnić dowolne postacie graczy. W szczególności za względu na założenie przez przygodę level upów w trakcie przygody (co u nas nie ma miejsca) początkowe encountery należy wyskalować w górę dla drużyn w większości drugopoziomowych, a końcowe osłabić dla drużyn pierwszopoziomowych.
 
 
 ### [Defiance in Phlan](https://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e&affiliate_id=925821)
