@@ -64,7 +64,7 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 | Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      |         |                                                                     |
 | Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       |         | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
 | Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   |         |                                                                     |
-| Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (np. DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu|         |                                                                     |
+| Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu|         |                                                                     |
 | Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            |         |                                                                     |
 | Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         |                                                                     |
 | Tryptyk                | Poprowadź serię 3 przygód CCC połączonych fabularnie                       |         |                                                                     |
