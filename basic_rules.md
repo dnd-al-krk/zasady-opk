@@ -279,6 +279,8 @@ Wymiany powinny być rejestrowane na discordowym kanale #bazar.
 
 **3. Nadganiania poziomu:** Na poziomie 4, 10 oraz 16 można poświęcić Czas Wolny, by przejść o jeden poziom wyżej, a więc na wyższy Szczebel (Tier) gry. Koszt to odpowiednio 25, 75 i 150 DT.
 
+Postać dostaje tyle ACP, ile brakuje jej do następnego poziomu według Tabeli 1. Za uzyskane w ten sposób ACP postać nie otrzymuje DT oraz innych korzyści niż podniesienie poziomu.
+
 **4. Powrotu z innego planu:** Jeśli z jakiegoś powodu postać pozostała na innym planie niż powinna się znaleźć na zakończenie przygody może poświęcić 50 DT by powrócić z niego (chyba, że przygoda wskazuje inny koszt). Jeśli przygoda przewiduje, że postać znajdzie się na jej końcu na innym planie niż Materialny, to powrót postaci na plan Materialny na kolejną przygodę jest darmowy (nawet jeśli przygoda przewiduje inne rozwiązanie, jak przygody sezonu 4).
 
 **5.Przepisywania zaklęć:** (tylko Wizard, Warlock z Pact of the Tome, Postać z Ritual Caster feat). Podlega to normalnym zasadom wpisywania zaklęć do księgi. Koszt każdych rozpoczętych 8 godzin przepisywania to 1 DT.

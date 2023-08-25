@@ -281,6 +281,8 @@ Magic items can be exchanged with the infamous fence S. Wawelski from the "Drago
 
 **3. Level boosting:** At levels 4, 10, and 16 a character may spend downtime to advance one level to a higher Tier of play. The cost is 25, 75 and 150 DT.
 
+The character receives the exact amount of ACP to gain a level, as per Table 1. ACP gained this way does not give DT or other benefits, except for the level-up.
+
 **4. Returning from another plane:** If for whatever reason a character remains on a different plane of existence than they should at the end of an adventure, they can spend 50 DT to return (unless the adventure specifies a different cost). If at the end of the adventure the characters are supposed to be on a different plane of existence, returning to Material Plane is free for the next adventure (even if the adventure specifies otherwise, like adventures in Season 4).
 
 **5.Copying spells:** (Only availiable to Wizards, Pact of the Tome Warlocks, characters with the Ritual Caster feat). This follows the base rules of copying spells. For each 8 hours of copying started by the character, the cost is 1 DT.
