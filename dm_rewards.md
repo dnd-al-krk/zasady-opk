@@ -69,7 +69,7 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 | Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         |                                                                     |
 | Tryptyk                | Poprowadź serię 3 przygód CCC połączonych fabularnie                       |         |                                                                     |
 | Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurer's League               |         |                                                                     |
-| Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | Na drugiej sesji może powtarzać się maksymalnie 1 os.               |
+| Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | W przygodach musi uczestniczyć minimum 7 różnych graczy             |
 | Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    |         |                                                                     |
 | Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         |         | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
 |                        |                                                                            |         |                                                                     |
