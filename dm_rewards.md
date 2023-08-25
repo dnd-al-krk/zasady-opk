@@ -69,11 +69,15 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 | Tryptyk                | Poprowadź serię 3 przygód CCC połączonych fabularnie                       |         |                                                                |
 | Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurer's League               |         |                                                                |
 | Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | Na drugiej sesji może powtarzać się maksymalnie 1 os.          |
-| Mistrz różnorodności   | Poprowadź przygodę której nie prowadziłeś w ciągu ostatniego roku          |         |                                                                |
+| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    |         |                                                                |
 | Kontrola jakości       | Weź udział w sesji 0 jako gracz                                            |         |                                                                |
 | Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         |         | Misję tę można wypełnić tylko raz w roku                       |
 |                        |                                                                            |         |                                                                |
 |                        |                                                                            |         |                                                                |
+
+
+Poza nagrodą "Szeroki asortyment", ta sama przygoda nie może być wykorzystana do zdobycia tej samej nagrody częściej niż raz na 2 lata.
+
      
 ### Zasady przejściowe
 
