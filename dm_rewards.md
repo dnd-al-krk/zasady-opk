@@ -59,24 +59,24 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 
 ## Misje i nagrody dodatkowe
 
-| Nazwa                  | Misja                                                                      | Nagroda | Komentarz                                                      |
-|------------------------|----------------------------------------------------------------------------|---------|----------------------------------------------------------------|
-| Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      |         |                                                                |
-| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       |         | Tydzień zaczyna się w poniedziałek i kończy w niedzielę        |
-| Nowe horyzonty         | Poprowadź sesję 0 przygody i doprowadź do jej wpisania do Content Catalogu |         |                                                                |
-| Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            |         |                                                                |
-| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         |                                                                |
-| Tryptyk                | Poprowadź serię 3 przygód CCC połączonych fabularnie                       |         |                                                                |
-| Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurer's League               |         |                                                                |
-| Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | Na drugiej sesji może powtarzać się maksymalnie 1 os.          |
-| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    |         |                                                                |
-| Kontrola jakości       | Weź udział w sesji 0 jako gracz                                            |         |                                                                |
-| Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         |         | Misję tę można wypełnić tylko raz w roku                       |
-|                        |                                                                            |         |                                                                |
-|                        |                                                                            |         |                                                                |
+| Nazwa                  | Misja                                                                      | Nagroda | Komentarz                                                           |
+|------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
+| Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      |         |                                                                     |
+| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       |         | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
+| Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   |         |                                                                     |
+| Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (np. DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu|         |                                                                     |
+| Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            |         |                                                                     |
+| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         |                                                                     |
+| Tryptyk                | Poprowadź serię 3 przygód CCC połączonych fabularnie                       |         |                                                                     |
+| Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurer's League               |         |                                                                     |
+| Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | Na drugiej sesji może powtarzać się maksymalnie 1 os.               |
+| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    |         |                                                                     |
+| Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         |         | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
+|                        |                                                                            |         |                                                                     |
+|                        |                                                                            |         |                                                                     |
 
 
-Poza nagrodą "Szeroki asortyment", ta sama przygoda nie może być wykorzystana do zdobycia tej samej nagrody częściej niż raz na 2 lata.
+Ta sama przygoda nie może być wykorzystana do zdobycia tej samej nagrody częściej niż raz na 2 lata (wyjątek: Przygody do nagrody Szeroki Asortyment nie mogą się w ogóle powtarzać)
 
      
 ### Zasady przejściowe
