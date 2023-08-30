@@ -61,19 +61,17 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 
 | Nazwa                  | Misja                                                                      | Nagroda | Komentarz                                                           |
 |------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
-| Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      |  240     |                                                                     |
-| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200        | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
-| Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   | 10       |                                                                     |
-| Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu|         | 30                                                                    |
-| Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            |  40       |                                                                     |
-| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |  20      |                                                                     |
-| Tryptyk                | Poprowadź serię 3 przygód niesezonowych, połączonych fabularnie                       |  30      |                                                                     |
-| Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurers' League               |   50 | Odstęp pomiędzy kolejnymi przygodami serii nie może być większy niż 1                                  |
-| Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |  20       | W przygodach musi uczestniczyć minimum 7 różnych graczy             |
-| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    |  10       |                                                                     |
-| Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         |  10       | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
-|                        |                                                                            |         |                                                                     |
-|                        |                                                                            |         |                                                                     |
+| Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 240     |                                                                     |
+| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
+| Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   | 10      |                                                                     |
+| Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu | 40     |           |
+| Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            | 40      |                                                                     |
+| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    | 20      | Nowy gracz otrzymuje 1 Potion of Healing                            |
+| Tryptyk                | Poprowadź trylogię przygód niesezonowych, połączonych fabularnie           | 30      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące    |
+| Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurers' League               | 50      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 3 miesiące    |
+| Druga szansa           | Poprowadź tę samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  | 20      | W przygodach musi uczestniczyć minimum 7 różnych graczy             |
+| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    | 10      |                                                                     |
+| Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         | 20      | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
 
 
 Ta sama przygoda nie może być wykorzystana do zdobycia tej samej nagrody częściej niż raz na 2 lata (wyjątek: Przygody do nagrody Szeroki Asortyment nie mogą się w ogóle powtarzać)
