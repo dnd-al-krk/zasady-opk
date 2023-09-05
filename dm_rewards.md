@@ -66,7 +66,7 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 | Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   |         |                                                                     |
 | Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu|         |                                                                     |
 | Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            |         |                                                                     |
-| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         |                                                                     |
+| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    |         | Nowy gracz otrzymuje 1 standardowy Potion of Healing                |
 | Tryptyk                | Poprowadź serię 3 przygód CCC połączonych fabularnie                       |         |                                                                     |
 | Sezonowy DM            | Poprowadź serię 5 przygód jednego sezonu Adventurer's League               |         |                                                                     |
 | Druga szansa           | Poprowadź tą samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  |         | W przygodach musi uczestniczyć minimum 7 różnych graczy             |
