@@ -6639,39 +6639,7 @@ Magiczne przedmioty:
 
 ### Definicja
 
-Przez ilość złota i magicznych przedmiotów spełniających wymagania OPK należy rozumieć maksymalną ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry, określoną w tabeli znajdującej się w dokumencie „Zasady bazowe D&D Organized Play Kraków” w sekcji „Skarby” oraz ilość i rzadkość magicznych przedmiotów określoną dla przygód KCC w rozdziale „Zasady tworzenia własnych przygód i nadawania prefiksów przygodom spoza katalogu AL” tego dokumentu.
-
-### Przygoda CCC dopuszczona w rozgrywkach AL ale nie dodana do katalogu OPK
-
-Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć Koordynatorowi. W ramach tego zgłoszenia powinien zamieścić informację, czy dana przygoda wymaga dopasowania do rozgrywek OPK. Najczęściej taka zmiana może być związana z nieodpowiednią rzadkością przedmiotu w przygodzie lub jego brakiem (w nowszych przygodach). W ramach zgłoszenia Mistrz Gry może zaproponować alternatywny przedmiot. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. 
-
-Zgłoszenie następnie podlega zatwierdzeniu przez Koordynatora i jest dodawane do katalogu OPK.
-
-### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
-
-Mistrz Gry chcący dodać przygodę typu HC (w całości lub jej fragment) musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci w taki sposób, aby spełniały one wymagania OPK oraz aby postaci, które ukończyły daną przygodę HC nie odbiegały znacząco pod względem ilości posiadanego złota oraz magicznych przedmiotów od postaci grających pozostałe przygody. Mile widziane są również zalecenia dotyczące prowadzenia poszczególnych rozdziałów. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi o sprawdzenie i zatwierdzenie przygotowanych informacji dwóch innych Mistrzów Gry. Po uzyskaniu tego zatwierdzenia zgłasza chęć dodania przygody HC Koordynatorowi, który po weryfikacji zgłoszenia poddaje je głosowaniu. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK.
-
-### Własne przygody i przygody spoza katalogu AL
-
-Mistrz Gry chcący dodać przygodę musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci (ilość ACP za ukończenie przygody jeśli nie jest określona) w taki sposób, aby spełniały one wymagania OPK. Mile widziane są również zalecenia dotyczące prowadzenia. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi o akceptację Koordynatora a następnie przygotowuje „Sesję 0”, w której powinno uczestniczyć przynajmniej 3 innych, aktywnych MG. Po rozegraniu przygody, Mistrzowie uczestniczący w rozgrywce opiniują jej dodanie pozytywnie lub negatywnie. Mistrz Gry inicjujący dodanie przedstawia informację zwrotną z przeprowadzonej „Sesji 0” Koordynatorowi, który na jej podstawie może poddać dodanie przygody pod głosowanie. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK.
-
-## Zasady tworzenia własnych przygód i nadawania prefiksów przygodom spoza katalogu AL
-
-Przygody tworzone przez członków społeczności OPK powinny spełniać wymagania dotyczące nagród, które zostały określone poniżej jak również zostać dopuszczone do rozgrywego zgodnie z procesem opisanym w rozdziale „Proces dodawania nowych przygód do katalogu OPK”.
-
-Prefiksy przygód spoza katalogu Adventurers League, które przeszły pomyślnie Sesję 0 oraz uzyskały akceptację Koordynatorów:
-GCC – Guild Created Content – rzeczy z DMs Guild
-KCC – Kraków Created Content – rzeczy tworzone przez społeczność Kraków Organized Play
-OCC – Other Created Content – rzeczy z innych źródeł
-DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
-
-Typowy format kodów i oznaczeń:
-\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer Przygody\> \<Nazwa Przygody\>
-Przykładowo:
-KCC-WAWEL-01 Zemsta Złotówy
-GCC-JOYCE-01 Weekend at Strahd’s
-
-### Ilość i rzadkość magicznych przedmiotów w KCC, zależnie od Szczebla i długości:
+Przez ilość złota i magicznych przedmiotów spełniających wymagania OPK należy ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry, określoną w tabeli znajdującej znajdującej się w sekcji 3.1 Zasad Zaawansowanych OPK. Ilość i rzadkość permanentnych magicznych przedmiotów przypadających na przygodę, spełniających wymagania OPK określa poniższa tabela.
 
 | Szczebel (Tier) | 2h          | 4h                          |
 |-----------------|-------------|-----------------------------|
@@ -6682,11 +6650,36 @@ GCC-JOYCE-01 Weekend at Strahd’s
 
 W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za każde pełne 4h przewidzianego czasu gry.
 
-## Zasady podmian magicznych przedmiotów
+## Zasady wprowadzania zmian w Katalogu Przygód
 
-Jeżeli nagrodą w przygodzie CCC lub DC jest przedmiot o rzadkości niżej niż zakładana przez Tier, w gestii DMa jest możliwość zmiany nagrody na inną, pochodzącą z dozwolonego u nas podręcznika nie-Hardcover, zgodną z Tierem i tematycznie spójną. Przedmiot nie może znajdować się na liście przedmiotów zbanowanych (poniżej). Na przykład w przygodzie T2 zamiast Uncommon Longsword można dać Rare Longsword, zgodnie z naszymi wytycznymi co do przygód pisanych dla OPK. Nie jest możliwa wymiana nagród w ramach tego samego rarity (Rare -> inny Rare), czy wymiana na całkowiecie inny item (przygoda T3, Rare Longsword -> Tome/Manual).
+Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale #cc-zmiany. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
 
-Nie ma możliwości dodania przedmiotów ponad ilość opisaną w przygodzie, ani dodawania żadnych cech jak Minor Properties, jeśli przedmiot oryginalnie ich nie posiadał.
+### Przygoda CCC dopuszczona w rozgrywkach AL ale nie dodana do katalogu OPK
+
+Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. Zgłoszenie następnie podlega zatwierdzeniu przez Koordynatora i jest dodawane do katalogu OPK.
+
+### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
+
+Mistrz Gry chcący dodać przygodę typu HC (w całości lub jej fragment) musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci w taki sposób, aby spełniały one wymagania OPK oraz aby postaci, które ukończyły daną przygodę HC nie odbiegały znacząco pod względem ilości posiadanego złota oraz magicznych przedmiotów od postaci grających pozostałe przygody. Mile widziane są również zalecenia dotyczące prowadzenia poszczególnych rozdziałów.
+
+### Własne przygody i przygody spoza katalogu AL
+
+Mistrz Gry chcący dodać przygodę musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci (ilość ACP za ukończenie przygody jeśli nie jest określona) w taki sposób, aby spełniały one wymagania OPK. Mile widziane są również zalecenia dotyczące prowadzenia. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi przygotowuje „Sesję 0”, w której powinno uczestniczyć przynajmniej 3 innych, aktywnych MG. Po rozegraniu przygody, Mistrzowie uczestniczący w rozgrywce opiniują jej dodanie pozytywnie lub negatywnie. Na tej podstawie można przeprowadzić procedurę opisaną w dziale Zasady Wprowadzania Zmian w Katalogu Przygód.
+
+## Zasady nadawania prefiksów przygodom spoza katalogu AL
+
+Prefiksy przygód spoza katalogu Adventurers' League, które przeszły pomyślnie Sesję 0 oraz uzyskały akceptację Mistrzów Gry:
+ - GCC – Guild Created Content – rzeczy z DMs Guild
+ - KCC – Kraków Created Content – rzeczy tworzone przez społeczność Kraków Organized Play
+ - OCC – Other Created Content – rzeczy z innych źródeł
+ - DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
+
+Typowy format kodów i oznaczeń:
+\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer Przygody\> \<Nazwa Przygody\>
+Przykładowo:
+KCC-WAWEL-01 Zemsta Złotówy
+GCC-JOYCE-01 Weekend at Strahd’s
+
 
 ### Przedmioty, które nie zostały dopuszczone do rozgrywek (jeśli pojawią się w przygodzie należy je zastąpić)
 
