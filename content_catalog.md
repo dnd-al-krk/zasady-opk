@@ -22,6 +22,7 @@
 |DDIA-VOLO         |I             |4-8h          |In Volo’s Wake                                   |
 |DDIA-XGE          |I             |4h            |Underworld Speculation                           |
 |DDHC-MORD-01      |II            |8h            |Riddle of the Raven Queen                        |
+|DDHC-MORD-05      |I             |4h            |Escape from Wheloon                              |
 | Sezon 1 - Tyranny of Dragons |
 |DDEX1-1           |I             |5x1h          |Defiance in Phlan                                |
 |DDEX1-2           |I             |4h            |Secrets of Sokol Keep                            |
@@ -670,6 +671,19 @@ Embark on a rescue mission into the heart of the Shadowfell!
 Runtime - przygoda składa się z dwóch części po około 4h. Po pierwszej z nich można przydzielić graczom 4ACP oraz zebrane złoto. Magiczne przedmioty pochodzą w całości z części drugiej.
 Złoto - nie wymaga zmian.
 Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej integralne dla fabuły są uncommony (Pipes of Haunting i Mithral Plate) i to je należy usunąć aby sprowadzić magiczne przedmioty do standardowej ilości. Zarówno zmodyfikowany Cloak of the Bat jak i unikatowa broń nie zaburzają balansu i mogę być dane jak opisane w przygodzie.
+
+### [Escape from Wheloon](https://www.dmsguild.com/product/251922/Escape-from-Wheloon)
+
+**Informacje o przygodzie**
+
+The walled city of Wheloon holds the criminal population of Cormyr. The residents of that place are bound to it forever and cut off from the outside world. Inside, plans are made and malcontents pool their resources – and outside, forces influence the innocent to ensure that a dire plot can be realized without interference from the knights and mages that guard the realm. Now you’re here with no memory of what brought you to Wheloon, and all you can think of is finding out why!
+
+**Komentarz**
+Runtime - Przygoda jest na 4h dla postaci 1-2lvl, w razie konieczności należy dopełnić losowymi encounterami z opisanych w przygodzie.
+Złoto - Brak nagród w złocie, co jest celowe i uzasadnione. Nie należy dawać złota wg. tabelki, co wynagradza nadmiarowa liczba magicznych przedmiotów.
+Magiczne przedmioty - Przygoda zawiera 2 przedmioty common (jest też 3, mystery key który powinien być zużyty w trakcie przygody i nie jest nagrodą) i jeden rare. Z racji na obecne zasady przekuwania rarity przedmiotu należy zmienić na uncommon, nie wymaga innych zmian mechanicznych.
+Scenariusz przygody częściowo opiera się na pregenach, na potrzeby naszych rozgrywek należy opracować w taki sposób aby uwzględnić dowolne postacie graczy. W szczególności za względu na założenie przez przygodę level upów w trakcie przygody (co u nas nie ma miejsca) początkowe encountery należy wyskalować w górę dla drużyn w większości drugopoziomowych, a końcowe osłabić dla drużyn pierwszopoziomowych.
+
 
 ### [Defiance in Phlan](https://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e&affiliate_id=925821)
 
