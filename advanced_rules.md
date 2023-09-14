@@ -190,7 +190,7 @@ Jeśli przygoda przewiduje czas wolny (np. trzydniową podróż statkiem) to mo�
 
 ## 3. Nagrody za przygody<a name="zaawansowane-nagrody"></a>
 
-### 3.1. Przydzielanie ACP, DT i złota<a name="zaawansowane-acp-dt-zloto"></a>
+### 3.1. Przydzielanie ACP, DT, złota i innych nagród<a name="zaawansowane-acp-dt-zloto"></a>
 
 DM przyznaje ACP i DT za przygodę w następujący sposób:
 
@@ -202,7 +202,9 @@ O ilości otrzymanych przez postaci ACP (i innych nagród) ostatecznie decyduje 
 
 Ponadto, jako dodatek do każdego zdobytego punktu ACP postać otrzymuje Czas Wolny w ilości 2,5 dnia (DT).
 
-Złoto zdobywane jest zgodnie z założeniami przygody i dzielone na ilość graczy pod koniec sesji lub przygody. Dotyczy to przygód napisanych zgodnie z zasadami Sezonów 1 – 7.
+Złoto zdobywane jest zgodnie z założeniami przygody i dzielone przez liczbę graczy pod koniec sesji lub przygody. Dotyczy to przygód napisanych zgodnie z zasadami Sezonów 1 – 7. 
+
+Dla przygód ze skarbami rozłożonymi przez twórców wykorzystujemy jako ostateczne źródło nagród listę na końcu przygody. W sytuacji, w której lista nie jest wyczerpująca (np. w przygodzie CCC-GLIP-02-01 Blue Scales lista na końcu nie zawiera wszystkich skarbów jakie są wymienione w samej przygodzie) dopuszczalne jest posiłkowanie się częściami przygody do uzupełnienia tej listy. Nagrodami mogą być również przedmioty niemagiczne. 
 
 W wypadku przygód, w których złoto i inne skarby o wartości w złocie nie występują (jak na przykład przygody pisane według zasad Sezonu 8), Mistrz Gry powinien umieścić skarby w fabularnie sensownych miejscach w oparciu o wartości podane w tabelce poniżej. Podana wartość oznacza przeciętną ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry. Innymi słowy, w standardowej przygodzie, której cele gracze wypełnili całkowicie, ale nie zrobili niczego ,,ponad wymagania zleceniodawcy'', powinni otrzymać tyle, ile wynika z tabeli, po uwzględnieniu Szczebla i liczby godzin gry. Na przykład, każda każda z postaci uczestniczących w 4-godzinnej przygodzie Szczebla powinna otrzymać domyślnie 160gp (40gp x 4 za 4h gry).
 
