@@ -439,6 +439,6 @@ Postacie od Tieru 2 wzwyż mają możliwość zakupu renesansowej broni palnej, 
 | Bullets (10) |  3 gp |  2 lb. |
 
 Amunicją do broni palnej są pociski, które niszczą się przy ataku. Biegłość w niej wymaga zdolności która nadają ją wprost, np. feat Gunner lub klasa Artificer. Na potrzeby innych zdolności są traktowane jako martial weapon.
-Jeśli jakaś nagroda lub zasada pozwala otrzymać broń np. magiczną, dopłacenie powyższego kosztu w złocie pozwala uzyskać daną wersję firearma, jeśli spełnia on wszystkie ograniczenia takiej zasady lub nagrody.
+Jeśli jakaś nagroda lub zasada pozwala otrzymać broń np. magiczną, dopłacenie powyższego kosztu w złocie pozwala uzyskać daną wersję firearma, jeśli spełnia on wszystkie ograniczenia takiej zasady lub nagrody. Taka magiczna broń nie może być wymieniana z postaciami Tieru 1.
 
 **Przykład:** Jeśli wymieniamy przedmiot na broń +1 wg. zasady opisanej w [Rozdziale 4.3 podstawowych zasad](#downtime), po dopłaceniu 500gp legalnym wyborem do tej broni jest muszkiet.
