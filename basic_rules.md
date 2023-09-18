@@ -256,7 +256,7 @@ Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pami�
 ### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
 Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu wolnego:
-- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i zwoje z tabel 3 i 4 w części II Zasad.](#tabela-mikstury)
+- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i zwoje i inne przedmioty z tabel 3, 4 i 7 w części II Zasad.](#tabela-mikstury)
 
 - korzystać z usługi pokrywania niemagicznej broni lub amunicji srebrem (100gp za broń albo 10 sztuk amunicji) lub adamantytem (500gp za broń albo 10 sztuk amunicji). Broń może być pokryta obydwoma materiałami.
 
@@ -325,7 +325,7 @@ Przekute, magiczne bronie, które można zniszczyć zadając im obrażenia (np. 
 
 ### 4.5. Przekuwanie magicznej amunicji<a name="przekuwanie-amunicji"></a>
 
-Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-broni) można przekuć magiczne strzały (arrows) na bełty (bolts) lub bełty (bolts) na strzały (arrows), zachowując te pozostałe magiczne własności tych pocisków (np. bolt +2 można zmienić na arrow +2, a Arrow of X Slaying na Bolt of X Slaying).
+Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-broni) można przekuć magiczne strzały (arrows), bełty (bolts) oraz pociski (bullets) w amunicję innego z wymienionych rodzaju zachowując magiczne własności tych pocisków (np. bolt +2 można zmienić na arrow +2, a Arrow of X Slaying na Bullet of X Slaying).
 
 Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych (plik z pełnymi zasadami), rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
 
@@ -421,3 +421,22 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 | Weapon of Warning | Brak uwag |
 
 [^1]: Po bardziej szczegółowe wyjaśnienia "savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
+
+# 7. Inne przedmioty dostępne do kupienia<a name="tabela-inne"></a>
+
+### Firearmy:
+|        | Price  | Damage        | Weight | Properties                                     |
+|--------|--------|---------------|--------|------------------------------------------------|
+| Pistol | 250 gp | 1d10 piercing |  3 lb. |        Ammunition (range 30/90), loading       |
+| Musket | 500 gp | 1d12 piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
+
+### Amunicja:
+
+|              | Price | Weight |
+|:------------:|:-----:|:------:|
+| Bullets (10) |  3 gp |  2 lb. |
+
+Amunicją do broni palnej są pociski, które niszczą się przy ataku. Biegłość w niej wymaga zdolności która nadają ją wprost, np. feat Gunner lub klasa Artificer. Na potrzeby innych zdolności są traktowane jako martial weapon.
+Jeśli jakaś nagroda lub zasada pozwala otrzymać broń np. magiczną, dopłacenie powyższego kosztu w złocie pozwala uzyskać daną wersję firearma, jeśli spełnia on wszystkie ograniczenia takiej zasady lub nagrody.
+
+**Przykład:** Jeśli wymieniamy przedmiot na broń +1 wg. zasady opisanej w [Rozdziale 4.3 podstawowych zasad](#downtime), po dopłaceniu 500gp legalnym wyborem do tej broni jest muszkiet.
