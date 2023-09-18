@@ -6739,3 +6739,11 @@ GCC-JOYCE-01 Weekend at Strahd’s
 - Tinderstrike
 - Waythe
 - Windvane
+- Adze of Annam
+- Bigby’s Beneficent Bracelet
+- Bloodshed Blade
+- Crown of the Wrath Bringer
+- Delver’s Claws
+- Ring of Amity
+- Harp of Gilded Plenty
+- Helm of Perfect Potential
