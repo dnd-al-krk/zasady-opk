@@ -425,6 +425,8 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 # 7. Inne przedmioty dostępne do kupienia<a name="tabela-inne"></a>
 
 ### Firearmy:
+
+Postacie od Tieru 2 wzwyż mają możliwość zakupu renesansowej broni palnej, jak opisana w rodziale 9 DMG:
 |        | Price  | Damage        | Weight | Properties                                     |
 |--------|--------|---------------|--------|------------------------------------------------|
 | Pistol | 250 gp | 1d10 piercing |  3 lb. |        Ammunition (range 30/90), loading       |
