@@ -66,6 +66,8 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [6. Lista możliwych do przekucia broni](#tabela-bronie)
 
+[7. Inne przedmioty dostępne do kupienia](#tabela-inne)
+
 ### I. Zasady podstawowe<a name="zasady-podstawowe"></a>
 
 Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
