@@ -4,7 +4,7 @@ English version 2.0 (July 2023)
 
 This file doesn't contain the Advanced Rules, which you can find in a separate file. The purpose of the Advanced Rules is to clarify edge cases in Basic Rules, explain where the rules come from and describe rules for the Dungeon Master. If you just want to play in a game, the first two chapters ('Character Generation' and "How the Game is Played') will suffice. If you have questions, the Dungeon Master and other more experienced players can help you. Chapters 3 and 4 describe how to develop your character and what they can do between games. At the end of this file are tables with useful information.
 
-If you have any questions or require any rules clarified, we invite you to our Discord Server (https://discord.com/invite/BWYKVxk) and point you towards the channel #rules-opk.
+If you have any questions or require any rules clarified, we invite you to our Discord Server (https://discord.com/invite/BWYKVxk) and point you towards the channel #rules-opk).
 
 # Table of contents
 
