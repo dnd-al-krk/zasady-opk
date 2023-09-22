@@ -267,7 +267,7 @@ Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pami�
 ### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
 Pomiędzy przygodami gracze mogą:
-- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i inne przedmioty z tabel 3 i 4 w części II Zasad.](#tabela-mikstury)
+- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i inne przedmioty z tabel 3 i 7 w części II Zasad.](#tabela-mikstury)
 
 - korzystać z usługi pokrywania niemagicznej broni lub amunicji srebrem (100 gp za broń albo 10 sztuk amunicji) lub adamantytem (500 gp za broń albo 10 sztuk amunicji). Broń może być pokryta obydwoma materiałami.
 

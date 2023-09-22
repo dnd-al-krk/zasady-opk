@@ -265,7 +265,7 @@ The character logsheet is primarily a helpful tool for the player. However, the 
 ### 4.2. Buying and selling items, paid services<a name="uslugi"></a>
 
 Between adventures, the characters may:
-- purchase items from the Equipment chapter of Player's Handbook (at listed prices), spell components (at listed prices) and [potions and scrolls from tables 3 and 4 in part II of the rules.](#tabela-mikstury)
+- purchase items from the Equipment chapter of Player's Handbook (at listed prices), spell components (at listed prices) and [potions and scrolls from tables 3 and 7 in part II of the rules.](#tabela-mikstury)
 
 - coat non-magic weapons and ammunition with silver (100 gp per weapon or 10 pieces of ammunition) or adamantium (500 gp per weapon or 10 pieces of ammunition). A weapon can be coated by both materials.
 
