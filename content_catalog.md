@@ -6615,6 +6615,15 @@ Something evil is devouring the souls of the living in Chult, but before the cha
 **Komentarz**
 Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
 Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
+
+
+## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
+
+Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwe tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, serie należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
+
+[Coming Soon]
+
+
 ## Proces dodawania nowych przygód do katalogu OPK
 
 ### Definicja
