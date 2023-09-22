@@ -91,13 +91,21 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Wild Beyond the Witchlight (WBtW)
 - Fizban's Treasury of Dragons (FToD)
 - Mordenkainen Presents: Monsters of the Multiverse (MP:MotM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
-- Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
+- Locathah Rising
+- Tortle Package
+- One Grung Above
 - podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
 - podklasa Path of the Giant i featy z Bigby Presents: Glory of the Giants (BP:GotG) (backgroundy nie są dozwolone)
 
+Następujące opcje postaci **NIE** są dozwolone:
+- Custom Lineage (TCoE)
+- rasa Changeling (MP:MotM)
+- rasa Shifter (MP:MotM)
+- backgroundy z BP:GotG
+
 Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MotM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
-Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
+Rasy posiadające stałą umiejętność latania (np. Aarakocra, Fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
 

@@ -76,7 +76,7 @@ OPK season 2 began on the 1st of August 2022. Whatever happened before is not re
 
 You need to create at least one character to play in OPK. You may have as many as you'd like, but you may only sign up with one to any particular game. If any part of the character creation process is unclear, we point you to the channel #tworzenie-postaci on the Discord.
 
-Each new character for OPK starts at 1st Level. If this is your first character for DnD 5th edition, we'd recommend using only races, classes, spells and feats in the Player's Handbook, as all of them are permitted to play. In addition to the Player's Handbook, for character creation and development we permit races, classes, subclasses, spells and feats from the following sources:
+Each new character for OPK starts at 1st Level. If this is your first character for DnD 5th edition, we'd recommend using only races, classes, spells and feats in the Player's Handbook, as all of them are permitted to play. The races, classes, subclasses, spells and feats from the following sources can be used for character creation and development:
 
 - Player's Handbook (PHB)
 - Elemental Evil Player's Companion (EEPC)
@@ -84,17 +84,27 @@ Each new character for OPK starts at 1st Level. If this is your first character 
 - Volo's Guide to Monsters (VGtM)
 - Xanathar's Guide to Everything (XGtE)
 - Mordenkainen's Tome of Foes (MToF)
-- Tasha's Cauldron of Everything (TCoE) (no Custom Lineage)
+- Tasha's Cauldron of Everything (TCoE)
 - Van Richten's Guide to Ravenloft (VRGtR) (lineages: Dhampir, Hexblood i Reborn are available only as standalone races, not templates to add to a different race)
 - Wild Beyond the Witchlight (WBtW)
 - Fizban's Treasury of Dragons (FToD)
-- Mordenkainen Presents: Monsters of the Multiverse (MP:MotM) (Changeling i Shifter are not allowed)
-- Additionally: Locathah Rising, Tortle Package, One Grung Above
-- The subclass Lunar Sorcerer from Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
+- Mordenkainen Presents: Monsters of the Multiverse (MP:MotM)
+- Locathah Rising
+- Tortle Package
+- One Grung Above
+- The Lunar Sorcerer subclass from Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
+- The Path of the Giant subclass and feats from Bigby Presents: Glory of the Giants (BP:GotG)
+
+The following character options are **NOT** allowed:
+
+- Custom Lineage (TCoE)
+- Changeling race (MP:MotM)
+- Shifter race (MP:MotM)
+- backgrounds from BP:GotG
 
 Some races appear in more than one version in the sources above (e.g. simultaneously in VGtM/MToF and MP:MotM). In such cases, the player may choose which version to use.
 
-Races with permanent flight speed (e.g. aarakocra, fairy) may only start using it after hitting 5th Level. Until then, they are treated as not possessing a flight speed.
+Races with permanent flight speed (e.g. Aarakocra, Fairy) may only start using it after hitting 5th Level. Until then, they are treated as not possessing a flight speed.
 
 Optional rules and rules variants are usually not permitted in OPK games unless explicitly stated in our rules. We allow the following optional rules for Character Creation:
 
