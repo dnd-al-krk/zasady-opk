@@ -210,7 +210,7 @@ Unless specified otherwise by the DM, all of the rewards from an adventure do no
 
 ### 3.1. ACP, Downtime (DT) and Money<a name="acp-dt-pieniadze"></a>
 
-After each game, the player character receives ACP as determined by the DM, depending on how successful the party was in fulfilling the adventure's goals. Usually the whole party receives the same amount of ACP, but the DM can decide differently, especially if one character did not participate in parts of the adventure important for its success (they wandered off, were unconscious, etc.). The criteria for DMs to award ACP can be found in Advanced Rules. 
+After each game, the player character receives ACP as determined by the DM, depending on how successful the party was in fulfilling the adventure's goals. Usually the whole party receives the same amount of ACP, but the DM can decide differently, especially if one character did not participate in parts of the adventure important for its success (they wandered off, were unconscious, etc.). The criteria for DMs to award ACP can be found in Advanced Rules.
 
 A character advances to the next level if, after the DM awards them ACP for an adventure, the sum of their lifetime ACP awards is equal or greater than an appropriate threshold from Table 1 (part II of the rules). In short, Tier 1 characters reach the next level after gaining 4 ACP above the previous one. Characters in other Tiers require 8 ACP to reach the next level.
 
@@ -254,12 +254,12 @@ The character logsheet is primarily a helpful tool for the player. However, the 
 
 ### 4.2. Buying and selling items, paid services<a name="uslugi"></a>
 
-Between adventures, the characters may spend their gold in the following ways without downtime expenditure:
-- Purchase items from the Equipment chapter of Player's Handbook (at listed prices), spell components (at listed prices) and [potions and scrolls from tables 3 and 4 in part II of the rules.](#tabela-mikstury)
+Between adventures, the characters may:
+- purchase items from the Equipment chapter of Player's Handbook (at listed prices), spell components (at listed prices) and [potions and scrolls from tables 3 and 4 in part II of the rules.](#tabela-mikstury)
 
-- Coat non-magic weapons and ammunition with silver (100gp per weapon or 10 pieces of ammunition) or adamantium (500gp per weapon or 10 pieces of ammunition). A weapon can be coated by both materials.
+- coat non-magic weapons and ammunition with silver (100 gp per weapon or 10 pieces of ammunition) or adamantium (500 gp per weapon or 10 pieces of ammunition). A weapon can be coated by both materials.
 
-- Use spellcasting services ([according to Table 2 in part II of the rules](#tabela-spellcasting)). Attention! Casting spells between adventures on your own is prohibited. DM can allow for casting spells before an adventure, including cost in DT and other resources.
+- use spellcasting services ([according to Table 2 in part II of the rules](#tabela-spellcasting)). Attention! Casting spells between adventures on your own is prohibited. DM can allow for casting spells before an adventure, including cost in DT and other resources.
 
 Additionally, the character may sell their items from the Equipment chapter of Player's Handbook at half the normal price. Magic items (including consumables) cannot be sold.
 
@@ -275,7 +275,7 @@ The characters can only exchange items of the same rarity (e.g. an uncommon item
 
 All trades should be recorded on the Discord channel #bazar.
 
-**2. Exchange permanent magic items with magic items for trade:** 
+**2. Exchange permanent magic items with magic items for trade:**
 
 Magic items can be exchanged with the infamous fence S. Wawelski from the "Dragon's Cave" pawn shop. Such exchange does not require permission from other players and it allows for exchanging higher-rarity items with lower-rarity ones (e.g. rare to uncommon), but the list of available items is shorter, and the prices may be higher. The prices, list of items and limitations of exchange can be found in Table 5, part II of these rules. Magic items exchanged in the pawn shop disappear into the dragon's treasure hoard and cannot be retrieved.
 
@@ -352,14 +352,14 @@ During games the availability of spellcasting services occur **only** with the D
 
 | **Spell** | **Gold cost** |
 | --- | --- |
-| Lesser Restoration | 40 GP |
-| Dispel Magic | 90 GP |
-| Remove Curse | 90 GP |
-| Greater Restoration | 450 GP |
-| Revivify | 390 GP |
-| Raise Dead | 1000 GP |
-| Resurrection | 3000 GP |
-| True Resurrection | 30000 GP |
+| Lesser Restoration | 40 gp |
+| Dispel Magic | 90 gp |
+| Remove Curse | 90 gp |
+| Greater Restoration | 450 gp |
+| Revivify | 390 gp |
+| Raise Dead | 1 000 gp |
+| Resurrection | 3 000 gp |
+| True Resurrection | 30 000 gp |
 
 ## 3. Potions<a name="tabela-mikstury"></a>
 
@@ -381,18 +381,18 @@ The buying price between adventures or (with DM permission) during adventures.
 
 Price to buy/create between or (with DM permission) during adventures.
 
-| **Spell level**|**Buying**(Not including the consumable material component, if it has a listed price - its cost must be added to the scroll's) |**Crafting**(Not including the consumable material component, if it has a listed price - its cost must be added to the scroll's) |**Minimum character level to acquire** |
+| **Spell level** | **Buying** (Not including the consumable material component, if it has a listed price - its cost must be added to the scroll's) | **Crafting** (Not including the consumable material component, if it has a listed price - its cost must be added to the scroll's) | **Minimum character level to acquire** |
 | --- | --- | --- | --- |
-| Cantrip | 25 gp | 12 gp + 1DT | 1 |
-| 1 | 50gp + 1DT | 25 gp + 1DT | 1 |
-| 2 | 150 gp + 2DT | 75 gp + 4DT | 3 |
-| 3 | 500gp + 3DT | 250 gp + 9DT | 5 |
-| 4 | 1 500 gp + 4DT | 750 gp + 16DT | 7 |
-| 5 | 3 000gp + 5DT | 1 500 gp + 25DT | 9 |
-| 6 | 6 000 gp + 6DT | 3 000 gp + 36DT | 11 |
-| 7 | 10 000 gp + 7DT | 5 000 gp + 49DT | 13 |
-| 8 | 20 000 gp + 8DT | 10 000 gp + 64DT | 15 |
-| 9 | 50 000 gp + 9DT | 25 000 gp + 81DT | 17 |
+| Cantrip | 25 gp | 12 gp + 1 DT | 1 |
+| 1 | 50 gp + 1 DT | 25 gp + 1 DT | 1 |
+| 2 | 150 gp + 2 DT | 75 gp + 4 DT | 3 |
+| 3 | 500 gp + 3 DT | 250 gp + 9 DT | 5 |
+| 4 | 1 500 gp + 4 DT | 750 gp + 16 DT | 7 |
+| 5 | 3 000 gp + 5 DT | 1 500 gp + 25 DT | 9 |
+| 6 | 6 000 gp + 6 DT | 3 000 gp + 36 DT | 11 |
+| 7 | 10 000 gp + 7 DT | 5 000 gp + 49 DT | 13 |
+| 8 | 20 000 gp + 8 DT | 10 000 gp + 64 DT | 15 |
+| 9 | 50 000 gp + 9 DT | 25 000 gp + 81 DT | 17 |
 
 ## 5. Magic items for trade<a name="tabela-lombard"></a>
 
@@ -402,9 +402,9 @@ Magic items that are exchanged during that trade must be permanent and 'fully ch
 
 |                                                                                                                               | Price                                                                                            | Additional restrictions                |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
-| Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanent, fully charged magic item of uncommon or higher rarity +15 DT          |                                           |
-|     Weapon +2 (any)                                                                                                       | Permanent, fully charged magic item of rare or higher rarity + 30 DT + 2000 gp     |     Character level - at least 5th        |
-|     Weapon +3 (any)                                                                                                       | Permanent, fully charged magic item of very rare or higher rarity + 45 DT + 5000gp |     Character level - at least 11th       |
+| Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanent, fully charged magic item of uncommon or higher rarity + 15 DT          |                                           |
+|     Weapon +2 (any)                                                                                                       | Permanent, fully charged magic item of rare or higher rarity + 2 000 gp + 30 DT      |     Character level - at least 5th        |
+|     Weapon +3 (any)                                                                                                       | Permanent, fully charged magic item of very rare or higher rarity + 5 000 gp + 45 DT |     Character level - at least 11th       |
 
 ## 6. Weapon reforging list<a name="tabela-bronie"></a>
 
