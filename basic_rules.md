@@ -98,6 +98,7 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - podklasa Path of the Giant i featy z Bigby Presents: Glory of the Giants (BP:GotG)
 
 Następujące opcje postaci **NIE** są dozwolone:
+
 - Custom Lineage (TCoE)
 - rasa Changeling (MP:MotM)
 - rasa Shifter (MP:MotM)
