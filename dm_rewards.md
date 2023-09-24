@@ -65,22 +65,16 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 |------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
 | Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 200     |                                                                     |
 | Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
-| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                          | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-)  |
+| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                          | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
 | Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu | 40     |           |
 | Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            | 40      |                                                                     |
 | Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    | 20      | Nowy gracz otrzymuje 1 Potion of Healing                            |
-| Druga szansa           | Poprowadź tę samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  | 20      | W przygodach musi uczestniczyć minimum 7 różnych graczy             |
+| Druga szansa           | Poprowadź tę samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  | 20      | W przygodach musi uczestniczyć minimum 7 różnych graczy. Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.             |
 | Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         | 20      | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
 | Wybawiciel             | Poprowadź sesję za DMa który musiał ją odwołać                             | 20      | Sesja musi być odwołana przez oryginalnego DMa nie dłużej niż na 48h przed planowanym rozpoczęciem    |
-| Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   | 20      |                                                                     |
+| Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   | 20      |                                                                     
 | Poliglota     | Poprowadź sesję w obcym języku dla co najmniej jednego gracza niepolskojęzycznego   | 20      |                 
-
-| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    | 10      |                                                                     |
-
-Misje podlegają poniższym ogólnym ograniczeniom:
-
-Jeśli jakaś przygoda została wykorzystana do zdobycia nagrody: Tryptyk, Seznonowy DM lub Druga Szansa, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.
-Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie może zostać ponownie do zdobycia tej samej nagrody.
+| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    | 10      |                                                                     
 
 ### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
 Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
