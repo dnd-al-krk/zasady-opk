@@ -76,6 +76,9 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 | Poliglota     | Poprowadź sesję w obcym języku dla co najmniej jednego gracza niepolskojęzycznego   | 20      |                 
 | Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    | 10      |                                                                     
 
+Misje podlegają poniższym ogólnym ograniczeniom:
+Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie może zostać ponownie do zdobycia tej samej nagrody.
+
 ### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
 Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
      
