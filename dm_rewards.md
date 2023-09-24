@@ -34,9 +34,9 @@ Mistrz Gry może przydzielać zgromadzone ACP swoim postaciom w porcjach o dowol
 
 ACP można przyznać tylko postaciom żywym.
 
-### Punkty Magicznych Przedmiotów
+### Punkty Magicznych Przedmiotów oraz Punkty Questów
 
-Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
+Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP) i Punkty Questów (PQ). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
 
 | Tier przygody | PMP za 1 ACP |
 |---------------|--------------|
@@ -45,9 +45,11 @@ Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP). 
 | III           | 1,5          |
 | IV            | 1            |
 
-Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP.
+Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP i 5 PQ, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP i 6 PQ.
 
 PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot lub spellbook, przestrzegając zastrzeżeń podrozdziału 1.5. Nagród Mistrzów Gry. Przydzielić można tylko przedmiot magiczny lub spellbook, który był przewidziany w nagrodach dla graczy w jednej z przygód, którą dany Mistrz Gry poprowadził. Takie przydzielenie kosztuje za każdym razem 50 PMP.
+
+PQ można wydać wydać wg tabelki znajdującej się w sekcji [nagrody dodatkowe](#nagrody-dodatkowe).
 
 Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleniu liczba posiadanych przez postać magicznych przedmiotów przekroczyłaby następujące limity:
 -  Postać T1 - 1 przedmiot uncommon, 0 rare i wyżej
@@ -71,13 +73,17 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 | Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         | 20      | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
 | Wybawiciel             | Poprowadź sesję za DMa który musiał ją odwołać                             | 20      | Sesja musi być odwołana przez oryginalnego DMa nie dłużej niż na 48h przed planowanym rozpoczęciem    |
 | Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   | 20      |                                                                     |
+| Poliglota     | Poprowadź sesję w obcym języku dla co najmniej jednego gracza niepolskojęzycznego   | 20      |                 
+
 | Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    | 10      |                                                                     |
 
-Nagrody podlegają poniższym ogólnym ograniczeniom:
+Misje podlegają poniższym ogólnym ograniczeniom:
 
 Jeśli jakaś przygoda została wykorzystana do zdobycia nagrody: Tryptyk, Seznonowy DM lub Druga Szansa, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.
 Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie może zostać ponownie do zdobycia tej samej nagrody.
 
+### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
+Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
      
 ### Zasady przejściowe
 
