@@ -38,7 +38,7 @@ ACP można przyznać tylko postaciom żywym.
 
 Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP) i Punkty Questów (PQ). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
 
-| Tier przygody | PMP za 1 ACP |
+| Tier przygody | PMP/PQ za 1 ACP |
 |---------------|--------------|
 | I             | 2,5          |
 | II            | 2            |
@@ -61,7 +61,7 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 
 ## Misje i nagrody dodatkowe
 
-| Nazwa                  | Misja                                                                      | Nagroda | Komentarz                                                           |
+| Nazwa                  | Misja                                                                      | Nagroda (PQ) | Komentarz                                                           |
 |------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
 | Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 200     |                                                                     |
 | Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
