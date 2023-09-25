@@ -84,14 +84,15 @@ Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. P
 
 | Nagroda | Cena (PQ)| Uwagi |
 | --- | --- | --- |
-| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 30 || Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia Find Familiar może sprawić, by familiarprzyjął jedną z form: Gazer, Crawling Claw, Almiraj, Tressym, Flying Monkey, Cranium Rat, Monodrone, Flying Snake, Blink Dog, Abyssal Chicken ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 80 | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma. |
-| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 |
-| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common. |50 | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
-| Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG:<br /> - Death Domain Cleric <br />- Oathbreaker | 100 |
 | Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <ul><li>Changeling (MoM)</li><li>Shifter (MoM)</li><li>Leonin (Theros)</li><li>Owlin (Strixhaven)</li><li>Loxodon (Ravnica)</li><li>Vedalken (Ravnica)</li><li>Simic Hybrid (Ravnica)</li><li>Warforged (Eberron)</li><li>Astral Elf (Spelljammer)</li><li>Giff (Spelljammer)</li><li>Plasmoid (Spelljammer)</li><li>Autognome (Spelljammer)</li><li>Hadozee (Spelljammer)</li><li>Thri-kreen (Spelljammer)</li></ul> | 500 | 
-Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 20 | | 
+| Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG:<br /> - Death Domain Cleric <br />- Oathbreaker | 100 |
+| Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia Find Familiar może sprawić, by familiarprzyjął jedną z form: Gazer, Crawling Claw, Almiraj, Tressym, Flying Monkey, Cranium Rat, Monodrone, Flying Snake, Blink Dog, Abyssal Chicken ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 80 | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma. |
 Rebuild postaci | 50PQ/poziom | Postać musi być rebuildowana od zera |
 Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygodami podzielonej przez 10 (zaokrąglane w górę)  | Możesz zmniejszyć koszt zaklęcia wskrzeszającego o 10gp za każdy wydany 1PQ. |
+| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common. |50 | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
+| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 30 |
+| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 |
+Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 20 | | 
 1 ACP | 25 | Z analogiczną ilością dt i gp względem tabelki |
 
 
