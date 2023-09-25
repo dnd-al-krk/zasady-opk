@@ -81,6 +81,40 @@ Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie m
 
 ### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
 Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
+
+| Nagroda                                                                      | Koszt (PQ) | Uwagi                                                           |
+|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
+| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, zograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.    | 20     |                                                                     |
+| Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia Find Familiar może sprawić, by familiar przyjął jedną z form: Almiraj, Tressym, Flying Monkey, Cranium Rat, Monodrone, Flying Snake, Blink Dog, Abyssal Chicken ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban’s Treasury of Dragons) | 200     | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma.              |
+| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego.   | 40     |              |
+| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny o rzadkości common wg cennika. | Xanathar’s Guide to Everything:  10 PN Strixhaven 15PN     |              |
+| Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG: Death Domain Cleric Oathbreaker | 100     |             |
+| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: | Mordenkainen Presents: Monsters of the Multiverse:
+Changeling (380PN)
+Shifter (380PN)
+Dragonlance  (190PN):
+Kender
+Theros  (190PN):
+ Satyr
+ Leonin
+Strixhaven (190PN):
+ Owlin
+Ravnica: (190PN)
+Loxodon
+Vedalken 
+Simic Hybrid
+Eberron:
+Warforged (380PN)
+Acquisitions Incorporated:
+Verdan (380PN)
+Spelljammer Dowolna rasa (380PN)     |     Wraz z rasami odblokowane są równie rasowe feature’y, ale żadne inne rzeczy (np. zaklęcia).        |
+| Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 100     |             |
+| Rebuild postaci   | 50PQ/poziom postaci     |    Postać rebuilduje się od zera          |
+| Wskrzeszenie postaci    | Revivify 50 PQ Raise Dead 150 PQ Resurrection 300 PQ True Resurrection 1000 PQ     |   Koszt można pomniejszyć o złoto posiadane przez postać w przeliczniku 10gp= 1PQ           |
+| 1 ACP    | 25     |    Z analogiczną ilością dt i gp względem tabelki          |
+
+
+
      
 ### Zasady przejściowe
 
