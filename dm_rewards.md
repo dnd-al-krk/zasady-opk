@@ -91,7 +91,7 @@ Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. P
 | Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <ul><li>Changeling (MoM)</li><li>Shifter (MoM)</li><li>Kender (Dragonlance)</li><li>Leonin (Theros)</li><li>Owlin (Strixhaven)</li><li>Loxodon (Ravnica)</li><li>Vedalken (Ravnica)</li><li>Simic Hybrid (Ravnica)</li><li>Warforged (Eberron)</li><li>Verdan (Acquisitions Incorporated)</li><li>Astral Elf (Spelljammer)</li><li>Giff (Spelljammer)</li><li>Plasmoid (Spelljammer)</li><li>Autognome (Spelljammer)</li><li>Hadozee (Spelljammer)</li><li>Thri-kreen (Spelljammer)</li></ul> | 500 | 
 Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 20 | | 
 Rebuild postaci | 50PQ/poziom | Postać musi być rebuildowana od zera |
-Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygodami podzielonej przez 10 (zaokrąglane w górę)  | Koszt można zmniejszyć o złoto posiadane przez postać w przeliczniku 10gp=1PQ |
+Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygodami podzielonej przez 10 (zaokrąglane w górę)  | Koszt można zmniejszyć o złoto posiadane przez postać w przeliczniku 10gp=1PQ i zostaje ono zużyte jak przy normalnym wskrzeszeniu między przygodami. |
 1 ACP | 25 | Z analogiczną ilością dt i gp względem tabelki |
 
 
