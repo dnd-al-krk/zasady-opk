@@ -83,7 +83,7 @@ Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie m
 Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
 
 | Nagroda | Cena (PQ)| Uwagi |
-| --- | --- | --- |
+|------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
 | Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <ul><li>Changeling (MoM)</li><li>Shifter (MoM)</li><li>Leonin (Theros)</li><li>Owlin (Strixhaven)</li><li>Loxodon (Ravnica)</li><li>Vedalken (Ravnica)</li><li>Simic Hybrid (Ravnica)</li><li>Warforged (Eberron)</li><li>Astral Elf (Spelljammer)</li><li>Giff (Spelljammer)</li><li>Plasmoid (Spelljammer)</li><li>Autognome (Spelljammer)</li><li>Hadozee (Spelljammer)</li><li>Thri-kreen (Spelljammer)</li></ul> | 600 | 
 | Odblokowanie tworzenia przez MG jednej z następujących podklas:<br /> - Death Domain Cleric (DMG) | 300 |
 | Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia Find Familiar może sprawić, by familiar przyjął jedną z form: Gazer, Crawling Claw, Almiraj, Tressym, Flying Monkey, Cranium Rat, Monodrone, Flying Snake, Blink Dog, Abyssal Chicken ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 150 | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma. |
