@@ -89,11 +89,10 @@ Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. P
 | Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia Find Familiar może sprawić, by familiar przyjął jedną z form: <br />  Gazer (bez możliwości używania rayów), Crawling Claw, Almiraj, Tressym, Flying Monkey, Cranium Rat, Monodrone, Flying Snake, Blink Dog, Abyssal Chicken <br /> ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 150 | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma. |
 Rebuild postaci | 100 PQ za każdy poziom powyżej 5-go | Postać musi być rebuildowana od zera |
 Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygodami podzielonej przez 10 (zaokrąglane w górę)  | Możesz zmniejszyć koszt zaklęcia wskrzeszającego o 10gp za każdy wydany 1PQ. |
+| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 75 |
 | Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common lub jeden z poniższych przedmiotów z PHB: <br /> Cleansing Stone <br /> Pipe of Remembrance <br /> Prosthetic Limb <br /> Shiftweave <br /> Spellshard| 50 | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. Nie można w ramach tej nagrody otrzymać Moon-Touched Sword. |
-| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 30 |
-| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 |
-Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 20 | | 
-1 ACP | 25 | Z analogiczną ilością dt i gp względem tabelki |
+| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 50 |
+|1 ACP | 25 | Z analogiczną ilością dt i gp względem tabelki |
 
 
 
