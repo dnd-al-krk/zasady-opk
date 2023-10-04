@@ -275,7 +275,7 @@ Space reserved for complimentary rules, although it doesn't seem like they'll be
 
 An OPK Dungeon Master (DM) is a person who has ran at least one OPK game in the past half year. In other words, one becomes a DM by running an OPK game, and ceases to be a DM after half a year of not running. Of course, a DM can be reinstated by running an OPK game.
 
-To become a Dungeon Master, you should announce that intention to other Dungeon Masters if you are prepared to run a game in the nearest future. If required, the DM can assist the candidate in choosing the adventure to run. A new DM can ask other DMs to consult and help running an adventure - we rarely refuse.
+To become a Dungeon Master, you should announce that intention to other Dungeon Masters if you are prepared to run a game in the nearest future. If required, the DM can assist the candidate in choosing the adventure to run. One seat at the table should be reserved for an experienced OPK DM who can assist the new Dungeon Master with running the game and advise on the rules of DnD and OPK (this requirement can be waived, if the Dungeon Master returns to OPK after a period of inactivity).
 
 If the game is announced, a new DM should reach out to the coordinators and moderators of our Discord Server to access our full DM resources.
 

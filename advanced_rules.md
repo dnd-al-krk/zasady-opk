@@ -279,7 +279,7 @@ Zostawiamy miejsce na zasady uzupełniające, jakkolwiek na razie wydaje się, �
 
 Mistrzem Gry (DMem) OPK jest osoba, która poprowadziła co najmniej jedną sesję w OPK w ciągu ostatniego pół roku. Innymi słowy, można nim zostać, prowadząc sesję w OPK, a przestaje się nim być w wyniku półrocznego braku prowadzenia. Oczywiście, status Mistrza Gry można odzyskać ponownie prowadząc jakąkolwiek sesję OPK.
 
-By zostać Mistrzem Gry, należy zgłosić taką chęć do innych Mistrzów Gry na Discordzie w momencie, gdy jest się gotowym do prowadzenia w najbliższym czasie. W razie potrzeby DMowie pomogą kandydatowi znaleźć jakąś przygodę do prowadzenia. Nowy DM może poprosić innych Dmów o konsultacje i asystę w prowadzeniu – praktycznie nigdy nie odmawiamy.
+By zostać Mistrzem Gry, należy zgłosić taką chęć do innych Mistrzów Gry na Discordzie w momencie, gdy jest się gotowym do prowadzenia w najbliższym czasie. W razie potrzeby DMowie pomogą kandydatowi znaleźć jakąś przygodę do prowadzenia. Jedno miejsce przy stoliku powinno być zarezerwowane dla doświadczonego DMa OPK, który będzie asystował nowemu Mistrzowi Gry w prowadzeniu sesji oraz podpowiadał co do zasad DnD i OPK (wymaganie to można zignorować, jeśli Mistrz Gry powraca do OPK po przerwie w prowadzeniu).
 
 Gdy przygoda będzie już ogłoszona, nowy DM powienien się zgłosić do koordynatora i modów naszej grupy discordowej, by uzyskać pełny dostęp do zasobów DMów.
 
