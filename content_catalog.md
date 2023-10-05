@@ -214,6 +214,7 @@
 |CCC-ANIME1-1      |I             |2h            |Legend of the Sword Bandit Surprise              |
 |CCC-ANIME1-2      |II            |2h            |Let’s Find the Sword, GO!                        |
 |CCC-ANIME1-3      |II            |2h            |Star Sword Return                                |
+|CCC-ARCANA-0      |I             |2h            |The Phantom Pursuit                              |
 |CCC-BLD-11        |I             |2h            |Bleeding Gate: Pandemonium                       |
 |CCC-BLD-12        |I             |2h            |Bleeding Gate: Amalgamation                      |
 |CCC-BLD-0103      |II            |4h            |Bleeding Gate: Lineage                           |
@@ -3042,6 +3043,17 @@ A Two-Hour Adventure for 5th-10th Level Characters
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
+
+
+
+### [The Phantom Pursuit](https://www.dmsguild.com/m/product/334713)
+
+**Informacje o przygodzie**
+Caravan duty in the Cormanthor forest can be dangerous, but normally you only have to deal with bandits and the odd goblin. No-one said anything about the undead, but now you're being chased by a malevolent spirit!
+
+**Komentarz**
+Brak uwag.
+
 
 ### [Bleeding Gate: Pandemonium](https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium&affiliate_id=925821)
 
