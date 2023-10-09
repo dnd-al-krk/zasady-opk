@@ -80,7 +80,7 @@ Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK nale�
 |------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
 | Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 200     |                                                                     |
 | Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
-| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                          | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
+| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                           | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
 | Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu | 40     |           |
 | Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            | 40      |                                                                     |
 | Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    | 20      | Nowy gracz otrzymuje 1 Potion of Healing                            |
@@ -107,7 +107,7 @@ Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygo
 | Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 75 PQ |
 | Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common lub jeden z poniższych przedmiotów z PHB: <br /> Cleansing Stone <br /> Pipe of Remembrance <br /> Prosthetic Limb <br /> Shiftweave <br /> Spellshard| 50 PQ | W przypadku wybrania zbroi należy również zapłacić bądź posiadać niemagiczną wersję przedmiotu (posiadany przedmiot staje się wówczas docelowym common magic itemem). W ramach nagrody nie można wybrać broni (sword, staff)|
 | Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 50 |
-|1 ACP | 25 | Z analogiczną ilością dt i gp względem tabelki |
+|1 ACP | 25 | Z analogiczną ilością DT i gp względem tabelki |
 
    
 ### Zasady przejściowe
