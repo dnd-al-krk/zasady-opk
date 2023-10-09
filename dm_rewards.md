@@ -112,7 +112,7 @@ Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygo
    
 ### Zasady przejściowe
 
-Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [11,10,2023]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem. Należy wówczas przeliczyć nagrody dla całego sezonu oraz nagrody już odebrane wg obecnego formatu i odjąć punkty (zarówno PQ jak i PMP) odebranych nagród od całości punktów dotychczas zdobytych.
+Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [11.10.2023]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem. Należy wówczas przeliczyć nagrody dla całego sezonu oraz nagrody już odebrane wg obecnego formatu i odjąć punkty (zarówno PQ jak i PMP) odebranych nagród od całości punktów dotychczas zdobytych.
 Zasady przydzielania ACP/DT/złota w wersji 1.0 i 2.0 się nie zmieniły (zmieniły się jedynie ich sformułowania), więc na ich wykorzystanie aktualizacja zasad do wersji 2.0 nie ma wpływu
 
 ## Idee projektowania powyższych zasad
