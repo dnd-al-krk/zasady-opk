@@ -71,7 +71,7 @@ Z uwagi na trud związany z organizacją takiego przedsięwzięcia, każdy DM (p
 Ponadto, w ramach przygotowania do epika należy poprowadzić sesję 0 dla każdego z torów przygody (chyba że dany epik był już prowadzony w OPK). Sesja 0 jest nagradzana na normalnych zasadach. 
 
 ### Sesje zero
-Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)). Za tak poprowadzoną sesję DM otrzymuje PMP w ilości równej cenie jednego magicznego przedmiotu, ale żadnych innych nagród. Oprócz tego przygoda liczy się do nagrody "Kwarta za kwartał", ale nie do żadnych innych nagród. 
+Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)). Za tak poprowadzoną sesję DM otrzymuje wyłącznie PQ z poniższej tabelki. Oprócz tego przygoda liczy się do nagrody "Kwarta za kwartał", ale nie do żadnych innych nagród. 
 
 
 ## Misje i nagrody dodatkowe
