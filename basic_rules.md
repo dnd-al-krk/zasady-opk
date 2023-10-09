@@ -66,6 +66,8 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [6. Lista możliwych do przekucia broni](#tabela-bronie)
 
+[7. Inne przedmioty dostępne do kupienia](#tabela-inne)
+
 ### I. Zasady podstawowe<a name="zasady-podstawowe"></a>
 
 Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
@@ -89,12 +91,22 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Wild Beyond the Witchlight (WBtW)
 - Fizban's Treasury of Dragons (FToD)
 - Mordenkainen Presents: Monsters of the Multiverse (MP:MotM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
-- Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
+- Locathah Rising
+- Tortle Package
+- One Grung Above
 - podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
+- podklasa Path of the Giant i featy z Bigby Presents: Glory of the Giants (BP:GotG)
+
+Następujące opcje postaci **NIE** są dozwolone:
+
+- Custom Lineage (TCoE)
+- rasa Changeling (MP:MotM)
+- rasa Shifter (MP:MotM)
+- backgroundy z BP:GotG
 
 Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MotM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
-Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
+Rasy posiadające stałą umiejętność latania (np. Aarakocra, Fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
 
@@ -254,10 +266,10 @@ Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pami�
 
 ### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
-Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu wolnego:
-- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i zwoje z tabel 3 i 4 w części II Zasad.](#tabela-mikstury)
+Pomiędzy przygodami gracze mogą:
+- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i inne przedmioty z tabel 3 i 7 w części II Zasad.](#tabela-mikstury)
 
-- korzystać z usługi pokrywania niemagicznej broni lub amunicji srebrem (100gp za broń albo 10 sztuk amunicji) lub adamantytem (500gp za broń albo 10 sztuk amunicji). Broń może być pokryta obydwoma materiałami.
+- korzystać z usługi pokrywania niemagicznej broni lub amunicji srebrem (100 gp za broń albo 10 sztuk amunicji) lub adamantytem (500 gp za broń albo 10 sztuk amunicji). Broń może być pokryta obydwoma materiałami.
 
 - korzystać z usług rzucania zaklęć ([zgodnie z tabelą 2 w części II Zasad](#tabela-spellcasting)). Uwaga! Pomiędzy przygodami nie można rzucać zaklęć samodzielnie. DM może zezwolić na rzucenie zaklęć przed przygodą po uwzględnieniu kosztu w DT i innych zasobach.
 
@@ -279,6 +291,8 @@ Wymiany powinny być rejestrowane na discordowym kanale #bazar.
 
 **3. Nadganiania poziomu:** Na poziomie 4, 10 oraz 16 można poświęcić Czas Wolny, by przejść o jeden poziom wyżej, a więc na wyższy Szczebel (Tier) gry. Koszt to odpowiednio 25, 75 i 150 DT.
 
+Postać dostaje tyle ACP, ile brakuje jej do następnego poziomu według Tabeli 1. Za uzyskane w ten sposób ACP postać nie otrzymuje DT oraz innych korzyści niż podniesienie poziomu.
+
 **4. Powrotu z innego planu:** Jeśli z jakiegoś powodu postać pozostała na innym planie niż powinna się znaleźć na zakończenie przygody może poświęcić 50 DT by powrócić z niego (chyba, że przygoda wskazuje inny koszt). Jeśli przygoda przewiduje, że postać znajdzie się na jej końcu na innym planie niż Materialny, to powrót postaci na plan Materialny na kolejną przygodę jest darmowy (nawet jeśli przygoda przewiduje inne rozwiązanie, jak przygody sezonu 4).
 
 **5.Przepisywania zaklęć:** (tylko Wizard, Warlock z Pact of the Tome, Postać z Ritual Caster feat). Podlega to normalnym zasadom wpisywania zaklęć do księgi. Koszt każdych rozpoczętych 8 godzin przepisywania to 1 DT.
@@ -289,9 +303,9 @@ Wymiany powinny być rejestrowane na discordowym kanale #bazar.
 
 **8. Zakupu lub stworzenia zwoju:** Postać biegła w Arcana, posiadająca spell sloty lub pact sloty i znająca zaklęcie może wytworzyć zwój magiczny z tym zaklęciem. Dowolna postać może zakupić zwój z zaklęciem. Koszty i ograniczenia dotyczące stworzenia lub zakupu zwoju znaleźć można w Tabeli 4 części II tych zasad.
 
-**9. Uprawiania rzemiosła/craftingu:** Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 3 DT i 50gp, Potion of Superior Healing kosztem 10 DT i 250 gp lub Potion of Supreme Healing kosztem 15 DT i 500 gp. Postacie biegłe w narzędziach rzemieślniczych są w stanie tworzyć przedmioty niemagiczne (Weapons, Armor, Adventuring Gear, Vehicles) na zasadach opisanych w PHB lub XGE. Postać gracza wybiera które zasady są dla niej korzystniejsze. Ponadto, postacie biegłe w narzędziach mogą się nimi posługiwać zgodnie z dodatkowymi zasadami z podręcznika XGE, podrozdział Tool Proficiencies. Jeśli czas wykonywanego za pomocą narzędzi zadania to minimum jedna godzina, można takie zadanie wykonać w czasie między przygodami. Koszt to 1DT za każde rozpoczęte 8 godzin aktywności (jeśli opis wykorzystania narzędzi mówi, że jakąś aktywność można wykonać w ramach odpoczynku (krótkiego lub długiego), to traktowana jest jak zajmująca 1 godzinę).
+**9. Uprawiania rzemiosła/craftingu:** Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 3 DT i 50 gp, Potion of Superior Healing kosztem 10 DT i 250 gp lub Potion of Supreme Healing kosztem 15 DT i 500 gp. Postacie biegłe w narzędziach rzemieślniczych są w stanie tworzyć przedmioty niemagiczne (Weapons, Armor, Adventuring Gear, Vehicles) na zasadach opisanych w PHB lub XGE. Postać gracza wybiera które zasady są dla niej korzystniejsze. Ponadto, postacie biegłe w narzędziach mogą się nimi posługiwać zgodnie z dodatkowymi zasadami z podręcznika XGE, podrozdział Tool Proficiencies. Jeśli czas wykonywanego za pomocą narzędzi zadania to minimum jedna godzina, można takie zadanie wykonać w czasie między przygodami. Koszt to 1 DT za każde rozpoczęte 8 godzin aktywności (jeśli opis wykorzystania narzędzi mówi, że jakąś aktywność można wykonać w ramach odpoczynku (krótkiego lub długiego), to traktowana jest jak zajmująca 1 godzinę).
 
-**10. Relaksu:** Postać wydaje 5 DT i utrzymuje podczas tych dni co najmniej wygodny tryb życia (czyli wydaje co najmniej 10gp). Postać zyskuje inspirację do wykorzystania. Postać gracza może przechowywać maksymalnie jedną inspirację z tego przestoju.
+**10. Relaksu:** Postać wydaje 5 DT i utrzymuje podczas tych dni co najmniej wygodny tryb życia (czyli wydaje co najmniej 10 gp). Postać zyskuje inspirację do wykorzystania. Postać gracza może przechowywać maksymalnie jedną inspirację z tego przestoju.
 
 Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby obliczania kosztu. Na przykład, wizard może przez 6 godzin przepisywać zaklęcia do księgi i przez 2 godziny używać jakiegoś narzędzia rzemieślniczego w którym jest biegły i wydać za to 1 DT.
 
@@ -322,7 +336,7 @@ Przekute, magiczne bronie, które można zniszczyć zadając im obrażenia (np. 
 
 ### 4.5. Przekuwanie magicznej amunicji<a name="przekuwanie-amunicji"></a>
 
-Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-broni) można przekuć magiczne strzały (arrows) na bełty (bolts) lub bełty (bolts) na strzały (arrows), zachowując te pozostałe magiczne własności tych pocisków (np. bolt +2 można zmienić na arrow +2, a Arrow of X Slaying na Bolt of X Slaying).
+Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-broni) można przekuć magiczne strzały (arrows), bełty (bolts) oraz pociski (bullets) w amunicję innego z wymienionych rodzaju zachowując magiczne własności tych pocisków (np. bolt +2 można zmienić na arrow +2, a Arrow of X Slaying na Bullet of X Slaying).
 
 Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych (plik z pełnymi zasadami), rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
 
@@ -349,14 +363,14 @@ Podczas sesji dostępność usług rzucania zaklęć leży **wyłącznie** w ges
 
 | **Zaklęcie** | **Koszt w złocie** |
 | --- | --- |
-| Lesser Restoration | 40 GP |
-| Dispel Magic | 90 GP |
-| Remove Curse | 90 GP |
-| Greater Restoration | 450 GP |
-| Revivify | 390 GP |
-| Raise Dead | 1000 GP |
-| Resurrection | 3000 GP |
-| True Resurrection | 30000 GP |
+| Lesser Restoration | 40 gp |
+| Dispel Magic | 90 gp |
+| Remove Curse | 90 gp |
+| Greater Restoration | 450 gp |
+| Revivify | 390 gp |
+| Raise Dead | 1 000 gp |
+| Resurrection | 3 000 gp |
+| True Resurrection | 30 000 gp |
 
 ## 3. Mikstury<a name="tabela-mikstury"></a>
 
@@ -378,18 +392,18 @@ Ceny zakupu pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygo
 
 Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygody
 
-| **Poziom zaklęcia**|**Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Minimalny poziom pozyskującej zwój postaci** |
+| **Poziom zaklęcia** | **Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) | **Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) | **Minimalny poziom pozyskującej zwój postaci** |
 | --- | --- | --- | --- |
-| Cantrip | 25 gp | 12 gp + 1DT | 1 |
-| 1 | 50gp + 1DT | 25 gp + 1DT | 1 |
-| 2 | 150 gp + 2DT | 75 gp + 4DT | 3 |
-| 3 | 500gp + 3DT | 250 gp + 9DT | 5 |
-| 4 | 1 500 gp + 4DT | 750 gp + 16DT | 7 |
-| 5 | 3 000gp + 5DT | 1 500 gp + 25DT | 9 |
-| 6 | 6 000 gp + 6DT | 3 000 gp + 36DT | 11 |
-| 7 | 10 000 gp + 7DT | 5 000 gp + 49DT | 13 |
-| 8 | 20 000 gp + 8DT | 10 000 gp + 64DT | 15 |
-| 9 | 50 000 gp + 9DT | 25 000 gp + 81DT | 17 |
+| Cantrip | 25 gp | 12 gp + 1 DT | 1 |
+| 1 | 50 gp + 1 DT | 25 gp + 1 DT | 1 |
+| 2 | 150 gp + 2 DT | 75 gp + 4 DT | 3 |
+| 3 | 500 gp + 3 DT| 250 gp + 9 DT | 5 |
+| 4 | 1 500 gp + 4 DT | 750 gp + 16 DT | 7 |
+| 5 | 3 000 gp + 5 DT | 1 500 gp + 25 DT | 9 |
+| 6 | 6 000 gp + 6 DT | 3 000 gp + 36 DT | 11 |
+| 7 | 10 000 gp + 7 DT | 5 000 gp + 49 DT | 13 |
+| 8 | 20 000 gp + 8 DT | 10 000 gp + 64 DT | 15 |
+| 9 | 50 000 gp + 9 DT | 25 000 gp + 81 DT | 17 |
 
 ## 5. Lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
 
@@ -399,9 +413,9 @@ Przedmiot magiczny, który postać oddaje w wyniku tej wymiany musi być przedmi
 
 |                                                                                                                               | Koszt                                                                                            | Dodatkowe ograniczenia                |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
-| Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej uncommon +15 DT          |                                       |
-|     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare + 30 DT + 2000 gp     |     Poziom postaci – co najmniej 5    |
-|     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare + 45 DT + 5000gp |     Poziom postaci – co najmniej 11   |
+| Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanentny, pełnowartościowy magiczny przedmiot rzadkości co najmniej uncommon +15 DT          |                                       |
+|     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare + 2 000 gp  + 30 DT |     Poziom postaci – co najmniej 5    |
+|     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare  + 5 000 gp + 45 DT |     Poziom postaci – co najmniej 11   |
 
 ## 6. Lista możliwych do przekucia broni<a name="tabela-bronie"></a>
 
@@ -418,3 +432,25 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 | Weapon of Warning | Brak uwag |
 
 [^1]: Po bardziej szczegółowe wyjaśnienia "savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
+
+# 7. Inne przedmioty dostępne do kupienia<a name="tabela-inne"></a>
+
+### Firearmy:
+
+Postacie od Tieru 2 wzwyż mają możliwość zakupu renesansowej broni palnej, jak opisana w rodziale 9 DMG:
+
+|        | Price  | Damage        | Weight | Properties                                     |
+|--------|--------|---------------|--------|------------------------------------------------|
+| Pistol | 250 gp | 1d10 piercing |  3 lb. |        Ammunition (range 30/90), loading       |
+| Musket | 500 gp | 1d12 piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
+
+### Amunicja:
+
+|              | Price | Weight |
+|:------------:|:-----:|:------:|
+| Bullets (10) |  3 gp |  2 lb. |
+
+Amunicją do broni palnej są pociski, które niszczą się przy ataku. Biegłość w niej wymaga zdolności, która wskazuje ten typ broni z nazwy w swojej treści, np. feat Gunner lub klasa Artificer. Na potrzeby inne niż rozstrzyganie biegłości bronie takie są traktowane jako martial weapon.
+Jeśli jakaś nagroda lub zasada pozwala otrzymać broń np. magiczną, dopłacenie powyższego kosztu w złocie pozwala uzyskać daną wersję firearma, jeśli spełnia on wszystkie ograniczenia takiej zasady lub nagrody. Taka magiczna broń nie może być wymieniana z postaciami Tieru 1.
+
+**Przykład:** Jeśli wymieniamy przedmiot na broń +1 wg. zasady opisanej w [Rozdziale 4.3 podstawowych zasad](#downtime), po dopłaceniu 500 gp legalnym wyborem do tej broni jest muszkiet.

@@ -22,6 +22,7 @@
 |DDIA-VOLO         |I             |4-8h          |In Volo’s Wake                                   |
 |DDIA-XGE          |I             |4h            |Underworld Speculation                           |
 |DDHC-MORD-01      |II            |8h            |Riddle of the Raven Queen                        |
+|DDHC-MORD-05      |I             |4h            |Escape from Wheloon                              |
 | Sezon 1 - Tyranny of Dragons |
 |DDEX1-1           |I             |5x1h          |Defiance in Phlan                                |
 |DDEX1-2           |I             |4h            |Secrets of Sokol Keep                            |
@@ -202,6 +203,7 @@
 |CCC-3MAGS-01      |I             |7 h           |Vormestrand’s Scroll                             |
 |CCC-AETHER01-01   |I             |2-4h          |The Heir of Orcus: Verse I                       |
 |CCC-AETHER01-02   |I             |4h            |The Heir of Orcus: Verse II                      |
+|CCC-AETHER02-01   |II            |2-4h          |The Heir of Orcus: Verse IV                      |
 |CCC-ALMOG-01      |I             |4h            |TALES01-01 What Lies Beneath                     |
 |CCC-ALMOG-03      |III           |4h            |TALES03-01 Claws of Fury                         |
 |CCC-AMER-01       |I             |4h            |Asleep and Awake                                 |
@@ -212,6 +214,7 @@
 |CCC-ANIME1-1      |I             |2h            |Legend of the Sword Bandit Surprise              |
 |CCC-ANIME1-2      |II            |2h            |Let’s Find the Sword, GO!                        |
 |CCC-ANIME1-3      |II            |2h            |Star Sword Return                                |
+|CCC-ARCANA-0      |I             |2h            |The Phantom Pursuit                              |
 |CCC-BLD-11        |I             |2h            |Bleeding Gate: Pandemonium                       |
 |CCC-BLD-12        |I             |2h            |Bleeding Gate: Amalgamation                      |
 |CCC-BLD-0103      |II            |4h            |Bleeding Gate: Lineage                           |
@@ -395,6 +398,7 @@
 |CCC-QCC2018-01    |III           |2h            |Of Gods and Monsters                             |
 |CCC-QCC2018-02    |II            |2h            |Heart and Soul                                   |
 |CCC-REAP-01       |II            |4h            |Red War: Lost Ashes of a Wayward Gnome           |
+|CCC-ROLL20-02     |II            |2-4h          |The Heir of Orcus: Verse III                     |
 |CCC-ROZK-0101     |III           |4h            |Binder’s Torment                                 |
 |CCC-ROZK-0102     |III           |4h            |Zhentarim’s Lament                               |
 |CCC-ROZK-0103     |III           |4h            |Necromancer’s Ascent                             |
@@ -497,6 +501,7 @@
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
 |DDIA-VRGTR        |I             |8h            |House of Lament                                  |
+|GCC-BAX-01        |I/II          |2-5h          |War Tortle Brewery                               |
 
 
 
@@ -670,6 +675,19 @@ Runtime - przygoda składa się z dwóch części po około 4h. Po pierwszej z n
 Złoto - nie wymaga zmian.
 Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej integralne dla fabuły są uncommony (Pipes of Haunting i Mithral Plate) i to je należy usunąć aby sprowadzić magiczne przedmioty do standardowej ilości. Zarówno zmodyfikowany Cloak of the Bat jak i unikatowa broń nie zaburzają balansu i mogę być dane jak opisane w przygodzie.
 
+### [Escape from Wheloon](https://www.dmsguild.com/product/251922/Escape-from-Wheloon)
+
+**Informacje o przygodzie**
+
+The walled city of Wheloon holds the criminal population of Cormyr. The residents of that place are bound to it forever and cut off from the outside world. Inside, plans are made and malcontents pool their resources – and outside, forces influence the innocent to ensure that a dire plot can be realized without interference from the knights and mages that guard the realm. Now you’re here with no memory of what brought you to Wheloon, and all you can think of is finding out why!
+
+**Komentarz**
+Runtime - Przygoda jest na 4h dla postaci 1-2lvl, w razie konieczności należy dopełnić losowymi encounterami z opisanych w przygodzie.
+Złoto - Brak nagród w złocie, co jest celowe i uzasadnione. Nie należy dawać złota wg. tabelki, co wynagradza nadmiarowa liczba magicznych przedmiotów.
+Magiczne przedmioty - Przygoda zawiera 2 przedmioty common (jest też 3, mystery key który powinien być zużyty w trakcie przygody i nie jest nagrodą) i jeden rare. Z racji na obecne zasady przekuwania rarity przedmiotu należy zmienić na uncommon, nie wymaga innych zmian mechanicznych.
+Scenariusz przygody częściowo opiera się na pregenach, na potrzeby naszych rozgrywek należy opracować w taki sposób aby uwzględnić dowolne postacie graczy. W szczególności za względu na założenie przez przygodę level upów w trakcie przygody (co u nas nie ma miejsca) początkowe encountery należy wyskalować w górę dla drużyn w większości drugopoziomowych, a końcowe osłabić dla drużyn pierwszopoziomowych.
+
+
 ### [Defiance in Phlan](https://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e&affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -679,6 +697,7 @@ Gauntlet, Emerald Enclave, Lords' Alliance , and even the Zhentarim--must untite
 from fulfilling its dark purpose in the city. Join the fight by participating in any one of five different
 missions aimed at stopping the cult.
 An introductory adventure for 1st-level characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -692,6 +711,7 @@ a beacon to help guide ships. Now, that beacon has gone dark, and the garrison h
 Phlan, rumors circulate that something ancient was discovered in the grounds beneath the keep,
 dating to before the clerics of Tyr built the small fortress. Uncover the secrets of Sokol Keep!
 An adventure for the 1st-4th level characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2743,6 +2763,7 @@ Queen Serissa wants to know why.
 Part One of the Shadow Games series of adventures.
 A Four-Hour Adventure for 5th through 10th-Level Characters.
 Optimized for: APL 8
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2794,6 +2815,7 @@ You have just two days to plan and execute a heist or lose your shot at the info
 Part Five of the Shadow Games series of adventures.
 A four hour adventure for 5th through 10th level characcters.
 Optomized for: APL 8
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2806,6 +2828,7 @@ the Harpers and their allies can spy on the Thayan operations.
 Part One of the The Cold Dark series of adventures.
 A four hour adventure for 11th through 16th level characcters.
 Optomized for: APL 13
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2819,6 +2842,7 @@ it, your mission will be over before you ever take the fight to the Red Wizards.
 Part Two of the The Cold Dark series of adventures.
 A four hour adventure for 11th through 16th level characcters.
 Optimized for: APL 13
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2830,6 +2854,7 @@ here.
 Part Three of the The Cold Dark series of adventures.
 A four hour adventure for 11th through 16th level characters.
 Optimized for: APL 13
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2845,6 +2870,7 @@ you to safehuard the recipe and finish the brewer’s work.
 Part 1 of the Cascadian Legacy series of adventures.
 A Seven-Hour collection of Mini-Adventures for 1st and 2nd Level Characters. Optimized for
 APL1.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2854,6 +2880,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 The Mafisto Twins are seeking brave adventurers to „rescue” a lost Angel of Tyr from the Temple of
 Orcus, are you brave enough to answer the call? Thin quick and act fast or you might just find
 yourself dead in a ditch down by the river as the rest of your party feast in Mafisto Manor.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2867,6 +2894,33 @@ legendary Angel of Tyr from the Temple of Orcus.
 Explore the depthhs of this wretched, vile place of undeath and loathing. Confront the demonic
 hordes that obliterated Tyr’s Knights of Holy Judgement over one century ago and prepare for high
 adrenaline combat as you uncover the secret mysteries locked away in this unholy temple.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Heir of Orcus: Verse III](https://www.dmsguild.com/product/287714/The-Heir-of-Orcus-Verse-III--CCCROLL2002)
+
+**Informacje o przygodzie**
+Ios, the Overseer of Duerradin, a highly advanced duergar psionic research outpost, invites you to discuss the recent activity
+of the Heir of Orcus and her worshipers, the Cult of the Heir. Explore Duerradin for clues leading to nefarious plots carried
+out by the Cult of the Heir, discover alien technologies found nowhere else in the Forgotten Realms, and learn the dark history
+surrounding the rise of Duerradin before the Heir of Orcus strikes!
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Heir of Orcus: Verse IV](https://www.dmsguild.com/product/301681/The-Heir-of-Orcus-Verse-IV-CCCAETHER0201)
+
+**Informacje o przygodzie**
+In this adventure, the characters hunt down Thelbunious, a powerful warlock of the Heir of Orcus. Once they track him down,
+they discover unspeakable horrors that drive them insane and twist their minds! Can the characters overcome the evil, vile,
+twisted Star Spawn creatures that lie deep within the Caves of Writhing Nightmare?
+
+The bonus objectives add-on two hours of play and allow the characters to seek out and destroy two secret cultists’ cells hidden
+within the Moonsea region. Visit Ylraphon and travel aboard the mysterious midnight carriage to prevent the cult from enlisting
+the aid of a dragon, or go deep within the Flooded Forest to uncover the Cult of the Heir’s activities in a notorious tavern.
+The choices are yours to make!
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2876,6 +2930,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 The SALT Consortium has been unable to protect Zor Celis Helrehd’s caravans traveling through
 Hawksroost as more of them go missing each day. Zor Celis Helrehd has had enough and has taken
 out a bounty for adventurers to find out What Lies Beneath.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2888,6 +2943,7 @@ The frontier city of Hawksroost has seen a lot in the past few weeks, but the cl
 have seen a skeleton dragon flying overhead at dusk are unsubstantiated. The hunt for the rumored
 creature is on, but is the creature what the people claim it is? Or is something else getting the people
 of Hawksroost all worked up?
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2898,6 +2954,7 @@ Refugees in Mulmaster have had a fairly tough time, and that was before the disa
 few that return have been changed, refusing to believe that they were even missing. You have been
 asked by Mulmaster’s nobility to find the source of the disappearances and put an end to them.
 A Four-Hour Adventure for 1st-4th Level Characters, APL 4.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2920,6 +2977,7 @@ The goblins of Khurovogo are being destroyed in devastating bursts of flame.
 The bravest of the surviving goblins seek out heroes willing to confront their angered deity and
 negotiate for the survival of the village... or kill the god.
 This is a Tier 1 2 hour adventure.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2932,6 +2990,7 @@ Someone’s stolen the gifts from Santa’s workshop on the eve of the winter so
 recovered before nightfall, the winter solstice celebration will be ruined and children across the
 realms won’t get any presents.
 A 4-Hour Adventure for five 5th-10th Level Characters. Optimized for APL 6.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2943,6 +3002,7 @@ rumor, lighting imaginations with whispers of miraculous creations in developmen
 open invitation to capable adventurers willing to assist them in securing information, rare
 components, and political favors—before rivals can snatch them up.
 A light-hearted 4-Hour Adventure for 1st-4th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2955,6 +3015,7 @@ A priest of Ilmater seeks to right an old wrong to please his god. Will you trus
 and journey through time to find out what when wrong during the Festival of Stars?
 Experience events that contributed to the fall of Hawksroost.
 A Two-Hour Adventure for 1st-4th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2967,6 +3028,7 @@ rumors of the blade hidden within the Vanishing Hills. These same rumors also sa
 guarded by something ancient. With the Festival of the Stars only a few days out, can the blade be
 found and returned in time?
 A Two-Hour Adventure for 5th-10th level characters Optimized for five 7th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -2978,8 +3040,20 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 With less than two days until the Festival of Stars in Hawksroost, Daern's Blade is still missing, but
 the adventurers are en route to its resting place. Are they truly prepared for what they find?
 A Two-Hour Adventure for 5th-10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
+
+
+
+### [The Phantom Pursuit](https://www.dmsguild.com/m/product/334713)
+
+**Informacje o przygodzie**
+Caravan duty in the Cormanthor forest can be dangerous, but normally you only have to deal with bandits and the odd goblin. No-one said anything about the undead, but now you're being chased by a malevolent spirit!
+
+**Komentarz**
+Brak uwag.
+
 
 ### [Bleeding Gate: Pandemonium](https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium&affiliate_id=925821)
 
@@ -2989,6 +3063,7 @@ Emudomier, the party meet a strange tiefling being hunted by the father of her u
 Peacesmith master negotiators who's vows of peace do not prevent them from experiencing tragedy.
 Can adventurers discover the cause of Peacesmith and wildlife disappearances? Can they put a stop
 to the chaos that plagues Emmudomier and threatens all of Toril?
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3002,6 +3077,7 @@ Peacesmith, they are sent deep into the bowels of the town. It’s dirty work an
 smells the stench of conspiracy (among other things). But after charging into a colossal mess in the
 Border Forest, they come face-to-face with the culprit.
 A 2-hour adventure for 1st-4th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3012,6 +3088,7 @@ A towering aberration threatens Emudomier. The mastermind behind its creation an
 Peacesmith killings remain unknown. Can the adventurers end the chaos or will Emudomier, the
 Moonsea, and all of Toril be overwhelmed?
 A 4-hour adventure for 5th-10th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3324,6 +3401,7 @@ Dragonspine Mountains, and only the Heroes of Phlan can find them. But will it b
 prevent catastrophe for the city?
 A D&D Adventurers League adventure set in and around Phlan.
 A four-hour adventure for 11th-16th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3334,6 +3412,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 Niedostępna na Dmsguild.
 **Informacje o przygodzie**
 Brak informacji.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3469,6 +3548,7 @@ examination of the portal is needed, and brave adventurers are asked to help be 
 reconnaissance team.
 A four-hour adventure Adventurers League legal CCC adventure from Baldman Games for 1st - 4th
 level characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3484,6 +3564,7 @@ Are all of these strange behaviors just paranoid imaginings, or is a more dire t
 hearts of Melvaunt’s citizen?
 A four-hour Adventurers League legal CCC adventure for 1st-4th level characters, brought to you
 by Baldman Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3495,6 +3576,7 @@ Adventurers must investigate the individual behind the foul play, determining th
 motive. But an odd party and some even odder guests threaten the investigation.
 A four-hour Adventurers League legal CCC adventure for 1st-4th level characters, brought to you
 by Baldman Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3508,6 +3590,7 @@ word that help may come from an unlikely source. With preparations in order, can
 the city needs, or will his red gathering all be for naught?
 A four-hour CCC Adventurers League adventure for 5th - 10th level characters, brought to you by
 Baldman Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3520,6 +3603,7 @@ cooperation in your investigation, but are they sincere? Try to find the answers
 questions and earn the respect of some powerful allies in the city of Hillsfar.
 A four-hour CCC Adventurers League adventure for 5th - 10th level characters, brought to you by
 Baldman Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3533,6 +3617,7 @@ attempt of the Zulkir. All that’s needed is a group of upstanding ne’re do w
 deal with the situation.
 A four-hour CCC Adventurers League adventure for 5th - 10th level characters, brought to you by
 Baldman Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3545,6 +3630,7 @@ strengthened, and the guilds are flourishing. But fresh threats have arisen with
 Strange beasts stalk the night, bringing swift death in their wake, whilst a new criminal gang is
 vying for control of the streets. Can our heroes uncover the truth before more lives are lost?
 A four-hour adventure for 1st - 4th level characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3557,6 +3643,7 @@ Deep inside the underbelly of Phlan something sinister is going on. A new group 
 looking to take over illegal operations in the city and have set themselves up in the sewers.
 Adventurers are needed to discover what secrets lie beneath Phlan. Do you heed the call?
 A four-hour adventure for 1st - 4th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3568,6 +3655,7 @@ new stream of thieves, the recently identified Coin Spinners, flood into the cit
 safe-house sting has secured “invitations” for a single group of adventurers into the organizations,
 and a path to where the supply lines end. Steel yourself, this invitation has your name all over it.
 A four-hour adventure for 1st-4th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3593,6 +3681,7 @@ The heroes of Elmwood find clues that lead them to follow the trail of their adv
 of the Deep, the sunken castle of Northkeep beneath the violet waves of the Moonsea. Can they
 make it safely there through the ancient terrors of the Moonsea as well as all the obstacles their
 adversaries can put in the way? A four-hour adventure for 5th - 10th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3605,6 +3694,7 @@ Legends say that the fall of Northkeep was orchestrated by one man, who sought u
 was cursed to remain forever within the sunken ruins of the Bell in the Deep as his only reward.
 Now the great betrayer might himself have been betrayed, with dire consequences for the entire
 Moonsea region. A four-hour adventure for 5th-10th level characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3615,6 +3705,7 @@ Something stirs in the Hulburg mines. It would be nice to know what, but it woul
 would stop collapsing parts of the mines and leaving catatonic miners. This could be the end of
 Hulburg’s windfall unless someone finds a way to stop it. Part 1 of the Obsidian Stone trilogy.
 A four-hour adventure for 11th - 16th level characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3626,6 +3717,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 Wait! Is that an upside-down staircase? Am I floating? Why are my hands triangles? Why do I have
 four of them? No, wait, those are not mine! Where am I? How did I get here?
 A four-hour adventure for 11th-16th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3636,6 +3728,7 @@ In the depths below Hulburg, the main user of a psychic drug made from condensed
 make its final stand. Those who dare descend must be mentally prepared for the onslaught that
 awaits, if they wish to survive.
 A four-hour adventure for 11th-16th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3649,6 +3742,7 @@ dreams and people disappear? What horrors did those things stir in the ruins bel
 sorry.
 Part 1 of the Terror from the Deep trilogy.
 A 4-Hour Adventure for 11th-16th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3659,6 +3753,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 The authorities might give in. Somebody needs to stop them.
 Part 2 of the Terror from the Deep trilogy.
 A 4-Hour Adventure for 11th-16th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3672,6 +3767,7 @@ lifting its destructive influence. The dangers that lurk in the unfathomable dep
 of your worries.
 Part 3 of the Terror from the Deep trilogy.
 A 4-Hour Adventure for 11th-16th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3684,6 +3780,7 @@ tempers run high and accusations are thrown carelessly. The Chancellor has offer
 reward to anyone that can not only get to the bottom of the mystery while keeping the citizens from
 turning on one another in the process. You’ll need a sharp sword, and an even sharper mind?
 A four-hour adventure for 5th-10th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3698,6 +3795,7 @@ tempers run high and accusations are thrown carelessly. The Chancellor has offer
 reward to anyone that can not only get to the bottom of the mystery while keeping the citizens from
 turning on one another in the process. You’ll need a sharp sword, and an even sharper mind?
 A four-hour adventure for 5th-10th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3709,6 +3807,7 @@ and the “monster” responsible is still on the loose. His whereabouts have be
 task is simple; bring him in, dead or alive. But how does one capture a living nightmare? Can you
 face your darkest fears? Do you have the courage? It will be more difficult than you think.
 A four-hour adventure for 5th-10th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3722,6 +3821,7 @@ the woods near Hillsfar. These creatures were born under Graz’zt’s influence
 “shepherd” has joined forces with the demon that now grows in power in the woods. The shepherd’s
 goal is to taint a local watering hole, giving the animals and creatures of the area demonic traits.
 A Four-Hour Adventure for 5th – 10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3732,6 +3832,7 @@ Children born with demonic traits have begun to appear in Hillsfar. No one is su
 paranoia and fear threaten to turn into a witch hunt. Every day, more of these children are born,
 while the true cause of the problem lays unresolved deep in the Cormanthor Forest.
 A Four-Hour Adventure for 5th-10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3745,6 +3846,7 @@ were woefully unprepared to raise a baby, let alone an infant demon. Two tenday 
 and has not returned. With the rumors of a fiendish influence spreading throughout the forest, the
 Zhentarim’s worst nightmare has come true.
 A Four-Hour Adventure for 5th – 10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3773,6 +3875,7 @@ An old man, a powerful artifact, and an entire ancient city wait for you in the 
 Moonsea. Nothing is certain about what lies ahead, except that someone will get wet. Bring your
 bathing suits, it is time to take a dip.
 A 4-Hour Adventure for 5-10 Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3785,6 +3888,7 @@ guest with her. Elanil is looking after a young girl, who the adventurers may ha
 has summoned adventurers to Elventree to watch over the girl while she is tending to the
 celebration. A simple babysitting task shouldn’t be too difficult for mighty adventurers, right?
 A 4-Hour Adventure for 11-16 Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3803,6 +3907,7 @@ The is 5 one hour adventures that don't need to be played in any order. Each adv
 and addresses a different aspect of the basics of D&D and introduces each of the five factions. It
 also contains an introduction to the "workshop" and an ending to wrap it up. It is an excellent
 module to introduce people to D&D and to use as intro tables at gaming conventions!
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3814,6 +3919,7 @@ tower brood over the village of Windy Valley. When a kidnapper flees into the ru
 group of adventurers to apprehend the rogue and save his victim from the vault below.
 A four-hour D&D Adventurers League Convention Created Content adventure for 1st-4th level
 characters, brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3825,6 +3931,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 Knock, knock, open the door. Tick tock, time is short. Stalk, stalk, it comes for you. How will you
 open the lock, once you can no longer wind the clock? A four-hour adventure for 5th-10th level
 characters, brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3834,6 +3941,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 The deepest depths of the ruins of the Tempest Mage's tower have not seen a living soul for
 centuries. In the silent dark, death waits for you. Will you rush to meet him? A four-hour adventure
 for 5th-10th level characters, brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3847,6 +3955,7 @@ survival. Danger and evil buried away awaken, adding to the chaos. The adventure
 with investing strange events. Will they make a new friend or add to their list of enemies?
 A four-hour D&D Adventurers League Convention Created Content adventure for 5th-10th level
 characters, brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3862,6 +3971,7 @@ Cold Iron Conventions and Draxstar Games.
 
 A four-hour D&D Adventurers League Convention Created Content adventure for 5th-10th level
 characters, brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3888,6 +3998,7 @@ Friends Forever and CCC-CIC-05 Donum Vitae. An Adventurers League Approved adven
 provided through the Con Created Content Program, sponsored by Cold Iron Conventions
 and Draxtar Games.
 A 4-hour adventure for 5th-10th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3900,6 +4011,7 @@ Zor von Finklestein has purchased an aging cargo vessel and filled it with food 
 Mulmaster. Now you only need to make sure the vessel comes into port. A four-hour D&D
 Adventurers League Convention Created Content adventure on the Moonsea for 1st-4th level
 characters, brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3911,6 +4023,7 @@ destroyed, bloodthirsty sharks spotted! A perilous canoe journey and fog-shroude
 adventurers.
 A 2- or 4-Hour Adventurers League Convention Created Content for 1st-4th Level Characters,
 brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3925,6 +4038,7 @@ happening at Soward Manor, and how significant is the threat? This is the first 
 Pilgrim’s Progress trilogy.
 A Four-Hour D&D Adventurers League Convention Created Content Adventures for 5th- 10th level
 characters (optimized for 8th level), brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3937,6 +4051,7 @@ Pull those rowboats to the shore and prepare for the worst. This is the second a
 Pilgrim’s Progress trilogy.
 A Four-Hour D&D Adventurers League Convention Created Content Adventures for 5th- 10th level
 characters (optimized for 8th level), brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3951,6 +4066,7 @@ to bring a peaceful resolution to their current troubles. This is the third and 
 Pilgrim’s Progress trilogy.
 A Four-Hour D&D Adventurers League Convention Created Content Adventures for 5th- 10th level
 characters (optimized for 8th level), brought to you by Cold Iron Conventions and Draxtar Games.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3962,6 +4078,7 @@ ship onto the Moonsea. There they begin their underwater quest to find the treas
 City of Northkeep, facing an assortment of deep-sea challenges and enemies and eventually meeting
 with an ancient clan of Orcs guarding the isolated ruins of Northkeep.
 A 4-Hour Adventure for 5-10th Level Characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3974,6 +4091,7 @@ The Ancient sunken city of Northkeep is filled with wild magic and and unknown d
 this desolate place, a warlock experiments on wildlife to create the ultimate living weapon capable
 of destroying the entire Moonsea region. In order to save the world, adventurers must stop the
 experiments from completing.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -3997,6 +4115,7 @@ Chaotic magics torment the village of Stonedock, presenting opportunity to a dev
 Unknown to the scoundrel, a coveted trinket will soon bring with it the wrath of Thay! Who will
 help the village weather this storm? A Two-Hour Adventure for Tier One Characters. Optimized for
 APL 3.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4008,6 +4127,7 @@ necessarily for the better. The farming village of The Stop is no exception. The
 have withdrawn their presence and no one is left to maintain order. When things get out of hand, a
 noble representative of the people and the law is required.
 A 4-hour adventure for 1st-4th Level Characters.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4019,6 +4139,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 Dr. Jubal and his Carnival of Curiosities left The Stop almost a tenday ago. When one of the circus
 wagons is found abandoned, folks fear the worst. Brave heroes are needed to find out what has
 become of the good Doctor and his troupe. Are you up for the challenge?
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4030,6 +4151,7 @@ consequences if it doesn't make it there by nightfall. Jeny knows one way to acc
 her method of travel isn't for the weak of spirit. All magic has a price, dearies, and these magics
 may have you doubting your sanity. Part 2 in the 'At Jeny's Request' series."
 A four-hour Adventurers League adventure for levels 5-10.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4042,6 +4164,7 @@ The forest haven of Elventree is in peril! Children have been abducted, monsters
 town perimeter, and one of the village’s druids has gone missing. The local spring seems to be a
 source of these problems, and you must to descend into it to explore the caverns below. Are you a
 match for the threats beneath Elventree’s feet?
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4053,6 +4176,7 @@ Senate, is hosting a party. It has been one year since the Great Law of Humanity
 Many non-humans like Bert have helped forge a new future for Hillsfar, but what is the current
 reality?
 A 4 Hour Adventure for 1st-4th Level Characters By Paul Johnson & Jia Jian Tin
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4244,6 +4368,7 @@ You’ve descended further into the earth, deep under the Gulthias tree, past th
 of light and dark, and now the perpetual darkness of an immense pit faces you. What waits for you
 at the bottom? Is it the evil force that has corrupted the tree above? Do you dare disturb what has
 been buried so deep?
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4254,6 +4379,7 @@ You’ve found yourselves trapped inside the tomb and temple of a Witch Maiden, 
 First Sacrifices to the Witch King of ages ago. A powerful Lich in her own right, you hope that you
 wander through her tomb while she still slumbers, or else your journey this far deep into the evil
 darkness will come to a swift and abrupt end.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4436,6 +4562,7 @@ something or someone has set its sights on disrupting that casual chaos. Are you
 adventurers who can help the Gilmann merchant house uncover the mystery?
 Part One of the Shadows on the Border Trilogy
 A Four-Hour Adventure for 5th-10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4476,6 +4603,7 @@ keep and is now actively collecting artifacts of the world of the living for som
 Do you have what it takes to survive the challenges of both the forest and the ruins and return with
 the prize?
 A Four-Hour Border Kingdoms Adventure for 5th-10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4490,6 +4618,7 @@ this place, and champions from all over Faerûn would come to test their mettle.
 terrorizes the villages at night, and the normally stoic residents are quick to recruit able-bodied
 heroes. Too bad you're not their first choice!
 A Two-Hour to Four-Hour Adventure for Tier 1 Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4501,6 +4630,7 @@ everyone has one, and boy do they pamper those cats. Even if you’ve never been
 hard to say no. In fact, you should probably be adopted by one straight away. Yes, that’s it. You
 belong to that cat. Who’s a pretty human?
 A Two-Hour to Four-Hour Adventure for Tier 1 Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4592,6 +4722,7 @@ A corrupting sickness has infected the Quivering Forest, and the wood elf tribe 
 The elves beseech the adventurers to root out the source of the corruption before they, and the
 forest, fall to its rot.
 2-Hour Adventure for 1st-4th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4606,6 +4737,7 @@ corruption destroying the forest, threatening the village’s survival. The Corr
 living in the Quivering forest, changing the flora and fauna into dark corrupted echoes of what they
 were in life.
 A 2-Hour Adventure for 5th-10th Level Characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -4759,8 +4891,6 @@ Niedostępna na DMsguild
 Brak informacji.
 
 **Komentarz**
-
-
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### Shadow of the Weave
@@ -5133,6 +5263,7 @@ reconstruction is not without its problems. The city’s need for natural resour
 conflict with its neighbors before, and undoubtedly will again. The High Blade requested your
 presence on such a matter, and now it’s up to you to solve it.
 A four hour adventure for 11th – 16th level characters
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -6142,6 +6273,7 @@ Strange events are occurring near the town of Yûlash—ground tremors originati
 mind flayer hive. Our heroes are asked to investigate the old hive and determine the cause of the
 seismic activity, but another pressing matter is revealed to them, too.
 This is a Tier 3 (APL 13) Adventurers League legal adventure set in a small town near Yûlash.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -6156,6 +6288,7 @@ reports of dangerous monsters escaping captivity and attacking citizens have the
 concerned. Where are these monsters coming from, how are they being procured, and what threat
 might this pose?
 This is a Tier 1 (APL 3) Adventurers League legal adventure set in a mansion outside of Yûlash.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -6167,6 +6300,7 @@ resides nearby, causing most other creatures to flee. This menace is still in it
 taken care of before it poses a threat to the area-at-large. Your flumph friend must come with you to
 sniff out the signs, so keep it safe!
 This is a Tier 1 (APL 3) Adventurers League legal adventure set in the Underdark.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -6195,6 +6329,7 @@ villagers were able to defend themselves, but they fear something worse may be c
 and ominous fog slowly rolls in from the Moonsea.
 This is a Tier 1 (APL 3) Adventurers League legal adventure set in a small fishing village just south
 of Hulburg, and along the northern coast of the Moonsea.
+
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
@@ -6565,16 +6700,10 @@ drank it.
 ### [Mountain Brew](https://www.dmsguild.com/product/342016/Mountain-Brew)
 
 **Informacje o przygodzie**
-Is your party brave enough to follow the path in the Spine of The World and to chase after answers
-no one else chose to pursue? Do you want to find out who or what is behind the disappearance of
-the remains of the barbarians of old? Make this adventure your own!
-This module is designed for three to seven characters within Tier 2 limitations (5-10 character level)
-and is optimised for 5 characters with the average level of 7.
+Is your party brave enough to follow the path in the Spine of The World and to chase after answers no one else chose to pursue? Do you want to find out who or what is behind the disappearance of the remains of the barbarians of old? Make this adventure your own!
 
 **Komentarz**
-Przygoda w obecnej formie nie zawiera skalowania przeciwników, więc wymaga odpowiedniego
-przygotowania wcześniej. Ze względu na losowe ilości złota, należy przydzielić je według zasad
-średnich nagród, zależnie od tego jak głęboko zajdzie eksploracja.
+Przygoda w obecnej formie nie zawiera skalowania przeciwników, więc wymaga odpowiedniego przygotowania wcześniej. Ze względu na losowe ilości złota, należy przydzielić je według zasad średnich nagród, zależnie od tego jak głęboko zajdzie eksploracja.
 Magiczne przedmioty zgodnie z przygodą.
 
 
@@ -6584,18 +6713,10 @@ Magiczne przedmioty zgodnie z przygodą.
 Pochodzi z Van Richten's Guide to Ravenloft
 
 **Informacje o przygodzie**
-"The House of Lament" is an adventure for a party of four to six 1st-level characters, who will
-advance to at least 3rd level by the adventure's conclusion. The adventure's climax serves as a
-springboard into future adventures in the Domains of Dread, should you wish to take your campaign
-into those haunted lands.
+"The House of Lament" is an adventure for a party of four to six 1st-level characters, who will advance to at least 3rd level by the adventure's conclusion. The adventure's climax serves as a springboard into future adventures in the Domains of Dread, should you wish to take your campaign into those haunted lands.
 
 **Komentarz**
-Content warningi są kluczowe - należy uprzedzić o elementach horroru. Treść, nagrody, wyzwania
-itd. nie wymagają dostosowywania, aczkolwiek jest śmiertelna dla postaci i raczej przeznaczona
-jest dla doświadczonych graczy. Przygoda ze względu na wiele potencjalnych torów gry wymaga
-dokładnego przeczytania i położenia nacisku na jasną ekspozycję sytuacji dla graczy. Zdobyte Dark
-Gifts dostępne są tylko w trakcie grania przygody i przestają funkcjonować po opuszczeniu
-Domeny.
+Content warningi są kluczowe - należy uprzedzić o elementach horroru. Treść, nagrody, wyzwania itd. nie wymagają dostosowywania, aczkolwiek jest śmiertelna dla postaci i raczej przeznaczona dla doświadczonych graczy. Przygoda ze względu na wiele potencjalnych torów gry wymaga dokładnego przeczytania i położenia nacisku na jasną ekspozycję sytuacji dla graczy. Zdobyte Dark Gifts dostępne są tylko w trakcie grania przygody i przestają funkcjonować po opuszczeniu Domeny.
 
 ### [Wretches](https://www.dmsguild.com/product/226911/CCCKUMORI0102-Wretches)
 
@@ -6616,6 +6737,34 @@ Something evil is devouring the souls of the living in Chult, but before the cha
 Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
 Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
 
+### [War Tortle Brewery](https://www.dmsguild.com/product/319773/War-Tortle-Brewery--Adventure)
+
+**Informacje o przygodzie**
+Strange things are happening at War Tortle Brewery. Not only is the magically automated, multi-level stone tower brewery under the influence of corrupting magic, but a bodacious party of hipsters has taken over the grounds. Management needs help!
+
+Do you have what it takes to gain entrance, brave the tower, and put an end to the corrupting magic? Will you survive the challenges within, or fall trying?
+
+**Komentarz**
+Przygoda T1 lub T2 dla postaci poziomów 5-6.
+
+Przyznawanie ACP:
+ - 2 ACP za główny quest, podwórko z hipisami i rozwiązanie problemu browaru.
+ - 1 ACP za pomoc pracownikom.
+ - 1 ACP za odkrycie kto stoi za wszystkimi problemami.
+
+Bonus Objective
+ - 1 ACP odkrycie dlaczego woda z rzeki nie nadaje się już użytku
+
+Złoto:
+ - 200 gp na PC przy 4 ACP
+ - 140 gp na PC przy 3 ACP
+ - 80 gp na PC przy 2 ACP
+ - 50 gp na PC za sidequest.
+
+Magiczne przedmioty:
+ - Alchemy Jug (blue)
+ - Spell Scroll of Dispel Magic oraz Spell Scroll of Slow. 
+ - Headband of Sobriety. 
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
@@ -6623,44 +6772,11 @@ Jako przygody należące do serii rozumiemy przygody, które mają w treści wsp
 
 [Coming Soon]
 
-
 ## Proces dodawania nowych przygód do katalogu OPK
 
 ### Definicja
 
-Przez ilość złota i magicznych przedmiotów spełniających wymagania OPK należy rozumieć maksymalną ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry, określoną w tabeli znajdującej się w dokumencie „Zasady bazowe D&D Organized Play Kraków” w sekcji „Skarby” oraz ilość i rzadkość magicznych przedmiotów określoną dla przygód KCC w rozdziale „Zasady tworzenia własnych przygód i nadawania prefiksów przygodom spoza katalogu AL” tego dokumentu.
-
-### Przygoda CCC dopuszczona w rozgrywkach AL ale nie dodana do katalogu OPK
-
-Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć Koordynatorowi. W ramach tego zgłoszenia powinien zamieścić informację, czy dana przygoda wymaga dopasowania do rozgrywek OPK. Najczęściej taka zmiana może być związana z nieodpowiednią rzadkością przedmiotu w przygodzie lub jego brakiem (w nowszych przygodach). W ramach zgłoszenia Mistrz Gry może zaproponować alternatywny przedmiot. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. 
-
-Zgłoszenie następnie podlega zatwierdzeniu przez Koordynatora i jest dodawane do katalogu OPK.
-
-### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
-
-Mistrz Gry chcący dodać przygodę typu HC (w całości lub jej fragment) musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci w taki sposób, aby spełniały one wymagania OPK oraz aby postaci, które ukończyły daną przygodę HC nie odbiegały znacząco pod względem ilości posiadanego złota oraz magicznych przedmiotów od postaci grających pozostałe przygody. Mile widziane są również zalecenia dotyczące prowadzenia poszczególnych rozdziałów. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi o sprawdzenie i zatwierdzenie przygotowanych informacji dwóch innych Mistrzów Gry. Po uzyskaniu tego zatwierdzenia zgłasza chęć dodania przygody HC Koordynatorowi, który po weryfikacji zgłoszenia poddaje je głosowaniu. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK.
-
-### Własne przygody i przygody spoza katalogu AL
-
-Mistrz Gry chcący dodać przygodę musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci (ilość ACP za ukończenie przygody jeśli nie jest określona) w taki sposób, aby spełniały one wymagania OPK. Mile widziane są również zalecenia dotyczące prowadzenia. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi o akceptację Koordynatora a następnie przygotowuje „Sesję 0”, w której powinno uczestniczyć przynajmniej 3 innych, aktywnych MG. Po rozegraniu przygody, Mistrzowie uczestniczący w rozgrywce opiniują jej dodanie pozytywnie lub negatywnie. Mistrz Gry inicjujący dodanie przedstawia informację zwrotną z przeprowadzonej „Sesji 0” Koordynatorowi, który na jej podstawie może poddać dodanie przygody pod głosowanie. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK.
-
-## Zasady tworzenia własnych przygód i nadawania prefiksów przygodom spoza katalogu AL
-
-Przygody tworzone przez członków społeczności OPK powinny spełniać wymagania dotyczące nagród, które zostały określone poniżej jak również zostać dopuszczone do rozgrywego zgodnie z procesem opisanym w rozdziale „Proces dodawania nowych przygód do katalogu OPK”.
-
-Prefiksy przygód spoza katalogu Adventurers League, które przeszły pomyślnie Sesję 0 oraz uzyskały akceptację Koordynatorów:
-GCC – Guild Created Content – rzeczy z DMs Guild
-KCC – Kraków Created Content – rzeczy tworzone przez społeczność Kraków Organized Play
-OCC – Other Created Content – rzeczy z innych źródeł
-DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
-
-Typowy format kodów i oznaczeń:
-\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer Przygody\> \<Nazwa Przygody\>
-Przykładowo:
-KCC-WAWEL-01 Zemsta Złotówy
-GCC-JOYCE-01 Weekend at Strahd’s
-
-### Ilość i rzadkość magicznych przedmiotów w KCC, zależnie od Szczebla i długości:
+Przez ilość złota i magicznych przedmiotów spełniających wymagania OPK należy ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry, określoną w tabeli znajdującej znajdującej się w sekcji 3.1 Zasad Zaawansowanych OPK. Ilość i rzadkość permanentnych magicznych przedmiotów przypadających na przygodę, spełniających wymagania OPK określa poniższa tabela.
 
 | Szczebel (Tier) | 2h          | 4h                          |
 |-----------------|-------------|-----------------------------|
@@ -6671,11 +6787,36 @@ GCC-JOYCE-01 Weekend at Strahd’s
 
 W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za każde pełne 4h przewidzianego czasu gry.
 
-## Zasady podmian magicznych przedmiotów
+## Zasady wprowadzania zmian w Katalogu Przygód
 
-Jeżeli nagrodą w przygodzie CCC lub DC jest przedmiot o rzadkości niżej niż zakładana przez Tier, w gestii DMa jest możliwość zmiany nagrody na inną, pochodzącą z dozwolonego u nas podręcznika nie-Hardcover, zgodną z Tierem i tematycznie spójną. Przedmiot nie może znajdować się na liście przedmiotów zbanowanych (poniżej). Na przykład w przygodzie T2 zamiast Uncommon Longsword można dać Rare Longsword, zgodnie z naszymi wytycznymi co do przygód pisanych dla OPK. Nie jest możliwa wymiana nagród w ramach tego samego rarity (Rare -> inny Rare), czy wymiana na całkowiecie inny item (przygoda T3, Rare Longsword -> Tome/Manual).
+Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale #cc-zmiany. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
 
-Nie ma możliwości dodania przedmiotów ponad ilość opisaną w przygodzie, ani dodawania żadnych cech jak Minor Properties, jeśli przedmiot oryginalnie ich nie posiadał.
+### Przygoda CCC dopuszczona w rozgrywkach AL ale nie dodana do katalogu OPK
+
+Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. Zgłoszenie następnie podlega zatwierdzeniu przez Koordynatora i jest dodawane do katalogu OPK.
+
+### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
+
+Mistrz Gry chcący dodać przygodę typu HC (w całości lub jej fragment) musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci w taki sposób, aby spełniały one wymagania OPK oraz aby postaci, które ukończyły daną przygodę HC nie odbiegały znacząco pod względem ilości posiadanego złota oraz magicznych przedmiotów od postaci grających pozostałe przygody. Mile widziane są również zalecenia dotyczące prowadzenia poszczególnych rozdziałów.
+
+### Własne przygody i przygody spoza katalogu AL
+
+Mistrz Gry chcący dodać przygodę musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci (ilość ACP za ukończenie przygody jeśli nie jest określona) w taki sposób, aby spełniały one wymagania OPK. Mile widziane są również zalecenia dotyczące prowadzenia. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi przygotowuje „Sesję 0”, w której powinno uczestniczyć przynajmniej 3 innych, aktywnych MG. Po rozegraniu przygody, Mistrzowie uczestniczący w rozgrywce opiniują jej dodanie pozytywnie lub negatywnie. Na tej podstawie można przeprowadzić procedurę opisaną w dziale Zasady Wprowadzania Zmian w Katalogu Przygód.
+
+## Zasady nadawania prefiksów przygodom spoza katalogu AL
+
+Prefiksy przygód spoza katalogu Adventurers' League, które przeszły pomyślnie Sesję 0 oraz uzyskały akceptację Mistrzów Gry:
+ - GCC – Guild Created Content – rzeczy z DMs Guild
+ - KCC – Kraków Created Content – rzeczy tworzone przez społeczność Kraków Organized Play
+ - OCC – Other Created Content – rzeczy z innych źródeł
+ - DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
+
+Typowy format kodów i oznaczeń:
+\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer Przygody\> \<Nazwa Przygody\>
+Przykładowo:
+KCC-WAWEL-01 Zemsta Złotówy
+GCC-JOYCE-01 Weekend at Strahd’s
+
 
 ### Przedmioty, które nie zostały dopuszczone do rozgrywek (jeśli pojawią się w przygodzie należy je zastąpić)
 
@@ -6721,3 +6862,11 @@ Nie ma możliwości dodania przedmiotów ponad ilość opisaną w przygodzie, an
 - Tinderstrike
 - Waythe
 - Windvane
+- Adze of Annam
+- Bigby’s Beneficent Bracelet
+- Bloodshed Blade
+- Crown of the Wrath Bringer
+- Delver’s Claws
+- Ring of Amity
+- Harp of Gilded Plenty
+- Helm of Perfect Potential

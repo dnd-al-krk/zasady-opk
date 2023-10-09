@@ -6,6 +6,8 @@
 
 ### [Zaawansowane](advanced_rules.md)
 
+### [Nagrody dla DMów](dm_rewards.md)
+
 ### [Historia zmian](https://github.com/dnd-al-krk/zasady-opk/commits/master)
 
 ## OPK Rules (English)
