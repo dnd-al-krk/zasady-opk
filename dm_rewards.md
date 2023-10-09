@@ -34,20 +34,22 @@ Mistrz Gry może przydzielać zgromadzone ACP swoim postaciom w porcjach o dowol
 
 ACP można przyznać tylko postaciom żywym.
 
-### Punkty Magicznych Przedmiotów
+### Punkty Magicznych Przedmiotów oraz Punkty Questów
 
-Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
+Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP) i Punkty Questów (PQ). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
 
-| Tier przygody | PMP za 1 ACP |
+| Tier przygody | PMP/PQ za 1 ACP |
 |---------------|--------------|
 | I             | 2,5          |
 | II            | 2            |
 | III           | 1,5          |
 | IV            | 1            |
 
-Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP.
+Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP i 5 PQ, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP i 6 PQ.
 
 PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot lub spellbook, przestrzegając zastrzeżeń podrozdziału 1.5. Nagród Mistrzów Gry. Przydzielić można tylko przedmiot magiczny lub spellbook, który był przewidziany w nagrodach dla graczy w jednej z przygód, którą dany Mistrz Gry poprowadził. Takie przydzielenie kosztuje za każdym razem 50 PMP.
+
+PQ można wydać wydać wg tabelki znajdującej się w sekcji [nagrody dodatkowe](#nagrody-dodatkowe).
 
 Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleniu liczba posiadanych przez postać magicznych przedmiotów przekroczyłaby następujące limity:
 -  Postać T1 - 1 przedmiot uncommon, 0 rare i wyżej
@@ -56,6 +58,30 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 
 Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
+
+## Misje i nagrody dodatkowe
+
+| Nazwa                  | Misja                                                                      | Nagroda (PQ) | Komentarz                                                           |
+|------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
+| Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 200     |                                                                     |
+| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
+| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                          | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
+| Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu | 40     |           |
+| Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            | 40      |                                                                     |
+| Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    | 20      | Nowy gracz otrzymuje 1 Potion of Healing                            |
+| Druga szansa           | Poprowadź tę samą przygodę dwa razy w ciągu 3 miesięcy dla 2 różnych grup  | 20      | W przygodach musi uczestniczyć minimum 7 różnych graczy. Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.             |
+| Level Up!              | Poprowadź sesję w ciągu tygodnia od swoich urodzin                         | 20      | Misję tę można wypełnić tylko raz w roku (liczone wg. dnia urodzin) |
+| Wybawiciel             | Poprowadź sesję za DMa który musiał ją odwołać                             | 20      | Sesja musi być odwołana przez oryginalnego DMa nie dłużej niż na 48h przed planowanym rozpoczęciem    |
+| Kontrola jakości       | Weź udział w sesji 0 (jako DM lub gracz)                                   | 20      |                                                                     
+| Poliglota     | Poprowadź sesję w obcym języku dla co najmniej jednego gracza niepolskojęzycznego   | 20      |                 
+| Szeroki asortyment     | Poprowadź przygodę której jeszcze nie prowadziłeś w OPK                    | 10      |                                                                     
+
+Misje podlegają poniższym ogólnym ograniczeniom:
+Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie może zostać ponownie do zdobycia tej samej nagrody.
+
+### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
+Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
+     
 ### Zasady przejściowe
 
 Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [DATA]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody lub magicznego przedmiotu w wersji 1.0 nie mogą być przeliczane na odpowiednio Punkty Questów i Punkty Magicznych Przedmiotów.
