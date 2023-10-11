@@ -58,21 +58,12 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 
 Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
-### Przygody 'Epic' (równoczesne prowadzenie na kilku stołach)
+Sesje zero
+Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)).
 
-Tak zwane 'epiki' są prowadzone jednocześnie na kilku stolikach (zwykle na różnym tierze), ze wsparciem DMów koordynujących wydarzenie.
+W sesji zero, oprócz DMa zabiegającego o wpis przygody do CC, powinni brać udział doświadczeni gracze/DMowie. DM ustala tier przygody, a gracze w konsultacji z DM mogą przygotować dowolną legalną postać z tego tieru (łącznie z magicznymi przedmiotami). W szczególności może być to kopia już istniejącej postaci. 
 
-Z uwagi na trud związany z organizacją takiego przedsięwzięcia, każdy DM (prowadzący i koordynator) biorący udział w wydarzeniu otrzymuje następujące nagrody: 
-
--Podstawowe nagrody za prowadzenie sesji najniższego tieru stolika biorącego udział w wydarzeniu, pomnożone przez 2 (jeśli epik jest przewidziany na 4h gry i zawiera przygody T1 i T2, to każdy DM otrzyma nagrodę w wysokości 8 ACP, 20 PQ i 20 PMP, jak za poprowadzenie 8h przygód na T1).
--Uzyskuje dostęp do wszystkich magicznych przedmiotów obecnych w przygodach, na normalnych zasadach.
--Wzięcie udziału w epiku jako DM liczy się jako poprowadzenie przygody na poczet questów (wpis do CC rozstrzyga przynależność do serii przygód).
-
-Ponadto, w ramach przygotowania do epika należy poprowadzić sesję 0 dla każdego z torów przygody (chyba że dany epik był już prowadzony w OPK). Sesja 0 jest nagradzana na normalnych zasadach. 
-
-### Sesje zero
-Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)). Za tak poprowadzoną sesję DM otrzymuje wyłącznie PQ z poniższej tabelki. Oprócz tego przygoda liczy się do nagrody "Kwarta za kwartał", ale nie do żadnych innych nagród. 
-
+Za wzięcie udziału w sesji zero DMowie oraz gracze otrzymują specjalną nagrodę w PQ (patrz tabela X), nie otrzymują jednak żadnych innych nagród. Ponadto poprowadzenie sesji zero liczy się do questa "Kwarta za kwartał", ale nie do żadnych innych questów.
 
 ## Misje i nagrody dodatkowe
 
