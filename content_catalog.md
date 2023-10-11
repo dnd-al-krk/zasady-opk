@@ -6737,10 +6737,6 @@ Something evil is devouring the souls of the living in Chult, but before the cha
 Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
 Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
 
-
-
-
-
 ### [War Tortle Brewery](https://www.dmsguild.com/product/319773/War-Tortle-Brewery--Adventure)
 
 **Informacje o przygodzie**

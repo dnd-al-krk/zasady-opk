@@ -58,12 +58,13 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 
 Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
-Sesje zero
+### Sesje zero
 Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)).
 
 W sesji zero, oprócz DMa zabiegającego o wpis przygody do CC, powinni brać udział doświadczeni gracze/DMowie. DM ustala tier przygody, a gracze w konsultacji z DM mogą przygotować dowolną legalną postać z tego tieru (łącznie z magicznymi przedmiotami). W szczególności może być to kopia już istniejącej postaci. 
 
 Za wzięcie udziału w sesji zero DMowie oraz gracze otrzymują specjalną nagrodę w PQ (patrz tabela X), nie otrzymują jednak żadnych innych nagród. Ponadto poprowadzenie sesji zero liczy się do questa "Kwarta za kwartał", ale nie do żadnych innych questów.
+
 
 ## Misje i nagrody dodatkowe
 
@@ -86,7 +87,6 @@ Misje podlegają poniższym ogólnym ograniczeniom:
 Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie może zostać ponownie do zdobycia tej samej nagrody.
 
 ### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
-Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
 
 | Nagroda | Cena | Uwagi |
 | --- | --- | --- |
