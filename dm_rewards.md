@@ -58,6 +58,13 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 
 Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
+### Sesje zero
+Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)).
+
+W sesji zero, oprócz DMa zabiegającego o wpis przygody do CC, powinni brać udział doświadczeni gracze/DMowie. DM ustala tier przygody, a gracze w konsultacji z DM mogą przygotować dowolną legalną postać z tego tieru (łącznie z magicznymi przedmiotami). W szczególności może być to kopia już istniejącej postaci. 
+
+Za wzięcie udziału w sesji zero DMowie oraz gracze otrzymują specjalną nagrodę w PQ (patrz tabela X), nie otrzymują jednak żadnych innych nagród. Ponadto poprowadzenie sesji zero liczy się do questa "Kwarta za kwartał", ale nie do żadnych innych questów.
+
 
 ## Misje i nagrody dodatkowe
 
@@ -65,7 +72,7 @@ Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania pr
 |------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
 | Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 200     |                                                                     |
 | Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
-| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                          | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
+| Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                           | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
 | Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu | 40     |           |
 | Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            | 40      |                                                                     |
 | Świeża krew            | Poprowadź sesję w której bierze udział nowy w OPK gracz                    | 20      | Nowy gracz otrzymuje 1 Potion of Healing                            |
@@ -80,11 +87,23 @@ Misje podlegają poniższym ogólnym ograniczeniom:
 Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie może zostać ponownie do zdobycia tej samej nagrody.
 
 ### Nagrody dodatkowe <a name="nagrody-dodatkowe"></a>
-Niestety, nagrody dodatkowe zostały pożarte przez naszego sowoniedźwiedzia. Pracujemy nad ich odzyskaniem. 
-     
+
+| Nagroda | Cena | Uwagi |
+| --- | --- | --- |
+| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <ul><li>Changeling (MoM)</li><li>Shifter (MoM)</li><li>Leonin (Theros)</li><li>Owlin (Strixhaven)</li><li>Loxodon (Ravnica)</li><li>Vedalken (Ravnica)</li><li>Simic Hybrid (Ravnica)</li><li>Warforged (Eberron)</li><li>Astral Elf (Spelljammer)</li><li>Giff (Spelljammer)</li><li>Plasmoid (Spelljammer)</li><li>Autognome (Spelljammer)</li><li>Hadozee (Spelljammer)</li><li>Thri-kreen (Spelljammer)</li></ul> | 600 PQ | Należy mieć na względzie, że wymienione rasy mogą nie pasować do formatu przygody- najlepiej skonsultować się z DMem przed przyjściem na sesję taką postacią i uszanownanie jego opinii jeśli się nie zgodzi. Nawet jeśli pozwoli aby się pojawiła- miej na względzie, że NPCe mogą nie być przychylni czemuś co pierwszy raz widzą na oczy, a nawet być otwarcie wrodzy (plazmoida można łatwo pomylić z oozem).
+| Odblokowanie tworzenia przez MG jednej z następujących podklas:<br /> - Death Domain Cleric (DMG) | 300 PQ |
+| Jedna nagroda do wyboru DMa: twoja postać, używając zaklęcia Find Familiar może sprawić, by familiar przyjął jedną z form: <br /> Abyssal Chicken, Almiraj, Cranium Rat, Crawling Claw, Flying Monkey, Flying Snake, Gazer (bez możliwości używania rayów), Tressym <br /> ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 150 PQ | Unlock, dotyczy wyłącznie jednego wariantu dla jednej postaci. |
+Rebuild postaci | 200 PQ + 50PQ za każdy poziom postaci (np. poziom 6 będzie kosztować 500 PQ) | Postać musi być rebuildowana od zera |
+Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygodami podzielonej przez 10 (zaokrąglane w górę)  | Możesz zmniejszyć koszt zaklęcia wskrzeszającego o 10gp za każdy wydany 1PQ. Dostępne zaklęcia to: Revivify, Raise Dead, Resurrection i True Resurrection. Do wskrzeszenia postaci musisz wykorzystać adekwatne zaklęcie (decyduje DM). |
+| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 75 PQ |
+| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common lub jeden z poniższych przedmiotów z PHB: <br /> Cleansing Stone <br /> Pipe of Remembrance <br /> Prosthetic Limb <br /> Shiftweave <br /> Spellshard| 50 PQ | W przypadku wybrania zbroi należy również zapłacić bądź posiadać niemagiczną wersję przedmiotu (posiadany przedmiot staje się wówczas docelowym common magic itemem). W ramach nagrody nie można wybrać broni (sword, staff)|
+| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 50 |
+|1 ACP | 25 | Z analogiczną ilością DT i gp względem tabelki |
+
+   
 ### Zasady przejściowe
 
-Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [DATA]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody lub magicznego przedmiotu w wersji 1.0 nie mogą być przeliczane na odpowiednio Punkty Questów i Punkty Magicznych Przedmiotów.
+Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [11.10.2023]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem. Należy wówczas przeliczyć nagrody dla całego sezonu oraz nagrody już odebrane wg obecnego formatu i odjąć punkty (zarówno PQ jak i PMP) odebranych nagród od całości punktów dotychczas zdobytych.
 Zasady przydzielania ACP/DT/złota w wersji 1.0 i 2.0 się nie zmieniły (zmieniły się jedynie ich sformułowania), więc na ich wykorzystanie aktualizacja zasad do wersji 2.0 nie ma wpływu
 
 ## Idee projektowania powyższych zasad
