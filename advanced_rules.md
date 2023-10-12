@@ -277,7 +277,7 @@ Zostawiamy miejsce na zasady uzupełniające, jakkolwiek na razie wydaje się, �
 
 ### 6.1. Jak zostać Mistrzem Gry?<a name="zaawansowane-jak-zostac-mg"></a>
 
-Mistrzem Gry (DMem) OPK jest osoba, która poprowadziła co najmniej jedną sesję w OPK w ciągu ostatniego pół roku. Innymi słowy, można nim zostać, prowadząc sesję w OPK, a przestaje się nim być w wyniku półrocznego braku prowadzenia. Oczywiście, status Mistrza Gry można odzyskać ponownie prowadząc jakąkolwiek sesję OPK.
+Mistrzem Gry (DMem) OPK jest osoba, która poprowadziła co najmniej jedną sesję w OPK w ciągu ostatniego pół roku. Innymi słowy, można nim zostać, prowadząc sesję w OPK, a przestaje się nim być w wyniku półrocznego braku prowadzenia. Oczywiście, status Mistrza Gry można odzyskać prowadząc jakąkolwiek sesję OPK.
 
 By zostać Mistrzem Gry, należy zgłosić taką chęć do innych Mistrzów Gry na Discordzie w momencie, gdy jest się gotowym do prowadzenia w najbliższym czasie. W razie potrzeby DMowie pomogą kandydatowi znaleźć jakąś przygodę do prowadzenia. Jedno miejsce przy stoliku powinno być zarezerwowane dla doświadczonego DMa OPK, który będzie asystował nowemu Mistrzowi Gry w prowadzeniu sesji oraz podpowiadał co do zasad DnD i OPK (wymaganie to można zignorować, jeśli Mistrz Gry powraca do OPK po przerwie w prowadzeniu).
 
@@ -301,7 +301,7 @@ Cokolwiek się działo w Krakowskim AL-u, NielegALu lub OPK przed 1.08.2022, jes
 
 Dlatego ustalono, że:
 
-- Ciała poległych w sezonie 2 przed rozstrzygnięciem głosowań można odzyskać w sposób opisany w rozdziale 4 Zasad Zaawansowanych.
+- Ciała poległych w sezonie 2 przed rozstrzygnięciem głosowań można odzyskać w sposób opisany w rozdziale [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc).
 
 - Jeśli jakaś postać rozegrała swoją pierwszą sesję na Szczeblu T2 przed 1.06.2023 i zgodnie z ówczesnymi zasadami wzięła z listy darmowych przedmiotów magiczny przedmiot, który nie jest konsumowalny, to musi go zwrócić. W zamian, jeśli jej właściciel uważa, że ten przedmiot był kluczowy dla koncepcji postaci, może jednorazowo (przed rozegraniem przez postać następnej przygody) wykonać darmowy rebuild tej postaci.
 

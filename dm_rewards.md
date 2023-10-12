@@ -90,17 +90,51 @@ Jeśli jakaś sesja została wykorzystana do zdobycia jakiejś nagrody, to nie m
 
 | Nagroda | Cena | Uwagi |
 | --- | --- | --- |
-| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <ul><li>Changeling (MoM)</li><li>Shifter (MoM)</li><li>Leonin (Theros)</li><li>Owlin (Strixhaven)</li><li>Loxodon (Ravnica)</li><li>Vedalken (Ravnica)</li><li>Simic Hybrid (Ravnica)</li><li>Warforged (Eberron)</li><li>Astral Elf (Spelljammer)</li><li>Giff (Spelljammer)</li><li>Plasmoid (Spelljammer)</li><li>Autognome (Spelljammer)</li><li>Hadozee (Spelljammer)</li><li>Thri-kreen (Spelljammer)</li></ul> | 600 PQ | Należy mieć na względzie, że wymienione rasy mogą nie pasować do formatu przygody- najlepiej skonsultować się z DMem przed przyjściem na sesję taką postacią i uszanownanie jego opinii jeśli się nie zgodzi. Nawet jeśli pozwoli aby się pojawiła- miej na względzie, że NPCe mogą nie być przychylni czemuś co pierwszy raz widzą na oczy, a nawet być otwarcie wrodzy (plazmoida można łatwo pomylić z oozem).
+| Możliwość stworzenia przez MG jednej postaci z użyciem ras z [tabeli 1](#tabela-rasy), normalnie niedostępnych w OPK| 600 PQ | 
 | Odblokowanie tworzenia przez MG jednej z następujących podklas:<br /> - Death Domain Cleric (DMG) | 300 PQ |
-| Jedna nagroda do wyboru DMa: twoja postać, używając zaklęcia Find Familiar może sprawić, by familiar przyjął jedną z form: <br /> Abyssal Chicken, Almiraj, Cranium Rat, Crawling Claw, Flying Monkey, Flying Snake, Gazer (bez możliwości używania rayów), Tressym <br /> ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 150 PQ | Unlock, dotyczy wyłącznie jednego wariantu dla jednej postaci. |
+| Jedna nagroda do wyboru DMa: twoja postać, używając zaklęcia Find Familiar może sprawić, by familiar przyjął jedną z form z [tabeli 2](#tabela-familiary) ALBO jedna z Twoich postaci używając zaklęcia Find Greater Steed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 150 PQ | Unlock, dotyczy wyłącznie jednego wariantu dla jednej postaci. |
 Rebuild postaci | 200 PQ + 50PQ za każdy poziom postaci (np. poziom 6 będzie kosztować 500 PQ) | Postać musi być rebuildowana od zera |
 Wskrzeszenie postaci | Koszt w PQ jest równy cenie spellcastingu między przygodami podzielonej przez 10 (zaokrąglane w górę)  | Możesz zmniejszyć koszt zaklęcia wskrzeszającego o 10gp za każdy wydany 1PQ. Dostępne zaklęcia to: Revivify, Raise Dead, Resurrection i True Resurrection. Do wskrzeszenia postaci musisz wykorzystać adekwatne zaklęcie (decyduje DM). |
 | Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 75 PQ |
-| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common lub jeden z poniższych przedmiotów z PHB: <br /> Cleansing Stone <br /> Pipe of Remembrance <br /> Prosthetic Limb <br /> Shiftweave <br /> Spellshard| 50 PQ | W przypadku wybrania zbroi należy również zapłacić bądź posiadać niemagiczną wersję przedmiotu (posiadany przedmiot staje się wówczas docelowym common magic itemem). W ramach nagrody nie można wybrać broni (sword, staff)|
+| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny z XGtE albo Strixhaven: A Curriculum of Chaos o rzadkości common lub jeden z poniższych przedmiotów:<br /> - Pipe of Remembrance  (GoS) <br />- Cleansing Stone (E:RftLW) <br /> - Prosthetic Limb (E:RftLW)<br /> - Shiftweave (E:RftLW)<br /> - Spellshard (E:RftLW)| 50 PQ | W przypadku wybrania zbroi należy również zapłacić bądź posiadać niemagiczną wersję przedmiotu (posiadany przedmiot staje się wówczas docelowym common magic itemem). W ramach nagrody nie można wybrać broni (sword, staff)|
 | Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 50 |
 |1 ACP | 25 | Z analogiczną ilością DT i gp względem tabelki |
 
-   
+
+#### Tabela 1<a name="tabela-rasy" ></a>
+
+Należy mieć na względzie, że wymienione rasy mogą nie pasować do formatu przygody- najlepiej skonsultować się z DMem przed przyjściem na sesję taką postacią i uszanownanie jego opinii jeśli się nie zgodzi. Nawet jeśli pozwoli aby się pojawiła- miej na względzie, że NPCe mogą nie być przychylni czemuś co pierwszy raz widzą na oczy, a nawet być otwarcie wrodzy (np. w stosunku do plasmoida, który jest Oozem).
+
+| Rasa         | Źródło      |
+|--------------|-------------|
+| Changeling   | MP:MotM     |
+| Shifter      | MP:MotM     |
+| Leonin       | Theros      |
+| Owlin        | Strixhaven  |
+| Loxodon      | Ravnica     |
+| Vedalken     | Ravnica     |
+| Simic Hybrid | Ravnica     |
+| Warforged    | Eberron     |
+| Astral Elf   | Spelljammer |
+| Giff         | Spelljammer |
+| Plasmoid     | Spelljammer |
+| Autognome    | Spelljammer |
+| Hadozee      | Spelljammer |
+| Thri-kreen   | Spelljammer |
+
+
+#### Tabela 2<a name="tabela-familiary"></a>
+
+| Familiar        | Źródło  | Komentarz              |
+|-----------------|---------|------------------------|
+| Abyssal Chicken | BG:DiA  |                        |
+| Almiraj         | ToA     |                        |
+| Cranium Rat     | MP:MotM |                        |
+| Crawling Claw   | MM      |                        |
+| Flying Monkey   | ToA     |                        |
+| Flying Snake    | BR      |                        |
+| Gazer           | MP:MotM | Nie może używać Ray'ów | 
+
 ### Zasady przejściowe
 
 Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [11.10.2023]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem. Należy wówczas przeliczyć nagrody dla całego sezonu oraz nagrody już odebrane wg obecnego formatu i odjąć punkty (zarówno PQ jak i PMP) odebranych nagród od całości punktów dotychczas zdobytych.
