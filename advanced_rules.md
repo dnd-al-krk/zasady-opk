@@ -300,7 +300,7 @@ Cokolwiek się działo w Krakowskim AL-u, NielegALu lub OPK przed 1.08.2022, jes
 
 Dlatego ustalono, że:
 
-- Ciała poległych w sezonie 2 przed rozstrzygnięciem głosowań można odzyskać w sposób opisany w rozdziale 4 Zasad Zaawansowanych.
+- Ciała poległych w sezonie 2 przed rozstrzygnięciem głosowań można odzyskać w sposób opisany w rozdziale [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc).
 
 - Jeśli jakaś postać rozegrała swoją pierwszą sesję na Szczeblu T2 przed 1.06.2023 i zgodnie z ówczesnymi zasadami wzięła z listy darmowych przedmiotów magiczny przedmiot, który nie jest konsumowalny, to musi go zwrócić. W zamian, jeśli jej właściciel uważa, że ten przedmiot był kluczowy dla koncepcji postaci, może jednorazowo (przed rozegraniem przez postać następnej przygody) wykonać darmowy rebuild tej postaci.
 
