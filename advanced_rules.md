@@ -283,7 +283,6 @@ By zostać Mistrzem Gry, należy zgłosić taką chęć do innych Mistrzów Gry 
 
 Gdy przygoda będzie już ogłoszona, nowy DM powienien się zgłosić do koordynatora i modów naszej grupy discordowej, by uzyskać pełny dostęp do zasobów DMów.
 
-###
 
 ### 6.2. Uprawnienia i przywileje Mistrza Gry<a name="zaawansowane-mg-perks"></a>
 
