@@ -497,6 +497,7 @@
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
+|PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -6765,6 +6766,17 @@ Magiczne przedmioty:
  - Alchemy Jug (blue)
  - Spell Scroll of Dispel Magic oraz Spell Scroll of Slow. 
  - Headband of Sobriety. 
+
+### [Autumn Burns Red] (https://www.dmsguild.com/product/392794/POBK101-Autumn-Burns-Red)
+
+**Informacje o przygodzie:**
+A welcome respite at the annual Harvesttide Festival suddenly becomes the backdrop of incursion of an otherworldly army! The people of Splondar call for anyone to save them from the destructive wake of this aberrant legion’s march! Why are they here? or better yet- Who leads them? Who has the courage to find out and warn the cities of The Border Kingdoms?
+
+**Komentarz** 
+Złoto zgodnie z tabelką OPK 
+
+
+
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
