@@ -3190,7 +3190,7 @@ Part One of The Chaos in Melvaunt.
 A four-hour adventure for 1st-4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Story Award "Chunk of Adamantine" należy wymienić na magiczny przedmiot będący nagrodą dla graczy (z takimi samymi warunkami otrzymania) - Adamantine Splint lub Breastplate, do wyboru przez graczy.
 
 
 
