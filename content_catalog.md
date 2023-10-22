@@ -492,6 +492,9 @@
 |CCC-WYC1-1        |II            |4h            |Back to the Burning                              |
 |CCC-WYC1-2        |II            |4h            |Where Rock and Fire Meet                         |
 |CCC-WYC1-3        |II            |4h            |The Dawn Heresy                                  |
+|CCC-WYC2-1        |II            |2-4h            |The Light of Heresy                              |
+|CCC-WYC2-2        |II            |2-4h            |A Shard of Shar                         |
+|CCC-WYC2-3        |II            |2-4h            |What History Leaves Behind                                  |
 |CCC-YLRA01-01     |II            |4h            |Her Dying Wish                                   |
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
@@ -6576,6 +6579,36 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 A heresy has infiltrated the faithful of Lathander by an enemy thought defeated and now the City of
 Forges might pay the price. The Cult of Eternal Flame’s plan looks to come to fruition; can you stop
 a catastrophe of extraplanar proportions?
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Light of Heresy](https://www.dmsguild.com/product/335411/WYC-21-The-Light-of-Heresy)
+
+**Informacje o przygodzie**
+The priestess Miriam seeks a collection of artifacts to enhance the power of her Inquisition. She offers a reward to adventurers who can retrieve the first, the Sun Disk of Aumunator. There’s one catch – she isn’t sure where it can be found. 
+
+A Two-Hour Adventure for Tier 2 Characters with two one-hour bonus objectives. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [A Shard of Shar](https://www.dmsguild.com/product/335413/WYC-22-A-Shard-of-Shar)
+
+**Informacje o przygodzie**
+Miriam, a priestess of Amunator has received a message from an acquaintance in Mulmaster that she has something dark in her possession that can only be trusted with the Inquisition of the Radiant Dawn and you are the only ones she can trust. 
+
+A Two/Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [What History Leaves Behind](https://www.dmsguild.com/product/335414/WYC-23-What-History-Leaves-Behind)
+
+**Informacje o przygodzie**
+The Inquisition of the Radiant Dawn has come across an opportunity that no one would have thought possible. In one of the ruins of Thultanthar spread across the Cormanthor lies an ancient text that will be key to the Inquisition’s future success, and only you can be trusted to find it. 
+
+A Two/Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
