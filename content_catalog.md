@@ -492,9 +492,9 @@
 |CCC-WYC1-1        |II            |4h            |Back to the Burning                              |
 |CCC-WYC1-2        |II            |4h            |Where Rock and Fire Meet                         |
 |CCC-WYC1-3        |II            |4h            |The Dawn Heresy                                  |
-|CCC-WYC2-1        |II            |2-4h            |The Light of Heresy                              |
-|CCC-WYC2-2        |II            |2-4h            |A Shard of Shar                         |
-|CCC-WYC2-3        |II            |2-4h            |What History Leaves Behind                                  |
+|CCC-WYC2-1        |II            |2-4h            |The Light of Heresy|
+|CCC-WYC2-2        |II            |2-4h            |A Shard of Shar |
+|CCC-WYC2-3        |II            |2-4h            |What History Leaves Behind|
 |CCC-YLRA01-01     |II            |4h            |Her Dying Wish                                   |
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
