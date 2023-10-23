@@ -6800,7 +6800,7 @@ Magiczne przedmioty:
  - Spell Scroll of Dispel Magic oraz Spell Scroll of Slow. 
  - Headband of Sobriety. 
 
-### [Autumn Burns Red] (https://www.dmsguild.com/product/392794/POBK101-Autumn-Burns-Red)
+### [Autumn Burns Red](https://www.dmsguild.com/product/392794/POBK101-Autumn-Burns-Red)
 
 **Informacje o przygodzie:**
 A welcome respite at the annual Harvesttide Festival suddenly becomes the backdrop of incursion of an otherworldly army! The people of Splondar call for anyone to save them from the destructive wake of this aberrant legion’s march! Why are they here? or better yet- Who leads them? Who has the courage to find out and warn the cities of The Border Kingdoms?
