@@ -3057,7 +3057,7 @@ Caravan duty in the Cormanthor forest can be dangerous, but normally you only ha
 **Komentarz**
 Brak uwag.
 
-### [CCC-ARCANA-02 Seclusion](https://www.dmsguild.com/product/334689/CCCARCANA02-Seclusion)
+### [Seclusion](https://www.dmsguild.com/product/334689/CCCARCANA02-Seclusion)
 
 **Informacje o przygodzie**
 The sleepy and idyllic little villagers of Kuringrove know of a well-kept secret deep in the Cormanthor Forest. If you're lucky, you might stumble across the home of two elderly seers, who have lived here for longer than there's even been a village.
