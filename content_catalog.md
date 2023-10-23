@@ -210,11 +210,12 @@
 |CCC-AN-01         |I             |4h            |Secrets of Golden Fire                           |
 |CCC-AN-02         |I             |2h            |The Wrathful Deity of Khurovogo                  |
 |CCC-AN-03         |I             |4h            |Winter Wonderland                                |
-|CCC-APL-01-01     |I             |4h            |It’s Not Easy Being Gene                         |
 |CCC-ANIME1-1      |I             |2h            |Legend of the Sword Bandit Surprise              |
 |CCC-ANIME1-2      |II            |2h            |Let’s Find the Sword, GO!                        |
 |CCC-ANIME1-3      |II            |2h            |Star Sword Return                                |
-|CCC-ARCANA-0      |I             |2h            |The Phantom Pursuit                              |
+|CCC-APL-01-01     |I             |4h            |It’s Not Easy Being Gene                         |
+|CCC-ARCANA-01     |I             |2h            |The Phantom Pursuit                              |
+|CCC-ARCANA-02     |I             |2h            |Seclusion                                        |
 |CCC-BLD-11        |I             |2h            |Bleeding Gate: Pandemonium                       |
 |CCC-BLD-12        |I             |2h            |Bleeding Gate: Amalgamation                      |
 |CCC-BLD-0103      |II            |4h            |Bleeding Gate: Lineage                           |
@@ -3058,6 +3059,17 @@ Caravan duty in the Cormanthor forest can be dangerous, but normally you only ha
 **Komentarz**
 Brak uwag.
 
+### [The Phantom Pursuit](https://www.dmsguild.com/m/product/334713)
+
+**Informacje o przygodzie**
+The sleepy and idyllic little villagers of Kuringrove know of a well-kept secret deep in the Cormanthor Forest. If you're lucky, you might stumble across the home of two elderly seers, who have lived here for longer than there's even been a village.
+
+They may be the only ones who can provide answers for all the strange goings on in the forest!
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Złoto zgodnie z tabelą.
 
 ### [Bleeding Gate: Pandemonium](https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium&affiliate_id=925821)
 
@@ -3207,7 +3219,7 @@ Part Two of The Chaos in Melvaunt.
 A four-hour adventure for 1st-4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przygoda nie przewiduje żadnej magitki, wynagrodzeniem jest złoto i wdzięczność mieszkańców miasta. Sama przygoda wydaje się że może zabić postacie na T1, zwłaszcza pod koniec. Proponuję jako magitkę wpisać do przygody Sentinel Shield, z racji fabuły i miejsca w którym przygoda się odbywa w większej części.
 
 ### [CORE 1-3 A Hole in the World](https://www.dmsguild.com/product/185275/CCCBMG03-CORE-13-A-Hole-in-the-World&affiliate_id=925821)
 
