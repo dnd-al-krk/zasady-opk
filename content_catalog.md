@@ -6825,7 +6825,7 @@ Złoto zgodnie z tabelką OPK
 
 Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwe tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, serie należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
 
-[Coming Soon]
+- CCC-SFBAY-02-01 - Old Enemies Arise, CCC-SFBAY-02-02 - Rise of the Ogre King, CCC-SFBAY-02-03 - The Risen Minotaur Lord
 
 ## Proces dodawania nowych przygód do katalogu OPK
 
