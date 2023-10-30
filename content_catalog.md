@@ -337,6 +337,7 @@
 |CCC-GHCBK1-08     |I             |2h            |The Hunt for Cutter Jack                         |
 |CCC-GHCBK1-09     |I             |2-4h          |Scavengers                                       |
 |CCC-GHCBK1-10     |III           |4h            |The Heart of Shadow                              |
+|CCC-GHCBK3-02     |I             |4h            |The Girl With the Wet Nose                       |
 |CCC-GLIP-0101     |I             |2h            |Glip Dak                                         |
 |CCC-GLIP-0102     |I             |2h            |Beneath Glip Dak                                 |
 |CCC-GLIP-0103     |I             |4h            |Citadel of Vlaakith                              |
@@ -4681,6 +4682,12 @@ ever before. As if they are driven to some hidden task or agenda. But they arenâ
 stirring in the wilds of the kingdoms. More shadows have woken in the dark places that the weak of
 will dare not go, but where the brave will dive into the heart of. Which are you?
 A Four-Hour Adventure for 11th-16th Level Characters
+
+### [The Girl with the Wet Nose](https://www.dmsguild.com/product/344691/CCCGHCBK0302-The-Girl-with-the-Wet-Nose)?affiliate_id=925821)
+
+**Informacje o przygodzie**
+Some evils never die. Only the fuzziest heroes have enough lives to end the threat.
+
 
 **Komentarz**
 Brak uwag zwiÄ…zanych z prowadzeniem przygody w OPK.
