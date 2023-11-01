@@ -371,6 +371,9 @@
 |CCC-MIND-02       |III           |4h            |Mind Trip                                        |
 |CCC-MIND-03       |III           |4h            |Dream Walkers                                    |
 |CCC-MMT01-01      |I             |2-4h          |Secrets of Imaginary Friends                     |
+|CCC-MMT01-02      |I             |2h          |A Little Competition Never Hurt Anyone                     |
+|CCC-MMT01-03      |I             |2h          |Honorable Dissent - A Price of the Red War Adventure                     |
+|CCC-MMT01-05      |I             |2h          |Secrets of the Cure                     |
 |CCC-MMT02-01      |II            |2-4h          |The Stuff of Memories                            |
 |CCC-MYR-01        |II            |4h            |Friends in Need                                  |
 |CCC-NBDD01-01     |II            |2h            |Clever                                           |
@@ -5089,13 +5092,44 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### [Secrets of Imaginary Friends](https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends?affiliate_id=925821)
 
-
 **Informacje o przygodzie**
 The Moonsea Children’s Hospital is now open, and a small town has sprung up around Elua’s
 Lighthouse. The townsfolk share stories about strange occurrences in the area that they attribute to
 the fiendish creatures that escaped during the hospital’s benefit gala. Possibly it is all just rumors,
 but a peculiar and lonely child at the hospital may hold the answers.
+
 A 2-4 Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [A Little Competition Never Hurt Anyone](https://www.dmsguild.com/product/294627/CCCMMT-0102-A-Little-Competition-Never-Hurt-Anyone)
+
+**Informacje o przygodzie**
+The festival of Greengrass is fast approaching, and a scavenger hunt has been scheduled to take place that day in the town of Lighthouse, organized by a noble in nearby Hillsfar. Something more seems to be going on here though. Between a missing aide and overly competitive rival teams, this doesn’t seem to be your standard entertainment. But it’s only a game. Or is it?
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Honorable Dissent - A Price of the Red War Adventure](https://www.dmsguild.com/product/295871/CCCMMT-0103-Honorable-Dissent--A-Price-of-the-Red-War-Adventure)
+
+**Informacje o przygodzie**
+The Red War rages after the fall of Mulmaster. Refugees from Mulmaster are steadily spreading across the region, looking for a new beginning. In the chaos of the evacuation, however, a boy is found along the road. As the dust settles, it comes to light that the child’s father is a
+quartermaster with the Thayan army. Fearing repercussion for the Mulmaster refugees, you have been asked to return the child.
+
+A Two-Hour Adventure for Tier 1 characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Secrets of the Cure](https://www.dmsguild.com/product/309003/CCCMMT-0105-Secrets-of-the-Cure)
+
+**Informacje o przygodzie**
+Some of the children at the Moonsea Children’s Hospital have come down with a rare illness. Director Salinop has not been able to determine what is causing the affliction. She has pleaded with local adventurers to help determine the cause and find a cure.
+
+A Two -Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
