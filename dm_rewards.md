@@ -65,6 +65,17 @@ W sesji zero, oprócz DMa zabiegającego o wpis przygody do CC, powinni brać ud
 
 Za wzięcie udziału w sesji zero DMowie oraz gracze otrzymują specjalną nagrodę w PQ (patrz tabela X), nie otrzymują jednak żadnych innych nagród. Ponadto poprowadzenie sesji zero liczy się do questa "Kwarta za kwartał", ale nie do żadnych innych questów.
 
+### Przygody 'Epic' (równoczesne prowadzenie na kilku stołach) 
+Tak zwane 'epiki' są prowadzone jednocześnie na kilku stolikach (zwykle na różnym tierze), ze wsparciem DMów koordynujących wydarzenie.
+
+Z uwagi na trud związany z organizacją takiego przedsięwzięcia, każdy DM (prowadzący i koordynator) biorący udział w wydarzeniu otrzymuje następujące nagrody: 
+
+-Podstawowe nagrody za prowadzenie sesji najniższego tieru stolika biorącego udział w wydarzeniu, pomnożone przez 2 (jeśli epik jest przewidziany na 4h gry i zawiera przygody T1 i T2, to każdy DM otrzyma nagrodę jak za poprowadzenie 8h przygód na T1)
+-Uzyskuje dostęp do wszystkich magicznych przedmiotów obecnych w przygodach, na normalnych zasadach.
+-Wzięcie udziału w epiku jako DM liczy się jako poprowadzenie przygody na poczet questów (wpis do CC rozstrzyga przynależność do serii przygód).
+
+Ponadto, w ramach przygotowania do epika należy poprowadzić sesję 0 dla każdego z torów przygody (chyba że dany epik był już prowadzony w OPK). Sesja 0 jest nagradzana na normalnych zasadach. 
+
 
 ## Misje i nagrody dodatkowe
 
