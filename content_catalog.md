@@ -2670,7 +2670,7 @@ Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody mo�
 The search for a missing young woman kicks off a treacherous journey on the Sea of Fallen Stars. A Four to Six-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Uwaga: warto się zastanowić co zrobić kiedy postać wypadnie za burtę podczas sztormu (skutek uboczny zdania whelma Water Elementala). Niezalecane prowadzenie trylogii, kolejna przygoda (Blood in the Water) jest tragicznie napisana. 
 
 ### [Blood in the Water](https://www.dmsguild.com/product/282024/DDALDRW02-Blood-in-the-Water)
 
@@ -2679,8 +2679,9 @@ An exploration to the underwater city of Myth Nantar leads to a conspiracy, a my
 heist. A Four-to-Six Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+1. W przygodzie nie występują skarby, więc należy użyć tabelki. Wyjątkiem jest jedno miejsce gdzie można zdobyć 200gp. Te 200gp należy odliczyć od nagrody z tabelki i przydzielić tylko jeśli postacie je znajdą.
+2. Brak mechaniki  porywania postaci przez morze (tylko informacja, że jest 50% szans na złamanie się deski i postać odpływa 10ft co turę). Warto to wziąć pod uwagę przy planowaniu.
+3. Ogólnie przygoda jest bardzo słabo napisana, występują niekonsekwencje w historii, brak jest skalowania encounterów (poza jednym). Prowadzenie niezalecane.
 
 
 ### [Saving Silverbeard](https://www.dmsguild.com/product/285151/DDALDRW03-Saving-Silverbeard)
@@ -3748,8 +3749,7 @@ awaits, if they wish to survive.
 A four-hour adventure for 11th-16th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+Przygoda oferuję potencjalnie 30500gp. Jest to ponad trzykrotność wartości jaka by wychodziła z tabelki, dlatego należy obniżyć wszystkie kwoty o połowę.
 
 
 ### [HULB 4-1 Whispers from the Deep](https://www.dmsguild.com/product/264698/CCCBMG40-HULB-41-Whispers-from-the-Deep?affiliate_id=925821)
@@ -4675,8 +4675,6 @@ A Two-Hour to Four-Hour Adventure for Tier 1 Characters
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-
-
 ### [The Heart of Shadow](https://www.dmsguild.com/product/260880/CCCGHCBK110-The-Heart-of-Shadow?affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -4686,11 +4684,13 @@ stirring in the wilds of the kingdoms. More shadows have woken in the dark place
 will dare not go, but where the brave will dive into the heart of. Which are you?
 A Four-Hour Adventure for 11th-16th Level Characters
 
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
 ### [The Girl with the Wet Nose](https://www.dmsguild.com/product/344691/CCCGHCBK0302-The-Girl-with-the-Wet-Nose)?affiliate_id=925821)
 
 **Informacje o przygodzie**
 Some evils never die. Only the fuzziest heroes have enough lives to end the threat.
-
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
@@ -4704,7 +4704,6 @@ captured for refusing to pay their tariffs and his house looks to hire adventure
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
-
 
 
 ### [Beneath Glip Dak](https://www.dmsguild.com/product/249541/CCCGLIP0102-Beneath-Glip-Dak?affiliate_id=925821)
