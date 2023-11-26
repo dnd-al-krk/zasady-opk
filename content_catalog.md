@@ -506,7 +506,7 @@
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
 |WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
-|WVW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
+|WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
