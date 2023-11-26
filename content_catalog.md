@@ -507,6 +507,8 @@
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
+|WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
+|WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
@@ -6846,6 +6848,24 @@ Something evil is devouring the souls of the living in Chult, but before the cha
 **Komentarz**
 Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
 Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
+
+### [Pixie Dreams](https://www.dmsguild.com/product/375416/WBWDCDCAF01-Pixie-Dreams)
+
+**Informacje o przygodzie**
+An intrepid pixie resolves to leave the safety of the mangrove trees and visit the town of Barangay. Convincing her mother is one thing but completing her Rite to Flight is another! Can the adventurers help begin her journey?
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Barangay Bound](https://www.dmsguild.com/product/391325/WBWDCDCAF01B-Barangay-Bound?src=by_author_of_product)
+
+**Informacje o przygodzie**
+It’s time for Ali to follow her dream and head to the next big town, Barangay. But the Encanta Forest is far too dangerous to traverse by oneself. Do you mind helping the young pixie move?
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [War Tortle Brewery](https://www.dmsguild.com/product/319773/War-Tortle-Brewery--Adventure)
 
