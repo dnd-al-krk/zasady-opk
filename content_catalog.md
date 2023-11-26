@@ -355,6 +355,7 @@
 |CCC-HATMS02-01    |II            |4h            |Illithid Activities                              |
 |CCC-HATMS02-02    |III           |4h            |Something Vile This Way Comes                    |
 |CCC-HATMS02-03    |III           |4h            |A Vile Wake                                      |
+|CCC-HERO-BK03-03  |II            |4h            |A Lute Strung Double                             |
 |CCC-IFK-01        |II            |2h            |Shadow of Greed                                  |
 |CCC-IFK-02        |II            |2h            |Shadow of the Weave                              |
 |CCC-IFK-03        |II            |4h            |Shadow of the Dusk Queen                         |
@@ -389,6 +390,7 @@
 |CCC-ODFC-0201     |I             |4h            |Serenade of Pain                                 |
 |CCC-ODFC-0202     |II            |4h            |Palace of the Efreeti                            |
 |CCC-ODFC-0203     |III           |4h            |Night’s Bright Dawning                           |
+|CCC-ODFC-03-01    |I             |2-4h          |A Momentary Lapse of Reason                      |
 |CCC-OHAYOCON-01-03|II            |2-4h          |Fiendly Competition                              |
 |CCC-PDXAGE-0101   |I             |2h            |The White Well                                   |
 |CCC-PDXAGE-0201   |II            |2h            |The Dark Hunt                                    |
@@ -4906,6 +4908,19 @@ A 4-Hour Adventure for Tier 3 Characters. Optimized for APL 14.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Lute Strung Double](https://www.dmsguild.com/product/340677/CCCHEROBK0303-A-Lute-Strung-Double)
+
+**Informacje o przygodzie**
+Word is out that Quint Degallard, the famous Waterdhavian Bard, is planning to retire and auction off her prized lute to fund her retirement. 
+She has returned to her hometown of Gallard for her final performance in the venue where she first began playing. But the auction of such 
+a rare artifact has attracted all sorts of nefarious clientele. Can the adventurers make sure the auction goes off without a hitch? 
+Or will Quint lose her prized possession, her retirement, and maybe even her life?
+
+A Four-Hour Adventure for Characters of 5th – 10th Level
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
 ### Shadow of Greed
 
 Niedostępna na DMsguild
@@ -5321,7 +5336,18 @@ A four hour adventure for 11th – 16th level characters
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Momentary Lapse of Reason](https://www.dmsguild.com/product/296435/CCCODFC0301-A-Momentary-Lapse-of-Reason?affiliate_id=18983)
 
+**Informacje o przygodzie**
+With the fall of Mulmaster during the Red War, the Moonsea region has never been so depressed. 
+The churches of Milil and Lliira think they have a solution – a festival of music culminating in an epic, Battle of the Bards. 
+Can you help raise the spirits of the people? 
+Do you have what it takes to rock the people of Mulmaster with music, not elemental devastation?
+Part 1 of the Return of Revelry Series.
+A Two/Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Friendly Competition](https://www.dmsguild.com/product/265659/CCCOHAYOCON0103-Fiendly-Competition?affiliate_id=925821)
 
