@@ -96,7 +96,7 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - One Grung Above
 - podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
 - podklasa Path of the Giant i featy z Bigby Presents: Glory of the Giants (BP:GotG)
-- featy z Planescape: Adventures in the Multiverse (PS:AitM)
+- featy z Planescape: Adventures in the Multiverse (PS:AitM) (nie obowiązuje ograniczenie kampanii feata Scion of the Outer Planes)
 
 Następujące opcje postaci **NIE** są dozwolone:
 
