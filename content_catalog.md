@@ -308,6 +308,7 @@
 |CCC-FXC-01        |I             |2h            |Nothing Happens in Elmwood                       |
 |CCC-GAD01-01      |II            |2-4h          |Broken Blade                                     |
 |CCC-GAD01-02      |II            |2-4h          |Red War: Black Phoenix                           |
+|CCC-GAD02-03      |III           |4h            |Arena of Champions                               |
 |CCC-GARY-01       |II            |2h            |A Night to Remember                              |
 |CCC-GARY-02       |II            |2h            |To Find a Way Out                                |
 |CCC-GARY-03       |II            |2h            |Oh, We’re In It Now                              |
@@ -370,13 +371,14 @@
 |CCC-MACE-03       |I             |4h            |Haunted Memories                                 |
 |CCC-MCX-01        |I             |2h            |All in a Day’s Work                              |
 |CCC-MCX01-02      |I             |2h            |The Rescue                                       |
+|CCC-MELB-01       |II            |4h            |A Single Tearfall                                |
 |CCC-MIND-01       |III           |4h            |Lost in Thought                                  |
 |CCC-MIND-02       |III           |4h            |Mind Trip                                        |
 |CCC-MIND-03       |III           |4h            |Dream Walkers                                    |
 |CCC-MMT01-01      |I             |2-4h          |Secrets of Imaginary Friends                     |
-|CCC-MMT01-02      |I             |2h          |A Little Competition Never Hurt Anyone                     |
-|CCC-MMT01-03      |I             |2h          |Honorable Dissent - A Price of the Red War Adventure                     |
-|CCC-MMT01-05      |I             |2h          |Secrets of the Cure                     |
+|CCC-MMT01-02      |I             |2h            |A Little Competition Never Hurt Anyone           |
+|CCC-MMT01-03      |I             |2h            |Honorable Dissent - A Price of the Red War Adventure |
+|CCC-MMT01-05      |I             |2h            |Secrets of the Cure                              |
 |CCC-MMT02-01      |II            |2-4h          |The Stuff of Memories                            |
 |CCC-MYR-01        |II            |4h            |Friends in Need                                  |
 |CCC-NBDD01-01     |II            |2h            |Clever                                           |
@@ -992,7 +994,6 @@ An adventure for 1st-4th level characters.
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
-
 ### [Eye of the Tempest](https://www.dmsguild.com/product/170484/DDEX209-Eye-of-the-Tempest-5e&affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -1004,7 +1005,7 @@ elements and convince the monks to escape?
 An eight-hour adventure for 5th-10th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
 
 ### [Cloaks and Shadows](https://www.dmsguild.com/product/170485/DDEX210-Cloaks-and-Shadows-5e&affiliate_id=925821)
 
@@ -1015,9 +1016,7 @@ the Theater of the Stars, but you never know what to expect in the City of Dange
 A four-hour adventure for 1st-4th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
-
+Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
 
 ### [Oubliette of Fort Iron](https://www.dmsguild.com/product/170486/DDEX211-Oubliette-of-Fort-Iron-5e&affiliate_id=925821)
 
@@ -1028,7 +1027,7 @@ the miners. Can the mine and the miners be saved from the dangers of the Oubliet
 A two-hour adventure for 1st-4th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
 
 ### [Dark Rites at Fort Dalton](https://www.dmsguild.com/product/170486/DDEX211-Oubliette-of-Fort-Iron-5e&affiliate_id=925821)
 
@@ -2696,7 +2695,9 @@ sea-faring tale on the Sea of Fallen Stars. A Four-to-Six Hour Adventure for Tie
 Optimized for APL 13.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jeden z bossów w przygodzie jest Arcane Tricksterem, którego statystyki wskazują na poziom 15. Nie ma on w stat blocku sneak attacku przez co jest prawie bezużyteczny w walce. Należy go traktować jakby miał Sneak Attack w następującym brzmieniu:
+Sneak Attack (1/Turn): Rune deals an extra 8d6 damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the Rune that isn't incapacitated and Rune doesn't have disadvantage on the attack roll.
+Zalecenia co do prowadzenia- zbuffować bossa. 
 
 ### [Foreign Affairs](https://www.dmsguild.com/product/326717/DDALDRW04-Foreign-Affairs)
 
@@ -3236,8 +3237,7 @@ the bravery of a few heroes to avert total disaster.
 Part Three of The Chaos in Melvaunt.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+Brak magitki w przygodzie, przegłosowano Guardian Emblem.
 
 
 ### [CORE 2-1 Tales of Good & Evil](https://www.dmsguild.com/product/189087/CCCBMG04-CORE-21-Tales-of-Good--Evil&affiliate_id=925821)
@@ -3251,7 +3251,7 @@ A D&D Adventurers League adventure set in Melvaunt.
 A four-hour adventure for 1st - 4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Brak magitki w przygodzie, przegłosowano Eversmoking Bottle.
 
 ### [CORE 2-2 Songs of Law & Chaos](https://www.dmsguild.com/product/189088/CCCBMG05-CORE-22-Songs-of-Law--Chaos&affiliate_id=925821)
 
@@ -4291,6 +4291,16 @@ Phoenix, culminating in a final battle like no other.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [Arena of Champions](https://www.dmsguild.com/product/315764/CCCGAD0203-Arena-of-Champions)
+
+**Informacje o przygodzie**
+In honor of Tempus, Hillsfar will host the Celebration of Swords – the largest battle tournament that the Moonsea has ever seen. Warriors from across the multiverse will descend upon the arena for a chance at eternal glory. Does your team have what it takes to become champions?
+A four-hour-adventure for 11th to 16th level characters. This adventure revels in the glory of high tier D&D combat. Its primary purpose is to allow players to enjoy battling their high-level characters through a series of exciting encounters. The adventure also provides many means for the DM to customize the challenges to provide a unique experience.
+
+**Komentarz**
+Przygoda zawiera Horn of Valhalla (Brass), czyli wersję rare do podmiany na Horn of Valhalla (Bronze) (VR).
+
+
 ### [A Night to Remember](https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember&affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -4921,7 +4931,7 @@ Or will Quint lose her prized possession, her retirement, and maybe even her lif
 A Four-Hour Adventure for Characters of 5th – 10th Level
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w ramach OPK
+Magitka do podmiany na odpowiednie rarity: Canaith Mandolin.
 
 ### Shadow of Greed
 
@@ -5085,9 +5095,16 @@ someone tries to force the adventuring life. This is a case of the former helpin
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Single Tearfall](https://www.dmsguild.com/product/337763/CCCMELB01-A-Single-Tearfall)
+
+
+**Informacje o przygodzie**
+An injured young fisherman stumbles into Elventree with a brightly coloured egg in his arms. He claims it fell from the sky and broke his rowboat. When he swam to the shore an elf with skin of ash attacked him and tried to take the egg. Will you help him keep it safe, Adventurers? A Two/Four-Hour Adventure for Tier two Characters. Optimized for APL 8.
+
+**Komentarz**
+Wand of Magic Detection (Uncommon) -> Wand of Wonder (Rare).
 
 ### [Lost in Thought](https://www.dmsguild.com/product/246253/CCCMIND0101-Lost-in-Thought?affiliate_id=925821)
-
 
 
 **Informacje o przygodzie**
@@ -5449,8 +5466,7 @@ This is part 1 of 3!
 A 2-hour Adventure for 1st – 4th Level Characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+W przygodzie nagrodą jest Common Magic Item: Tankard of Sobriety- do zastąpienia na Decanter of Endless Water.
 
 
 ### [Prison Pitfalls](https://www.dmsguild.com/product/240924/CCCPRIORY02-Prison-Pitfalls?affiliate_id=925821)
