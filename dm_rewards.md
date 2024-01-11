@@ -7,7 +7,7 @@
 Mistrzem Gry (DMem) jest osoba, która w ostatnim półroczu poprowadziła przynajmniej jedną sesję przy otwartym stoliku. Utrata statusu DMa nie wiąże się z utratą dotychczas zdobytych punktów nagród.
 
 ### Przygody, sesje i godziny prowadzenia
-We wszystkich poniższych zapisach i tabelach przez przygodę rozumiemy pojedynczy segment materiału oznaczony jednym kodem do celów prowadzenia w OPK. Przez sesję rozumiemy jednorazowe wydarzenie poprowadzenia takiej przygody (nawet jeśli czas trwania przygody wymagał zgromadzenia DM i graczy na więcej niż jednym spotkaniu). W szczególności, wielokrotnie można prowadzić sesje oparte na tej samej przygodzie, ale będą się liczyć jako jedna przygoda do misji, w których wymaganiem jest prowadzenie danej liczby różnych przygód. Z drugiej strony, niektóre przygody opatrzone jednym kodem (np. zazwyczaj pierwsze przygody sezonów) składają się z kilku ,,miniprzygód’’. Przykładowo, rozegranie 4 z 5 1-godzinnych ,,miniprzygód” DDEX 1-1 Defiance in Phlan w ciągu dwóch spotkań liczy się jako 4 godziny prowadzenia na potrzeby obliczeń Punktów Magicznych Przedmiotów, natomiast tylko jako jedna sesja/przygoda na potrzeby innych misji.
+We wszystkich poniższych zapisach i tabelach przez przygodę rozumiemy pojedynczy segment materiału oznaczony jednym kodem do celów prowadzenia w OPK. Przez sesję rozumiemy jednorazowe wydarzenie poprowadzenia takiej przygody (nawet jeśli czas trwania przygody wymagał zgromadzenia DM i graczy na więcej niż jednym spotkaniu). W szczególności, wielokrotnie można prowadzić sesje oparte na tej samej przygodzie, ale będą się liczyć jako jedna przygoda do misji, w których wymaganiem jest prowadzenie danej liczby różnych przygód. Z drugiej strony, niektóre przygody opatrzone jednym kodem (np. zazwyczaj pierwsze przygody sezonów) składają się z kilku "miniprzygód". Przykładowo, rozegranie 4 z 5 1-godzinnych "miniprzygód” DDEX 1-1 Defiance in Phlan w ciągu dwóch spotkań liczy się jako 4 godziny prowadzenia na potrzeby obliczeń Punktów Magicznych Przedmiotów, natomiast tylko jako jedna sesja/przygoda na potrzeby innych misji.
 
 ### Rodzaje wynagrodzenia za prowadzenie
 
@@ -59,7 +59,7 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
 ### Sesje zero
-Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)).
+Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w [Content Catalog](content_catalog.md)).
 
 W sesji zero, oprócz DMa zabiegającego o wpis przygody do CC, powinni brać udział doświadczeni gracze/DMowie. DM ustala tier przygody, a gracze w konsultacji z DM mogą przygotować dowolną legalną postać z tego tieru (łącznie z magicznymi przedmiotami). W szczególności może być to kopia już istniejącej postaci. 
 
