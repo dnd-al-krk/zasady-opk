@@ -423,7 +423,7 @@ All weapons in the table abide by the restrictions in [chapter 4.4](#przekuwanie
 | Weapon name | Additional notes and restrictions |
 | --- | --- |
 | Weapon +1/+2/+3 | Exception 1: Each weapon can be reforged into a +1/+2/+3 weapon (abiding by general restrictions) losing all magic properties and replacing them with a bonus to hit and damage.<br /> Exception 2: Weapon reforged to +1/+2/+3 can gain the _finesse_ property. |
-| Flame Tongue (shortsword, longsword) | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. The resulting weapon cannot qualify for use with the Polearm Master feat (so it cannot be a glaive, halberd, pike or quarterstaff).|
+| Flame Tongue | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. The resulting weapon cannot qualify for use with the Polearm Master feat (so it cannot be a glaive, halberd, pike or quarterstaff).|
 | Javelin of Lightning | Can be reforged into any _simple_, _thrown_ weapon. |
 | Moon-Touched Sword | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. |
 | Sword of Wounding | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. |
