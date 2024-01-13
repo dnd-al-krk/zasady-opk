@@ -49,6 +49,8 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
  [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
+  [4.1. Klątwa likantropii](#41-klątwa-likantropii)
+
  [5. Rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
 
  [6. Mistrzowie Gry (DM)](#zaawansowane-mg)
@@ -261,13 +263,20 @@ Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego mom
 
 Jeżeli Przygoda o kodzie zaczynającym się od CCC nie zawiera jako nagrody magicznego permanentnego przedmiotu właściwego dla danego Szczebla (T1-uncommon, T2-rare, T3-very rare, T4-legendary), lub zawiera przedmiot nielegalny do użytku w OPK (lista tych przedmiotów znajduje się w Katalogu Przygód) DM może zastąpić nagrodę przewidzianą w przygodzie nagrodą o właściwej dla tego Szczbla rzadkości. DM powinien zadbać o tematyczny sens tej zamiany, może zaproponować odpowiedni przedmiot lub go wylosować, natomiast nie jest w żaden sposób ograniczony typem przedmiotu (chyba, że jest to niezbędne z przyczyn fabularnych). By podmiana mogła zostać dokonana, DM powinien przed poprowadzeniem sesji zgłosić taką potrzebę, uzyskać zgodę pozostałych DMów i postarać się o wpisanie tej zmiany do Katalogu Przygód, by ta zamiana obowiązywała DM-ów prowadzących tę przygodę w przyszłości.
 
-## 4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia<a name="zaawansowane-smierc"></a>
+## 4. Śmierć postaci, odzyskiwanie ciał, wskrzeszenia oraz klątwy<a name="zaawansowane-smierc"></a>
 
 W celu zwiększenia przyjemości z gry, wprowadzona została opcja przywrócenia do życia postaci, nawet jeśli jej ciało nie zostało odzyskane z miejsca śmierci i dostarczone do odpowiedniego kapłana w trakcie sesji, podczas której postać zginęła.
 
 Podczas następnej sesji, w ramach której rozgrywana jest ta sama przygoda, na której ta postać zginęła, możliwe jest odzyskanie jej ciała. By tak się stało, drużyna wtedy uczestnicząca w sesji musi ukończyć przygodę zwycięsko (czyli zrealizować jej główny cel fabularny). Jeśli to się nie uda w tej jednej próbie, postać jest permanentnie martwa i nie może więcej uczestniczyć w rozgrywkach OPK. Jeśli się uda, postać jest w takiej samej sytuacji, jak w wypadku gdy jej ciało zostało odzyskane podczas przygody. Nie ma ograniczeń co do Mistrza Gry i osób uczestniczących w takiej przygodzie, ale taką próbę można podjąć tylko raz.
 
+Jeśli jakaś Nagroda Fabuły lub inna zasada (np. Shelter of the Faithful) umożliwia Postaci Gracza wskrzeszenie za darmo lub obniżonym koszcie, zniżka dotyczy  tylko kosztu samego rzucenia zaklęcia, a Postać musi normalnie opłacić koszt składnika materialnego zużytego przez zaklęcie, chyba że odpowiednia zasada lub Nagroda Fabuły wyraźnie stwierdza inaczej. Przykładowo, jeśli postać ma zagwarantowaną „darmową” usługę zaklęcia Raise Dead, płaci za nią 500 gp (koszt składnika materialnego, samo zaklęcie rzucane za darmo), a jeśli ma zniżkę w postaci połowy kosztu rzucenia Revivify, to płaci 345 gp (300 gp za składnik materialny + połowa kosztu samego rzucenia zaklęcia wynoszącego 390-300=90gp).
+Jednocześnie, jeśli skorzystanie z takiej zasady lub Nagrody Fabuły wymaga wydania zasobów innych niż złoto (np. DT), traktuje się ten wydatek jako część opłaty za wskrzeszenie, tak więc nie jest zabronione skorzystanie z takiej możliwości przez postać martwą.
+
 Przypominamy, że zasoby postaci martwej, w tym jej ekwipunek (z wyjątkiem elementów potrzebnych do wskrzeszenia), są niedostępne dopóki postać nie będzie żywa.
+
+### 4.1. Klątwa likantropii
+
+Postać poddana działaniu klątwy likantropii nie może rozpocząć przygody w rozgrywkach OPK. Na przygodzie, w której taka klątwa została nabyta, lub pomiędzy przygodami na postać pod działaniem takiej klątwy musi zostać rzucone zaklęcie Remove Curse, czy to z ręki innej postaci gracza, czy to w wyniku opłacenia usługi rzucania zaklęć.
 
 ## 5. Rozwój postaci pomiędzy przygodami<a name="zaawansowane-miedzy-przygodami"></a>
 

@@ -210,11 +210,12 @@
 |CCC-AN-01         |I             |4h            |Secrets of Golden Fire                           |
 |CCC-AN-02         |I             |2h            |The Wrathful Deity of Khurovogo                  |
 |CCC-AN-03         |I             |4h            |Winter Wonderland                                |
-|CCC-APL-01-01     |I             |4h            |It’s Not Easy Being Gene                         |
 |CCC-ANIME1-1      |I             |2h            |Legend of the Sword Bandit Surprise              |
 |CCC-ANIME1-2      |II            |2h            |Let’s Find the Sword, GO!                        |
 |CCC-ANIME1-3      |II            |2h            |Star Sword Return                                |
-|CCC-ARCANA-0      |I             |2h            |The Phantom Pursuit                              |
+|CCC-APL-01-01     |I             |4h            |It’s Not Easy Being Gene                         |
+|CCC-ARCANA-01     |I             |2h            |The Phantom Pursuit                              |
+|CCC-ARCANA-02     |I             |2h            |Seclusion                                        |
 |CCC-BLD-11        |I             |2h            |Bleeding Gate: Pandemonium                       |
 |CCC-BLD-12        |I             |2h            |Bleeding Gate: Amalgamation                      |
 |CCC-BLD-0103      |II            |4h            |Bleeding Gate: Lineage                           |
@@ -307,6 +308,7 @@
 |CCC-FXC-01        |I             |2h            |Nothing Happens in Elmwood                       |
 |CCC-GAD01-01      |II            |2-4h          |Broken Blade                                     |
 |CCC-GAD01-02      |II            |2-4h          |Red War: Black Phoenix                           |
+|CCC-GAD02-03      |III           |4h            |Arena of Champions                               |
 |CCC-GARY-01       |II            |2h            |A Night to Remember                              |
 |CCC-GARY-02       |II            |2h            |To Find a Way Out                                |
 |CCC-GARY-03       |II            |2h            |Oh, We’re In It Now                              |
@@ -336,6 +338,7 @@
 |CCC-GHCBK1-08     |I             |2h            |The Hunt for Cutter Jack                         |
 |CCC-GHCBK1-09     |I             |2-4h          |Scavengers                                       |
 |CCC-GHCBK1-10     |III           |4h            |The Heart of Shadow                              |
+|CCC-GHCBK3-02     |I             |4h            |The Girl With the Wet Nose                       |
 |CCC-GLIP-0101     |I             |2h            |Glip Dak                                         |
 |CCC-GLIP-0102     |I             |2h            |Beneath Glip Dak                                 |
 |CCC-GLIP-0103     |I             |4h            |Citadel of Vlaakith                              |
@@ -353,6 +356,7 @@
 |CCC-HATMS02-01    |II            |4h            |Illithid Activities                              |
 |CCC-HATMS02-02    |III           |4h            |Something Vile This Way Comes                    |
 |CCC-HATMS02-03    |III           |4h            |A Vile Wake                                      |
+|CCC-HERO-BK03-03  |II            |4h            |A Lute Strung Double                             |
 |CCC-IFK-01        |II            |2h            |Shadow of Greed                                  |
 |CCC-IFK-02        |II            |2h            |Shadow of the Weave                              |
 |CCC-IFK-03        |II            |4h            |Shadow of the Dusk Queen                         |
@@ -367,10 +371,14 @@
 |CCC-MACE-03       |I             |4h            |Haunted Memories                                 |
 |CCC-MCX-01        |I             |2h            |All in a Day’s Work                              |
 |CCC-MCX01-02      |I             |2h            |The Rescue                                       |
+|CCC-MELB-01       |II            |4h            |A Single Tearfall                                |
 |CCC-MIND-01       |III           |4h            |Lost in Thought                                  |
 |CCC-MIND-02       |III           |4h            |Mind Trip                                        |
 |CCC-MIND-03       |III           |4h            |Dream Walkers                                    |
 |CCC-MMT01-01      |I             |2-4h          |Secrets of Imaginary Friends                     |
+|CCC-MMT01-02      |I             |2h            |A Little Competition Never Hurt Anyone           |
+|CCC-MMT01-03      |I             |2h            |Honorable Dissent - A Price of the Red War Adventure |
+|CCC-MMT01-05      |I             |2h            |Secrets of the Cure                              |
 |CCC-MMT02-01      |II            |2-4h          |The Stuff of Memories                            |
 |CCC-MYR-01        |II            |4h            |Friends in Need                                  |
 |CCC-NBDD01-01     |II            |2h            |Clever                                           |
@@ -384,6 +392,7 @@
 |CCC-ODFC-0201     |I             |4h            |Serenade of Pain                                 |
 |CCC-ODFC-0202     |II            |4h            |Palace of the Efreeti                            |
 |CCC-ODFC-0203     |III           |4h            |Night’s Bright Dawning                           |
+|CCC-ODFC-03-01    |I             |2-4h          |A Momentary Lapse of Reason                      |
 |CCC-OHAYOCON-01-03|II            |2-4h          |Fiendly Competition                              |
 |CCC-PDXAGE-0101   |I             |2h            |The White Well                                   |
 |CCC-PDXAGE-0201   |II            |2h            |The Dark Hunt                                    |
@@ -492,11 +501,17 @@
 |CCC-WYC1-1        |II            |4h            |Back to the Burning                              |
 |CCC-WYC1-2        |II            |4h            |Where Rock and Fire Meet                         |
 |CCC-WYC1-3        |II            |4h            |The Dawn Heresy                                  |
+|CCC-WYC2-1        |II            |2-4h            |The Light of Heresy|
+|CCC-WYC2-2        |II            |2-4h            |A Shard of Shar |
+|CCC-WYC2-3        |II            |2-4h            |What History Leaves Behind|
 |CCC-YLRA01-01     |II            |4h            |Her Dying Wish                                   |
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
+|WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
+|WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
+|PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -979,7 +994,6 @@ An adventure for 1st-4th level characters.
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
-
 ### [Eye of the Tempest](https://www.dmsguild.com/product/170484/DDEX209-Eye-of-the-Tempest-5e&affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -991,7 +1005,7 @@ elements and convince the monks to escape?
 An eight-hour adventure for 5th-10th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
 
 ### [Cloaks and Shadows](https://www.dmsguild.com/product/170485/DDEX210-Cloaks-and-Shadows-5e&affiliate_id=925821)
 
@@ -1002,9 +1016,7 @@ the Theater of the Stars, but you never know what to expect in the City of Dange
 A four-hour adventure for 1st-4th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
-
+Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
 
 ### [Oubliette of Fort Iron](https://www.dmsguild.com/product/170486/DDEX211-Oubliette-of-Fort-Iron-5e&affiliate_id=925821)
 
@@ -1015,7 +1027,7 @@ the miners. Can the mine and the miners be saved from the dangers of the Oubliet
 A two-hour adventure for 1st-4th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
 
 ### [Dark Rites at Fort Dalton](https://www.dmsguild.com/product/170486/DDEX211-Oubliette-of-Fort-Iron-5e&affiliate_id=925821)
 
@@ -2661,7 +2673,7 @@ Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody mo�
 The search for a missing young woman kicks off a treacherous journey on the Sea of Fallen Stars. A Four to Six-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Uwaga: warto się zastanowić co zrobić kiedy postać wypadnie za burtę podczas sztormu (skutek uboczny zdania whelma Water Elementala). Niezalecane prowadzenie trylogii, kolejna przygoda (Blood in the Water) jest tragicznie napisana. 
 
 ### [Blood in the Water](https://www.dmsguild.com/product/282024/DDALDRW02-Blood-in-the-Water)
 
@@ -2670,8 +2682,9 @@ An exploration to the underwater city of Myth Nantar leads to a conspiracy, a my
 heist. A Four-to-Six Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+1. W przygodzie nie występują skarby, więc należy użyć tabelki. Wyjątkiem jest jedno miejsce gdzie można zdobyć 200gp. Te 200gp należy odliczyć od nagrody z tabelki i przydzielić tylko jeśli postacie je znajdą.
+2. Brak mechaniki  porywania postaci przez morze (tylko informacja, że jest 50% szans na złamanie się deski i postać odpływa 10ft co turę). Warto to wziąć pod uwagę przy planowaniu.
+3. Ogólnie przygoda jest bardzo słabo napisana, występują niekonsekwencje w historii, brak jest skalowania encounterów (poza jednym). Prowadzenie niezalecane.
 
 
 ### [Saving Silverbeard](https://www.dmsguild.com/product/285151/DDALDRW03-Saving-Silverbeard)
@@ -2682,7 +2695,9 @@ sea-faring tale on the Sea of Fallen Stars. A Four-to-Six Hour Adventure for Tie
 Optimized for APL 13.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jeden z bossów w przygodzie jest Arcane Tricksterem, którego statystyki wskazują na poziom 15. Nie ma on w stat blocku sneak attacku przez co jest prawie bezużyteczny w walce. Należy go traktować jakby miał Sneak Attack w następującym brzmieniu:
+Sneak Attack (1/Turn): Rune deals an extra 8d6 damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the Rune that isn't incapacitated and Rune doesn't have disadvantage on the attack roll.
+Zalecenia co do prowadzenia- zbuffować bossa. 
 
 ### [Foreign Affairs](https://www.dmsguild.com/product/326717/DDALDRW04-Foreign-Affairs)
 
@@ -3033,7 +3048,6 @@ A Two-Hour Adventure for 5th-10th level characters Optimized for five 7th level 
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
-
 ### [Star Sword Return](https://www.dmsguild.com/product/236788/CCC--Anime--13-Star-Sword-Return?affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -3045,7 +3059,6 @@ A Two-Hour Adventure for 5th-10th Level Characters
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
-
 ### [The Phantom Pursuit](https://www.dmsguild.com/m/product/334713)
 
 **Informacje o przygodzie**
@@ -3054,6 +3067,17 @@ Caravan duty in the Cormanthor forest can be dangerous, but normally you only ha
 **Komentarz**
 Brak uwag.
 
+### [Seclusion](https://www.dmsguild.com/product/334689/CCCARCANA02-Seclusion)
+
+**Informacje o przygodzie**
+The sleepy and idyllic little villagers of Kuringrove know of a well-kept secret deep in the Cormanthor Forest. If you're lucky, you might stumble across the home of two elderly seers, who have lived here for longer than there's even been a village.
+
+They may be the only ones who can provide answers for all the strange goings on in the forest!
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Złoto zgodnie z tabelą.
 
 ### [Bleeding Gate: Pandemonium](https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium&affiliate_id=925821)
 
@@ -3190,7 +3214,7 @@ Part One of The Chaos in Melvaunt.
 A four-hour adventure for 1st-4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Story Award "Chunk of Adamantine" należy wymienić na magiczny przedmiot będący nagrodą dla graczy (z takimi samymi warunkami otrzymania) - Adamantine Splint lub Breastplate, do wyboru przez graczy.
 
 
 
@@ -3203,7 +3227,7 @@ Part Two of The Chaos in Melvaunt.
 A four-hour adventure for 1st-4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przygoda nie przewiduje żadnej magitki, wynagrodzeniem jest złoto i wdzięczność mieszkańców miasta. Sama przygoda wydaje się że może zabić postacie na T1, zwłaszcza pod koniec. Proponuję jako magitkę wpisać do przygody Sentinel Shield, z racji fabuły i miejsca w którym przygoda się odbywa w większej części.
 
 ### [CORE 1-3 A Hole in the World](https://www.dmsguild.com/product/185275/CCCBMG03-CORE-13-A-Hole-in-the-World&affiliate_id=925821)
 
@@ -3213,8 +3237,7 @@ the bravery of a few heroes to avert total disaster.
 Part Three of The Chaos in Melvaunt.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+Brak magitki w przygodzie, przegłosowano Guardian Emblem.
 
 
 ### [CORE 2-1 Tales of Good & Evil](https://www.dmsguild.com/product/189087/CCCBMG04-CORE-21-Tales-of-Good--Evil&affiliate_id=925821)
@@ -3228,7 +3251,7 @@ A D&D Adventurers League adventure set in Melvaunt.
 A four-hour adventure for 1st - 4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Brak magitki w przygodzie, przegłosowano Eversmoking Bottle.
 
 ### [CORE 2-2 Songs of Law & Chaos](https://www.dmsguild.com/product/189088/CCCBMG05-CORE-22-Songs-of-Law--Chaos&affiliate_id=925821)
 
@@ -3730,8 +3753,7 @@ awaits, if they wish to survive.
 A four-hour adventure for 11th-16th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+Przygoda oferuję potencjalnie 30500gp. Jest to ponad trzykrotność wartości jaka by wychodziła z tabelki, dlatego należy obniżyć wszystkie kwoty o połowę.
 
 
 ### [HULB 4-1 Whispers from the Deep](https://www.dmsguild.com/product/264698/CCCBMG40-HULB-41-Whispers-from-the-Deep?affiliate_id=925821)
@@ -4269,6 +4291,16 @@ Phoenix, culminating in a final battle like no other.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [Arena of Champions](https://www.dmsguild.com/product/315764/CCCGAD0203-Arena-of-Champions)
+
+**Informacje o przygodzie**
+In honor of Tempus, Hillsfar will host the Celebration of Swords – the largest battle tournament that the Moonsea has ever seen. Warriors from across the multiverse will descend upon the arena for a chance at eternal glory. Does your team have what it takes to become champions?
+A four-hour-adventure for 11th to 16th level characters. This adventure revels in the glory of high tier D&D combat. Its primary purpose is to allow players to enjoy battling their high-level characters through a series of exciting encounters. The adventure also provides many means for the DM to customize the challenges to provide a unique experience.
+
+**Komentarz**
+Przygoda zawiera Horn of Valhalla (Brass), czyli wersję rare do podmiany na Horn of Valhalla (Bronze) (VR).
+
+
 ### [A Night to Remember](https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember&affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -4657,8 +4689,6 @@ A Two-Hour to Four-Hour Adventure for Tier 1 Characters
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-
-
 ### [The Heart of Shadow](https://www.dmsguild.com/product/260880/CCCGHCBK110-The-Heart-of-Shadow?affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -4667,6 +4697,14 @@ ever before. As if they are driven to some hidden task or agenda. But they aren�
 stirring in the wilds of the kingdoms. More shadows have woken in the dark places that the weak of
 will dare not go, but where the brave will dive into the heart of. Which are you?
 A Four-Hour Adventure for 11th-16th Level Characters
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Girl with the Wet Nose](https://www.dmsguild.com/product/344691/CCCGHCBK0302-The-Girl-with-the-Wet-Nose)?affiliate_id=925821)
+
+**Informacje o przygodzie**
+Some evils never die. Only the fuzziest heroes have enough lives to end the threat.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
@@ -4680,7 +4718,6 @@ captured for refusing to pay their tariffs and his house looks to hire adventure
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
-
 
 
 ### [Beneath Glip Dak](https://www.dmsguild.com/product/249541/CCCGLIP0102-Beneath-Glip-Dak?affiliate_id=925821)
@@ -4883,6 +4920,19 @@ A 4-Hour Adventure for Tier 3 Characters. Optimized for APL 14.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Lute Strung Double](https://www.dmsguild.com/product/340677/CCCHEROBK0303-A-Lute-Strung-Double)
+
+**Informacje o przygodzie**
+Word is out that Quint Degallard, the famous Waterdhavian Bard, is planning to retire and auction off her prized lute to fund her retirement. 
+She has returned to her hometown of Gallard for her final performance in the venue where she first began playing. But the auction of such 
+a rare artifact has attracted all sorts of nefarious clientele. Can the adventurers make sure the auction goes off without a hitch? 
+Or will Quint lose her prized possession, her retirement, and maybe even her life?
+
+A Four-Hour Adventure for Characters of 5th – 10th Level
+
+**Komentarz**
+Magitka do podmiany na odpowiednie rarity: Canaith Mandolin.
+
 ### Shadow of Greed
 
 Niedostępna na DMsguild
@@ -5045,9 +5095,16 @@ someone tries to force the adventuring life. This is a case of the former helpin
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Single Tearfall](https://www.dmsguild.com/product/337763/CCCMELB01-A-Single-Tearfall)
+
+
+**Informacje o przygodzie**
+An injured young fisherman stumbles into Elventree with a brightly coloured egg in his arms. He claims it fell from the sky and broke his rowboat. When he swam to the shore an elf with skin of ash attacked him and tried to take the egg. Will you help him keep it safe, Adventurers? A Two/Four-Hour Adventure for Tier two Characters. Optimized for APL 8.
+
+**Komentarz**
+Wand of Magic Detection (Uncommon) -> Wand of Wonder (Rare).
 
 ### [Lost in Thought](https://www.dmsguild.com/product/246253/CCCMIND0101-Lost-in-Thought?affiliate_id=925821)
-
 
 
 **Informacje o przygodzie**
@@ -5085,13 +5142,44 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### [Secrets of Imaginary Friends](https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends?affiliate_id=925821)
 
-
 **Informacje o przygodzie**
 The Moonsea Children’s Hospital is now open, and a small town has sprung up around Elua’s
 Lighthouse. The townsfolk share stories about strange occurrences in the area that they attribute to
 the fiendish creatures that escaped during the hospital’s benefit gala. Possibly it is all just rumors,
 but a peculiar and lonely child at the hospital may hold the answers.
+
 A 2-4 Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [A Little Competition Never Hurt Anyone](https://www.dmsguild.com/product/294627/CCCMMT-0102-A-Little-Competition-Never-Hurt-Anyone)
+
+**Informacje o przygodzie**
+The festival of Greengrass is fast approaching, and a scavenger hunt has been scheduled to take place that day in the town of Lighthouse, organized by a noble in nearby Hillsfar. Something more seems to be going on here though. Between a missing aide and overly competitive rival teams, this doesn’t seem to be your standard entertainment. But it’s only a game. Or is it?
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Honorable Dissent - A Price of the Red War Adventure](https://www.dmsguild.com/product/295871/CCCMMT-0103-Honorable-Dissent--A-Price-of-the-Red-War-Adventure)
+
+**Informacje o przygodzie**
+The Red War rages after the fall of Mulmaster. Refugees from Mulmaster are steadily spreading across the region, looking for a new beginning. In the chaos of the evacuation, however, a boy is found along the road. As the dust settles, it comes to light that the child’s father is a
+quartermaster with the Thayan army. Fearing repercussion for the Mulmaster refugees, you have been asked to return the child.
+
+A Two-Hour Adventure for Tier 1 characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Secrets of the Cure](https://www.dmsguild.com/product/309003/CCCMMT-0105-Secrets-of-the-Cure)
+
+**Informacje o przygodzie**
+Some of the children at the Moonsea Children’s Hospital have come down with a rare illness. Director Salinop has not been able to determine what is causing the affliction. She has pleaded with local adventurers to help determine the cause and find a cure.
+
+A Two -Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
@@ -5267,7 +5355,18 @@ A four hour adventure for 11th – 16th level characters
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Momentary Lapse of Reason](https://www.dmsguild.com/product/296435/CCCODFC0301-A-Momentary-Lapse-of-Reason?affiliate_id=18983)
 
+**Informacje o przygodzie**
+With the fall of Mulmaster during the Red War, the Moonsea region has never been so depressed. 
+The churches of Milil and Lliira think they have a solution – a festival of music culminating in an epic, Battle of the Bards. 
+Can you help raise the spirits of the people? 
+Do you have what it takes to rock the people of Mulmaster with music, not elemental devastation?
+Part 1 of the Return of Revelry Series.
+A Two/Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Friendly Competition](https://www.dmsguild.com/product/265659/CCCOHAYOCON0103-Fiendly-Competition?affiliate_id=925821)
 
@@ -5367,8 +5466,7 @@ This is part 1 of 3!
 A 2-hour Adventure for 1st – 4th Level Characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
+W przygodzie nagrodą jest Common Magic Item: Tankard of Sobriety- do zastąpienia na Decanter of Endless Water.
 
 
 ### [Prison Pitfalls](https://www.dmsguild.com/product/240924/CCCPRIORY02-Prison-Pitfalls?affiliate_id=925821)
@@ -6579,6 +6677,36 @@ a catastrophe of extraplanar proportions?
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [The Light of Heresy](https://www.dmsguild.com/product/335411/WYC-21-The-Light-of-Heresy)
+
+**Informacje o przygodzie**
+The priestess Miriam seeks a collection of artifacts to enhance the power of her Inquisition. She offers a reward to adventurers who can retrieve the first, the Sun Disk of Aumunator. There’s one catch – she isn’t sure where it can be found. 
+
+A Two-Hour Adventure for Tier 2 Characters with two one-hour bonus objectives. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [A Shard of Shar](https://www.dmsguild.com/product/335413/WYC-22-A-Shard-of-Shar)
+
+**Informacje o przygodzie**
+Miriam, a priestess of Amunator has received a message from an acquaintance in Mulmaster that she has something dark in her possession that can only be trusted with the Inquisition of the Radiant Dawn and you are the only ones she can trust. 
+
+A Two/Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [What History Leaves Behind](https://www.dmsguild.com/product/335414/WYC-23-What-History-Leaves-Behind)
+
+**Informacje o przygodzie**
+The Inquisition of the Radiant Dawn has come across an opportunity that no one would have thought possible. In one of the ruins of Thultanthar spread across the Cormanthor lies an ancient text that will be key to the Inquisition’s future success, and only you can be trusted to find it. 
+
+A Two/Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
 ### [Her Dying Wish](https://www.dmsguild.com/product/215448/CCCYLRA0101-Her-Dying-Wish)
 
 **Informacje o przygodzie**
@@ -6737,6 +6865,24 @@ Something evil is devouring the souls of the living in Chult, but before the cha
 Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
 Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
 
+### [Pixie Dreams](https://www.dmsguild.com/product/375416/WBWDCDCAF01-Pixie-Dreams)
+
+**Informacje o przygodzie**
+An intrepid pixie resolves to leave the safety of the mangrove trees and visit the town of Barangay. Convincing her mother is one thing but completing her Rite to Flight is another! Can the adventurers help begin her journey?
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Barangay Bound](https://www.dmsguild.com/product/391325/WBWDCDCAF01B-Barangay-Bound?src=by_author_of_product)
+
+**Informacje o przygodzie**
+It’s time for Ali to follow her dream and head to the next big town, Barangay. But the Encanta Forest is far too dangerous to traverse by oneself. Do you mind helping the young pixie move?
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
 ### [War Tortle Brewery](https://www.dmsguild.com/product/319773/War-Tortle-Brewery--Adventure)
 
 **Informacje o przygodzie**
@@ -6766,11 +6912,24 @@ Magiczne przedmioty:
  - Spell Scroll of Dispel Magic oraz Spell Scroll of Slow. 
  - Headband of Sobriety. 
 
+### [Autumn Burns Red](https://www.dmsguild.com/product/392794/POBK101-Autumn-Burns-Red)
+
+**Informacje o przygodzie:**
+A welcome respite at the annual Harvesttide Festival suddenly becomes the backdrop of incursion of an otherworldly army! The people of Splondar call for anyone to save them from the destructive wake of this aberrant legion’s march! Why are they here? or better yet- Who leads them? Who has the courage to find out and warn the cities of The Border Kingdoms?
+
+**Komentarz** 
+Złoto zgodnie z tabelką OPK 
+
+
+
+
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
 Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwe tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, serie należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
 
-[Coming Soon]
+- CCC-SFBAY-02-01 - Old Enemies Arise, CCC-SFBAY-02-02 - Rise of the Ogre King, CCC-SFBAY-02-03 - The Risen Minotaur Lord
+- CCC-WYC-01-01 Back to the Burning, CCC-WYC-01-02 Where Rock and Fire Meet, CCC-WYC-01-03 The Dawn Heresy
+- CCC-WYC-2-1 The Light of Heresy, CCC-WYC-2-2 A Shard of Shar, CCC-WYC-2-3 What History Leaves Behind
 
 ## Proces dodawania nowych przygód do katalogu OPK
 
@@ -6791,9 +6950,9 @@ W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za ka�
 
 Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale #cc-zmiany. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
 
-### Przygoda CCC dopuszczona w rozgrywkach AL ale nie dodana do katalogu OPK
+### Przygoda CCC lub DC dopuszczona w rozgrywkach AL ale niedodana do katalogu OPK
 
-Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. Zgłoszenie następnie podlega zatwierdzeniu przez pozostałych MG na discordzie, na przeznaczonym do tego kanale.
+Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. W wypadku przygód dopuszczonych w rozgrywkach AL, głosowanie Mistrzów Gry jest wymagane tylko jeśli wpis w CC już istnieje i należy go zmienić lub jeśli przygoda wymaga wprowadzenia przystosowania do formatu rozgrywek OPK. Nie ma potrzeby głosowania generycznych wpisów do CCC (przygoda może być prowadzona bez zmian, ewentualnie z jakimś pomocnym komentarzem Mistrza Gry niesugerującym znaczących zmian w przygodzie), wystarczy poinformowanie innych Mistrzów Gry o dodaniu wpisu.
 
 ### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
 
