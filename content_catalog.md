@@ -490,6 +490,7 @@
 |CCC-UCON-01       |III           |4h            |Blood & Fog                                      |
 |CCC-UK-1          |I             |4h            |Call of the Elvenflow                            |
 |CCC-UK-2          |I             |4h            |The Wayward Wives                                |
+|CCC-VOTE-01-01    |II            |4-6h          |A Small Trifle                                   |
 |CCC-WWC-01        |I             |2h            |In the Face of Fear                              |
 |CCC-WWC-02        |I             |2h            |Dark Waters of Hate                              |
 |CCC-WWC-03        |I             |2h            |Tyrant of the Forgotten Forge                    |
@@ -6593,6 +6594,15 @@ the banks of the Elvenflow Estuary near the shore of the Moonsea.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Small Trifle](https://www.dmsguild.com/product/312580/CCCVOTE0101-A-Small-Trifle)
+
+**Informacje o przygodzie**
+Jeny Greenteeth again needs the help of adventurers, and this time, she is willing to pay a large price for their help – restoring the pact between Phlan and the fey of the Quivering Forest. All she needs is a coin from a dragon hoard. Easy enough, right? You may change your mind when you hear the name of the dragon… Enjoy this “Pipyap’s Guide to the Nine Hells” content.
+
+A Four/Six-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Magiczny przedmiot to Uncommon, przed prowadzeniem można zaproponować zmianę na przedmiot Rare.
 
 
 ### [In the Face of Fear](https://www.dmsguild.com/product/240678/CCCWWC01-In-the-Face-of-Fear?affiliate_id=925821)
