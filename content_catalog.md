@@ -624,7 +624,7 @@ or will evil rise once more from the ashes—free to burn all it touches?
 A Four-Hour Adventure for Tier 1 or 2 Characters. Optimized for APL 3 and 8.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Permanentny magiczny przedmiot na T2 należy zamienić na Lash of Immolation (BP:GotG)
 
 ### [Layers Upon Layers](https://www.dmsguild.com/product/266896/DDAL0008-Layers-Upon-Layers?affiliate_id=925821)
 
@@ -3735,7 +3735,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-### [HULB 3-2 Dead Cannaries](https://www.dmsguild.com/product/260905/CCCBMG38-Dead-Canaries?affiliate_id=925821)
+### [HULB 3-2 Dead Canaries](https://www.dmsguild.com/product/260905/CCCBMG38-Dead-Canaries?affiliate_id=925821)
 
 **Informacje o przygodzie**
 Wait! Is that an upside-down staircase? Am I floating? Why are my hands triangles? Why do I have
@@ -3743,7 +3743,7 @@ four of them? No, wait, those are not mine! Where am I? How did I get here?
 A four-hour adventure for 11th-16th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przygoda posiada erratę uzupełniającą ją o magiczny przedmiot - Tome of Clear Thought
 
 ### [HULB 3-3 Darkest Vein](https://www.dmsguild.com/product/260906/CCCBMG39-Darkest-Vein?affiliate_id=925821)
 
@@ -4751,7 +4751,7 @@ Dak. Patrols and scouts continue to go missing, forcing the hobgoblins to hire m
 this behir as they recall their troops to the capital to maintain order as food riots break out.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Magiczny przedmiot opisany jest niezgodnie z DMG - należy to traktować jako błąd i używać opisu przedmiotu z DMG.
 
 ### [Tree Rot](https://www.dmsguild.com/product/257866/CCCGLIP0201-Blue-Scales?affiliate_id=925821)
 
