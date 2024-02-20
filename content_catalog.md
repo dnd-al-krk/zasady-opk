@@ -338,6 +338,7 @@
 |CCC-GHCBK1-08     |I             |2h            |The Hunt for Cutter Jack                         |
 |CCC-GHCBK1-09     |I             |2-4h          |Scavengers                                       |
 |CCC-GHCBK1-10     |III           |4h            |The Heart of Shadow                              |
+|CCC-HERO-GHCBK3-01|I             |4h            |A Walk Along the Borders                         |
 |CCC-GHCBK3-02     |I             |4h            |The Girl With the Wet Nose                       |
 |CCC-GLIP-0101     |I             |2h            |Glip Dak                                         |
 |CCC-GLIP-0102     |I             |2h            |Beneath Glip Dak                                 |
@@ -4706,6 +4707,16 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 **Informacje o przygodzie**
 Some evils never die. Only the fuzziest heroes have enough lives to end the threat.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [A Walk Along the Borders](https://www.dmsguild.com/product/340682/CCCHEROBK0301-A-Walk-Along-the-Borders?affliliate_id=925821)
+
+**Informacje o przygodzie**
+Mage Rymdyl’s ominous dreams have foretold a coming storm that will threaten all of the Border Kingdoms. 
+She realizes that in order to protect the Kingdoms from this still murky threat, she must secure allies and identify those who will oppose her. 
+She turns to a brave party of adventures to help in this a game of chess whose board is the Border Kingdoms and the prize could be the fate of Faerûn itself …
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
