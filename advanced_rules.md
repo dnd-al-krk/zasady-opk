@@ -257,6 +257,13 @@ Każda postać gracza posiada pewien limit przedmiotów magicznych do których m
 
 Z przedmiotów, które dają permanentne benefity postaci (np. tome of understanding, manual of golems) można taki bonus otrzymać tylko raz. Ponadto, przedmioty, które dały permanentną korzyść liczą się do posiadanych przez gracza magicznych przedmiotów, nawet jeśli użycie ich spowodowało, że zostały zniszczone. Można permanentnie zrezygnować z tak otrzymanego benefitu (chyba, że byłoby to sprzeczne z jakimś mechanicznym aspektem postaci, np. multiklasą możliwą tylko dzięki atrybutowi podwyższonemu przez ten przedmiot) i wtedy dany przedmiot przestaje się wliczać w posiadane magiczne przedmioty. Tak porzuconego benefitu nie można już odzyskać.
 
+Niektóre przedmioty, formalnie magiczne i potencjalnie permanentne, ale posiadające szczególne zasady związane z konkretnymi sezonami AL-a i ograniczające ich użyteczność w ramach OPK traktujemy jako przedmioty jednorazowe na użytek liczenia do ilości posiadanych permanentnych przedmiotów magicznych oraz wymian na bazarze lub w Smoczej Jamie. Są to:
+
+        Baloon Pack (przygody DDEX 2-X)
+        Wingwear (przygody DDEX 2-X)
+
+Powyższa lista może zostać w przyszłości rozszerzona o aplikowalne przedmioty. 
+
 ### 3.4. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
 Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego momentu zaczęły cierpieć w kwestii nagród ze względu na restrykcje, jakie wprowadzili organizatorzy Adventurers League, efektywnie wymuszając oferowanie nagród o rzadkości niżej, niż sugeruje Tier.
