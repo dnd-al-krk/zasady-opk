@@ -1107,7 +1107,8 @@ more?
 Five one-hour mini-adventures for 1st-2nd level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+W Mission 2: The Growth, jeśli postacie zostaną wrzucone do więzienia przez strażników i nie mają wystarczająco DT na odbycie kary, należy pozwolić im na wyjście z więzienia, lecz DT zarobione przez nich w przyszłości najpierw musi zostać użyte do całkowitej spłaty tej kary.
+Narracyjnie można to uzasadnić przymusowymi pracami społecznymi lub pracą dla Zhentarimów.
 
 ### [Shackles of Blood](https://www.dmsguild.com/product/170494/DDEX302-Shackles-of-Blood-5e&affiliate_id=92582)
 
@@ -1630,7 +1631,8 @@ by SEER to be the birthplace of that arcane tradition.
 A Four-Hour Adventure for 5th-10th Level Characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Zmiana warunków Story Award Student of Stone- zmniejszenie kosztu w DT tego SA z 365 dni na 50 DT.
+
 
 ### [Bad Business in Parnast](https://www.dmsguild.com/product/202446/DDAL0512-Bad-Business-in-Parnast-5e&affiliate_id=925821)
 
@@ -4814,7 +4816,7 @@ Series.
 A Four-Hour Adventure for Level 1-4 Characters. Optimized for Average Party Level 2.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Brak magitki uncommon w przygodzie- na drodze głosowania przyjęto magitkę: Eldrich claw tattoo + fluff dodany ze story award.
 
 ### [Fate of the Nightworms](https://www.dmsguild.com/product/258088/CCCHAL01-Fate-of-the-Nightworms?affiliate_id=925821)
 
@@ -5569,7 +5571,9 @@ the scourge of the Moonsea.
 A 4-hour adventure for 11th-16th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przygoda na T3 posiada rare magitkę, która ma variant very rare- wand of war mage +2. Przegłosowana została zmiana na wersję +3. 
+Uwaga co do prowadzenia: przygoda jest mocno zależna od przynależności do frakcji. Zalecane jest dopasowanie przygody na wypadek gdyby nikt w party nie przynależał do frakcji biorących udział w przygodzie. 
+
 
 
 ### [Zentarim’s Lament](https://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament?affiliate_id=925821)
