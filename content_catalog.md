@@ -2679,8 +2679,7 @@ Uwaga: warto się zastanowić co zrobić kiedy postać wypadnie za burtę podcza
 ### [Blood in the Water](https://www.dmsguild.com/product/282024/DDALDRW02-Blood-in-the-Water)
 
 **Informacje o przygodzie**
-An exploration to the underwater city of Myth Nantar leads to a conspiracy, a mystery, and a
-heist. A Four-to-Six Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+An exploration to the underwater city of Myth Nantar leads to a conspiracy, a mystery, and a heist. A Four-to-Six Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
 1. W przygodzie nie występują skarby, więc należy użyć tabelki. Wyjątkiem jest jedno miejsce gdzie można zdobyć 200gp. Te 200gp należy odliczyć od nagrody z tabelki i przydzielić tylko jeśli postacie je znajdą.
@@ -6928,7 +6927,7 @@ On the Rock of Bral the dohwar of the Silver Beak merchant cartel are feeling th
 An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz** 
-Tylko jedna magitka, a nie po jednej na gracza- zmiana nie została jeszcze przegłosowana, więc jest to tylko mocna sugestia od DMa ktory pierwszy prowadził przygodę. 
+Przygoda przewiduje przydzielenie po jednej magitce na gracza. Przegłosowano zmianę, przygoda nagradza tylko jedną magitką.
 
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
