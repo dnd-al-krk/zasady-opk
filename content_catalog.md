@@ -503,9 +503,9 @@
 |CCC-WYC1-1        |II            |4h            |Back to the Burning                              |
 |CCC-WYC1-2        |II            |4h            |Where Rock and Fire Meet                         |
 |CCC-WYC1-3        |II            |4h            |The Dawn Heresy                                  |
-|CCC-WYC2-1        |II            |2-4h            |The Light of Heresy|
-|CCC-WYC2-2        |II            |2-4h            |A Shard of Shar |
-|CCC-WYC2-3        |II            |2-4h            |What History Leaves Behind|
+|CCC-WYC2-1        |II            |2-4h          |The Light of Heresy                              |
+|CCC-WYC2-2        |II            |2-4h          |A Shard of Shar                                  |     
+|CCC-WYC2-3        |II            |2-4h          |What History Leaves Behind                       |
 |CCC-YLRA01-01     |II            |4h            |Her Dying Wish                                   |
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
@@ -514,6 +514,7 @@
 |WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
 |WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
+|SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -2680,8 +2681,7 @@ Uwaga: warto się zastanowić co zrobić kiedy postać wypadnie za burtę podcza
 ### [Blood in the Water](https://www.dmsguild.com/product/282024/DDALDRW02-Blood-in-the-Water)
 
 **Informacje o przygodzie**
-An exploration to the underwater city of Myth Nantar leads to a conspiracy, a mystery, and a
-heist. A Four-to-Six Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+An exploration to the underwater city of Myth Nantar leads to a conspiracy, a mystery, and a heist. A Four-to-Six Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
 1. W przygodzie nie występują skarby, więc należy użyć tabelki. Wyjątkiem jest jedno miejsce gdzie można zdobyć 200gp. Te 200gp należy odliczyć od nagrody z tabelki i przydzielić tylko jeśli postacie je znajdą.
@@ -6941,7 +6941,14 @@ A welcome respite at the annual Harvesttide Festival suddenly becomes the backdr
 **Komentarz** 
 Złoto zgodnie z tabelką OPK 
 
+### [Dohwar Heist](https://www.dmsguild.com/product/410906/Dohwar-Heist-SJDCDWR01)
 
+**Informacje o przygodzie:**
+On the Rock of Bral the dohwar of the Silver Beak merchant cartel are feeling the squeeze as the mercane are moving in on their turf. To make matters worse a recent raid by vampirates has resulted in the loss of the secret production facilities for their most lucrative trade commodity, sweet honeyfish mooncakes. With time running out the dohwar require adventurers with a particular set of skills to infiltrate the vampirate stronghold, liberate the valuable cargo and get out without drawing too much heat. Sounds simple enough right? But what waits in the hidden vault for our intrepid heroes, and could they be biting off more than they can chew?
+An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz** 
+Przygoda przewiduje przydzielenie po jednej magitce na gracza. Przegłosowano zmianę, przygoda nagradza tylko jedną magitką.
 
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
