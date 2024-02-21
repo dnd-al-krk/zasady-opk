@@ -56,7 +56,7 @@ Postaci nie można przydzielić magicznego przedmiotu jeśli po tym przydzieleni
 -  Postać T2 - 2 przedmioty uncommon, 1 przedmiot rare, 0 very rare i wyżej
 -  Postać T3 - 3 przedmioty uncommon, 2 przedmioty rare, 1 przedmiot very rare, 0 legendary
 
-Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
+Posiadanie większej ilości przedmiotów innego rarity nie blokuje dodawania przedmiotów wyższego lub niższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon lub postaci T3 przedmiot rare jeśli posiada już więcej niż jeden very rare).
 
 ### Sesje zero
 Przygody niedopuszczone do gry w klasycznym ALu przed poprowadzeniem w OPK należy najpierw dostosować do naszych standardów poprzez poprowadzenie tzw. sesji zero i wpisanie ich do CC OPK (szczegóły w ### [Content Catalog](content_catalog.md)).
@@ -82,7 +82,7 @@ Ponadto, w ramach przygotowania do epika należy poprowadzić sesję 0 dla każd
 | Nazwa                  | Misja                                                                      | Nagroda (PQ) | Komentarz                                                           |
 |------------------------|----------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
 | Opoka OPK              | Poprowadź co najmniej 1 sesję w miesiącu przez 12 kolejnych miesięcy.      | 200     |                                                                     |
-| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       | 200     | Tydzień zaczyna się w poniedziałek i kończy w niedzielę             |
+| Kwarta na kwartał      | Poprowadź co najmniej 1 sesję tygodniowo w 12 z 14 kolejnych tygodni       |[tabela 3](#tabela-kwarta)| Tydzień zaczyna się w poniedziałek i kończy w niedzielę. Nagroda jest przydzielana cząstkowo, wg tabelki na dole dokumentu)            |
 | Tryptyk                | Poprowadź serię 3 przygód połączonych fabularnie                           | 40      | Okres między pierwszą a ostatnią przygodą serii nie może być dłuższy niż 2 miesiące. Serie przygód spełniających warunki tej nagrody opisane są w [Content Catalogu](content_catalog.md#definicja-serii-przygód-na-potrzeby-nagrody-tryptyk-). Jeśli jakaś przygoda została wykorzystana do zdobycia tej nagrody, to nie może zostać wykorzystana do zdobycia tej samej nagrody drugi raz wcześniej niż za 2 lata.  |
 | Nowe horyzonty         | Dostosuj przygodę spoza podstawowego katalogu AL (czyli inną niż DDAL, DDEX, CCC, DC) i doprowadź do jej wpisania do Content Catalogu | 40     |           |
 | Apoteoza               | Poprowadź swoją pierwszą przygodę w OPK jako DM                            | 40      |                                                                     |
@@ -145,6 +145,23 @@ Należy mieć na względzie, że wymienione rasy mogą nie pasować do formatu p
 | Flying Monkey   | ToA     |                        |
 | Flying Snake    | BR      |                        |
 | Gazer           | MP:MotM | Nie może używać Ray'ów | 
+
+#### Tabela 3<a name="tabela-kwarta"></a>
+
+| Przygoda w kolejności | Nagroda w PQ  | 
+|-----------------|---------|
+| 1 | 0  |
+| 2 | 0  |
+| 3 | 8  | 
+| 4 | 9  |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 11 |
+| 8 | 12 |
+| 9 | 13 |
+| 10 | 13 |
+| 11 | 14 |
+| 12 | 100 |
 
 ### Zasady przejściowe
 
