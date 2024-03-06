@@ -1020,6 +1020,7 @@ A four-hour adventure for 1st-4th level characters.
 
 **Komentarz**
 Ze względu na niemożliwość naładowania Balloon Pack oraz Wingwear w warunkach OPK, nie liczą się one do puli permanentnych przedmiotów magicznych.
+Na koniec przygody drużyna otrzymuje 1 Potion of Flying do podziału, zamiast jednej dla każdego członka
 
 ### [Oubliette of Fort Iron](https://www.dmsguild.com/product/170486/DDEX211-Oubliette-of-Fort-Iron-5e&affiliate_id=925821)
 
