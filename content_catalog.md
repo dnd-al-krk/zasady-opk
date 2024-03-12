@@ -457,6 +457,7 @@
 |CCC-TAROT-0106    |I             |2h            |Lies in the Moonlight                            |
 |CCC-TAROT-0107    |I             |4h            |The Seat of the Ruler                            |
 |CCC-TAROT-02-01   |II            |4h            |A Sunk Cost                                      |
+|CCC-TAROT-S1-01   |I             |2h            |A Long Night                                     |
 |CCC-THENT-0101    |I             |2h            |Beneath the Surface                              |
 |CCC-THENT-0102    |I             |2h            |Those That Dwell Beneath                         |
 |CCC-THENT-0103    |I             |4h            |The Dreaming Relic                               |
@@ -6171,7 +6172,14 @@ A 4-hour adventure for 5th - 10th level characters.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [A Long Night](https://www.dmsguild.com/product/308752/CCCTAROTS101-A-Long-Night)
 
+**Informacje o przygodzie**
+This is a simple caravan job - deliver the mysterious box to Thentia. Just one thing - don't open the box. And protect it from all attacks. 
+A two-hour adventure for Tier 1 characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### [Beneath the Surface](https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface)
 
