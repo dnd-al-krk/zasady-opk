@@ -259,10 +259,11 @@ Z przedmiotów, które dają permanentne benefity postaci (np. tome of understan
 
 Niektóre przedmioty, formalnie magiczne i potencjalnie permanentne, ale posiadające szczególne zasady związane z konkretnymi sezonami AL-a i ograniczające ich użyteczność w ramach OPK traktujemy jako przedmioty jednorazowe na użytek liczenia do ilości posiadanych permanentnych przedmiotów magicznych oraz wymian na bazarze lub w Smoczej Jamie. Są to:
 
-        Baloon Pack (przygody DDEX 2-X)
-        Wingwear (przygody DDEX 2-X)
+        Baloon Pack (na przykład przygody DDEX 2-X)
+        Wingwear (na przykład przygody DDEX 2-X)
+        Soul Coin (na przykład przygody DDAL 9-X)
 
-Powyższa lista może zostać w przyszłości rozszerzona o aplikowalne przedmioty. 
+Powyższa lista może zostać w przyszłości rozszerzona o inne, podobne przedmioty.
 
 ### 3.4. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
