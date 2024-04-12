@@ -6793,7 +6793,7 @@ unearth his fate. But as both politics and earthquakes rattle the town, the flam
 hidden dangers of Ylraphon's past resurface that may still spell doom for the future of the Moonsea.
 
 **Komentarz**
-Przygoda udostepniona dla OPK przez autora. Niedostepna na DMSGuild z racji zmian w AL tuz przed 
+Przygoda udostępniona dla OPK przez autora. Niedostępna na DMSGuild z racji zmian w AL tuz przed.
 
 ### [Trouble in the Old City](https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City?affiliate_id=925821)
 
