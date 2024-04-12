@@ -510,6 +510,7 @@
 |CCC-YLRA01-01     |II            |4h            |Her Dying Wish                                   |
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
+|CCC-YLRA01-04     |II            |4h            |Down in Flames                                   |
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
 |WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
@@ -6781,7 +6782,15 @@ when you finally make it back to town.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### Down in Flames
 
+**Informacje o przygodzie**
+When one of Ylraphon's finest disappears on a routine investigation, brave adventurers are needed to
+unearth his fate. But as both politics and earthquakes rattle the town, the flame of hope grows dim, and
+hidden dangers of Ylraphon's past resurface that may still spell doom for the future of the Moonsea.
+
+**Komentarz**
+Przygoda udostępniona dla OPK przez autora. Niedostępna na DMSGuild z racji zmian w AL, które uczyniły ją niekompatybilną z AL.
 
 ### [Tyrant of Orcs](https://www.dmsguild.com/product/298149/CCCWWC05-Tyrant-of-Orcs)
 
