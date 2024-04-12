@@ -511,9 +511,7 @@
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-YLRA01-04     |II            |4h            |Down in Flames                                   |
-|CCC-SRCC01-01     |I             |2h            |Trouble in the Old City                          |
-|CCC-SRCC01-02     |I             |2h            |Down the River of Snakes                         |
-|CCC-SRCC01-03     |I             |2h            |Altar of the Smoldering Eye                      |
+|CCC-SRCC01-01     |I             |2h       
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
 |WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
@@ -6794,29 +6792,6 @@ hidden dangers of Ylraphon's past resurface that may still spell doom for the fu
 
 **Komentarz**
 Przygoda udostępniona dla OPK przez autora. Niedostępna na DMSGuild z racji zmian w AL, które uczyniły ją niekompatybilną z AL.
-
-### [Trouble in the Old City](https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City?affiliate_id=925821)
-
-**Informacje o przygodzie**
-The town of Ylraphon on the border of the Flooded Forest has been targeted by the yuan-ti. 
-One of them has uncovered an ancient ritual to change the people of the area called the Old City into their servants. 
-Can the adventurers stop the yuan-ti in time? The whole of the Moonsea may be at risk if they fail.
-
-
-### {Down the River of Snakes](https://www.dmsguild.com/product/223039/CCCSRCC0102-Down-the-River-of-Snakes?src=also_purchased?affiliate_id=925821)
-
-**Informacje o przygodzie**
-The yuan-ti have a demented scheme to bring the most vulnerable denizens of the small town of Ylraphon under their sway. 
-Can the adventurers traverse the Flooded Forest, one of the most dangerous areas of wilderness in all Faerûn, 
-in time to stop the machinations of the serpent god’s fanatical priest?
-
-
-### [Altar of the Smoldering Eye](https://www.dmsguild.com/product/223041/CCCSRCC0103-Altar-of-the-Smoldering-Eye?src=also_purchased?affiliate_id=925821)
-
-**Informacje o przygodzie**
-A fanatical priest nears completion of an ancient ritual that will transform the residents of Ylraphon’s Old City into yuan-ti. 
-It has been revealed that he hides in a ruined temple in the Flooded Forest. The sands of time quickly slip away as our adventurer’s approach.
-
 
 ### [Tyrant of Orcs](https://www.dmsguild.com/product/298149/CCCWWC05-Tyrant-of-Orcs)
 
