@@ -511,7 +511,6 @@
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-YLRA01-04     |II            |4h            |Down in Flames                                   |
-|CCC-SRCC01-01     |I             |2h       
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
 |WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
