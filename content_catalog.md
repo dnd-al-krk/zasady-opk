@@ -6785,12 +6785,15 @@ when you finally make it back to town.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-### [Down in Flames]
+### Down in Flames
 
 **Informacje o przygodzie**
 When one of Ylraphon's finest disappears on a routine investigation, brave adventurers are needed to
 unearth his fate. But as both politics and earthquakes rattle the town, the flame of hope grows dim, and
 hidden dangers of Ylraphon's past resurface that may still spell doom for the future of the Moonsea.
+
+**Komentarz**
+Przygoda udostepniona dla OPK przez autora. Niedostepna na DMSGuild z racji zmian w AL tuz przed 
 
 ### [Trouble in the Old City](https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City?affiliate_id=925821)
 
