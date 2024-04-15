@@ -60,7 +60,7 @@
 |DDEX3-2           |I             |4h            |Shackles of Blood                                |
 |DDEX3-3           |II            |4h            |The Occupation of Szith Morcane                  |
 |DDEX3-4           |III           |8 h           |It’s All in the Blood                            |
-|DDEX3-5           |I             |2h            |Bane of the Tradeways                            |
+|DDEX3-5           |I             |4h            |Bane of the Tradeways                            |
 |DDEX3-6           |I             |2h            |No Foolish Matter                                |
 |DDEX3-7           |II            |4h            |Herald of the Moon                               |
 |DDEX3-8           |II            |4h            |The Malady of Elventree                          |
@@ -1246,7 +1246,10 @@ valuable information to be used in a strike against the leader of Hillsfar, Firs
 himself. The only problem is that what you need is protected within the walls of the city.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Celem zachowania ciągłości fabularnej z przygodą DDEX3-14 należy zmienić w przygodzie wzmianki o city of Yulash na fortress at the Waydown.
+
+Jeśli postacie zostaną pojmane przez strażników i nie mają wystarczająco DT na odbycie kary, należy pozwolić im na wyjście z więzienia lecz DT zarobione przez nich w przyszłości najpierw musi zostać zużyte do całkowitej spłaty tej kary.
+
 
 
 
