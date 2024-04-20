@@ -360,7 +360,7 @@ Attention! The rules of season 2, Version 2 were introduced on 01.06.2023. Trans
 
 During games the availability of spellcasting services occur **only** with the DM's permission. The DM can allow access to spells outside the table and adjust the price.
 
-| **Spell** | **Spell cost** | **Component cost** | **Total cost** |
+| **Spell** | **Spellcasting cost** | **Component cost** | **Total cost** |
 | --- | --- | --- | --- |
 | Lesser Restoration | 40gp | - | 40 gp |
 | Dispel Magic | 90 gp | - | 90 gp |
