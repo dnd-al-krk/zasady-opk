@@ -360,16 +360,16 @@ Attention! The rules of season 2, Version 2 were introduced on 01.06.2023. Trans
 
 During games the availability of spellcasting services occur **only** with the DM's permission. The DM can allow access to spells outside the table and adjust the price.
 
-| **Spell** | **Gold cost** |
-| --- | --- |
-| Lesser Restoration | 40 gp |
-| Dispel Magic | 90 gp |
-| Remove Curse | 90 gp |
-| Greater Restoration | 450 gp |
-| Revivify | 390 gp |
-| Raise Dead | 1 000 gp |
-| Resurrection | 3 000 gp |
-| True Resurrection | 30 000 gp |
+| **Spell** | **Spell cost** | **Component cost** | **Total cost** |
+| --- | --- | --- | --- |
+| Lesser Restoration | 40gp | - | 40 gp |
+| Dispel Magic | 90 gp | - | 90 gp |
+| Remove Curse | 90 gp | - | 90 gp |
+| Greater Restoration | 350 gp | 100gp | 450 gp |
+| Revivify | 90 gp | 300 gp | 390 gp |
+| Raise Dead | 500 gp | 500 gp | 1 000 gp |
+| Resurrection | 2 000 gp | 1 000 gp | 3 000 gp |
+| True Resurrection | 5 000 gp | 25 000 gp | 30 000 gp |
 
 ## 3. Potions<a name="tabela-mikstury"></a>
 
