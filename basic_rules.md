@@ -364,16 +364,16 @@ Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przej�
 
 Podczas sesji dostępność usług rzucania zaklęć leży **wyłącznie** w gestii Mistrza Gry. DM może zezwolić na dostęp do zaklęć spoza tabelki i dowolnie zmienić ich koszt.
 
-| **Zaklęcie** | **Koszt w złocie** |
-| --- | --- |
-| Lesser Restoration | 40 gp |
-| Dispel Magic | 90 gp |
-| Remove Curse | 90 gp |
-| Greater Restoration | 450 gp |
-| Revivify | 390 gp |
-| Raise Dead | 1 000 gp |
-| Resurrection | 3 000 gp |
-| True Resurrection | 30 000 gp |
+| **Zaklęcie** | **Koszt rzucenia zaklęcia** | **Koszt komponentów** | **Koszt całkowity** |
+| --- | --- | --- | --- |
+| Lesser Restoration | 40gp | - | 40 gp |
+| Dispel Magic | 90 gp | - | 90 gp |
+| Remove Curse | 90 gp | - | 90 gp |
+| Greater Restoration | 350 gp | 100gp | 450 gp |
+| Revivify | 90 gp | 300 gp | 390 gp |
+| Raise Dead | 500 gp | 500 gp | 1 000 gp |
+| Resurrection | 2 000 gp | 1 000 gp | 3 000 gp |
+| True Resurrection | 5 000 gp | 25 000 gp | 30 000 gp |
 
 ## 3. Mikstury<a name="tabela-mikstury"></a>
 
