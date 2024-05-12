@@ -4320,7 +4320,7 @@ invitation for a dinner party to be held at the very top of the structure.
 What delights and mysteries await you?
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przedmiot magiczny z tej przygody jest liczony jako komplet, czyli na potrzeby liczenia liczby przedmiotów magicznych, do przekuwania/wymiany oraz do przydzielania z PMP jest to jeden przedmiot. W przypadku pożyczenia jednego ze sztyletów innej postaci na przygodzie, sztylety tracą swoją magię, tylko komplet sztyletów używany przez jedną postać zachowuje swoje magiczne właściwości.
 
 
 
