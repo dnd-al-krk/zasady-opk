@@ -517,6 +517,7 @@
 |WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
+|DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -538,7 +539,7 @@ A 4-Hour Adventure for 5th – 10th, 11th – 16th, or 17th – 20th Level Chara
 Content Warnings: horror (isolation, body)
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w przypadku prowadzenia przygody na Tier 2 w miejsce Rod of Security należy umieścić Staff of Withering.
 
 ### [Lost Tales of Myth Drannor](https://www.dmsguild.com/product/247140/Lost-Tales-of-Myth-Drannor?affiliate_id=925821)
 
@@ -4299,7 +4300,7 @@ Mulmaster's greatest hour of need, the adventurers have one last confrontation w
 Phoenix, culminating in a final battle like no other.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w miejsce Saddle of the Cavalier należy umieścić Elemental Essence Shard (Fire).
 
 ### [Arena of Champions](https://www.dmsguild.com/product/315764/CCCGAD0203-Arena-of-Champions)
 
@@ -4489,7 +4490,7 @@ With important clues in hand and after a stop at a local festhall, you will be f
 challenges found in the depths of the Cormanthor forest.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w miejsce Battleaxe +1 należy umieścić Battleaxe +2.
 
 
 
@@ -6806,7 +6807,7 @@ and stop him before he causes even more death and destruction?
 A 2-hour adventure for 5th-10th level characters
 
 **Komentarz**
-Wylosowany był ring of spell storing jako nagroda i od tej pory jest to nagroda za tę przygodę.
+Jako nagroda dla graczy w miejsce Ring od Warmth należy umieścić Ring of Spell Storing.
 
 ### [The Fear of Fiends](https://www.dmsguild.com/product/298151/CCCWWC06-The-Fear-of-Fiends)
 
@@ -6834,7 +6835,7 @@ mystery of who is trying to turn the town against itself?
 A 2-hour adventure for 5th-10th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w miejsce Sentinel Shield należy umieścić Robe of Eyes.
 
 ### [Pool of Anihilation](https://www.dmsguild.com/product/298153/CCCWWC08-Pool-of-Annihilation)
 
@@ -6846,7 +6847,7 @@ wizard Rylan Elentaur believes he may have found a way to destroy the discs once
 A 2-hour adventure for 5th-10th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w miejsce Gloves of Missile Snaring należy umieścić Shadowfell Brand Tattoo.
 
 
 
@@ -6974,6 +6975,22 @@ An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz** 
 Przygoda przewiduje przydzielenie po jednej magitce na gracza. Przegłosowano zmianę, przygoda nagradza tylko jedną magitką.
+
+### [The Last Refuge of Spring](https://www.dmsguild.com/product/369343/DCPoAROG3-The-Last-Refuge-of-Spring)
+
+**Informacje o przygodzie:**
+A message is circulating within Easthaven requesting brave adventurers to mount a rescue expedition to the Spine of the World. The message reads:
+
+*Adventurers needed for a rescue mission. A team led by Rog Drannian has been lost near the Reghed Glacier. Drannyth Anteos is seeking adventurers who are daring enough to mount an expedition to locate the team and return them back to Easthaven. If you are interested, meet at The White Lady Inn on Twoday at 10:00 AM. You will be compensated for your time.
+Wizards joining the expedition will find the compensation particularly rewarding.*
+
+With worsening weather, will the party be able to locate the missing group before the elements cause inevitable tragedy?
+
+A four hour, Dungeoncraft Adventure for Plague of Ancients (Season 10) for characters level 5 - 10 (Tier 2, APL 8)
+
+**Komentarz** 
+Jako nagroda dla graczy w miejsce Arcane Grimoire należy umieścić Astromancy Archive.
+
 
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
