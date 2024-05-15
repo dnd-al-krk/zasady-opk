@@ -4,20 +4,22 @@ Jeśli w przygodzie pojawia się jako nagroda dla postaci magiczny przedmiot spo
   
 Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyfikacjami dopuszczonych do rozgrywek OPK magicznych przedmiotów.
 
-## Dopuszczone źródła magicznych przedmiotów w przygodach
-- DMG
-- Tasha's Cauldron of Everything (z wyjątkami!)
+## Dopuszczone źródła magicznych przedmiotów w przygodach (z wyjątkami!)
+- Dungeon Master's Guide
+- Tasha's Cauldron of Everything 
 - Xanathar's Guide to Everything
-- Fizban (z wyjątkami!)
-- Bigby (z wyjątkami!)
+- Fizban's Treasury of Dragons 
+- Bigby Presents: Glory of the Giants 
 
 ## Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
-- SKT (runy)
-- Descent into Avernus (soul coins)
-- Princes of the Apocalypse (wingwear, baloon pack)
-- Hoard of the Dragon Queen (Insignia of Claws)
-- Blessing of the Raven Queen (Gwa'thern Faln)
-- Wraps of Unarmed Prowess +x (Deck of Many Things) 
+- Runy (Storm King's Thunder) 
+- Soul Coins (Descent into Avernus)
+- Wingwear, baloon pack (Princes of the Apocalypse)
+- Insignia of Claws (Hoard of the Dragon Queen)
+- Gwa'thern Faln (Blessing of the Raven Queen)
+- Wraps of Unarmed Prowess +x (Deck of Many Things)
+
+Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans). 
 
 ## Blacklista źródeł
 - potrzebna w ogóle?
