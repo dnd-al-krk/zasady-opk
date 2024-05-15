@@ -9,7 +9,7 @@
 - SKT (runy)
 - Descent into Avernus (soul coins)
 - Princes of the Apocalypse (wingwear, baloon pack)
-- HotDQ (insygnia)
+- Hoard of the Dragon Queen (Insignia of Claws)
 - Blessing of the Raven Queen (Gwa'thern Faln)
 - Wraps of Unarmed Prowess +x (Deck of Many Things) 
 
@@ -68,3 +68,6 @@
 - Ring of Amity
 - Harp of Gilded Plenty
 - Helm of Perfect Potential
+
+### Uzasadnienie
+Przedmioty zwiększające DC zaklęć są zbanowane ponieważ psują balans- a niektóre zwiększają DC zaklęć wszystkich klas przez co jeden dip pozwoliłby zwiększyć DC o kolejne 1-3. 
