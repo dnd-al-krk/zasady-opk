@@ -76,7 +76,7 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Windvane
 - Wyrmskull Throne
 
-## Grupy niedozwolonych przedmiotów
+### Grupy niedozwolonych przedmiotów
 - Przedmioty Slumbering, Stirring i Wakened z Fizban's Treasury of Dragons (występujące w źródle jako Hoard Items).
 
 
