@@ -1,7 +1,6 @@
-Jeśli w przygodzie pojawia się jako nagroda dla postaci magiczny przedmiot spoza listy dopuszczonych do rozgrywek OPK, należy przed rozegraniem przygody przegłosować
-a) Dodanie magicznego przedmiotu lub jego źródła do listy dopuszczonych
-lub
-b) Podmianę magicznego przedmiotu na jeden z listy dopuszczonych.
+Jeśli w przygodzie pojawia się jako nagroda dla postaci magiczny przedmiot spoza listy dopuszczonych do rozgrywek OPK, należy przed rozegraniem przygody przegłosować: \
+- Dodanie magicznego przedmiotu lub jego źródła do listy dopuszczonych\
+- Podmianę magicznego przedmiotu na jeden z listy dopuszczonych. \
 Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyfikacjami dopuszczonych do rozgrywek OPK magicznych przedmiotów.
 
 ## Dopuszczone źródła magicznych przedmiotów w przygodach
