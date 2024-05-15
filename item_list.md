@@ -1,11 +1,17 @@
-### Dopuszczone źródła
+Jeśli w przygodzie pojawia się jako nagroda dla postaci magiczny przedmiot spoza listy dopuszczonych do rozgrywek OPK, należy przed rozegraniem przygody przegłosować
+a) Dodanie magicznego przedmiotu lub jego źródła do listy dopuszczonych
+lub
+b) Podmianę magicznego przedmiotu na jeden z listy dopuszczonych.
+
+
+### Dopuszczone źródła magicznych przedmiotów w przygodach
 - DMG
 - Tasha's Cauldron of Everything
 - Xanathar's Guide to Everything
 - Fizban
 - Bigby
 
-### Dopuszczone przedmioty
+### Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
 - SKT (runy)
 - Descent into Avernus (soul coins)
 - Princes of the Apocalypse (wingwear, baloon pack)
@@ -16,7 +22,7 @@
 ### Blacklista źródeł
 - potrzebna w ogóle?
 
-### Przedmioty, które nie zostały dopuszczone do rozgrywek (jeśli pojawią się w przygodzie należy je zastąpić)
+### Przedmioty, które nie zostały dopuszczone do rozgrywek OPK, mimo, że znajdują się w dopuszczonych źródłach
 
 - All-Purpose Tool
 - Amulet of the Devout
