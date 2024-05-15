@@ -4,14 +4,14 @@ lub
 b) Podmianę magicznego przedmiotu na jeden z listy dopuszczonych.
 Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyfikacjami dopuszczonych do rozgrywek OPK magicznych przedmiotów.
 
-### Dopuszczone źródła magicznych przedmiotów w przygodach
+## Dopuszczone źródła magicznych przedmiotów w przygodach
 - DMG
 - Tasha's Cauldron of Everything (z wyjątkami!)
 - Xanathar's Guide to Everything
 - Fizban (z wyjątkami!)
 - Bigby (z wyjątkami!)
 
-### Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
+## Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
 - SKT (runy)
 - Descent into Avernus (soul coins)
 - Princes of the Apocalypse (wingwear, baloon pack)
@@ -19,10 +19,10 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Blessing of the Raven Queen (Gwa'thern Faln)
 - Wraps of Unarmed Prowess +x (Deck of Many Things) 
 
-### Blacklista źródeł
+## Blacklista źródeł
 - potrzebna w ogóle?
 
-### Przedmioty, które nie zostały dopuszczone do rozgrywek OPK, mimo, że znajdują się w dopuszczonych źródłach
+## Przedmioty, które nie zostały dopuszczone do rozgrywek OPK, mimo, że znajdują się w dopuszczonych źródłach
 
 - Adze of Annam
 - All-Purpose Tool
@@ -80,5 +80,5 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Przedmioty Slumbering, Stirring i Wakened z Fizban's Treasury of Dragons (występujące w źródle jako Hoard Items).
 
 
-### Uzasadnienie
+## Uzasadnienie
 Przedmioty zwiększające DC zaklęć są zbanowane ponieważ psują balans- a niektóre zwiększają DC zaklęć wszystkich klas przez co jeden dip pozwoliłby zwiększyć DC o kolejne 1-3. 
