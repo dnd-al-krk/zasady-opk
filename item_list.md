@@ -6,10 +6,10 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 
 ### Dopuszczone źródła magicznych przedmiotów w przygodach
 - DMG
-- Tasha's Cauldron of Everything
+- Tasha's Cauldron of Everything (z wyjątkami!)
 - Xanathar's Guide to Everything
-- Fizban
-- Bigby
+- Fizban (z wyjątkami!)
+- Bigby (z wyjątkami!)
 
 ### Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
 - SKT (runy)
@@ -24,56 +24,61 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 
 ### Przedmioty, które nie zostały dopuszczone do rozgrywek OPK, mimo, że znajdują się w dopuszczonych źródłach
 
+- Adze of Annam
 - All-Purpose Tool
 - Amulet of the Devout
 - Arcane Grimoire
 - Baba Yaga’s Mortar and Pestle
-- Bloodwell Vial
-- Crook of Rao
-- Demonomicon of Iggwilv
-- Luba’s Tarokka of Souls
-- Mighty Servant of Leuk-o
-- Moon Sickle
-- Reveler’s Concertina
-- Rhythm-Maker’s Drum
-- Teeth of Dahlver-Nar
+- Bigby’s Beneficent Bracelet
 - Blackrazor
+- Bloodshed Blade
+- Bloodwell Vial
 - Bookmark
-- Ring of Winter
-- Wand of Orcus
-- Wave
-- Whelm
-- Wyrmskull Throne
+- Crook of Rao
+- Crown of the Wrath Bringer
 - Dawnbringer
 - Deck of Many Things
+- Delver’s Claws
+- Demonomicon of Iggwilv
+- Dragonhide belt +2 i +3
 - Drown
 - Giant-Sized Staff of the Magi
+- Harp of Gilded Plenty
 - Hazirawn
+- Helm of Perfect Potential
 - Holy Symbol of Ravenkind
 - Icon of Ravenloft
 - Iron flask
 - Ironfang
 - Korolnor Scepter
 - Lost Crown of Belsimer
+- Luba’s Tarokka of Souls
 - Mask of the Dragon Queen (complete or individual dragon masks)
+- Mighty Servant of Leuk-o
 - Mithral Splintmail +1
+- Moon Sickle
 - Philter of Love
+- Reveler’s Concertina
+- Rhythm-Maker’s Drum
+- Ring of Amity
+- Ring of Winter
 - Shield Guardian (and amulet)
-- Spell gems (all levels)
 - Slaad control gem (any)
+- Spell gems (all levels)
 - Staff of the Forgotten One
 - Sunsword
+- Teeth of Dahlver-Nar
 - Tinderstrike
+- Wand of Orcus
+- Wave
 - Waythe
+- Whelm
 - Windvane
-- Adze of Annam
-- Bigby’s Beneficent Bracelet
-- Bloodshed Blade
-- Crown of the Wrath Bringer
-- Delver’s Claws
-- Ring of Amity
-- Harp of Gilded Plenty
-- Helm of Perfect Potential
+- Wyrmskull Throne
+
+## Grupy niedozwolonych przedmiotów
+- Przedmioty Slumbering, Stirring i Wakened z Fizban's Treasury of Dragons (występujące w źródle jako Hoard Items).
+
 
 ### Uzasadnienie
 Przedmioty zwiększające DC zaklęć są zbanowane ponieważ psują balans- a niektóre zwiększają DC zaklęć wszystkich klas przez co jeden dip pozwoliłby zwiększyć DC o kolejne 1-3. 
