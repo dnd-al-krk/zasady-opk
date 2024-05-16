@@ -18,6 +18,7 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Insignia of Claws (Hoard of the Dragon Queen)
 - Gwa'thern Faln (Blessing of the Raven Queen)
 - Wraps of Unarmed Prowess +x (Deck of Many Things)
+- Mind Crystal (Phandalver and Below)
 
 Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans). 
 
