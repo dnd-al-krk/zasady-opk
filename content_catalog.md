@@ -518,6 +518,7 @@
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
+|FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -6991,7 +6992,17 @@ A four hour, Dungeoncraft Adventure for Plague of Ancients (Season 10) for chara
 **Komentarz** 
 Jako nagroda dla graczy w miejsce Arcane Grimoire należy umieścić Astromancy Archive.
 
+### [The Flying Flame](https://www.dmsguild.com/product/461573/The-Flying-Flame-FRDCBG)
 
+**Informacje o przygodzie:**
+Dragons have ferociously descended upon cities across Toril! The coordination of their attacks suggests that dragons have united under one leader. Can you save civilization before war begins?
+
+The Flying Flame is a four-hour action-packed adventure for characters of levels 11-16.
+
+**Komentarz** 
+Dragonhide Belt +3 powinien zostać podmieniony na wersję Uncommon (+1), a jeden z common magic itemów należy zamienić na Sapphire Buckler. Oba przedmioty zachowują minor properties.
+
+Nie należy dawać graczom Blessing of Magic Resistance
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
