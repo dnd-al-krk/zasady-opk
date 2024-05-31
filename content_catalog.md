@@ -519,9 +519,7 @@
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
-|WBW-DC-JOQ-01     |I             |4h
-     |Dancing at Her Funeral
-           |
+|WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
