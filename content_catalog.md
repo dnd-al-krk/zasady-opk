@@ -519,6 +519,7 @@
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
+|WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7003,6 +7004,18 @@ The Flying Flame is a four-hour action-packed adventure for characters of levels
 Dragonhide Belt +3 powinien zostać podmieniony na wersję Uncommon (+1), a jeden z common magic itemów należy zamienić na Sapphire Buckler. Oba przedmioty zachowują minor properties.
 
 Nie należy dawać graczom Blessing of Magic Resistance
+
+### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669))
+
+**Informacje o przygodzie:**
+You have somehow secured an invitation to the most prestigious event of the season, the funeral of the fairy Distant Song. Foul play is suspected, but in the domain of Joquiet, it doesn’t matter whodunit, as long as it was done with style.
+
+A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
