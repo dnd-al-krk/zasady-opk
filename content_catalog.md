@@ -520,6 +520,7 @@
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
+|WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7005,13 +7006,23 @@ Dragonhide Belt +3 powinien zostać podmieniony na wersję Uncommon (+1), a jede
 
 Nie należy dawać graczom Blessing of Magic Resistance
 
-### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669))
+### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669)
 
 **Informacje o przygodzie:**
 You have somehow secured an invitation to the most prestigious event of the season, the funeral of the fairy Distant Song. Foul play is suspected, but in the domain of Joquiet, it doesn’t matter whodunit, as long as it was done with style.
 
 A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [One Moment](https://www.dmsguild.com/m/product/373669)
+
+**Informacje o przygodzie:**
+They say everything happens for a reason. But when a patch of bad time sends you to a nearby Domain of Delight in the Feywild, it’s up to you to modulate this archfey’s Momentum before history itself is set permanently out of joint.
+
+A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
