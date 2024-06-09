@@ -517,6 +517,7 @@
 |WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
+|PS-DC-HNL-02      |I             |4h            |The Hungry Prince                                |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
@@ -6978,6 +6979,17 @@ An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz** 
 Przygoda przewiduje przydzielenie po jednej magitce na gracza. Przegłosowano zmianę, przygoda nagradza tylko jedną magitką.
+
+
+### [The Hungry Prince](https://www.dmsguild.com/product/470285/The-Hungry-Prince-PSDCHNL02)
+
+**Informacje o przygodzie:**
+Tensar's Employment Service has an unusual job for a band of adventurers. At 'The Hungry Prince', a renowned eatery in Sigil, a troublesome rodent issue has arisen. The adventurers are called upon to assist the understaffed ratcatchers of Parakk Pest in tackling this infestation. But as they delve deeper, they may find that in the City of Doors, even a simple pest problem can hide layers of unexpected turns.
+
+A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [The Last Refuge of Spring](https://www.dmsguild.com/product/369343/DCPoAROG3-The-Last-Refuge-of-Spring)
 
