@@ -385,6 +385,7 @@
 |CCC-NBDD01-01     |II            |2h            |Clever                                           |
 |CCC-NUKE-0101     |I             |4h            |The Blighted Sun                                 |
 |CCC-NUKE-0102     |I             |4h            |Hide and Seek                                    |
+|CCC-OA-01-01      |I             |2-4h          |When Mages Fall                                  |
 |CCC-OCC-01        |III           |4-6h          |Red War: Housekeeping                            |
 |CCC-OCC-02        |I             |2-4h          |Feast of the Moon                                |
 |CCC-ODFC-0101     |I             |4h            |Hammer and Anvil                                 |
@@ -490,6 +491,7 @@
 |CCC-TRI-32        |I             |2h            |Casks and Caskets                                |
 |CCC-TRI-33        |I             |2h            |Matters of Life and Death                        |
 |CCC-UCON-01       |III           |4h            |Blood & Fog                                      |
+|CCC-UNITE-AN-04   |I             |2-4h          |Sisterhood of the Blade                          |
 |CCC-UK-1          |I             |4h            |Call of the Elvenflow                            |
 |CCC-UK-2          |I             |4h            |The Wayward Wives                                |
 |CCC-VOTE-01-01    |II            |4-6h          |A Small Trifle                                   |
@@ -7039,6 +7041,41 @@ A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
+
+### [When Mages Fall](https://www.dmsguild.com/product/296439/When-Mages-Fall-CCCOA0101)
+
+**Informacje o przygodzie:**
+Fledgling wizards are being struck down in Thentia, the City of Mages.Rumors tie the deaths to the reappearance of an ancient artifact, the Bright Sword.Can adventurers solve the mystery of the mage slayings before the body count rises?
+
+A 2- to 4-Hour adventure for 1st to 4th level characters.
+
+This adventure features a balance of all pillars of play, including an optional puzzle. Maps and magic item handouts are included in separate files.
+
+When Mages Fall is set in the city of Thentia and has an entirely entirely stand-alone storyline. This adventure does feature an optional appearance by the Sisterhood of the Blade bounty hunting organization. It can be used a an unrelated follow-up to the introductory adventure Sisterhood of the Blade or as a precursor to the (Tier 2) adventure Fiendly Competition.
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+
+### [Sisterhood of the Blade](https://www.dmsguild.com/product/295614/Sisterhood-of-the-Blade-CCCUNITEAN04)
+
+**Informacje o przygodzie:**
+LIVE THE EXCITING LIFE OF AN ADVENTURER! 
+FREE TRAINING PROVIDED! 
+WANT TO KNOW MORE?
+New posters advertising free training for adventurers have appeared around the town of Melvaunt. Is this just a training facility or something more sinister? The only way to find out is to go!
+
+A 2- to 4-Hour adventure for 1st to 4th level characters, with 1-hr options for new players.
+
+This adventure has been carefully crafted to help players new to D&D learn the game by teaching them about using skills, saving throws, and dealing with different types of monsters. Divided into "basic" and "advanced" sections, experienced adventures will also find plenty of challenges! 
+
+The adventure is highly flexible - with different ways of presenting the material to run in 2-, 3-, 4- or even 1-hour slots. It is perfect for running at FLGSs and events with high walk-in traffic.
+
+This adventure is entirely stand-alone and introduces the Sisterhood of the Blade bounty hunting organization, which can be encountered in other adventures. If you're looking for a follow-up to this one, the adventure When Mages Fall is recommended and potentially features an opportunity to use the story award.
+
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 

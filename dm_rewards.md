@@ -47,7 +47,7 @@ Za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP) i
 
 Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP i 5 PQ, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP i 6 PQ.
 
-PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot lub spellbook, przestrzegając zastrzeżeń podrozdziału 1.5. Nagród Mistrzów Gry. Przydzielić można tylko przedmiot magiczny lub spellbook, który był przewidziany w nagrodach dla graczy w jednej z przygód, którą dany Mistrz Gry poprowadził. Takie przydzielenie kosztuje za każdym razem 50 PMP.
+PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot lub spellbook, przestrzegając zastrzeżeń opisanych poniżej. Przydzielić można tylko przedmiot magiczny lub spellbook, który był przewidziany w nagrodach dla graczy w jednej z przygód, którą dany Mistrz Gry poprowadził. Takie przydzielenie kosztuje za każdym razem 50 PMP.
 
 PQ można wydać wydać wg tabelki znajdującej się w sekcji [nagrody dodatkowe](#nagrody-dodatkowe).
 
