@@ -519,6 +519,8 @@
 |WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
 |PO-BK-1-01        |II            |2h            |Autumn Burns Red                                 |
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
+|SJ-DC-PHP-FLN01-01|I             |2h            |Forlorn but not Forgotten                        |
+|SJ-DC-PHP-FLN01-02|I             |2h            |Kaleidoscope Vault                               |
 |PS-DC-HNL-02      |I             |4h            |The Hungry Prince                                |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
@@ -6982,6 +6984,25 @@ An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 **Komentarz** 
 Przygoda przewiduje przydzielenie po jednej magitce na gracza. Przegłosowano zmianę, przygoda nagradza tylko jedną magitką.
 
+### [Forlorn but not Forgotten](https://www.dmsguild.com/product/418804/Forlorn-but-not-Forgotten-SJDCPHPFLN0101)
+
+**Informacje o przygodzie:**
+You are called to the Wildspace system of Forlorn where an astral elf requests your aid! Will you help him seek out his lost lover?
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Kaleidoscope Vault](https://www.dmsguild.com/product/432750/Kaleidoscope-Vault-SJDCPHPFLN0102)
+
+**Informacje o przygodzie:**
+An astral elf wizard has been researching the anomalies on Crystalstar. Her findings have uncovered a derelict research facility named the Amastacia. Can you navigate the facilities’ defenses and uncover the treasure she seeks?
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [The Hungry Prince](https://www.dmsguild.com/product/470285/The-Hungry-Prince-PSDCHNL02)
 
