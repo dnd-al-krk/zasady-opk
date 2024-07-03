@@ -7098,6 +7098,20 @@ This adventure is entirely stand-alone and introduces the Sisterhood of the Blad
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
+### [House of Moonlight](https://www.dmsguild.com/product/298232/House-of-Moonlight-CCCUNITE05-)
+
+**Informacje o przygodzie**
+It all starts with a mysterious coin that accompanies a note detailing a time and a place.
+Is this a meeting?
+Is it friendly?
+The only way to know is to go find out.
+What the adventurers discvover sets them on a journey to a land of darkness, decadence and deception.  
+
+4- to 6-hour adventure for 5th to 10th level characters.       
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
 Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwę tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, przygody należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
