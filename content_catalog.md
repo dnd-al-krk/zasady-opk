@@ -531,7 +531,7 @@
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
 |DDIA-VRGTR        |I             |8h            |House of Lament                                  |
 |GCC-BAX-01        |I/II          |2-5h          |War Tortle Brewery                               |
-
+|CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
 
 
 
