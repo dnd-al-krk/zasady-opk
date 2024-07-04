@@ -190,7 +190,7 @@
 |DDAL-DRW05        |III           |6h            |Uncertain Scrutiny                               |
 |DDAL-DRW06        |III           |6h            |Thimblerigging                                   |
 |DDAL-DRW07        |III           |6h            |Moment of Peace                                  |
-|DDAL-DRW08        |IV            |8 h           |The Harrowing of Hell                            |
+|DDAL-DRW08        |IV            |8h            |The Harrowing of Hell                            |
 |DDAL-DRW09        |II            |4h            |Vile Bounty                                      |
 |DDAL-DRW10        |II            |4h            |Unsafe Harborage                                 |
 |DDAL-DRW11        |II            |4h            |Shadows in the Stacks                            |
@@ -200,7 +200,7 @@
 |DDAL-DRW15        |III           |4h            |Frozen Whispers                                  |
 |DDAL-DRW16        |III           |4h            |Uprising                                         |
 | CCC - Community-Created Content |
-|CCC-3MAGS-01      |I             |7 h           |Vormestrand’s Scroll                             |
+|CCC-3MAGS-01      |I             |7h            |Vormestrand’s Scroll                             |
 |CCC-AETHER01-01   |I             |2-4h          |The Heir of Orcus: Verse I                       |
 |CCC-AETHER01-02   |I             |4h            |The Heir of Orcus: Verse II                      |
 |CCC-AETHER02-01   |II            |2-4h          |The Heir of Orcus: Verse IV                      |
@@ -279,7 +279,7 @@
 |CCC-BWM-001       |II            |4h            |Howling on the Moonsea                           |
 |CCC-BWM-002       |II            |4h            |The City in the Depths                           |
 |CCC-BWM-003       |III           |4h            |A Tale of Two Towers                             |
-|CCC-BWM-06        |I             |5 h           |Introduction to Adventuring                      |
+|CCC-BWM-06        |I             |5h            |Introduction to Adventuring                      |
 |CCC-CIC-01        |I             |4h            |The Vault of the Devourer                        |
 |CCC-CIC-02        |II            |4h            |The Clockwork Laboratory                         |
 |CCC-CIC-03        |II            |4h            |The Desolate Undercroft                          |
@@ -426,7 +426,7 @@
 |CCC-SCAR01-01     |I             |4h            |Corrupted Artery                                 |
 |CCC-SCAR01-02     |I             |4h            |Glister by Light                                 |
 |CCC-SCAR02-01     |I             |4h            |Glister By Dark                                  |
-|CCC-SFBAY-0101    |II            |8 h           |Plots in Motion                                  |
+|CCC-SFBAY-0101    |II            |8h            |Plots in Motion                                  |
 |CCC-SFBAY-0201    |II            |4h            |Old Enemies Arise                                |
 |CCC-SFBAY-0202    |II            |4h            |Rise of the Ogre King                            |
 |CCC-SFBAY-0203    |II            |4h            |The Risen Minotaur Lord                          |
