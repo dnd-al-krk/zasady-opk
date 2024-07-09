@@ -5639,7 +5639,7 @@ A 4-hour D&D Adventurers League Convention Created Content adventure for 1st –
 Characters (optimized for 3rd level).
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Oryginalna magitka została zastąpiona Winged Boots. Zmiana nie jest retroaktywna i weszła w życie 09.07.2024. 
 
 ### [A Light in the Dark](https://www.dmsguild.com/product/258839/CCCSAC01-A-Light-in-the-Dark?affiliate_id=925821)
 
