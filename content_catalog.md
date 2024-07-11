@@ -382,7 +382,7 @@
 |CCC-MMT01-05      |I             |2h            |Secrets of the Cure                              |
 |CCC-MMT02-01      |II            |2-4h          |The Stuff of Memories                            |
 |CCC-MYR-01        |II            |4h            |Friends in Need                                  |
-|CCC-NBDD01-01     |II            |2h            |Clever                                           |
+|CCC-NBDD01-01     |II            |2-4h           |Clever                                          |
 |CCC-NUKE-0101     |I             |4h            |The Blighted Sun                                 |
 |CCC-NUKE-0102     |I             |4h            |Hide and Seek                                    |
 |CCC-OA-01-01      |I             |2-4h          |When Mages Fall                                  |
@@ -5241,13 +5241,11 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 ### [Clever](https://www.dmsguild.com/product/275196/CCCNBDD0101-Clever?affiliate_id=925821)
 
 **Informacje o przygodzie**
-A strange new crime family has been growing and tightening its grips on local businesses. Any who
-refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this
-wave of organized crime?
+A strange new crime family has been growing and tightening its grips on local businesses. Any who refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this wave of organized crime?
 A Two-Hour Adventure for Tier 2 Characters. Optimized for APL 7.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przygoda zawiera dwa bonusowe cele, których wypełnienie zwiększa runtime i ilość ACP. 
 
 
 
@@ -7137,11 +7135,12 @@ W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za ka�
 
 ## Zasady wprowadzania zmian w Katalogu Przygód
 
-Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale #cc-zmiany. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
+Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale [#cc-zmiany](https://discord.com/channels/402539300824154112/1100009287331369011). Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
 
 ### Przygoda CCC lub DC dopuszczona w rozgrywkach AL ale niedodana do katalogu OPK
 
-Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. W wypadku przygód dopuszczonych w rozgrywkach AL, głosowanie Mistrzów Gry jest wymagane tylko jeśli wpis w CC już istnieje i należy go zmienić lub jeśli przygoda wymaga wprowadzenia przystosowania do formatu rozgrywek OPK. Nie ma potrzeby głosowania generycznych wpisów do CCC (przygoda może być prowadzona bez zmian, ewentualnie z jakimś pomocnym komentarzem Mistrza Gry niesugerującym znaczących zmian w przygodzie), wystarczy poinformowanie innych Mistrzów Gry o dodaniu wpisu.
+Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. W wypadku przygód dopuszczonych w rozgrywkach AL, głosowanie Mistrzów Gry jest wymagane tylko jeśli wpis w CC już istnieje i należy go zmienić lub jeśli przygoda wymaga wprowadzenia przystosowania do formatu rozgrywek OPK. Nie ma potrzeby głosowania generycznych wpisów do CC (przygoda może być prowadzona bez zmian, ewentualnie z jakimś pomocnym komentarzem Mistrza Gry niesugerującym znaczących zmian w przygodzie), wystarczy poinformowanie innych Mistrzów Gry o dodaniu wpisu. Zmiany wprowadzane do CC mogą być głosowane szybkim trybem- poprzez zebranie 5 głosów DMów na tak po upłynięciu przynajmniej 24h od utworzenia głosowania. Każdy aktywny DM ma prawo do zawetowania wpisu poprzez utworzenie tematu pod propozycją i wymienienie zastrzeżeń. Tak zawetowany wpis jest głosowany zwykłym trybem, chyba że veto zostanie wycofane. Zmiany głosowane są tak samo jak wprowadzanie nowych przygód- na Discordowym kanale [#cc-zmiany](https://discord.com/channels/402539300824154112/1100009287331369011). 
+
 
 ### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
 
