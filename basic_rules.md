@@ -310,10 +310,11 @@ Postać dostaje tyle ACP, ile brakuje jej do następnego poziomu według Tabeli 
 
 **10. Relaksu:** Postać wydaje 5 DT i utrzymuje podczas tych dni co najmniej wygodny tryb życia (czyli wydaje co najmniej 10 gp). Postać zyskuje inspirację do wykorzystania. Postać gracza może przechowywać maksymalnie jedną inspirację z tego przestoju.
 
-Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby obliczania kosztu. Na przykład, wizard może przez 6 godzin przepisywać zaklęcia do księgi i przez 2 godziny używać jakiegoś narzędzia rzemieślniczego w którym jest biegły i wydać za to 1 DT.
-
 Niezależnie od wykorzystania czasu wolnego, zakłada się, że pomiędzy kolejnymi przygodami, w których postać uczestniczy odbywa się jeden long rest/długi odpoczynek. Zużycie dni wolnych na wymienione powyżej aktywności liczy się na poczet upływu czasu (np. przy odzyskiwaniu Hit Dice/Kości Wytrzymałości, ładunków przedmiotów magicznych, odbywaniu karencji między możliwościami użycia jakiejś zdolności lub dochodzeniu do pełnej sprawności po wskrzeszeniu).
 
+Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby obliczania kosztu. Na przykład, wizard może przez 6 godzin przepisywać zaklęcia do księgi i przez 2 godziny używać jakiegoś narzędzia rzemieślniczego w którym jest biegły i wydać za to 1 DT. Aktywności zajmujące więcej niż 1 dzień można wykonywać "na raty" pomiędzy różnymi przygodami, aczkolwiek korzyści z tych aktywności otrzymuje się dopiero po opłaceniu całego kosztu, czy to w DT, czy w innych zasobach. Na przykład, postać może po przygodzie X1 wydać 2DT na naukę biegłości w języku, by pozbyć się poziomów wyczerpania, 4 DT po przygodzie X2, by pozbyć się minusów wskrzeszenia za pomocą Raise Dead, a wreszcie po przygodzie X3 wydać pozostałe 19 DT i 300 sztuk złota, by ostatecznie się tego języka nauczyć. W przypadku rozdzielenia danej czynności na raty, czas mniejszy niż 1DT(8 godzin) pozostały po wykonaniu tej czynności przepada po zagraniu najbliższej przygody. Wydać można tylko całkowitą liczbę DT.
+
+Postacie nie muszą wydawać pieniędzy na utrzymanie się pomiędzy przygodami/ w ramach zużycia downtime'u wynikających z utrzymania stylu życia (lifestyle) poza przypadkami wymienionymi w tych zasadach.
 
 ### 4.4. Przekuwanie magicznej broni<a name="przekuwanie-broni"></a>
 
