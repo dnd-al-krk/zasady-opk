@@ -150,7 +150,7 @@ Dopuszczalne jest posiłkowanie się tabelą „This Is Your Life" z XGE. Rzuty 
 
 ### 2.1. Przygotowanie do sesji<a name="przygotowanie-do-sesji"></a>
 
-Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](http://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie-sesji na discordzie). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. Rozgrywki podzielone są na Szczeble (Tiers), zależne od poziomu postaci graczy, które mogą w nich uczestniczyć:
+Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](https://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie-sesji na discordzie). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. Rozgrywki podzielone są na Szczeble (Tiers), zależne od poziomu postaci graczy, które mogą w nich uczestniczyć:
 
 Tier 1 (T1): Poziomy 1 – 4
 
@@ -314,7 +314,7 @@ Niezależnie od wykorzystania czasu wolnego, zakłada się, że pomiędzy kolejn
 
 Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby obliczania kosztu. Na przykład, wizard może przez 6 godzin przepisywać zaklęcia do księgi i przez 2 godziny używać jakiegoś narzędzia rzemieślniczego w którym jest biegły i wydać za to 1 DT. Aktywności zajmujące więcej niż 1 dzień można wykonywać "na raty" pomiędzy różnymi przygodami, aczkolwiek korzyści z tych aktywności otrzymuje się dopiero po opłaceniu całego kosztu, czy to w DT, czy w innych zasobach. Na przykład, postać może po przygodzie X1 wydać 2DT na naukę biegłości w języku, by pozbyć się poziomów wyczerpania, 4 DT po przygodzie X2, by pozbyć się minusów wskrzeszenia za pomocą Raise Dead, a wreszcie po przygodzie X3 wydać pozostałe 19 DT i 300 sztuk złota, by ostatecznie się tego języka nauczyć. W przypadku rozdzielenia danej czynności na raty, czas mniejszy niż 1DT(8 godzin) pozostały po wykonaniu tej czynności przepada po zagraniu najbliższej przygody. Wydać można tylko całkowitą liczbę DT.
 
-Postacie nie muszą wydawać pieniędzy na utrzymanie się pomiędzy przygodami/ w ramach zużycia downtime'u wynikających z utrzymania stylu życia (lifestyle) poza przypadkami wymienionymi w tych zasadach.
+Postacie nie muszą wydawać pieniędzy na utrzymanie się pomiędzy przygodami/ w ramach zużycia downtime'u wynikających z utrzymania stylu życia (lifestyle) poza przypadkami wyszczególnionymi w innych zasadach (np. w ramach zużycia DT dla utrzymania przynależności do Płaszczy z Mulmaster nadal należy wydać gp na utrzymanie wealthy lifestyle).
 
 ### 4.4. Przekuwanie magicznej broni<a name="przekuwanie-broni"></a>
 
