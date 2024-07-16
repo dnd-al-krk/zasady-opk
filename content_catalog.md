@@ -6916,7 +6916,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 Shemshime's Bedtime Rhyme has been gathering dust on its shelf in Candlekeep for over six hundred years. The children's book arrived at the library in unceremonious fashion, though the same could not be said of its courier. Yowen Pilt, a procurer of rare books who did business with Candlekeep, was utterly insane when he arrived with his latest bundle. The records of the episode are sparse, but they report that he was placed in isolation for weeks after a "singing madness" began to spread among the library's Avowed. The records contain no further mention of the book dealer. The Avowed cataloged and shelved his final delivery, which included Shemshime's Bedtime Rhyme.
 
 **Komentarz**
-Przygoda pochodzi z oficjalnego hardcovera Candlekeep Mysteries. Informacje o sugerowanym skalowaniu i zmianach w nagrodach znajdują się w przygodzie na dysku z CC.
+Przygoda pochodzi z oficjalnego hardcovera Candlekeep Mysteries. Informacje o sugerowanym skalowaniu i zmianach w nagrodach znajdują się w przygodzie na dysku z CC. W ramach dostsowania przygody do standardów OPK należy przydzielić każdej postaci, która przeżyła przygodę dodatkową nagrodę w wysokości 50 sztuk od Avowed (co przy 5 postaciach da nagrodę w złocie na poziomie 74 gp za 2 ACP T1) oraz usunąć jedną rare potkę z pokoju F11 - Potion of Gaseous Form.
 
 ### [Cellar of Death](https://www.dmsguild.com/product/220572/Cellar-of-Death)
 
