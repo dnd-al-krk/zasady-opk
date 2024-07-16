@@ -56,7 +56,7 @@
 |DDEX2-15          |II            |4h            |Black Heart of Vengeance                         |
 |DDEX2-16          |I             |4h            |Boltsmelter’s Book                               |
 | Sezon 3 - Rage of Demons |
-|DDE3-1            |I             |5x1h          |Harried in Hillsfar                              |
+|DDEX3-1           |I             |5x1h          |Harried in Hillsfar                              |
 |DDEX3-2           |I             |4h            |Shackles of Blood                                |
 |DDEX3-3           |II            |4h            |The Occupation of Szith Morcane                  |
 |DDEX3-4           |III           |8 h           |It’s All in the Blood                            |
@@ -514,6 +514,7 @@
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-YLRA01-04     |II            |4h            |Down in Flames                                   |
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
+|DDHC-CM-05        |I             |2h            |Shemshime's Bedtime Rhyme                        |
 |DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
 |WBW-DC-DCAF01     |I             |2h            |Pixie Dreams                                     |
 |WBW-DC-DCAF01B    |I             |2h            |Barangay Bound                                   |
@@ -6908,6 +6909,14 @@ A Two-Hour Adventure for 1st-4th Level Characters
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### Shemshime's Bedtime Rhyme
+
+**Informacje o przygodzie**
+Shemshime's Bedtime Rhyme has been gathering dust on its shelf in Candlekeep for over six hundred years. The children's book arrived at the library in unceremonious fashion, though the same could not be said of its courier. Yowen Pilt, a procurer of rare books who did business with Candlekeep, was utterly insane when he arrived with his latest bundle. The records of the episode are sparse, but they report that he was placed in isolation for weeks after a "singing madness" began to spread among the library's Avowed. The records contain no further mention of the book dealer. The Avowed cataloged and shelved his final delivery, which included Shemshime's Bedtime Rhyme.
+
+**Komentarz**
+Przygoda pochodzi z oficjalnego hardcovera Candlekeep Mysteries. Informacje o sugerowanym skalowaniu i zmianach w nagrodach znajdują się w przygodzie na dysku z CC. W ramach dostsowania przygody do standardów OPK należy przydzielić każdej postaci, która przeżyła przygodę dodatkową nagrodę w wysokości 50 sztuk od Avowed (co przy 5 postaciach da nagrodę w złocie na poziomie 74 gp za 2 ACP T1) oraz usunąć jedną rare potkę z pokoju F11 - Potion of Gaseous Form.
 
 ### [Cellar of Death](https://www.dmsguild.com/product/220572/Cellar-of-Death)
 
