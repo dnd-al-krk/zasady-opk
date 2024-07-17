@@ -7107,7 +7107,7 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [House of Moonlight](https://www.dmsguild.com/product/298232/House-of-Moonlight-CCCUNITE05-)
 
-**Informacje o przygodzie**
+**Informacje o przygodzie:**
 It all starts with a mysterious coin that accompanies a note detailing a time and a place.
 Is this a meeting?
 Is it friendly?
@@ -7121,11 +7121,11 @@ Brak uwag związanych z prowadzeniem przygody.
 
 ### [Where Can She Be](https://www.dmsguild.com/product/310358/CCCNBDD0102-Where-Can-She-Be)
 
-**Informacje o przygodzie**
+**Informacje o przygodzie:**
 A master criminal has been making her way across the Moonsea, stealing priceless treasures at every stop. 
 It's up to you to trace her steps, find her allies, and stop her before she can claim her final prize.
 
-What will you get in "Where Can She Be?"
+A two to Four-Hour adventure for Tier 2 characters. Optimized for APL 8.
 
 **Komentarz** 
 Złoto zgodnie z tabelką OPK.
