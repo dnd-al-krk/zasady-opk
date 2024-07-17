@@ -533,7 +533,7 @@
 |DDIA-VRGTR        |I             |8h            |House of Lament                                  |
 |GCC-BAX-01        |I/II          |2-5h          |War Tortle Brewery                               |
 |CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
-
+|CCC-NBDD01-02     |II            |2-4h          |Where Can She Be                                 |
 
 
 ## Informacje o przygodach
@@ -7118,6 +7118,14 @@ What the adventurers discvover sets them on a journey to a land of darkness, dec
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody.
+
+### [Where Can She Be](https://www.dmsguild.com/product/310358/CCCNBDD0102-Where-Can-She-Be)
+
+**Informacje o przygodzie**
+A master criminal has been making her way across the Moonsea, stealing priceless treasures at every stop. 
+It's up to you to trace her steps, find her allies, and stop her before she can claim her final prize.
+
+What will you get in "Where Can She Be?"
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
