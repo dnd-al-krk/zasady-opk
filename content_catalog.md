@@ -7127,6 +7127,9 @@ It's up to you to trace her steps, find her allies, and stop her before she can 
 
 What will you get in "Where Can She Be?"
 
+**Komentarz** 
+Złoto zgodnie z tabelką OPK.
+
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
 Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwę tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, przygody należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
