@@ -522,6 +522,7 @@
 |SJ-DC-DWR-01      |II            |4h            |Dohwar Heist                                     |
 |SJ-DC-PHP-FLN01-01|I             |2h            |Forlorn but not Forgotten                        |
 |SJ-DC-PHP-FLN01-02|I             |2h            |Kaleidoscope Vault                               |
+|SJ-DC-PHP-FLN01-03|I             |2h            |Unsworn Oath                                     |
 |PS-DC-HNL-02      |I             |4h            |The Hungry Prince                                |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
@@ -7005,6 +7006,18 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 **Informacje o przygodzie:**
 An astral elf wizard has been researching the anomalies on Crystalstar. Her findings have uncovered a derelict research facility named the Amastacia. Can you navigate the facilities’ defenses and uncover the treasure she seeks?
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Unsworn Oath](https://www.dmsguild.com/product/439154/Unsworn-Oath-SJDCPHPFLN0103)
+
+**Informacje o przygodzie:**
+Tensions rise on Crystalstar as more undead materialize from the Maercryshal. Two astral elves
+may have a solution to save the planet, but can you act fast enough to prevent utter ruin?
+Part three of the Crystalstar Trilogy
 
 A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 
