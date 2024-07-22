@@ -528,12 +528,19 @@
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
+|CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
+|CCC-MTL-02        |II            |2-4h          |House of Revenance                               |
+|CCC-MTL-03      |II              |2-4h          |House of Webs                                    |
+|CCC-HAL-05      |II              |2-4h          |House of Blades                                  |
+|CCC-HAL-06      |II              |2-4h          |House of Tides                                   |
+|CCC-TXLIFE-01   |II              |2-4h          |House of Masks                                   |
+|CCC-UNITE-GD-01 |II              |2-4h          |House of Diamonds                                |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
 |DDIA-VRGTR        |I             |8h            |House of Lament                                  |
 |GCC-BAX-01        |I/II          |2-5h          |War Tortle Brewery                               |
-|CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
+
 
 
 
