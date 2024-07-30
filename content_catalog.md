@@ -528,6 +528,9 @@
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
+|WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
+|WBW-DC-JSH-LIB-02 |I             |4h            |Search Engine Optimization                       |
+|WBW-DC-JSH-LIB-03 |I             |4h            |Between Covers and Through Tales                 |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7131,6 +7134,57 @@ What the adventurers discvover sets them on a journey to a land of darkness, dec
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody.
+
+### [Inter-library Interception](https://www.dmsguild.com/product/408247/WBWDCJSHLIB01-InterLibrary-Interception)
+
+**Informacje o przygodzie:**
+A Feywild librarian is fretting over missing books – and needs adventurers to help her track it down! In the process, characters are introduced to the Feywild realm of Boucquain and its Archfey caretaker, the Librarian.
+
+A 2 Hour adventure for 1st to 4th level characters, optimized for APL 2
+
+This adventure is the starting point for the Adventures in Librarianship series of WBW-DC-LIB adventures. It can be played as a standalone adventure, but also helps set the stage for the subsequent modules in the series.
+
+While all three pillars of play feature in this adventure, it is primarily a combat adventure book-ended by opportunities to engage in storytelling and roleplaying.
+Content Warnings: Poisoning (of animals); electrocution and incapacitation
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+
+### [Search Engine Optimization](https://www.dmsguild.com/product/408261/WBWDCJSHLIB02-Search-Engine-Optimization)
+
+**Informacje o przygodzie:**
+The Librarian, Archfey of the domain of Boucquain, is bringing a new idea to life: a contraption that will enable faster searching of a library’s holdings! With the assistance of gnomes, other experts, and the characters, they’ll bring the first-ever Search Engine, a machine that blends the arcane, the mechanical, and the electrical, online – what could possibly go wrong?
+
+A 4 Hour adventure for 1st to 4th level characters, optimized for APL 3
+
+This adventure is the second of the Adventures in Librarianship series of WBW-DC-JSH-LIB adventures. It can be played as a standalone adventure, but also connects to an overarching story across all four adventures.
+
+This adventure largely focuses on freeform problem solving and puzzles, and as such, it primarily hinges on the exploration pillar. It also features some social interactions, and includes options to add minor combats if desired.
+
+Content Warnings: Insects and arachnids; book burning.
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+
+### [Between Covers and Through Tales](https://www.dmsguild.com/product/408582/WBWDCJSHLIB03-Between-Covers-and-Through-Tales)
+
+**Informacje o przygodzie:**
+The Librarian, Archfey of the domain of Boucquain, is drowning in inter-library loan requests – and to make matters worse, some of her Modron assistants seem to be malfunctioning!
+
+With only Jeeves, the Librarian’s Modron assistant, and Marginalia, her cat, left to help, she asks the party to assist her in fetching books from the Library stacks. But delving into the Library’s stacks will uncover more than just books: Strange encounters eventually lead to a plot revealed, and unveil the mysterious threat to the Library.
+
+A 4 Hour adventure for 1st to 4th level characters, optimized for APL 4
+
+This adventure is the third of the Adventures in Librarianship series of WBW-DC-JSH-LIB adventures. It can be played as a standalone adventure, but also connects to an overarching story across all four adventures.
+
+This adventure largely focuses on freeform problem solving and puzzles, and as such, it primarily hinges on the exploration pillar. It also invokes the Social pillar, and accommodates parties with a more combat-oriented preference.
+
+Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
