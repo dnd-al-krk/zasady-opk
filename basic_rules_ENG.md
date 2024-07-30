@@ -311,6 +311,8 @@ Activities that take less than 1 day can be combined with others for the purpose
 
 Regardless of downtime spending, it is assumed that a character has one long rest between adventures. Spending downtime for the above activities counts for the passage of time (e.g. for regaining Hit Dice, magic item charges, cooldown of abilities, recovering from resurrection).
 
+**11. Repairing damaged armor/weapons:** When adventuring, suits of armor or weapons of a player character may be damaged in the form of reducing AC of an armor or attack/damage bonus of a weapon (typically, after encountering various oozes). In order to repair a damaged suit of armor or a damaged weapon, the character must spend an amount of downtime (DT) equal to the total penalty of all of the character's affected items. For example, if, at the end of the fight, a character's plate armor has a modified AC of 14 (-4 penalty), repairing the armor requires 4 DT. The same cost would apply to a weapon has a -4 penalty. After repairing, all the statistics of the equipment are the same as before the damage. Any equipment that was damaged and not repaired is worthless and cannot be sold. Suits of armor and weapons destroyed during the adventure may not be repaired. The DM has the final say on the ruling if the damaged suit of armor or weapon is repairable.
+
 ### 4.4. Reforging magic weapons<a name="przekuwanie-broni"></a>
 
 A character that obtains a magic weapon has the ability to reforge it. It can be done only once, no later than at the start of the character's next adventure. Reforging magic weapons is free.
