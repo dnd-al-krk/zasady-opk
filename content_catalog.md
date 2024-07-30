@@ -533,6 +533,7 @@
 |WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
 |WBW-DC-JSH-LIB-02 |I             |4h            |Search Engine Optimization                       |
 |WBW-DC-JSH-LIB-03 |I             |4h            |Between Covers and Through Tales                 |
+|WBW-DC-JSH-LIB-04 |II            |4h            |Brightly Burn the Flames of Knowledge            |
 |WBW-DC-PHP-01     |II            |4h            |Pot Luck!                                        |
 |CCC-NBDD01-02     |II            |2-4h          |Where Can She Be                                 |
 |CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
@@ -7229,6 +7230,21 @@ Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
 
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+
+### [Brightly Burn the Flames of Knowledge](https://www.dmsguild.com/product/408585/WBWDCJSHLIB04-Brightly-Burn-the-Flames-of-Knowledge)
+
+**Informacje o przygodzie:**
+The strange series of events in the Library of Boucquain come to a head as a destructive plot is revealed. Help the Librarian take a stand against an enemy that would see knowledge and art destroyed in this finale of Adventures in Librarianship.
+
+A 4 Hour adventure for 5st to 10th level characters, optimized for APL 5
+
+This adventure is the last of the four-part Adventures in Librarianship series of WBW-DC-JSH-LIB adventures. It can be played as a standalone adventure, but also connects to an overarching story across all four adventures.
+
+Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
+**Komentarz** 
+Postacie nie mogą otrzymać Przedmiotu "Marginalia's Mischief (Pixie Dust)" jako nagrodę z przygody (do czasu pozytywnego rozpatrzenia głosowania 78)
+
 
 ### [Pot Luck!](https://www.dmsguild.com/product/378853/WBWDCPHP01-Pot-Luck)
 
