@@ -316,6 +316,9 @@ Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby
 
 Postacie nie muszą wydawać pieniędzy na utrzymanie się pomiędzy przygodami/ w ramach zużycia downtime'u wynikających z utrzymania stylu życia (lifestyle) poza przypadkami wyszczególnionymi w innych zasadach (np. w ramach zużycia DT dla utrzymania przynależności do Płaszczy z Mulmaster nadal należy wydać gp na utrzymanie wealthy lifestyle).
 
+**11. Naprawy uszkodzonych broni i zbroi:** Jeśli w trakcie przygody broń lub zbroja postaci ulegnie uszkodzeniu, polegającemu na tym, że obniżone jest AC postaci noszącej taką zbroję lub bonus do ataku/obrażeń użytkownika takiej broni (np. po kontakcie z pewnymi śluzami), postać może wydać ilość DT równą obniżeniu AC (w wypadku zbroi) lub obniżeniu bonusu do ataku/obrażeń (w wypadku broni), by zbroję/broń naprawić. Na przykład, postać, której zbroja płytowa ma AC zmodyfikowane do 14 (obniżone o 4) musi wydać 4 DT  by ją naprawić, podobnie jak w wypadku broni, której uszkodzenie powoduje karę -4 do trafienia. Po opłaceniu tego kosztu, broń/zbroja ma statystyki takie jak przed uszkodzeniem.
+Ekwipunek uszkodzony i nienaprawiony jest bezwartościowy i nie może być sprzedany. Nie można naprawiać w ten sposób zbroi i broni, która została całkowicie zniszczona.  Ostateczną decyzję co do tego, czy broń/zbroja nadaje się do naprawy podejmuje DM danej przygody.
+
 ### 4.4. Przekuwanie magicznej broni<a name="przekuwanie-broni"></a>
 
 Postać, która wejdzie w posiadanie magicznej broni uzyskuje też możliwość jej przekucia. Ta opcja może być wykorzystana tylko raz, najpóźniej do momentu rozpoczęcia przez postać następnej przygody. Przekucie broni nie niesie ze sobą żadnego kosztu dla postaci.
