@@ -530,11 +530,11 @@
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
 |CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
 |CCC-MTL-02        |II            |2-4h          |House of Revenance                               |
-|CCC-MTL-03      |II              |2-4h          |House of Webs                                    |
-|CCC-HAL-05      |II              |2-4h          |House of Blades                                  |
-|CCC-HAL-06      |II              |2-4h          |House of Tides                                   |
-|CCC-TXLIFE-01   |II              |2-4h          |House of Masks                                   |
-|CCC-UNITE-GD-01 |II              |2-4h          |House of Diamonds                                |
+|CCC-MTL-03        |II            |2-4h          |House of Webs                                    |
+|CCC-HAL-05        |II            |2-4h          |House of Blades                                  |
+|CCC-HAL-06        |II            |2-4h          |House of Tides                                   |
+|CCC-TXLIFE-01     |II            |2-4h          |House of Masks                                   |
+|CCC-UNITE-GD-01  |II             |2-4h          |House of Diamonds                                |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7135,6 +7135,94 @@ The only way to know is to go find out.
 What the adventurers discvover sets them on a journey to a land of darkness, decadence and deception.  
 
 4- to 6-hour adventure for 5th to 10th level characters.       
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
+### [House of Revenance](https://www.dmsguild.com/product/300573/House-of-Revenance-CCCMTL02)
+
+**Informacje o przygodzie**
+New allies in the Underdark have emerged and are key to stopping drow slave-taking raids around the Moonsea. 
+Now, one such ally has been assassinated and her body has been left to the most unpredictable and vile of Zethlentyn’s drow. 
+
+What depraved price will the worshippers of the dreaded death goddess Kiaransalee set for their assistance? 
+Are the adventurers ready to pay it?
+
+This is a 2- to 4-hour adventure for 5th to 10th level characters.          
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
+### [House of Webs](https://www.dmsguild.com/product/303290/House-of-Webs-CCCMTL03)
+
+**Informacje o przygodzie**
+Are you ready to turn the tables and enact a devious ambush against drow slavers? 
+Do you want to visit a tavern run by an illithid? Have a run in with a dwarf battlerager? 
+This is your chance! 
+
+The simmering conflict between the freedom fighters of House Tor’Erhyl and the Lolth-serving slavers of House Ouss’Nassath has reached its boiling point.
+
+Following the recent assassination of a sword dancer, Matron Tor’Erhyl makes a bold plan to strike back where it hurts most – the slave shipments.
+
+Yet this not merely a mission of vengeance – it’s one of mercy and liberation.
+
+This is a 2- to 4-hour adventure for 5th to 10th level characters.        
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
+### [House of Blades](https://www.dmsguild.com/product/323804/House-of-Blades-CCCHAL05)
+
+**Informacje o przygodzie**
+Zim Von Zeam – of ZVZ Caravans – has spent his life braving the lawless lands of Thar with his caravans. 
+Now, life has gifted him with a new opportunity – establishing a trade route from Melvaunt to nothing less than an Underdark city. 
+Does he have what it takes to deal with the treacherous drow? Zim’s ambition is an adventuring opportunity like no other.
+
+Can you prove yourselves worthy in a test of combat prowess against elite drow troops and their cunning commander?
+
+A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
+### [Silent Tides](https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06)
+
+**Informacje o przygodzie**
+The body of a strange elf is discovered on the shores of Moonsea. 
+Efforts to identify its origin lead to a sea bound expedition to the home of the sea elves.
+
+Elsewhere, an ambitious merchant sets upon the deadly task of establishing a trade route to nothing less than an Underdark city. 
+His journey is destined to take him across the subterranean Moondeep Sea aboard a drow ship.
+
+Where the two seas meet, secrets hide and adventure begins.
+
+A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.        
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
+### [House of Masks](https://www.dmsguild.com/product/335282/House-of-Masks-CCCTXLIFE01)
+
+**Informacje o przygodzie**
+Drow slave-taking raids near Melvaunt have slowed thanks to the continuing co-operation with the good-aligned drow house Tor’Erhyl. 
+The next step in the alliance is an unprecedented chance to attend a grand gala within the drow city of Zethlentyn Prime.
+
+This adventure features a unique opportunity to engage in social spycraft to gather information!
+
+A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.       
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody.
+
+### [House of Diamonds](https://www.dmsguild.com/product/335286/House-of-Diamonds-CCCUNITEGD01)
+
+**Informacje o przygodzie**
+New allies in the Underdark have emerged and are working to liberate drow-taken slaves from around the Moonsea. 
+Key to this endeavor is finding a safe and secret passage between the Underdark and the surface. 
+Rumors tell of such a passage deep within the abandoned Axcelon Diamond Mine. 
+Yet the passage is the least of the treasures and dangers that the mine holds.
+
+A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.   
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody.
