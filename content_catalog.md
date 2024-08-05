@@ -531,6 +531,7 @@
 |WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
 |WBW-DC-JSH-LIB-02 |I             |4h            |Search Engine Optimization                       |
 |WBW-DC-JSH-LIB-03 |I             |4h            |Between Covers and Through Tales                 |
+|WBW-DC-PHP-01     |II            |4h            |Pot Luck!                                        |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7185,6 +7186,16 @@ Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
 
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Pot Luck!](https://www.dmsguild.com/product/378853/WBWDCPHP01-Pot-Luck)
+
+**Informacje o przygodzie:**
+Ylraphon’s finest bakery needs your help! It is just days away from a very important festival that will surely rack up the revenue but the head baker is nowhere to be found. What mystery lies in the Cormanthor forest where the master chef was said to have been last seen?
+
+A Wild Beyond the Witchlight Dungeoncraft Adventure for player levels 5-10, APL 8
+
+**Komentarz** 
+Oryginalna nagroda Moon Sickle +2 zostala zamieniona na Studded Leather Armor of Fire Resistance z nastepujacym fluffem: "This chef's apron is expertly crafted from sturdy, fire-resistant materials. The studded leather is subtly reinforced, providing excellent protection while maintaining a sleek and professional appearance. Each stud is shaped like a small culinary utensil, and the apron is embroidered with the title 'Mithral Chef' across the chest in elegant script."
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
