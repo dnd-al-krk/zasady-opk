@@ -7198,7 +7198,7 @@ A Wild Beyond the Witchlight Dungeoncraft Adventure for player levels 5-10, APL 
 **Komentarz** 
 Oryginalna nagroda Moon Sickle +2 zostala zamieniona na Studded Leather Armor of Fire Resistance z nastepujacym fluffem: "This chef's apron is expertly crafted from sturdy, fire-resistant materials. The studded leather is subtly reinforced, providing excellent protection while maintaining a sleek and professional appearance. Each stud is shaped like a small culinary utensil, and the apron is embroidered with the title 'Mithral Chef' across the chest in elegant script."
 
-### [Rock Paper Pistols]([https://www.dmsguild.com/product/378853/WBWDCPHP01-Pot-Luck](https://www.dmsguild.com/product/421003/SJDCDD01-Rock-Paper-Pistols))
+### [Rock Paper Pistols](https://www.dmsguild.com/product/421003/SJDCDD01-Rock-Paper-Pistols)
 
 **Informacje o przygodzie:**
 
