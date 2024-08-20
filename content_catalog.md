@@ -539,7 +539,16 @@
 |CCC-HAL-05        |II            |2-4h          |House of Blades                                  |
 |CCC-HAL-06        |II            |2-4h          |House of Tides                                   |
 |CCC-TXLIFE-01     |II            |2-4h          |House of Masks                                   |
-|CCC-UNITE-GD-01  |II             |2-4h          |House of Diamonds   
+|CCC-UNITE-GD-01  |II             |2-4h          |House of Diamonds                                |
+|SJ-DC-DD-01       |I             |4h            |Rock Paper Pistols                               |
+|SJ-DC-DD-02       |I             |4h            |Lone Survivors                                   |
+|SJ-DC-DD-03       |I             |4h            |Castles in the Sand                              |
+|SJ-DC-DD-04       |I             |4h            |The Highest Bidder                               |
+|SJ-DC-DD-05       |II            |4h            |The Show Must Go On                              |
+|SJ-DC-DD-06       |II            |4h            |The Prime Strikers                               |
+|SJ-DC-DD-07       |II            |4h            |Sinaya's Song                                    |
+|SJ-DC-DD-08       |II            |4h            |Blast from the Past                              |
+|SJ-DC-DD-09       |II            |4h            |The Huangfu Heist                                |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7204,7 +7213,6 @@ A Wild Beyond the Witchlight Dungeoncraft Adventure for player levels 5-10, APL 
 **Komentarz** 
 Oryginalna nagroda Moon Sickle +2 zostala zamieniona na Studded Leather Armor of Fire Resistance z nastepujacym fluffem: "This chef's apron is expertly crafted from sturdy, fire-resistant materials. The studded leather is subtly reinforced, providing excellent protection while maintaining a sleek and professional appearance. Each stud is shaped like a small culinary utensil, and the apron is embroidered with the title 'Mithral Chef' across the chest in elegant script."
 
-
 ### [Where Can She Be](https://www.dmsguild.com/product/310358/CCCNBDD0102-Where-Can-She-Be)
 
 **Informacje o przygodzie:**
@@ -7304,6 +7312,133 @@ A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody.
+
+### [Rock Paper Pistols](https://www.dmsguild.com/product/421003/SJDCDD01-Rock-Paper-Pistols)
+
+**Informacje o przygodzie:**
+
+You’ve found yourselves in possession of a lockbox full of secrets – secrets to die for.	
+Can you unravel the truth before those who want it come calling?
+
+An Action-packed Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+Content Warning: Loss of a parent
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Lone Survivors](https://www.dmsguild.com/product/421749/SJDCDD02-Lone-Survivors?src=also_purchased)
+
+**Informacje o przygodzie:**
+
+When a routine salvage mission takes a sudden, deadly turn, you have to wonder:	
+In Wildspace, will anyone hear you scream?
+
+A Gripping Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+Content Warning: Abduction, auditory hallucinations, body horror (transformation)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Castles in the Sand](https://www.dmsguild.com/product/424009/SJDCDD03-Castles-in-the-Sand)
+
+**Informacje o przygodzie:**
+
+When a fragment of the Monad surfaces at a tropical resort,
+it’s time to stow away your armor,
+put on your bathing suits, and hit the beach!
+For once, fun in the sun’s part of the job description.
+Just don’t let those sea monsters crash your party!
+
+A Sunny Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+Content Warning: Possible phobia triggers (tentacles, beaches, oceans)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Highest Bidder](https://www.dmsguild.com/product/428035/SJDCDD04-The-Highest-Bidder)
+
+**Informacje o przygodzie:**
+
+The race to claim a fragment of the Monad from a prestigious intergalactic auction house
+plunges you into a deadly web of lies and intrigue.
+With four other factions vying for the prize, can you rise to the occasion,
+or will the fall of the hammer spell your defeat?
+
+A Dynamic Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+Content Warning: Bullying, classism, religious proselytism, treachery
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Show Must Go On](https://www.dmsguild.com/product/434138/SJDCDD05-The-Show-Must-Go-On)
+
+**Informacje o przygodzie:**
+
+The Monad has taken you to a most unexpected destination: a derelict theater
+floating in Wildspace.
+Can you put on a show that brings peace to the unquiet dead?
+
+A Musical Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+Content Warning: Death
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Prime Strikers](https://www.dmsguild.com/product/444742/SJDCDD06-The-Prime-Strikers)
+
+**Informacje o przygodzie:**
+
+When a nefarious bounty has the Kyriakos stymied, they approach you with an offer you
+can ill refuse.
+The hunt is on in The Prime’s fog shrouded streets, but there is also danger at every turn.
+Can you win through?
+
+A Heroic Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+Content Warning: Abuse (Charm/Mind Control), Alcohol, Hospital (Injuries from Terrorism), Possible Phobia Triggers (Clowns, Rodents, Spelljammer Crash)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Sinaya's Song](https://www.dmsguild.com/product/447513/SJDCDD07-Sinayas-Song)
+
+**Informacje o przygodzie:**
+
+An abandoned research facility on a desolate ocean planet harbors technology coveted by
+the Ordo Melioris, and a vital clue to the Monad’s origins. It’s a race against time to fortify
+The Forge against the zealots’ forces! Can you weather the siege?
+
+A Dynamic Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+Content Warning: Crashing ships, sentience vs life, weapons of mass destruction
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Blast from the Past](https://www.dmsguild.com/product/460569/SJDCDD08-Blast-from-the-Past)
+
+**Informacje o przygodzie:**
+
+You’ve been sent to Azan Station in search of a spark, but things won’t be that easy.
+Glimpse the past and unearth the station’s tragedy in this time-travelling adventure.
+
+A Four-Hour Time-Traveling Adventure for Tier 2 Characters. Optimized for APL 8.
+Content Warning: Dismemberment, Flashbacks to Violence
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Huangfu Heist](https://www.dmsguild.com/product/464113/SJDCDD09-The-Huangfu-Heist)
+
+**Informacje o przygodzie:**
+
+A glitzy Wildspace gala on a glamorous pleasure cruise,
+a dozen priceless relics, and one chance to steal it all.
+Are you in, or out?
+
+An Audacious Four-Hour Heist for Tier 2 Characters. Optimized for APL 8.
+Content Warning: Alcohol, Fantasy Violence, Gambling, Tobacco Use
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 

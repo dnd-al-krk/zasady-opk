@@ -78,9 +78,9 @@ Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą 
 
 Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można mieć ich dowolnie dużo, choć na każdą sesję można zapisać się tylko jedną. Jeśli jakikolwiek aspekt tworzenia postaci w OPK nie jest jasny, zapraszamy na kanał #tworzenie-postaci na naszym Discordzie.
 
-Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w 5 edycji DnD, sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Podręcznika Gracza (Player's Handbook, PHB), gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł:
+Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w 5 edycji DnD (korzystamy z wersji systemu z 2014 roku, nie z 2024), sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Podręcznika Gracza (Player's Handbook, PHB), gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł:
 
-- Player's Handbook (PHB)
+- Player's Handbook 2014 (PHB)
 - Elemental Evil Player's Companion (EEPC)
 - Sword Coast Adventurer's Guide (SCAG)
 - Volo's Guide to Monsters (VGtM)
