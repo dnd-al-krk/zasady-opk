@@ -4470,7 +4470,9 @@ focus on Social, Combat and Exploration encounters, this adventure steers away f
 'hack-and-slash' dungeon.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako że przygoda oferuje przedmiot magiczny rzadkości common  Dark Shard Amulet, sugeruję podmianę na uncommon Pearl of Power z fluffem:
+
+This pearl is fashioned from a single orb of twisted purple and teal extraplanar crystal originating from The Far Realm. Faint, horrifying glimpses of the realm's chaos can be seen within the pearl—screaming faces of travelers driven to insanity and the shadowy forms of Mind Flayers, Aboleths, and Beholders.
 
 ### [The Border Kingdoms: A Forgotten Realms Campaign Supplement](https://www.dmsguild.com/product/244431/The-Border-Kingdoms-A-Forgotten-Realms-Campaign-Supplement?affiliate_id=925821)
 
