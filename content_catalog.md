@@ -2963,7 +2963,7 @@ out by the Cult of the Heir, discover alien technologies found nowhere else in t
 surrounding the rise of Duerradin before the Heir of Orcus strikes!
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w miejsce Gem of Brightness należy umieścić Elemental Essence Shard (Earth).
 
 ### [The Heir of Orcus: Verse IV](https://www.dmsguild.com/product/301681/The-Heir-of-Orcus-Verse-IV-CCCAETHER0201)
 
