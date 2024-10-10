@@ -549,6 +549,7 @@
 |SJ-DC-DD-07       |II            |4h            |Sinaya's Song                                    |
 |SJ-DC-DD-08       |II            |4h            |Blast from the Past                              |
 |SJ-DC-DD-09       |II            |4h            |The Huangfu Heist                                |
+|SJ-DC-AMAK        |II            |4h            |Starlight’s Lament                               |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7438,6 +7439,19 @@ Are you in, or out?
 
 An Audacious Four-Hour Heist for Tier 2 Characters. Optimized for APL 8.
 Content Warning: Alcohol, Fantasy Violence, Gambling, Tobacco Use
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Starlight's Lament](https://www.dmsguild.com/product/465326/SJDCAMAK-Starlights-Lament)
+
+**Informacje o przygodzie:**
+In the haunted star moth "Starlight LV-426," a mysterious creature lurks in the shadows, preying upon unsuspecting victims. Can the heroes uncover the truth behind the ship's eerie phenomena, escape the unknown predator, and save the remaining crew from imminent danger? The fate of the "Starlight LV-426" and its crew rests in their hands.
+
+A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 7.
+
+An adventure inspired by Ridley Scott's Alien.
+CONTENT WARNING: Horror, Fear, Blood, Gore, Ghoslty Appearance, Claustrophobia
 
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
