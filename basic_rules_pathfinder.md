@@ -86,7 +86,9 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Book of the Dead
 - Dark Archive
 - Rage of Elements
+
 Remaster:
+
 - Player Core
 - Howl of the Wild
 - Player Core 2
