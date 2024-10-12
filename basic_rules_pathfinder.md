@@ -95,11 +95,38 @@ Remaster:
 -Battlecry!
 
  **UWAGA** Opcje dzielone są na common, uncommon i rare, a także wg dostępności (Availability). Tylko opcje będące jednocześnie common i standard nie wymagają spełniania dodatkowych warunków do ich wykorzystywania w tworzeniu postaci. Uzyskanie dostępu do innych opcji opisane jest w rozdziale [dostępność-TODO]. Dla uproszczenia zalecamy zapoznanie się z poniższą tabelką:
-| **  ** | **Common** | **Uncommon** | **Rare or Unique** |
-| Standard | Dostęp nielimitowany | Wymaga wykupienia za AcP (Achievement Points), wg zasad z [dostępność-TODO] | Wymaga wykupienia za AcP (Achievement Points), wg zasad z [dostępność-TODO] ORAZ spełnienia dodatkowych wymagań (np. odblokowanie na konkretnej przygodzie)|
-| Limited | Wymaga wykupienia za AcP (Achievement Points), wg zasad z [dostępność-TODO] ORAZ spełnienia dodatkowych wymagań (np. odblokowanie na konkretnej przygodzie)|
-| Restricted | Niedopuszczone do gry poza przypadkami z [lista-exception-todo] |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax">Common</th>
+    <th class="tg-0lax">Uncommon</th>
+    <th class="tg-0lax">Rare or Unique</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Standard</td>
+    <td class="tg-0lax">Dostęp nielimitowany</td>
+    <td class="tg-0lax">Wymaga wykupienia za AcP (Achievement Points), wg zasad z [dostępność-TODO]</td>
+    <td class="tg-0lax">Wymaga wykupienia za AcP (Achievement Points), wg zasad z [dostępność-TODO] ORAZ spełnienia dodatkowych wymagań (np. odblokowanie na konkretnej przygodzie).</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Limited</td>
+    <td class="tg-0lax" colspan="3">Wymaga wykupienia za AcP (Achievement Points), wg zasad z [dostępność-TODO] ORAZ spełnienia dodatkowych wymagań (np. odblokowanie na konkretnej przygodzie)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Restricted</td>
+    <td class="tg-0lax" colspan="3">Niedopuszczone do gry poza przypadkami z [lista-exception-todo]</td>
+  </tr>
+</tbody>
+</table>
 
 Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MotM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
