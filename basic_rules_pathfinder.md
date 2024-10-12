@@ -1,3 +1,5 @@
+{komentarz- z racji, że to WiP, w wielu miejscach mamy TODO. W finałowej wersji trzeba to będzie usunąć/dodać zawartość. Analogicznie pojawiają się też kometarze tam gdzie temat wymaga dyskusji, i też będzie trzeba je usunąć w finałowej wersji}
+
 ## Pathfinder Organized Play Kraków: zasady dla graczy 
 Wersja 1.0
 
@@ -73,7 +75,7 @@ Zasady dla PF2e zostały spisane i zatwierdzone w dniu [insert date-TODO] wszyst
 
 ## 1. Tworzenie postaci<a name="tworzenie-postaci"></a>
 
-### 1.1 Start<a name="start"></a>
+### 1.1 Dopuszczone źródła<a name="Start"></a>
 
 Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można mieć ich dowolnie dużo, choć na każdą sesję można zapisać się tylko jedną. Jeśli jakikolwiek aspekt tworzenia postaci w OPK nie jest jasny, zapraszamy na kanał #tworzenie_postaci_pf2e na naszym Discordzie.
 
@@ -86,6 +88,7 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Book of the Dead
 - Dark Archive
 - Rage of Elements
+- Pathfinder Lost Omens
 
 Remaster:
 
@@ -123,64 +126,21 @@ Remaster:
 </tbody>
 </table>
 
-Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MotM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
+Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne do momentu rozegrania przez postać pierwszej przygody na poziomie 2. Do tego czasu możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie rozegranej na poziomie pierwszym, bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (background) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. 
 
-Rasy posiadające stałą umiejętność latania (np. Aarakocra, Fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
+### 1.2 Proces tworzenia postaci<a name="atrybuty"></a>
 
-Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
-
-- Human Languages, Tiefling Variants (SCAG),
-- Blessing of Corellon (MToF),
-- Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB),
-- Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE).
-
-Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (background) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
-
-### 1.2 Atrybuty i HP<a name="atrybuty"></a>
-
-Atrybuty przydzielić możemy na dwa sposoby: używając Standardowego Zestawu (metoda Standard Array) lub wydając Punkty (metoda Point Buy). Losowanie statystyk nie jest dozwolone.
-
-- Standardowy Zestaw to przydzielenie atrybutom w dowolnej kolejności wartości: 15, 14, 13, 12, 10, 8.
-
-- Punkty pozwalają na zakup atrybutów według zasady Wariant: Dostosowanie Wartości Cech/Variant: Customizing Ability Scores z rozdziału pierwszego PHB.
-
-Po przydzieleniu punktów należy dodać do nich bonusy rasowe, ustalone zgodnie z zasadami PHB, MoM lub przydzielone dowolnie zgodnie z zasadami TCoE i obliczyć modyfikatory zgodnie z PHB.
-
-Liczbę początkowych HP (Hit Points, Punkty Wytrzymałości) obliczamy zgodnie z zasadami klasy postaci. Gdy postać zdobywa kolejne poziomy, nie losujemy liczby uzyskanych HP lecz korzystamy z zasady zwiększania HP o stałą wartość (liczba podana w klasie, której poziom uzyskujemy+modyfikator Constitution).
-
-### 1.3. Charakter (alignment), pochodzenie (background) i religia<a name="background"></a>
-
-###
-
-Charakter (alignment) postaci nie może być Neutralny Zły ani Chaotyczny Zły (Neutral Evil/Chaotic Evil). Jeśli kiedykolwiek taki się stanie, postać staje się niegrywalna i nie jest możliwe używanie jej w OPK.
-
-Od rozegrania pierwszej przygody Szczebla 2 (T2), oficjalne imię postaci nie może się zmienić (ze względów organizacyjnych). Poza tym, gracz ma niemal pełną swobodę w kontrolowaniu niemechanicznych aspektów swojej postaci, czyli opisie jej historii, religii, cech charakterystycznych, wyglądu, wieku itp. (o ile to nie jest sprzeczne z innymi regułami i nie jest nastawione wbrew przyjemności z gry pozostałych graczy). Dla dobra klimatu zabawy, prosimy jednak o zachowanie w tym zdrowego rozsądku oraz przynajmniej minimum spójności i zgodności ze światem Faerunu (a przynajmniej z klimatem pseudopóźnośredniowiecznego heroic fantasy z zaawansowaną magią i jawnymi ingerencjami istot nadprzyrodzonych, w tym bóstw)[^1].
-
-W szczególności, można wybrać Pochodzenie (Background) z podręczników wymienionych w podrozdziale 1.1., a także z kampanii: Baldur's Gate: Descent into Avernus, Curse of Strahd, Tomb of Annihilation, The Wild Beyond the Witchlight, Ghosts of Saltmarsh. Można też wybrać pochodzenie Athlete z Mythic Odyssey of Theros, bądź stworzyć własne w oparciu o zasady z PHB (Personalizacja Pochodzenia/Customize Your Background).
-
-### 1.4. Ekwipunek Startowy<a name="ekwipunek-startowy"></a>
-
-Startowy ekwipunek i złoto ustalane są zgodnie z Klasą i Pochodzeniem (Background) postaci. Nie można zastąpić domyślnego ekwipunku startowego losowaniem ilości startowego złota. Można natomiast sprzedać ekwipunek startowy po standardowej cenie, czyli za połowę jego wartości i zakupić dodatkowy ekwipunek z PHB za pełną cenę.
-
-Dopuszczalne jest posiłkowanie się tabelą „This Is Your Life" z XGE. Rzuty na tabele należy wykonać albo przy stole w obecności Mistrza Gry, albo na kanale #tworzenie-postaci lub #online-play na Discordzie przy użyciu bota do rzucania kośćmi.
+Postać tworzymy zgodnie z zasadami z [Player's Core](https://2e.aonprd.com/Rules.aspx?ID=2027&Redirected=1) i z uwzględnieniem ograniczeń wymienionych w poprzednim rozdziale. **Nie wolno losować statystyk!**
 
 ## 2. Organizacja sesji<a name="organizacja-sesji"></a>
 
 ### 2.1. Przygotowanie do sesji<a name="przygotowanie-do-sesji"></a>
 
-Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](https://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie-sesji na discordzie). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. Rozgrywki podzielone są na Szczeble (Tiers), zależne od poziomu postaci graczy, które mogą w nich uczestniczyć:
+Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](https://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie_sesji_pf2 na discordzie- prosimy mieć na uwadze, że na portalu są również ogłaszane sesje D&D 5e- między tymi sesjami, a sesjami PF2e nie ma **żadnych** zależności- tj. postacie D&D nie mogą grać sesji PF2e i na odwrót). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. **Jeżeli z jakiegoś powodu nie możesz pojawić się na sesji- niezwłocznie zwolnij miejsce żeby mógł się zapisać ktoś inny.** W dobrym tonie jest też poinformowanie DMa o wypisaniu się (jeżeli następuje to na dwa dni przed sesją lub mniej). 
 
-Tier 1 (T1): Poziomy 1 – 4
+Na discordzie OPK w kanale #announcement można włączyć powiadomienia o nadchodzących sesjach (ikona kompasu, pozostałe ikony dotyczą tylko gier D&D 5e!).
 
-Tier 2 (T2): Poziomy 5 – 10
-
-Tier 3 (T3): Poziomy 11 – 16
-
-Tier 4 (T4): Poziomy 17 – 20
-
-Zatem każda postać OPK zaczyna od sesji T1 i przechodzi na kolejne Szczeble w miarę rozwoju. Na discordzie OPK w kanale #announcement można włączyć powiadomienia o nadchodzących sesjach szczebli, które gracza interesują.
-
-Mistrz Gry powinien również ogłosić na portalu, jaka przygoda (być może więcej niż jedna) będzie rozgrywana podczas sesji. Wykaz dopuszczonych do gry w OPK przygód znajduje się w dokumencie Katalog Przygód (nie zalecamy graczom zaglądania do niego ze względu na potencjalne spoilery). Należy zawsze sprawdzić kod i tytuł przygody, gdyż żadna postać nie może uczestniczyć dwa razy w tej samej przygodzie (niezależnie, czy zakończyła ją sukcesem, czy nie). Podane również jest zawsze miejsce rozgrywki: najczęściej R'lyeh Cafe lub online (wtedy gra się toczy za pośrednictwem naszego discorda i podanych przez Mistrza Gry wirtualnych narzędzi do rozgrywania sesji typu Roll20). Czasami podane są też ograniczenia dotyczące zapisów na sesję (np. pierwszeństwo dla nowych graczy) lub szczególne zasady (np. gramy po angielsku) – należy się wtedy z nimi zapoznać i do nich stosować.
+Mistrz Gry powinien również ogłosić na portalu, jaka przygoda (być może więcej niż jedna) będzie rozgrywana podczas sesji. Do gry dopuszczone są wyłącznnie przygody pathfinder society {komentarz- dopuszczamy coś innego?- todo}. Należy zawsze sprawdzić kod i tytuł przygody, gdyż żadna postać nie może uczestniczyć dwa razy w tej samej przygodzie (niezależnie, czy zakończyła ją sukcesem, czy nie). Podane również jest zawsze miejsce rozgrywki: najczęściej R'lyeh Cafe lub online (wtedy gra się toczy za pośrednictwem naszego discorda i podanych przez Mistrza Gry wirtualnych narzędzi do rozgrywania sesji typu Roll20). Czasami podane są też ograniczenia dotyczące zapisów na sesję (np. pierwszeństwo dla nowych graczy) lub szczególne zasady (np. gramy po angielsku) – należy się wtedy z nimi zapoznać i do nich stosować.
 
 Minimalne wyposażenie gracza na sesję to karta postaci (i wiedza, jak się nią posługiwać), zestaw kości oraz coś do oznaczania pozycji postaci na mapie taktycznej (np. figurka, żeton).
 
