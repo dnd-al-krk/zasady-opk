@@ -79,20 +79,20 @@ Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można
 
 Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w PF2e (korzystamy z wersji remastered systemu, ale nieremasterowane rzeczy pozostają legalne wg informacji opisanych [tutaj](https://paizo.com/pathfinder/remaster/faq)), sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Player's Core, gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł:
 
--Advanced Player's Guide
--Beginner Box
--Secrets of Magic
--Guns & Gears
--Book of the Dead
--Dark Archive
--Rage of Elements
+- Advanced Player's Guide
+- Beginner Box
+- Secrets of Magic
+- Guns & Gears
+- Book of the Dead
+- Dark Archive
+- Rage of Elements
 Remaster:
--Player Core
--Howl of the Wild
--Player Core 2
--War of Immortals
--NPC Core
--Battlecry!
+- Player Core
+- Howl of the Wild
+- Player Core 2
+- War of Immortals
+- NPC Core
+- Battlecry!
 
  **UWAGA** Opcje dzielone są na common, uncommon i rare, a także wg dostępności (Availability). Tylko opcje będące jednocześnie common i standard nie wymagają spełniania dodatkowych warunków do ich wykorzystywania w tworzeniu postaci. Uzyskanie dostępu do innych opcji opisane jest w rozdziale [dostępność-TODO]. Dla uproszczenia zalecamy zapoznanie się z poniższą tabelką:
 
