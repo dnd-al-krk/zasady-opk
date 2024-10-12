@@ -95,14 +95,7 @@ Remaster:
 -Battlecry!
 
  **UWAGA** Opcje dzielone są na common, uncommon i rare, a także wg dostępności (Availability). Tylko opcje będące jednocześnie common i standard nie wymagają spełniania dodatkowych warunków do ich wykorzystywania w tworzeniu postaci. Uzyskanie dostępu do innych opcji opisane jest w rozdziale [dostępność-TODO]. Dla uproszczenia zalecamy zapoznanie się z poniższą tabelką:
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax"></th>
