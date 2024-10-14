@@ -1,13 +1,14 @@
-{komentarz- z racji, że to WiP, w wielu miejscach mamy TODO. W finałowej wersji trzeba to będzie usunąć/dodać zawartość. Analogicznie pojawiają się też kometarze tam gdzie temat wymaga dyskusji, i też będzie trzeba je usunąć w finałowej wersji}
+# Pathfinder Organized Play Kraków: zasady dla graczy
 
-## Pathfinder Organized Play Kraków: zasady dla graczy 
-Wersja 1.0
+Wersja 0.1
+
+==komentarz- z racji, że to WiP, w wielu miejscach mamy TODO. W finałowej wersji trzeba to będzie usunąć/dodać zawartość. Analogicznie pojawiają się też kometarze tam gdzie temat wymaga dyskusji, i też będzie trzeba je usunąć w finałowej wersji==
 
 Ten plik nie zawiera Zasad Zaawansowanych, które znajdziesz w osobnym pliku i mają na celu głównie doprecyzowanie wątpliwych przypadków Zasad Podstawowych, wyjaśnienie, skąd się zasady biorą i opisanie zasad obowiązujących Mistrzów Gry. Do uczestniczenia w samych sesjach wystarczą ci tak naprawdę dwa pierwsze rozdziały Zasad Podstawowych (tworzenie postaci i organizacja sesji). W razie pytań, podpowie ci Mistrz Gry (DM) i bardziej doświadczeni gracze. Rozdziały 3 i 4 to instrukcje dotyczące rozwoju postaci i możliwości jej działań pomiędzy sesjami. Na końcu pliku znajdziesz tabele, które zawierają pomocne informacje.
 
-Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na naszego [Discorda](https://discord.com/invite/BWYKVxk), szczególnie na kanał #rules-opk-pf2e.
+Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na naszego [Discorda](https://discord.com/invite/BWYKVxk), szczególnie na kanał #zasady-opk-pf2e.
 
-# Spis treści
+## Spis treści
 
 [I. Zasady podstawowe](#zasady-podstawowe)
 
@@ -33,7 +34,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [3. Nagrody i inne konsekwencje przygód](#nagrody)
 
-[3.1. ACP, czas wolny (DT) i pieniądze](#acp-dt-pieniadze)
+[3.1. AcP, czas wolny (DT) i pieniądze](#acp-dt-pieniadze)
 
 [3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty](#magitki)
 
@@ -71,35 +72,66 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 ### I. Zasady podstawowe<a name="zasady-podstawowe"></a>
 
-Zasady dla PF2e zostały spisane i zatwierdzone w dniu [insert date-TODO] wszystkie postacie, które grały we wcześniejszym formacie w ramach OPK pozostają legalne, ale mogą wymagać zmian przed następną rozgrywką aby być zgodne z obecnymi zasadami.
+Zasady dla PF2e zostały spisane i zatwierdzone w dniu [insert date-TODO] wszystkie postacie, które grały we wcześniejszym formacie w ramach OPK pozostają legalne, ale mogą wymagać zmian przed następną rozgrywką aby spełniać nowe zasady.
 
 ## 1. Tworzenie postaci<a name="tworzenie-postaci"></a>
 
-### 1.1 Dopuszczone źródła<a name="Start"></a>
+### 1.1 Dopuszczone źródła<a name="start"></a>
 
 Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można mieć ich dowolnie dużo, choć na każdą sesję można zapisać się tylko jedną. Jeśli jakikolwiek aspekt tworzenia postaci w OPK nie jest jasny, zapraszamy na kanał #tworzenie_postaci_pf2e na naszym Discordzie.
 
-Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w PF2e (korzystamy z wersji remastered systemu, ale nieremasterowane rzeczy pozostają legalne wg informacji opisanych [tutaj](https://paizo.com/pathfinder/remaster/faq)), sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Player's Core, gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł:
+Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w PF2e (korzystamy z wersji remastered systemu, ale nieremasterowane rzeczy pozostają legalne wg informacji opisanych [tutaj](https://paizo.com/pathfinder/remaster/faq)), sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Player's Core, gdyż wszystkie z nich są dopuszczone do rozgrywki.
+==komentarz- PC ma opcje uncommon takie jak Changeling i Nephilim, więc stwierdzenie że wszystkie opcje z PC są dopuszczone do rozgrywki nie koniecznie musi być prawdziwe. Zależeć to będzie od tego czy zrobimy tak jak w pfs i zezwolimy na uncommon opcje z bazowych książek czy nie. - TODO Pathbuilder jako książki bazowe określa GM Core, Player Core i Player Core 2. Absolutne minimum jakiego nie da się odznaczyć w aplikacji to GMC + PC.==
+
+Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł:
+
+Książki zasad (Rulebook):
 
 - Advanced Player's Guide
+- Battlecry! (TBR 2025)
 - Beginner Box
-- Secrets of Magic
-- Guns & Gears
 - Book of the Dead
+- Core Rulebook
 - Dark Archive
-- Rage of Elements
-- Pathfinder Lost Omens
-
-Remaster:
-
-- Player Core
+- Gamesmastery Guide
+- GM Core
+- Guns & Gears
 - Howl of the Wild
+- NPC Core (TBR 2025)
+- Player Core
 - Player Core 2
-- War of Immortals
-- NPC Core
-- Battlecry!
+- Rage of Elements
+- Secrets of Magic
+- Treasure Vault
+- War of Immortals (TBR Październik 2024)
 
- **UWAGA** Opcje dzielone są na common, uncommon i rare, a także wg dostępności (Availability). Tylko opcje będące jednocześnie common i standard nie wymagają spełniania dodatkowych warunków do ich wykorzystywania w tworzeniu postaci. Uzyskanie dostępu do innych opcji opisane jest w rozdziale [dostępność-TODO]. Dla uproszczenia zalecamy zapoznanie się z poniższą tabelką:
+Książki settingowe (Lost Omens):
+
+- Absalom, City of Lost Omens
+- Ancestry Guide
+- Character Guide
+- Divine Mysteries (TBR Listopad 2024)
+- Firebrands
+- Gods & Magic
+- Grand Bazaar
+- Highhelm
+- Impossible Lands
+- Knights of Lastwall
+- Legends
+- Monsters of Myth
+- Rival Academies (TBR 2025)
+- The Mwangi Expanse
+- Tian Xia Character Guide
+- Tian Xia World Guide
+- Travel Guide
+- World Guide
+- Pathfinder Society Guide
+
+Przygody (Adventure Paths):
+
+- TODO ==komentarz- Do dyskusji: czy zezwalamy na opcje z AP oraz jeśli tak to na jakich zasadach? Mamy na tyle małe community że może być problem z dostępnością tych opcji jeśli wymagane będzie rozegranie przygody przez gracza - TODO==
+
+> **UWAGA** Opcje dzielone są na common, uncommon i rare, a także wg dostępności (Availability). Tylko opcje będące jednocześnie common i standard nie wymagają spełniania dodatkowych warunków do ich wykorzystywania w tworzeniu postaci. Uzyskanie dostępu do innych opcji opisane jest w rozdziale [dostępność-TODO]. Dla uproszczenia zalecamy zapoznanie się z poniższą tabelką:
 
 <table class="tg"><thead>
   <tr>
@@ -126,21 +158,21 @@ Remaster:
 </tbody>
 </table>
 
-Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne do momentu rozegrania przez postać pierwszej przygody na poziomie 2. Do tego czasu możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie rozegranej na poziomie pierwszym, bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (background) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. 
+Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne do momentu rozegrania przez postać pierwszej przygody na poziomie 2. Do tego czasu możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie rozegranej na poziomie pierwszym, bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (background) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi.
 
 ### 1.2 Proces tworzenia postaci<a name="atrybuty"></a>
 
-Postać tworzymy zgodnie z zasadami z [Player's Core](https://2e.aonprd.com/Rules.aspx?ID=2027&Redirected=1) i z uwzględnieniem ograniczeń wymienionych w poprzednim rozdziale. **Nie wolno losować statystyk!**
+Postać tworzymy zgodnie z zasadami z [Player's Core](https://2e.aonprd.com/Rules.aspx?ID=2027&Redirected=1) i z uwzględnieniem ograniczeń wymienionych w poprzednim rozdziale. **Nie wolno losować statystyk!** ==komentarz- w zasadach pf2e nie ma nic o możliwości losowania statystyk, ale pewnie wspomnieć dla osób przychodzących z innych systemów==
 
 ## 2. Organizacja sesji<a name="organizacja-sesji"></a>
 
 ### 2.1. Przygotowanie do sesji<a name="przygotowanie-do-sesji"></a>
 
-Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](https://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie_sesji_pf2 na discordzie- prosimy mieć na uwadze, że na portalu są również ogłaszane sesje D&D 5e- między tymi sesjami, a sesjami PF2e nie ma **żadnych** zależności- tj. postacie D&D nie mogą grać sesji PF2e i na odwrót). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. **Jeżeli z jakiegoś powodu nie możesz pojawić się na sesji- niezwłocznie zwolnij miejsce żeby mógł się zapisać ktoś inny.** W dobrym tonie jest też poinformowanie DMa o wypisaniu się (jeżeli następuje to na dwa dni przed sesją lub mniej). 
+Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](https://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie_sesji_pf2 na discordzie- prosimy mieć na uwadze, że na portalu są również ogłaszane sesje D&D 5e- między tymi sesjami, a sesjami PF2e nie ma **żadnych** zależności- tj. postacie D&D nie mogą grać sesji PF2e i na odwrót). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. **Jeżeli z jakiegoś powodu nie możesz pojawić się na sesji- niezwłocznie zwolnij miejsce żeby mógł się zapisać ktoś inny.** W dobrym tonie jest też poinformowanie DMa o wypisaniu się (jeżeli następuje to na dwa dni przed sesją lub mniej).
 
 Na discordzie OPK w kanale #announcement można włączyć powiadomienia o nadchodzących sesjach (ikona kompasu, pozostałe ikony dotyczą tylko gier D&D 5e!).
 
-Mistrz Gry powinien również ogłosić na portalu, jaka przygoda (być może więcej niż jedna) będzie rozgrywana podczas sesji. Do gry dopuszczone są wyłącznnie przygody pathfinder society {komentarz- dopuszczamy coś innego?- todo}. Należy zawsze sprawdzić kod i tytuł przygody, gdyż żadna postać nie może uczestniczyć dwa razy w tej samej przygodzie (niezależnie, czy zakończyła ją sukcesem, czy nie). Podane również jest zawsze miejsce rozgrywki: najczęściej R'lyeh Cafe lub online (wtedy gra się toczy za pośrednictwem naszego discorda i podanych przez Mistrza Gry wirtualnych narzędzi do rozgrywania sesji typu Roll20). Czasami podane są też ograniczenia dotyczące zapisów na sesję (np. pierwszeństwo dla nowych graczy) lub szczególne zasady (np. gramy po angielsku) – należy się wtedy z nimi zapoznać i do nich stosować.
+Mistrz Gry powinien również ogłosić na portalu, jaka przygoda (być może więcej niż jedna) będzie rozgrywana podczas sesji. Do gry dopuszczone są wyłącznnie przygody pathfinder society ==komentarz- dopuszczamy coś innego?- todo==. Należy zawsze sprawdzić kod i tytuł przygody, gdyż żadna postać nie może uczestniczyć dwa razy w tej samej przygodzie (niezależnie, czy zakończyła ją sukcesem, czy nie). Podane również jest zawsze miejsce rozgrywki: najczęściej R'lyeh Cafe lub online (wtedy gra się toczy za pośrednictwem naszego discorda i podanych przez Mistrza Gry wirtualnych narzędzi do rozgrywania sesji typu Roll20). Czasami podane są też ograniczenia dotyczące zapisów na sesję (np. pierwszeństwo dla nowych graczy) lub szczególne zasady (np. gramy po angielsku) – należy się wtedy z nimi zapoznać i do nich stosować.
 
 Minimalne wyposażenie gracza na sesję to karta postaci (i wiedza, jak się nią posługiwać), zestaw kości oraz coś do oznaczania pozycji postaci na mapie taktycznej (np. figurka, żeton).
 
@@ -197,7 +229,6 @@ Efekty przygody powinny zostać zanotowane w karcie postępów postaci (patrz [p
 Postacie otrzymują nagrody z sesji w formie opisanej przez Mistrza Gry podczas jej zakończenia. Najczęściej są to: Punkty Postępu, czyli ACP (Advancement Checkpoints), Czas Wolny, czyli DT (downtime), pieniądze, magiczne i niemagiczne przedmioty oraz Nagrody Fabuły (Story Awards). W tym rozdziale po kolei omówimy te nagrody i ich zastosowania, a także negatywne konsekwencje przygód, które mogą dotknąć postaci.
 
 Jeśli Mistrz Gry nie zaznaczy inaczej, wszelkie nagrody z sesji nie muszą być zużyte natychmiast: przyznany czas wolny, pieniądze i przedmioty pozostają w puli zasobów postaci, dopóki w jakiś sposób nie zostaną zużyte. Otrzymane ACP z wszystkich rozegranych sesji są sumowane w celu ustalenia aktualnego poziomu postaci.
-
 
 ### 3.1. ACP, czas wolny (DT) i pieniądze<a name="acp-dt-pieniadze"></a>
 
@@ -264,7 +295,6 @@ Jednostkę Czasu Wolnego, czyli dzień, oznaczamy przez DT. Zdobyty Czas Wolny m
 Za zgodą obu stron, dwie postacie graczy (lub nawet dwie postaci tego samego gracza) mogą zamienić się magicznymi przedmiotami. Każda z postaci musi opłacić koszt wymiany w wysokości 15 DT, chyba, że obie postacie spotykają się podczas jakiejś przygody – wtedy wymiany można dokonać za darmo.
 
 Wymienić można tylko przedmioty o tej samej rzadkości (czyli np. przedmiot uncommon można wymienić tylko na inny przedmiot uncommon). Dodatkowo, postać może uczestniczyć w wymianie przedmiotu tylko jeśli znajduje się na odpowiednim dla tej rzadkości Szczeblu (tierze) przygód (Uncommon - T1, Rare - T2, Very Rare - T3, Legendary - T4), nawet jeśli taki przedmiot został w jakiś sposób zdobyty wcześniej. Wymienić NIE można magicznych przedmiotów jednorazowego użytku (np. Zwojów (Scrolls), Mikstur (Potions), Amunicji (Ammo), przedmiotów szczególnych wyliczonych w rozdziale 3.3 Zasad Zaawansowanych) oraz zużytych magicznych przedmiotów, które straciły magiczne właściwości.
-
 
 Wymiany powinny być rejestrowane na discordowym kanale #bazar.
 
