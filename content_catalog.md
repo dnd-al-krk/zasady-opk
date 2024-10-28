@@ -415,6 +415,7 @@
 |CCC-ROZK-0103     |III           |4h            |Necromancer’s Ascent                             |
 |CCC-RPR-01        |I             |4h            |Eyes of Blood                                    |
 |CCC-RPSG-01       |I             |4h            |Ooze There                                       |
+|CCC-RPSG-03       |III           |4-6h          |Fenaria's Gambit                                 |
 |CCC-SAC-01        |III           |4h            |A Light in the Dark                              |
 |CCC-SAC-02        |III           |4h            |Fun with Fey                                     |
 |CCC-SALT-01-01    |I             |2h            |Rumors of Riches                                 |
@@ -5664,6 +5665,18 @@ Characters (optimized for 3rd level).
 **Komentarz**
 Oryginalna magitka została zastąpiona Winged Boots. Zmiana nie jest retroaktywna i weszła w życie 09.07.2024. 
 
+### [Fenaria's Gambit](https://www.dmsguild.com/product/334414/CCCRPSG03-Fenarias-Gambit?filters=45474)
+
+**Informacje o przygodzie**
+As the Red War rages and Mulmaster burns, the Cult of Glaugrax sunders the arcane bindings on their alien master, unleashing an ancient evil that threatens to sink the Factions' evacuation efforts. Can you thwart them before the City of Danger is swept away in the wake of Fenaria's revenge?  
+Part 3 of The Neverdusk Trilogy.
+A Four-to-Six Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+The long-awaited Conclusion to the tale that started with Ooze There?, an ENnie Awards 2019 nominee in the Best Organized Play category!
+This adventure is Part 3 of "The Neverdusk Trilogy", and it brings the tale of Fenaria Neverdusk, Sovad Klim, and the mysterious Cult of Glaugrax to a close! 
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
 ### [A Light in the Dark](https://www.dmsguild.com/product/258839/CCCSAC01-A-Light-in-the-Dark?affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -5675,8 +5688,6 @@ who will be the ones to get there first and claim their prize?
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
-
-
 
 ### [Fun With Fey](https://www.dmsguild.com/product/259233/CCCSAC02-Fun-With-Fey?affiliate_id=925821)
 
@@ -7385,7 +7396,7 @@ A Musical Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 Content Warning: Death
 
 **Komentarz** 
-Brak uwag związanych z prowadzeniem przygody w ramach OPK
+[Przegłosowano](https://discord.com/channels/402539300824154112/1100009287331369011/1297981511139725313) podmianę oryginalnego magicznego przedmiotu (nielegalnego w OPK) na Glamoured Studded Leather.
 
 ### [The Prime Strikers](https://www.dmsguild.com/product/444742/SJDCDD06-The-Prime-Strikers)
 
