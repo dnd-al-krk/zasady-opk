@@ -527,6 +527,7 @@
 |PS-DC-HNL-02      |I             |4h            |The Hungry Prince                                |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
+|FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
 |WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
@@ -7094,6 +7095,18 @@ The Flying Flame is a four-hour action-packed adventure for characters of levels
 Dragonhide Belt +3 powinien zostać podmieniony na wersję Uncommon (+1), a jeden z common magic itemów należy zamienić na Sapphire Buckler. Oba przedmioty zachowują minor properties.
 
 Nie należy dawać graczom Blessing of Magic Resistance
+
+### [Sweet Dreams are Made of Cheese](https://www.dmsguild.com/product/474519/Sweet-Dreams-are-Made-of-Cheese-FRDCWATERDEEPCHZ)
+
+**Informacje o przygodzie:**
+Waterdeep is hosting an inaugural Cheese Competition in honor of the new Cheesemongers’ Association, 
+but dairy connoisseurs from across the Realms are now causing chaos in the City of Splendors. 
+Will the event be a grating ordeal or can someone help the Guild make this a gouda experience?
+
+A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669)
 
