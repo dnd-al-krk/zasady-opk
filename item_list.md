@@ -19,11 +19,8 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Gwa'thern Faln (Blessing of the Raven Queen)
 - Wraps of Unarmed Prowess +x (Deck of Many Things)
 - Mind Crystal (Phandalver and Below)
-
+- Armor Of Fungal Spores (The Book of Many Things)
 Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans). 
-
-## Blacklista źródeł
-- potrzebna w ogóle?
 
 ## Przedmioty, które nie zostały dopuszczone do rozgrywek OPK, mimo, że znajdują się w dopuszczonych źródłach
 
@@ -58,7 +55,7 @@ Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezak
 - Luba’s Tarokka of Souls
 - Mask of the Dragon Queen (complete or individual dragon masks)
 - Mighty Servant of Leuk-o
-- Mithral Splintmail +1
+- Mithral Splintmail +1 (typowo należy zamienić na Mithral Plate)
 - Moon Sickle
 - Philter of Love
 - Reveler’s Concertina
