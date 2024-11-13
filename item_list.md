@@ -6,10 +6,10 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 
 ## Dopuszczone źródła magicznych przedmiotów w przygodach (z wyjątkami!)
 - Dungeon Master's Guide (edycja z 2014 roku)
-- Tasha's Cauldron of Everything 
-- Xanathar's Guide to Everything
-- Fizban's Treasury of Dragons 
-- Bigby Presents: Glory of the Giants 
+- Tasha's Cauldron of Everything (2020)
+- Xanathar's Guide to Everything (2017)
+- Fizban's Treasury of Dragons (2021) 
+- Bigby Presents: Glory of the Giants (2023) 
 
 ## Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
 - Runy (Storm King's Thunder) 
