@@ -5,7 +5,7 @@ Jeśli w przygodzie pojawia się jako nagroda dla postaci magiczny przedmiot spo
 Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyfikacjami dopuszczonych do rozgrywek OPK magicznych przedmiotów.
 
 ## Dopuszczone źródła magicznych przedmiotów w przygodach (z wyjątkami!)
-- Dungeon Master's Guide
+- Dungeon Master's Guide (edycja z 2014 roku)
 - Tasha's Cauldron of Everything 
 - Xanathar's Guide to Everything
 - Fizban's Treasury of Dragons 
@@ -20,7 +20,8 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Wraps of Unarmed Prowess +x (Deck of Many Things)
 - Mind Crystal (Phandalver and Below)
 - Armor Of Fungal Spores (The Book of Many Things)
-Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans). 
+
+Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans. 
 
 ## Przedmioty, które nie zostały dopuszczone do rozgrywek OPK, mimo, że znajdują się w dopuszczonych źródłach
 
