@@ -17,7 +17,7 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Wingwear, baloon pack (Princes of the Apocalypse)
 - Insignia of Claws (Hoard of the Dragon Queen)
 - Gwa'thern Faln (Blessing of the Raven Queen)
-- Wraps of Unarmed Prowess +x (Deck of Many Things)
+- Wraps of Unarmed Prowess +x (The Book of Many Things)
 - Mind Crystal (Phandalver and Below)
 - Armor Of Fungal Spores (The Book of Many Things)
 
