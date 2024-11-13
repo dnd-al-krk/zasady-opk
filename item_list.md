@@ -13,13 +13,12 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 
 ## Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
 - Runy (Storm King's Thunder) 
-- Soul Coins (Descent into Avernus)
-- Wingwear, baloon pack (Princes of the Apocalypse)
+- Soul Coins (Baldur's Gate - Descent into Avernus)
+- Wingwear, Baloon Pack (Princes of the Apocalypse)
 - Insignia of Claws (Hoard of the Dragon Queen)
-- Gwa'thern Faln (Blessing of the Raven Queen)
-- Wraps of Unarmed Prowess +x (The Book of Many Things)
+- Gwa'thern Faln (Riddle of the Raven Queen)
+- Wraps of Unarmed Prowess +x, Armor Of Fungal Spores (The Book of Many Things)
 - Mind Crystal (Phandalver and Below)
-- Armor Of Fungal Spores (The Book of Many Things)
 
 Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans. 
 
