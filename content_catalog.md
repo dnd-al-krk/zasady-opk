@@ -534,6 +534,7 @@
 |WBW-DC-JSH-LIB-02 |I             |4h            |Search Engine Optimization                       |
 |WBW-DC-JSH-LIB-03 |I             |4h            |Between Covers and Through Tales                 |
 |WBW-DC-PHP-01     |II            |4h            |Pot Luck!                                        |
+|WBW-DC-AA-ASHALON-01|II          |4h            |Beneath the Eternal Glacier                      |
 |CCC-NBDD01-02     |II            |2-4h          |Where Can She Be                                 |
 |CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
 |CCC-MTL-02        |II            |2-4h          |House of Revenance                               |
@@ -7239,6 +7240,18 @@ A Wild Beyond the Witchlight Dungeoncraft Adventure for player levels 5-10, APL 
 
 **Komentarz** 
 Oryginalna nagroda Moon Sickle +2 zostala zamieniona na Studded Leather Armor of Fire Resistance z nastepujacym fluffem: "This chef's apron is expertly crafted from sturdy, fire-resistant materials. The studded leather is subtly reinforced, providing excellent protection while maintaining a sleek and professional appearance. Each stud is shaped like a small culinary utensil, and the apron is embroidered with the title 'Mithral Chef' across the chest in elegant script."
+
+### [Beneath the Eternal Glacier](https://www.dmsguild.com/product/378853/WBWDCPHP01-Pot-Luck](https://www.dmsguild.com/product/408477/WBWDCAAASHALON01-Beneath-the-Eternal-Glacier)
+
+**Informacje o przygodzie:**
+Where there is animosity, the Shadow will swallow all. Tensions arise as a border dispute
+between two archfeys threaten the stability of their domains. Can the adventurers help them
+put aside their differences and make them work together to defeat a coming evil?
+
+A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody.
 
 ### [Where Can She Be](https://www.dmsguild.com/product/310358/CCCNBDD0102-Where-Can-She-Be)
 
