@@ -22,7 +22,7 @@
 |DDIA-VOLO         |I             |4-8h          |In Volo’s Wake                                   |
 |DDIA-XGE          |I             |4h            |Underworld Speculation                           |
 |DDHC-MORD-01      |II            |8h            |Riddle of the Raven Queen                        |
-|DDHC-MORD-02      |III           |6h          |The Lich-Queen’s Begotten                        |
+|DDHC-MORD-02      |III           |6h            |The Lich-Queen’s Begotten                        |
 |DDHC-MORD-05      |I             |4h            |Escape from Wheloon                              |
 | Sezon 1 - Tyranny of Dragons |
 |DDEX1-1           |I             |5x1h          |Defiance in Phlan                                |
