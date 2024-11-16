@@ -22,6 +22,7 @@
 |DDIA-VOLO         |I             |4-8h          |In Volo’s Wake                                   |
 |DDIA-XGE          |I             |4h            |Underworld Speculation                           |
 |DDHC-MORD-01      |II            |8h            |Riddle of the Raven Queen                        |
+|DDHC-MORD-02      |III           |4-6h          |The Lich-Queen’s Begotten                        |
 |DDHC-MORD-05      |I             |4h            |Escape from Wheloon                              |
 | Sezon 1 - Tyranny of Dragons |
 |DDEX1-1           |I             |5x1h          |Defiance in Phlan                                |
@@ -527,6 +528,7 @@
 |PS-DC-HNL-02      |I             |4h            |The Hungry Prince                                |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
+|FR-DC-VECNA-01    |II            |4h            |Three Body Problem                               |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
@@ -729,6 +731,14 @@ Embark on a rescue mission into the heart of the Shadowfell!
 Runtime - przygoda składa się z dwóch części po około 4h. Po pierwszej z nich można przydzielić graczom 4ACP oraz zebrane złoto. Magiczne przedmioty pochodzą w całości z części drugiej.
 Złoto - nie wymaga zmian.
 Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej integralne dla fabuły są uncommony (Pipes of Haunting i Mithral Plate) i to je należy usunąć aby sprowadzić magiczne przedmioty do standardowej ilości. Zarówno zmodyfikowany Cloak of the Bat jak i unikatowa broń nie zaburzają balansu i mogę być dane jak opisane w przygodzie.
+
+### [The Lich-Queen’s Begotten](https://www.dmsguild.com/product/242645/The-LichQueens-Begotten)
+
+**Informacje o przygodzie**
+The Lich-Queen of the Githyanki is one of the most malevolent beings in existence, and she is scheming to become more powerful than ever before. Our heroes must journey to the Astral Plane where they will encounter astonishing new locations and terrible new enemies. Can they thwart the diabolical plans of the Lich-Queen and save the multiverse?
+
+**Komentarz**
+W treści przygody nie ma informacji co do czasu przewidzianego na jej prowadzenie. Przygoda składa się z pięciu rozdziałów, nie posiada celów dodatkowych i przewidywanym czasem jej prowadzenia powinno być sześć godzin. Złoto - nie wymaga zmian, maksymalna ilość złota, którą może otrzymać jedna postać to 1126,2GP. Przedmioty magiczne - nie wymagają zmian, w trakcie przygody można zdobyć jeden przedmiot very rare Tome of Clear Thought oraz przedmioty jednorazowe: elixir of health, potion of heroism oraz potion of vitality. Należy zwrócić uwagę na to, że plik z przygodą nie zawiera w sobie większości statblocków przeciwników.
 
 ### [Escape from Wheloon](https://www.dmsguild.com/product/251922/Escape-from-Wheloon)
 
@@ -7096,6 +7106,16 @@ The Flying Flame is a four-hour action-packed adventure for characters of levels
 Dragonhide Belt +3 powinien zostać podmieniony na wersję Uncommon (+1), a jeden z common magic itemów należy zamienić na Sapphire Buckler. Oba przedmioty zachowują minor properties.
 
 Nie należy dawać graczom Blessing of Magic Resistance
+
+### [THREE BODY PROBLEM](https://www.dmsguild.com/product/481892/THREE-BODY-PROBLEM-FRDCVECNA01)
+
+**Informacje o przygodzie:**
+Three corpses have appeared in gruesome manners across the dock districts of Neverwinter. Rising cult activity is a tide of ill-omen. Lord Protector of Neverwinter calls on heroic adventurers to join the Neverwinter Criminal Investigative Services, to root out these cultists that now linger.
+
+A Four-Hour Adventure for Level 5-10 Characters (Tier 2, Optimized for APL8)
+
+**Komentarz** 
+W wyniku głosowania, Deck Of Miscellany został podmieniony na Robe of Useful Items.
 
 ### [Sweet Dreams are Made of Cheese](https://www.dmsguild.com/product/474519/Sweet-Dreams-are-Made-of-Cheese-FRDCWATERDEEPCHZ)
 
