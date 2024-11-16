@@ -15,9 +15,9 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Runy (Storm King's Thunder) 
 - Soul Coins (Baldur's Gate - Descent into Avernus)
 - Wingwear, Baloon Pack (Princes of the Apocalypse)
-- Insignia of Claws (Hoard of the Dragon Queen)
+- Insignia of Claws, w wariantach uncommon, rare i very rare (+1, +2 i +3) (Hoard of the Dragon Queen)
 - Gwa'thern Faln (Riddle of the Raven Queen)
-- Wraps of Unarmed Prowess +x, Armor Of Fungal Spores (The Book of Many Things)
+- Wraps of Unarmed Prowess +1 (i tylko +1- wariant +2 i +3 należy podmienić na odpowiednie insignia of claws), Armor Of Fungal Spores (The Book of Many Things)
 - Mind Crystal (Phandalver and Below)
 
 Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans. 
