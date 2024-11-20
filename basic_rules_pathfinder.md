@@ -190,13 +190,67 @@ Następnie, gracze ustalają ekwipunek, który ich postaci zabierają na przygod
 
 - Każda z postaci może (ale nie musi) rozpocząć przygodę z jednym benefitem z listy poniżej, w zależności od Tieru przygody:.
 
-Tier 1 (T1): Potion of Healing
-
-Tier 2 (T2): Potion of Healing (Greater)
-
-Tier 3 (T3): Potion of Healing (Superior)
-
-Tier 4 (T4): Potion of Healing (Supreme)
+<table class="table table-striped table-hover normal" id="wpfancytable1">
+	<thead>
+		<tr>
+			<th>Level </th>
+			<th> Healing Potion </th>
+			<th> Other Items</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1-2 </td>
+			<td> <em>minor healing potion</em> (<em>GM Core</em> 259)<br><em>minor oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> lesser antidote (<em>GM Core</em> 246)<br>lesser bravo's brew (<em>GM Core</em> 246)<br><em>marvelous miniature (ladder)</em> (<em>GM Core</em> 268)<br><em>oil of potency</em> (<em>GM Core</em> 257)<br><em>potency crystal</em> (<em>GM Core</em> 266)<br>silver salve (<em>GM Core</em> 251)<br>―<br>1st-rank scroll of <em>heal</em>* (<em>Player Core</em> 335)<br>1st-rank scroll of <em>mystic armor</em> (<em>Player Core</em> 346)<br>1st-rank scroll of <em>runic weapon</em> (<em>Player Core</em> 354)</td>
+		</tr>
+		<tr>
+			<td>3-4 </td>
+			<td> <em>lesser healing potion</em> (<em>GM Core</em> 259)<br><em>lesser oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> <em>climbing bolt</em> (<em>GM Core</em> 255)<br>low-grade alloy orb (<em>GM Core</em> 263)<br><em>oil of mending</em> (<em>GM Core</em> 257)<br><em>oak potion</em> (<em>GM Core</em> 259)<br>―<br>2nd-rank scroll of <em>cleanse affliction</em>* (<em>Player Core</em> 320)<br>2nd-rank scroll of <em>clear mind</em>* (<em>Player Core</em> 320)<br>2nd-rank scroll of <em>dispel magic</em>* (<em>Player Core</em> 325)<br>2nd-rank scroll of <em>resist energy</em> (<em>Player Core</em> 353)<br>2nd-rank scroll of <em>sound body</em>* (<em>Player Core</em> 357)<br>2nd-rank scroll of <em>sure footing</em>* (<em>Player Core</em> 361)</td>
+		</tr>
+		<tr>
+			<td>5-6 </td>
+			<td> <em>moderate healing potion</em> (<em>GM Core</em> 259) <br><em>moderate oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> <em>lesser potion of resistance</em> (your choice of energy; <em>GM Core</em> 260)<br>moderate antidote (<em>GM Core</em> 246)<br><em>potion of leaping</em> (<em>GM Core</em> 260)<br>salve of antiparalysis (<em>GM Core</em> 258)<br>―<br>3rd-rank scroll of <em>haste</em> (<em>Player Core</em> 335)<br>3rd-rank scroll of <em>heroism</em> (<em>Player Core</em> 335)</td>
+		</tr>
+		<tr>
+			<td>7-8 </td>
+			<td> 2x <em>moderate healing potion</em> (<em>GM Core</em> 259) <br>2x <em>moderate oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> standard-grade alloy orb (<em>GM Core</em> 263)<br>―<br>4th-rank scroll of <em>fly</em> (<em>Player Core</em> 332)<br>4th-rank scroll of <em>mountain resilience</em> (<em>Player Core</em> 346)</td>
+		</tr>
+		<tr>
+			<td>9-10 </td>
+			<td> 3x <em>moderate healing potion</em> (<em>GM Core</em> 259) <br>3x <em>moderate oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> greater antidote (<em>GM Core</em> 246)<br>greater potency crystal (<em>GM Core</em> 266)<br>moderate bravo's brew (<em>GM Core</em> 246)<br>moderate <em>potion of resistance</em> (your choice of energy; <em>GM Core</em> 260)<br>―<br>5th-rank scroll of <em>breath of life</em> (<em>Player Core</em> 319)<br>5th-rank scroll of <em>howling blizzard</em> (<em>Player Core</em> 335)</td>
+		</tr>
+		<tr>
+			<td>11-12 </td>
+			<td> <em>greater healing potion</em> (<em>GM Core</em> 259) <br><em>greater oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> exquisite standard-grade alloy orb (<em>GM Core</em> 263)<br>greater oil of potency (<em>GM Core</em> 257)<br>―<br>6th-rank scroll of <em>truesight</em> (<em>Player Core</em> 364)</td>
+		</tr>
+		<tr>
+			<td>13-14 </td>
+			<td> 2x <em>greater healing potion</em> (<em>GM Core</em> 259) <br>2x <em>greater oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> <em>greater potion of resistance</em> (your choice of energy; <em>GM Core</em> 260)<br>major antidote (<em>GM Core</em> 246)<br>―<br>7th-rank scroll of <em>energy aegis</em> (<em>Player Core</em> 328)<br>7th-rank scroll of <em>true target</em> (<em>Player Core</em> 364)</td>
+		</tr>
+		<tr>
+			<td>15-16 </td>
+			<td> 3x <em>greater healing potion</em> (<em>GM Core</em> 259) <br>3x <em>greater oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> greater bravo's brew (<em>GM Core</em> 246)<br>high-grade alloy orb (<em>GM Core</em> 263)<br>major potency crystal (<em>GM Core</em> 266)<br><em>truesight potion</em> (<em>GM Core</em> 261)<br>―<br>8th-rank scroll of <em>desiccate</em> (<em>Player Core</em> 323)<br>8th-rank scroll of <em>divine inspiration</em> (<em>Player Core</em> 325)</td>
+		</tr>
+		<tr>
+			<td>17-18 </td>
+			<td> <em>major healing potion</em> (<em>GM Core</em> 259) <br><em>major oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> exquisite high-grade alloy orb (<em>GM Core</em> 263)<br>―<br>9th-rank scroll of <em>foresight</em> (<em>Player Core</em> 332)<br>9th-rank scroll of <em>overwhelming presence</em> (<em>Player Core</em> 347)</td>
+		</tr>
+		<tr>
+			<td>19-20 </td>
+			<td> 2x <em>major healing potion</em> (<em>GM Core</em> 259)<br>2x <em>major oil of unlife</em> (<em>GM Core</em> 258) </td>
+			<td> major oil of potency (<em>GM Core</em> 257)<br>―<br>10th-rank scroll of <em>avatar</em> (<em>Player Core</em> 316)<br>10th-rank scroll of <em>cataclysm</em> (<em>Player Core</em> 319)<br>10th-rank scroll of <em>indestructability</em> (<em>Player Core</em> 338)</td>
+		</tr>
+	</tbody>
+</table>
 
 Przedmioty-benefity znikają na koniec przygody niezależnie od tego, czy zostały użyte, czy nie. Za zgodą DM można jako przedmiot-benefit wybrać (zamiast odpowiedniej mikstury) jeden komponent lub element ekwipunku z PHB o koszcie nie większym niż domyślna dla danego mikstura (czyli 50/100/500/5000 gp ). Dodatkowo, pierwsza postać gracza debiutującego w OPK otrzymuje jedną zwyczajną (tj. znikającą tylko po zużyciu) miksturę leczenia.
 
