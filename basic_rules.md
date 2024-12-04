@@ -111,7 +111,7 @@ Rasy posiadające stałą umiejętność latania (np. Aarakocra, Fairy) mogą z 
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
 
-- Human Languages, Tiefling Variants (SCAG),
+- Human Languages, Tiefling Variants, Half-Elf Variants (SCAG),
 - Blessing of Corellon (MToF),
 - Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB),
 - Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE).
