@@ -7243,7 +7243,7 @@ This adventure is the last of the four-part Adventures in Librarianship series o
 
 Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
 **Komentarz** 
-Postacie nie mogą otrzymać Przedmiotu "Marginalia's Mischief (Pixie Dust)" jako nagrodę z przygody (do czasu pozytywnego rozpatrzenia głosowania 78)
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 
 ### [Pot Luck!](https://www.dmsguild.com/product/378853/WBWDCPHP01-Pot-Luck)
