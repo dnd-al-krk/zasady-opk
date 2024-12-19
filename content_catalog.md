@@ -530,6 +530,7 @@
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |FR-DC-VECNA-01    |II            |4h            |Three Body Problem                               |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
+|FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
 |WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
@@ -7129,6 +7130,20 @@ A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
 
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Wyrmwell Flame](https://www.dmsguild.com/product/474180/FRDCLIGA01--Wyrmwell-Flame)
+
+**Informacje o przygodzie:**
+
+An elven relic forged during the Crown Wars, Araelathila, has finally been located by the Tel'Quessir of Suldanessellar. An extraordinary reward is offered for those who manage to recover the elvish antiquity. The hurdle? Araelathila lies in the confines of Wyrmwell, a secondary lair and hoard of the hot-tempered Dragonsbane, one of the most infamous and deadliest great wyrms in all Faerûn:
+Balagos, the Flying Flame!
+A stand-alone adventure. Part of the Forgotten Wyrms Anthology.
+A Four-Hour Adventure for 11th- through 16th-Level Characters (APL 13).
+CONTENT WARNING: (fantasy) slavery, sense of loss, death (acid, collapse, fire lava, laceration), gore, possible sense of frustration (virtually impossible challenge).
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
 
 ### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669)
 
