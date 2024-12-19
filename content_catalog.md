@@ -383,7 +383,7 @@
 |CCC-MMT01-05      |I             |2h            |Secrets of the Cure                              |
 |CCC-MMT02-01      |II            |2-4h          |The Stuff of Memories                            |
 |CCC-MYR-01        |II            |4h            |Friends in Need                                  |
-|CCC-NBDD01-01     |II            |2-4h           |Clever                                          |
+|CCC-NBDD01-01     |II            |2-4h          |Clever                                           |
 |CCC-NUKE-0101     |I             |4h            |The Blighted Sun                                 |
 |CCC-NUKE-0102     |I             |4h            |Hide and Seek                                    |
 |CCC-OA-01-01      |I             |2-4h          |When Mages Fall                                  |
@@ -400,6 +400,7 @@
 |CCC-PDXAGE-0101   |I             |2h            |The White Well                                   |
 |CCC-PDXAGE-0201   |II            |2h            |The Dark Hunt                                    |
 |CCC-PHA-01        |II            |4h            |Six Summoned Swords                              |
+|CCC-PFF-03-01     |III           |4h-6h         |Hints at Imbalance: Rumors of Moloch             |
 |CCC-PPTDD01-01    |I             |2h            |Trouble Under Winton                             |
 |CCC-PRETZ-PLA01   |I             |2-4h          |The Mystery at Coppertop Manor                   |
 |CCC-PRETZ-PLA02   |I             |2-4h          |A Mine of Their Own                              |
@@ -5485,6 +5486,19 @@ Phlan and can be easily accessed by any adventurers traveling through the Moonse
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [Hints at Imbalance: Rumors of Moloch](https://www.dmsguild.com/product/334208/CCCPFF0301-Hints-at-Imbalance-Rumors-of-Moloch)
+
+**Informacje o przygodzie**
+Not to be outdone by Zariel and Avernus, the scheming cultists of Moloch have worked to summon him to the Prime Material and help his schemes to ascend to power once in again in the Nine Hells.
+
+This adventure takes the adventurers into a forgotten crypt to investigate the rumors of a fiendish cult seeking the souls of unknown passersby to sell their souls for their lives
+
+A Four- to Six-Hour Adventure for tier 3 Characters.
+
+Optimized for APL 13.
+
+**Komentarz**
+W wyniku głosowania zastąpiono rare magiczny przedmiot (Brazier of Commanding Fire Elementals) na very rare- Sanctum Amulet.
 
 
 ### [Trouble Under Winton](https://www.dmsguild.com/product/256228/CCCPPTDD0101-Trouble-Under-Winton?affiliate_id=925821)
