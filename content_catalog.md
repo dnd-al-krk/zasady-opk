@@ -1220,7 +1220,7 @@ lost knight of Myth Drannor, has been dis-covered, and must be brought back to c
 A four-hour adventure for 5th-10th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Shadowsong (Oathbow) Na podstawie opisu z DMG, nie ma restrykcji klasowych, wymaga attunement-u, oraz posiada Minor property: Sentinel (Humans)
 
 ### [The Malady of Elventree](https://www.dmsguild.com/product/170502/DDEX308-The-Malady-of-Elventree-5e&affiliate_id=925821)
 
