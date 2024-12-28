@@ -530,6 +530,7 @@
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |FR-DC-VECNA-01    |II            |4h            |Three Body Problem                               |
+|FR-DC-VECNA-02    |II            |4h            |Eldritch Eye Wide Shut                           |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
@@ -7132,6 +7133,16 @@ A Four-Hour Adventure for Level 5-10 Characters (Tier 2, Optimized for APL8)
 
 **Komentarz** 
 W wyniku głosowania, Deck Of Miscellany został podmieniony na Robe of Useful Items.
+
+### [ELDRITCH EYE WIDE SHUT](https://www.dmsguild.com/product/490000/ELDRITCH-EYE-WIDE-SHUT-FRDCVECNA02)
+
+**Informacje o przygodzie:**
+Rising cult activity is a tide of ill-omen. Lord Protector of Neverwinter calls on heroic adventurers to root out these cultists that now linger, hidden in Neverwinter high society.  
+
+A Four-Hour Adventure for Level 5-10 Characters (Tier 2, Optimized for APL8)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Sweet Dreams are Made of Cheese](https://www.dmsguild.com/product/474519/Sweet-Dreams-are-Made-of-Cheese-FRDCWATERDEEPCHZ)
 
