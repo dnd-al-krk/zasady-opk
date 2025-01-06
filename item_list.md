@@ -13,13 +13,15 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 
 ## Dopuszczone magiczne przedmioty spoza wymienionych podręczników źródłowych
 - Runy (Storm King's Thunder) 
-- Soul Coins (Baldur's Gate - Descent into Avernus)
-- Wingwear, Baloon Pack (Princes of the Apocalypse)
+- Soul Coins (Baldur's Gate - Descent into Avernus)*
+- Wingwear, Baloon Pack (Princes of the Apocalypse)*
 - Insignia of Claws, w wariantach uncommon, rare i very rare (+1, +2 i +3) (Hoard of the Dragon Queen)
 - Gwa'thern Faln (Riddle of the Raven Queen)
 - Wraps of Unarmed Prowess +1 (i tylko +1- wariant +2 i +3 należy podmienić na odpowiednie insignia of claws), Armor Of Fungal Spores (The Book of Many Things)
 
 **Przedmioty magiczne jednorazowego użytku nie podlegają ograniczeniom źródeł, o ile nie zostały wprost umieszczone na liście przedmiotów zabronionych**
+
+Przedmioty oznaczone gwiazdką (*) traktowane są jako przedmioty jednorazowego użytku ze wszystkimi tego następstwami (tj. nie liczą się do ilości posiadanych stałych magicznych przedmiotów, ale też nie mogą zostać na takowe wymienione).
 
 Typowo powyższe przedmioty występują w przygodach i zostały uznane za niezakłócające balans. 
 
