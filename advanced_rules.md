@@ -45,7 +45,9 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [3.3. Szczególne zasady dotyczące magicznych przedmiotów](#zaawansowane-magitki)
 
-  [3.4. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
+  [3.4. Błogosławieństwa (Blessings)](#blessings)
+
+  [3.5. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
 
  [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
@@ -257,7 +259,19 @@ Z przedmiotów, które dają permanentne benefity postaci (np. tome of understan
 
 Wyczerpująca lista magicznych przedmiotów dopuszczonych do gry w OPK (tj. żaden przedmiot magiczny spoza listy nie jest legalny w OPK) znajduje się [tutaj](item_list.md).
 
-### 3.4. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
+### 3.4. Błogosławieństwa (Blessings)<a name="blessings"></a>
+
+Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z błogosławieństw (blessings) opisanych w Części 2 Rozdziale 7 Dungeon Master's Guide. Ze względu na specyfikę tej nagrody, regulowana jest ona przez poniższe zasady szczególne.
+
+1. Każde zdobyte błogosławieństwo należy traktować jako przedmiot magiczny na potrzeby obliczania ilości przedmiotów magicznych posiadanych przez postać.
+
+2. Na potrzeby dodawania przygód do Katalogu Przygód, błogosławieństwa traktowane są jako przedmioty magiczne o rzadkości very rare.
+
+3. Nagradzając błogosławieństwem stosuje się reguły określone w przygodzie, z zastrzeżeniem, że jeżeli przygoda przewiduje przydzielenie błogosławieństwa tylko jednej z postaci i bez wskazania, której konkretnie, stosuje się reguły określone w Zasadach Zaawansowanych - pkt 3.2. Przydzielanie przedmiotów.
+
+4. Postać może posiadać więcej niż jedno błogosławieństwo, ale tylko jedno z błogosławieństw, wybrane przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody. 
+
+### 3.5. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
 Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego momentu zaczęły cierpieć w kwestii nagród ze względu na restrykcje, jakie wprowadzili organizatorzy Adventurers League, efektywnie wymuszając oferowanie nagród o rzadkości niżej, niż sugeruje Tier.
 
