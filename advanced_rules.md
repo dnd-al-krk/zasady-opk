@@ -235,9 +235,9 @@ a) Jeśli nie, jedyna postać spełniająca wymagania zatrzymuje przedmiot.
 
 b) Jeśli więcej niż jedna z chętnych postaci spełnia wymogi, przedmiot zatrzymuje spełniająca je postać z mniejszą liczbą permanentnych przedmiotów magicznych rzadkości co najmniej uncommon. W wypadku remisu – decyduje dowolne uczciwe losowanie, jak na przykład porównanie rzutów d20 aż do wyłonienia zwycięzcy.
 
-c) Jeśli nikt nie spełnia wymogów, przedmiot zatrzymuje postać z mniejszą ilością permanentnych przedmiotówmagicznych rzadkości co najmniej uncommon. W wypadku remisu – decyduje dowolne uczciwe losowanie, jak na przykład porównanie rzutów d20 aż do wyłonienia zwycięzcy.
+c) Jeśli nikt nie spełnia wymogów, przedmiot zatrzymuje postać z mniejszą ilością permanentnych przedmiotów magicznych rzadkości co najmniej uncommon. W wypadku remisu – decyduje dowolne uczciwe losowanie, jak na przykład porównanie rzutów d20 aż do wyłonienia zwycięzcy.
 
-Zatrzymanie magicznych przedmiotów pospolitych (Common), przedmiotów niemagicznych uwzględnionych na liście nagród (nieprzeznaczonych na sprzedaż), zużywalnych przedmiotów (consumables), takich mikstury leczenia, czy zwoje z zaklęciami, nie zwiększa ilości permanentnych przedmiotów i nie jest ograniczone Tempem. Jeżeli przedmiot ma obostrzenia użycia (np. zwój z czarem tylko dla Clerica), do przydzielenia go należy użyć powyższego sposobu.
+Zatrzymanie magicznych przedmiotów pospolitych (Common), przedmiotów niemagicznych uwzględnionych na liście nagród (nieprzeznaczonych na sprzedaż) oraz przedmiotów jednorazowego użytku, takich jak mikstury leczenia, czy zwoje z zaklęciami, nie zwiększa ilości permanentnych przedmiotów i nie jest ograniczone Tempem. Jeżeli przedmiot ma obostrzenia użycia (np. zwój z czarem tylko dla Clerica), do przydzielenia go należy użyć powyższego sposobu.
 
 Może się zdarzyć, że przygoda przewiduje możliwość wyboru: wzięcie przez jedną z postaci niemagicznego przedmiotu lub sprzedanie go i podzielenie złota między drużynę. Jeśli wybrana zostanie pierwsza opcja, postać, która wzięła niemagiczny przedmiot wlicza go do wielkości swojego udziału w łupie (czyli otrzymuje odpowiednio mniejszą porcję złota).
 
