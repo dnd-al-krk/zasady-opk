@@ -533,6 +533,7 @@
 |FR-DC-VECNA-02    |II            |4h            |Eldritch Eye Wide Shut                           |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
+|FR-DC-LIGA-07     |III           |4h            |The Lurking Blade                                |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
 |WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
@@ -7169,6 +7170,20 @@ CONTENT WARNING: (fantasy) slavery, sense of loss, death (acid, collapse, fire l
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
+### [The Lurking Blade](https://www.dmsguild.com/product/491875/FRDCLIGA07--The-Lurking-Blade)
+
+**Informacje o przygodzie:**
+
+An unidentified enchanted blade brings heroes together for one more adventure. A secret ritual is nearly complete, and its final component requires an involuntary donation.
+
+A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+A stand-alone adventure. Part of the Forgotten Wyrms Anthology. 
+
+CONTENT WARNING: Body Parts, Bodily Fluids, Sacrifice
+
+**Komentarz**
+Przygoda przewiduje możliwość zdobycia Mind Crystal (Quickened) w ilości równej połowie uczestniczących graczy zaokrąglonej w górę. Zalecane jest przydzielenie wyłącznie jednego egzemplarza tego przedmiotu.
 
 ### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669)
 
