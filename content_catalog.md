@@ -531,6 +531,7 @@
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |FR-DC-VECNA-01    |II            |4h            |Three Body Problem                               |
 |FR-DC-VECNA-02    |II            |4h            |Eldritch Eye Wide Shut                           |
+|FR-DC-VECNA-03    |II            |4h            |Neverdeath Nights                                |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
 |FR-DC-LIGA-07     |III           |4h            |The Lurking Blade                                |
@@ -7139,6 +7140,16 @@ W wyniku głosowania, Deck Of Miscellany został podmieniony na Robe of Useful I
 
 **Informacje o przygodzie:**
 Rising cult activity is a tide of ill-omen. Lord Protector of Neverwinter calls on heroic adventurers to root out these cultists that now linger, hidden in Neverwinter high society.  
+
+A Four-Hour Adventure for Level 5-10 Characters (Tier 2, Optimized for APL8)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [NEVERDEATH NIGHTS](https://www.dmsguild.com/product/501014/NEVERDEATH-NIGHTS-FRDCVECNA03)
+
+**Informacje o przygodzie:**
+Rising cult activity is a tide of ill-omen. Lord Protector of Neverwinter calls on heroic adventurers to root out these cultists infesting the catacombs deep beneath the Neverdeath Graveyard once and for all. Learn the secrets of the Cult of Vecna - and that DEATH IS NOT THE END!
 
 A Four-Hour Adventure for Level 5-10 Characters (Tier 2, Optimized for APL8)
 
