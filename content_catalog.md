@@ -534,6 +534,7 @@
 |FR-DC-VECNA-03    |II            |4h            |Neverdeath Nights                                |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
+|FR-DC-LIGA-03     |III           |4h            |Doom Reborn                                      |
 |FR-DC-LIGA-07     |III           |4h            |The Lurking Blade                                |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
@@ -7171,7 +7172,6 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 ### [Wyrmwell Flame](https://www.dmsguild.com/product/474180/FRDCLIGA01--Wyrmwell-Flame)
 
 **Informacje o przygodzie:**
-
 An elven relic forged during the Crown Wars, Araelathila, has finally been located by the Tel'Quessir of Suldanessellar. An extraordinary reward is offered for those who manage to recover the elvish antiquity. The hurdle? Araelathila lies in the confines of Wyrmwell, a secondary lair and hoard of the hot-tempered Dragonsbane, one of the most infamous and deadliest great wyrms in all Faerûn:
 Balagos, the Flying Flame!
 A stand-alone adventure. Part of the Forgotten Wyrms Anthology.
@@ -7184,7 +7184,6 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 ### [The Lurking Blade](https://www.dmsguild.com/product/491875/FRDCLIGA07--The-Lurking-Blade)
 
 **Informacje o przygodzie:**
-
 An unidentified enchanted blade brings heroes together for one more adventure. A secret ritual is nearly complete, and its final component requires an involuntary donation.
 
 A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
@@ -7195,6 +7194,20 @@ CONTENT WARNING: Body Parts, Bodily Fluids, Sacrifice
 
 **Komentarz**
 Przygoda przewiduje możliwość zdobycia Mind Crystal (Quickened) w ilości równej połowie uczestniczących graczy zaokrąglonej w górę. Zalecane jest przydzielenie wyłącznie jednego egzemplarza tego przedmiotu.
+
+### [Doom Reborn](https://www.dmsguild.com/product/477366/FRDCLIGA03-Doom-Reborn)
+
+**Informacje o przygodzie:**
+Sudden and intense earthquakes despoil the region near Waterdeep. Geologists sent to study the earthquakes have not come back, and the Geological Society of Waterdeep needs you to find them. Can you get to the bottom of these tremors before they tear the earth apart?
+
+ A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+A stand-alone adventure. Part of the Forgotten Wyrms Anthology.
+
+Content Warning: Dead Wildlife Animals, Earthquakes, Frail & Weakened Elderly, Liquified Flesh, Shattered & Melted Bones, Skeletons.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669)
 
