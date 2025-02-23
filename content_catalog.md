@@ -7098,6 +7098,9 @@ Tensar's Employment Service has an unusual job for a band of adventurers. At 'Th
 
 A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3
 
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
 ### [The Greatest Gameshow](https://www.dmsguild.com/product/490495/PSDCNBDD01-The-Greatest-Gameshow)
 
 **Informacje o przygodzie:**
