@@ -527,6 +527,7 @@
 |SJ-DC-PHP-FLN01-02|I             |2h            |Kaleidoscope Vault                               |
 |SJ-DC-PHP-FLN01-03|I             |2h            |Unsworn Oath                                     |
 |PS-DC-HNL-02      |I             |4h            |The Hungry Prince                                |
+|PS-DC-NBDD-01     |III           |4h            |The Greatest Gameshow                            |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
 |FR-DC-VECNA-01    |II            |4h            |Three Body Problem                               |
@@ -7099,6 +7100,27 @@ A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Greatest Gameshow](https://www.dmsguild.com/product/490495/PSDCNBDD01-The-Greatest-Gameshow)
+
+**Informacje o przygodzie:**
+Paup Quizzem returns for the greatest gameshow in the multiverse!
+The archmage Paup Quizzem has been bringing his games and trivia challenges to adventurers across the planes since he first made his debut in the ENNIE Award-winning "Where Can She Be?" Each quiz and question has been leading up to this: his ultimate gameshow, offering the ultimate prize.
+
+The only question remaining is: who will win it?
+
+Travel to Sigil and team up with NPCs from across the North Bay Dungeon Day (NBDD) series of adventures, testing your wits, skills, and knowledge. Everyone is here, from longtime favorites to minor characters, all ready to join your team or take you down to claim the prize.
+
+It's time for the greatest gameshow! Are you prepared?
+
+A four-hour Tier 3 Planescape adventure, optimized for APL 13.
+
+**Komentarz**
+W wyniku głosowania każdy z uczestników dostaje Chest of Preserving z dodatkowym fluffem:
+Nagroda Pocieszenia
+Ta niewielka skrzyneczka w formie kufra ma półokrągłe wieko i wygodny uchwyt, który pozwala na jej łatwe przenoszenie. Utrzymana w czerwonej kolorystyce z brązowo-złotymi zdobieniami, sprawia wrażenie eleganckiego pudełka na wyjątkowe skarby. W środku kryje słodycze pochodzące z najróżniejszych zakątków Forgotten Realms.
+Oraz PAUP QUIZZEM’S SPELLBOOK (COPY) dostaje fluff:
+Poza licznymi zaklęciami, w tym opasłym tomie zamieszczono również całą kolekcję „suchych” żartów prowadzącego oraz nauki mistrza Karola ze Strasburga — wybitnego maga, który zainspirował Paup Quizza do rozpoczęcia kariery w prowadzeniu teleturniejów.
 
 ### [The Last Refuge of Spring](https://www.dmsguild.com/product/369343/DCPoAROG3-The-Last-Refuge-of-Spring)
 
