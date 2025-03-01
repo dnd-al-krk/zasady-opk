@@ -535,6 +535,7 @@
 |FR-DC-VECNA-03    |II            |4h            |Neverdeath Nights                                |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
+|FR-DC-LIGA-02     |II            |4h            |House of Shadow                                  |
 |FR-DC-LIGA-03     |III           |4h            |Doom Reborn                                      |
 |FR-DC-LIGA-07     |III           |4h            |The Lurking Blade                                |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
@@ -7203,19 +7204,19 @@ CONTENT WARNING: (fantasy) slavery, sense of loss, death (acid, collapse, fire l
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
-### [The Lurking Blade](https://www.dmsguild.com/product/491875/FRDCLIGA07--The-Lurking-Blade)
+### [House of Shadow](https://www.dmsguild.com/product/474206/FRDCLIGA02--House-of-Shadow)
 
 **Informacje o przygodzie:**
-An unidentified enchanted blade brings heroes together for one more adventure. A secret ritual is nearly complete, and its final component requires an involuntary donation.
+The Dark Lady has spread chaos and ruin across the Dessarin Valley, causing great misfortune to nearly all adventurers and guilds that visit. Thus, it is time to endeavor to bring this power to heel, helping save the Savage Frontier or deal with this threat in a more permanent way. Dive into one of her lairs, Rundreth Manor, survive the horrors within, and end her tyranny.
 
-A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+ A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
-A stand-alone adventure. Part of the Forgotten Wyrms Anthology. 
+A stand-alone adventure. Part of the Forgotten Wyrms Anthology.
 
-CONTENT WARNING: Body Parts, Bodily Fluids, Sacrifice
+Content Warning: Slavery, sexual coercion, charm and physical contact (illusions), cannibalism, mental torture.
 
 **Komentarz**
-Przygoda przewiduje możliwość zdobycia Mind Crystal (Quickened) w ilości równej połowie uczestniczących graczy zaokrąglonej w górę. Zalecane jest przydzielenie wyłącznie jednego egzemplarza tego przedmiotu.
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Doom Reborn](https://www.dmsguild.com/product/477366/FRDCLIGA03-Doom-Reborn)
 
@@ -7230,6 +7231,20 @@ Content Warning: Dead Wildlife Animals, Earthquakes, Frail & Weakened Elderly, L
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Lurking Blade](https://www.dmsguild.com/product/491875/FRDCLIGA07--The-Lurking-Blade)
+
+**Informacje o przygodzie:**
+An unidentified enchanted blade brings heroes together for one more adventure. A secret ritual is nearly complete, and its final component requires an involuntary donation.
+
+A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+A stand-alone adventure. Part of the Forgotten Wyrms Anthology. 
+
+CONTENT WARNING: Body Parts, Bodily Fluids, Sacrifice
+
+**Komentarz**
+Przygoda przewiduje możliwość zdobycia Mind Crystal (Quickened) w ilości równej połowie uczestniczących graczy zaokrąglonej w górę. Zalecane jest przydzielenie wyłącznie jednego egzemplarza tego przedmiotu.
 
 ### [Dancing at Her Funeral](https://www.dmsguild.com/m/product/373669)
 
