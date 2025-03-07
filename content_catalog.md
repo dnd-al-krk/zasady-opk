@@ -23,6 +23,7 @@
 |DDIA-XGE          |I             |4h            |Underworld Speculation                           |
 |DDHC-MORD-01      |II            |8h            |Riddle of the Raven Queen                        |
 |DDHC-MORD-02      |III           |6h            |The Lich-Queen’s Begotten                        |
+|DDHC-MORD-03      |III           |4-6h          |To Wake The Leviathan                            |
 |DDHC-MORD-05      |I             |4h            |Escape from Wheloon                              |
 | Sezon 1 - Tyranny of Dragons |
 |DDEX1-1           |I             |5x1h          |Defiance in Phlan                                |
@@ -741,13 +742,33 @@ Runtime - przygoda składa się z dwóch części po około 4h. Po pierwszej z n
 Złoto - nie wymaga zmian.
 Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej integralne dla fabuły są uncommony (Pipes of Haunting i Mithral Plate) i to je należy usunąć aby sprowadzić magiczne przedmioty do standardowej ilości. Zarówno zmodyfikowany Cloak of the Bat jak i unikatowa broń nie zaburzają balansu i mogę być dane jak opisane w przygodzie.
 
-### [The Lich-Queen’s Begotten](https://www.dmsguild.com/product/242645/The-LichQueens-Begotten)
+### [The Lich-Queen’s Begotten](https://www.dmsguild.com/product/242840/To-Wake-The-Leviathan)
+
+**Informacje o przygodzie**
+A RACE AGAINST TIME THROUGH THE RAVAGES OF THE BLOOD WAR
+Across the infinite layers of the Lower Planes, a band of heroes desperately hunts for the whereabouts of an ancient weapon — one that could very well turn the tide of the eternal Blood War.
+
+With the help of the archmage Mordenkainen, these adventurers must stop the great Leviathan from falling into fiendish hands. Can they unlock the mysteries of the war machine before it's too late?
+
+To Wake The Leviathan is a 4-6 hour D&D Adventurer's League module for character levels 11-16, It is part of a series of adventures that expands upon the material presented in Mordenkainen's Tome of Foes™. It can be played on it's own or as a part of any D&D campaign.
+
+**Komentarz**
+Przygoda przewiduje runtime 4-6h, ale nie ma wydzielonych Bonus Objectives, więc decyzja o przydzieleniu ACP powinna należeć do DMa (maksymalnie 6 ACP). Złoto nie wymaga zmian, jest adekwatne do gry na t3. Liczba magicznych przedmiotów: należy zredukować liczbę magicznych przedmiotów, usuwając ring of cold resistance (encounter ze smokiem), usuwając możliwość stworzenia permanentnych magicznych przedmiotów w kuźni (circlet of blasting albo sentinel shield, ale zostawiając możliwość stworzenia potion of superior healing). Pozostałe dwa przedmioty są zależne od przebiegu rozgrywki:
+Dragon scale mail (VR)- o rodzaju decyduje rzut d10. Przedmiot można pominąć (wymaga zwycięstwa w encounterze z limitem czasowym).
+Boots of speed (R) LUB Boots of the winterlands (U)*- w zależności od podjętych w przygodzie decyzji 
+
+Należy mieć na względzie, że przygoda nie zawiera wszystkich statblocków (tylko customowe stat blocki potworów spoza oficjalnych źródeł) oraz nie ma propozycji skalowania encounterów. 
+DM odblokowuje tylko wylosowany przez party wariant Dragon Scale Maila albo losuje go po sesji na kanale ⁠spam_z_sesji (jeśli drużyna pominęła ten przedmiot). 
+
+
+### [To Wake The Leviathan](https://www.dmsguild.com/product/242645/The-LichQueens-Begotten)
 
 **Informacje o przygodzie**
 The Lich-Queen of the Githyanki is one of the most malevolent beings in existence, and she is scheming to become more powerful than ever before. Our heroes must journey to the Astral Plane where they will encounter astonishing new locations and terrible new enemies. Can they thwart the diabolical plans of the Lich-Queen and save the multiverse?
 
 **Komentarz**
 W treści przygody nie ma informacji co do czasu przewidzianego na jej prowadzenie. Przygoda składa się z pięciu rozdziałów, nie posiada celów dodatkowych i przewidywanym czasem jej prowadzenia powinno być sześć godzin. Złoto - nie wymaga zmian, maksymalna ilość złota, którą może otrzymać jedna postać to 1126,2GP. Przedmioty magiczne - nie wymagają zmian, w trakcie przygody można zdobyć jeden przedmiot very rare Tome of Clear Thought oraz przedmioty jednorazowe: elixir of health, potion of heroism oraz potion of vitality. Należy zwrócić uwagę na to, że plik z przygodą nie zawiera w sobie większości statblocków przeciwników.
+
 
 ### [Escape from Wheloon](https://www.dmsguild.com/product/251922/Escape-from-Wheloon)
 
