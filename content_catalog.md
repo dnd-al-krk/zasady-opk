@@ -742,7 +742,7 @@ Runtime - przygoda składa się z dwóch części po około 4h. Po pierwszej z n
 Złoto - nie wymaga zmian.
 Magiczne przedmioty - przygoda zawiera 1 common, 2 uncommony i 2 rare. Najmniej integralne dla fabuły są uncommony (Pipes of Haunting i Mithral Plate) i to je należy usunąć aby sprowadzić magiczne przedmioty do standardowej ilości. Zarówno zmodyfikowany Cloak of the Bat jak i unikatowa broń nie zaburzają balansu i mogę być dane jak opisane w przygodzie.
 
-### [The Lich-Queen’s Begotten](https://www.dmsguild.com/product/242840/To-Wake-The-Leviathan)
+### [To Wake The Leviathan](https://www.dmsguild.com/product/242840/To-Wake-The-Leviathan)
 
 **Informacje o przygodzie**
 A RACE AGAINST TIME THROUGH THE RAVAGES OF THE BLOOD WAR
@@ -761,7 +761,7 @@ Należy mieć na względzie, że przygoda nie zawiera wszystkich statblocków (t
 DM odblokowuje tylko wylosowany przez party wariant Dragon Scale Maila albo losuje go po sesji na kanale ⁠spam_z_sesji (jeśli drużyna pominęła ten przedmiot). 
 
 
-### [To Wake The Leviathan](https://www.dmsguild.com/product/242645/The-LichQueens-Begotten)
+### [The Lich-Queen’s Begotten](https://www.dmsguild.com/product/242645/The-LichQueens-Begotten)
 
 **Informacje o przygodzie**
 The Lich-Queen of the Githyanki is one of the most malevolent beings in existence, and she is scheming to become more powerful than ever before. Our heroes must journey to the Astral Plane where they will encounter astonishing new locations and terrible new enemies. Can they thwart the diabolical plans of the Lich-Queen and save the multiverse?
