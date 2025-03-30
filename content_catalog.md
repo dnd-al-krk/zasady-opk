@@ -531,6 +531,10 @@
 |PS-DC-NBDD-01     |III           |4h            |The Greatest Gameshow                            |
 |DC-PoA-ROG-3      |II            |4h            |The Last Refuge of Spring                        |
 |FR-DC-BG          |III           |4h            |The Flying Flame                                 |
+|FR-DC-GARY-01     |II            |4h            |Sand to Ash                                      |
+|FR-DC-GARY-02     |II            |4h            |Wind to Stone                                    |
+|FR-DC-GARY-03     |II            |4h            |Blade to Branch                                  |
+|FR-DC-GARY-04     |II            |4h            |Frost to Fire                                    |
 |FR-DC-VECNA-01    |II            |4h            |Three Body Problem                               |
 |FR-DC-VECNA-02    |II            |4h            |Eldritch Eye Wide Shut                           |
 |FR-DC-VECNA-03    |II            |4h            |Neverdeath Nights                                |
@@ -7170,6 +7174,52 @@ The Flying Flame is a four-hour action-packed adventure for characters of levels
 Dragonhide Belt +3 powinien zostać podmieniony na wersję Uncommon (+1), a jeden z common magic itemów należy zamienić na Sapphire Buckler. Oba przedmioty zachowują minor properties.
 
 Nie należy dawać graczom Blessing of Magic Resistance
+
+### [Sand to Ash](https://www.dmsguild.com/product/515929/FRDCGARY01-Sand-to-Ash)
+
+**Informacje o przygodzie**
+Deep on the desert, Molguk, Son of Grolantor, rails against the bonds of his ancient prison. The throes of the ancient giant ripple corruption and calamity throughout the region, inspiring Skulkva Daggra to reach out to the smallfolk for help. Can our heroes resolve the calamity, or will the sands of the Anauroch be reduced to ashes?
+
+A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+CONTENT WARNING: Corruption, Environmental Hazards, Pollution
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Wind to Stone](https://www.dmsguild.com/product/515932/FRDCGARY02-Wind-to-Stone)
+
+**Informacje o przygodzie**
+As the Ordning shatters, a magical maelstrom manifests, pummeling Faerun’s Nether Mountain region with devastating winds, destructive rains and deadly lightning. At its tethers, the Cult of Talos rises. While forests topple, waters flood and rock falls, a giant seeks freedom from The All Father’s decree and giantess emissary seeks out heroes to act against the giants … and the cult.
+
+A Four -Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+CONTENT WARNING: Dying Moments, Possession, Self-Sacrifice
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Blade to Branch](https://www.dmsguild.com/product/515935/FRDCGARY03-Blade-to-Branch)
+
+**Informacje o przygodzie**
+While the Ordning shatters, the lush jungles of Chult's northern fringes are thrown into chaos. Encroaching settlers fell trees and ignite tensions with local tribes, all while Tharja, Son of Skoraeus, stirs in his ancient prison. As spirits awaken and the jungle fights back, emissary Hannael the Verdant seeks heroes to restore balance. Will the adventurers calm the turmoil and resolve the conflict, or will the land itself rise in wrath?
+
+A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Frost to Fire](https://www.dmsguild.com/product/515936/FRDCGARY04-Frost-to-Fire)
+
+**Informacje o przygodzie**
+While giantkind plot for the regard of Annam, the All-Father, the glacial walls of the Icewind Dale crack and tremble. Icefall threatens to destroy a remote settlement and the vast tundra wilds. Great chasms and fissures may open across the rime-topped expanse, freeing intense heat and molten rock from below. Within its depths, the imprisoned Son of Surtur rages. Heroes of Faerun are called upon by goodly emissaries to act to prevent the giant from escaping its prison and saving the people who call the furthest reaches of the artic-swept dale home.
+
+A Four -Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+CONTENT WARNING: Burning Wounds. Fatal Artic Rigors, Maiming Accidents
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [THREE BODY PROBLEM](https://www.dmsguild.com/product/481892/THREE-BODY-PROBLEM-FRDCVECNA01)
 
