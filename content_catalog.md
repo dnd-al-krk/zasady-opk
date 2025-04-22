@@ -542,6 +542,7 @@
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
 |FR-DC-LIGA-02     |II            |4h            |House of Shadow                                  |
 |FR-DC-LIGA-03     |III           |4h            |Doom Reborn                                      |
+|FR-DC-LIGA-04     |III           |4h            |Many Spells Gambit                               |
 |FR-DC-LIGA-07     |III           |4h            |The Lurking Blade                                |
 |WBW-DC-JOQ-01     |I             |4h            |Dancing at Her Funeral                           |
 |WBW-DC-MOM-01     |II            |4h            |One Moment                                       |
@@ -7299,6 +7300,22 @@ Sudden and intense earthquakes despoil the region near Waterdeep. Geologists sen
 A stand-alone adventure. Part of the Forgotten Wyrms Anthology.
 
 Content Warning: Dead Wildlife Animals, Earthquakes, Frail & Weakened Elderly, Liquified Flesh, Shattered & Melted Bones, Skeletons.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Many Spells Gambit](https://www.dmsguild.com/product/481576/FRDCLIGA04--Many-Spells-Gambit)
+
+**Informacje o przygodzie:**
+A Forgotten Wyrms Anthology Adventure
+
+The Great Dragon Mage Jalanvaloss has been captured by the Cult of the Dragon, condemned to eternity as a dracolich, and only one band of adventurers can rescue her from her fate.
+
+ A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+A stand-alone adventure. Part of the Forgotten Wyrms Anthology.
+
+Content Warning: Drug References, Undeads.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
