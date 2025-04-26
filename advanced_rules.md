@@ -261,19 +261,19 @@ Wyczerpująca lista magicznych przedmiotów dopuszczonych do gry w OPK (tj. żad
 
 ### 3.4. Błogosławieństwa (Blessings) i Epickie Dary (Epic Boons)<a name="blessings"></a>
 
-Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z Błogosławieństw (Blessings) lub Epickich Darów (Epic Boons) opisanych w Rozdziale 7, sekcji "Other Rewards" w Dungeon Master's Guide (2014). Ze względu na specyfikę tej nagrody, regulowana jest ona przez poniższe zasady szczególne.
+Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z Błogosławieństw (Blessings) lub Epickich Darów (Epic Boons) opisanych w Rozdziale 7, sekcji "Other Rewards" w Dungeon Master's Guide (2014). Ze względu na specyfikę tej nagrody, regulowana jest ona przez poniższe zasady szczególne:
 
-1. Każde zdobyte błogosławieństwo i Dar należy traktować jako przedmiot magiczny na potrzeby obliczania ilości przedmiotów magicznych posiadanych przez postać.
+1. Każde zdobyte Błogosławieństwo i Epicki Dar należy traktować jako przedmiot magiczny na potrzeby obliczania ilości przedmiotów magicznych posiadanych przez postać.
 
-2. Na potrzeby dodawania przygód do Katalogu Przygód, Błogosławieństwa traktowane są jako przedmioty magiczne o rzadkości very rare, a Dary jako przedmioty magiczne o rzadkości legendary.
+2. Na potrzeby dodawania przygód do Katalogu Przygód, Błogosławieństwa traktowane są jako przedmioty magiczne o rzadkości very rare, a Epickie Dary jako przedmioty magiczne o rzadkości legendary.
 
-3. Nagradzając Błogosławieństwem lub Darem stosuje się reguły określone w przygodzie, z zastrzeżeniem, że jeżeli przygoda przewiduje przydzielenie błogosławieństwa tylko jednej z postaci i bez wskazania, której konkretnie, stosuje się reguły określone w Zasadach Zaawansowanych - pkt 3.2. Przydzielanie przedmiotów.
+3. Nagradzając Błogosławieństwem lub Epickim Darem stosuje się reguły określone w przygodzie, z zastrzeżeniem, że jeżeli przygoda przewiduje przydzielenie błogosławieństwa tylko jednej z postaci i bez wskazania, której konkretnie, stosuje się reguły określone w Zasadach Zaawansowanych - pkt 3.2. Przydzielanie przedmiotów.
 
 4. Postać może posiadać więcej niż jedno Błogosławieństwo, ale tylko jedno z Błogosławieństw, wybrane przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody.
    
-6. Postać może posiadać więcej niż jeden Dar, ale tylko jeden z Darów, wybrany przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody. Co więcej- dary podlegają zasadom z DMG (2014) i działają dopiero od momentu osiągnięcia przez postać poziomu 20.
+6. Postać może posiadać więcej niż jeden Epicki Dar, ale tylko jeden z Epickich Darów, wybrany przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody. Co więcej- dary podlegają zasadom z DMG (2014) i działają dopiero od momentu osiągnięcia przez postać poziomu 20.
 
-7. Zarówno Dary jak i Błogosławieństwa można odrzucić pomiędzy sesjami aby przestały się liczyć do łącznej liczby magicznych przedmiotów posiadanych przez postać. Tak odrzucony Dar/Błogosławieństwo zostaje na stałe utracony przez postać (chyba, że ta uzyska nową instancję tegoż w osobnej przygodzie). 
+7. Zarówno Epickie Dary jak i Błogosławieństwa można odrzucić pomiędzy sesjami aby przestały się liczyć do łącznej liczby magicznych przedmiotów posiadanych przez postać. Tak odrzucony Epicki Dar/Błogosławieństwo zostaje na stałe utracony przez postać (chyba, że ta uzyska nową instancję tegoż w osobnej przygodzie). 
 
 ### 3.5. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
