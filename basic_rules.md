@@ -285,7 +285,8 @@ Jednostkę Czasu Wolnego, czyli dzień, oznaczamy przez DT. Zdobyty Czas Wolny m
 
 Za zgodą obu stron, dwie postacie graczy (lub nawet dwie postaci tego samego gracza) mogą zamienić się magicznymi przedmiotami. Każda z postaci musi opłacić koszt wymiany w wysokości 15 DT, chyba, że obie postacie spotykają się podczas jakiejś przygody – wtedy wymiany można dokonać za darmo.
 
-Wymienić można tylko przedmioty o tej samej rzadkości (czyli np. przedmiot uncommon można wymienić tylko na inny przedmiot uncommon). Dodatkowo, postać może uczestniczyć w wymianie przedmiotu tylko jeśli znajduje się na odpowiednim dla tej rzadkości Szczeblu (tierze) przygód (Uncommon - T1, Rare - T2, Very Rare - T3, Legendary - T4), nawet jeśli taki przedmiot został w jakiś sposób zdobyty wcześniej. Wymienić NIE można magicznych przedmiotów jednorazowego użytku (np. Zwojów (Scrolls), Mikstur (Potions), Amunicji (Ammo), przedmiotów szczególnych wyliczonych w rozdziale 3.3 Zasad Zaawansowanych) oraz zużytych magicznych przedmiotów, które straciły magiczne właściwości.
+Wymienić można tylko przedmioty o tej samej rzadkości (czyli np. przedmiot uncommon można wymienić tylko na inny przedmiot uncommon). Dodatkowo, postać może uczestniczyć w wymianie przedmiotu tylko jeśli znajduje się na odpowiednim dla tej rzadkości Szczeblu (tierze) przygód (Rare - co najmniej T2, Very Rare - co najmniej T3, Legendary - T4), nawet jeśli taki przedmiot został w jakiś sposób zdobyty wcześniej. 
+Wymienić NIE można magicznych przedmiotów jednorazowego użytku (np. Zwojów (Scrolls), Mikstur (Potions), Amunicji (Ammo), przedmiotów szczególnych wyliczonych w rozdziale 3.3 Zasad Zaawansowanych) oraz zużytych magicznych przedmiotów, które straciły magiczne właściwości.
 
 
 Wymiany powinny być rejestrowane na discordowym kanale #bazar.
