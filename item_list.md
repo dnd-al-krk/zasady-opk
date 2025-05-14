@@ -20,6 +20,7 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Wraps of Unarmed Prowess +1 (i tylko +1- wariant +2 i +3 należy podmienić na odpowiednie insignia of claws), Armor Of Fungal Spores (The Book of Many Things)
 - Chest of Preserving (Waterdeep: Dungeon of the Mad Mage)
 - Blast Scepter (Waterdeep: Dungeon of the Mad Mage)
+- Shield of the Uven Rune (Waterdeep: Dungeon of the Mad Mage)
 
 **Przedmioty magiczne jednorazowego użytku nie podlegają ograniczeniom źródeł, o ile nie zostały wprost umieszczone na liście przedmiotów zabronionych**
 

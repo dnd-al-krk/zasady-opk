@@ -2799,7 +2799,7 @@ Part One of the Storm King’s Descent series of adventures.
 A six-hour adventure for Tier 3 characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przedmiot Dragontooth Dagger powinien zostać zmieniony na Dragon Slayer (shortsword)
 
 
 
