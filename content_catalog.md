@@ -539,6 +539,7 @@
 |FR-DC-VECNA-02    |II            |4h            |Eldritch Eye Wide Shut                           |
 |FR-DC-VECNA-03    |II            |4h            |Neverdeath Nights                                |
 |FR-DC-WATERDEEP-CHZ|I            |2h            |Sweet Dreams are Made of Cheese                  |
+|FR-DC-WATERDEEP-TRZ|I            |2h            |Sweet Dreams are Made of Trees                   |
 |FR-DC-LIGA-01     |III           |4h            |Wyrmwell Flame                                   |
 |FR-DC-LIGA-02     |II            |4h            |House of Shadow                                  |
 |FR-DC-LIGA-03     |III           |4h            |Doom Reborn                                      |
@@ -7258,6 +7259,16 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 Waterdeep is hosting an inaugural Cheese Competition in honor of the new Cheesemongers’ Association, 
 but dairy connoisseurs from across the Realms are now causing chaos in the City of Splendors. 
 Will the event be a grating ordeal or can someone help the Guild make this a gouda experience?
+
+A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Sweet Dreams are Made of Trees](https://www.dmsguild.com/product/489670/Sweet-Dreams-are-Made-of-Trees-FRDCWATERDEEPTRZ)
+
+**Informacje o przygodzie:**
+The relentless bustle of Waterdhavian trade screeches to a halt when letters and words disappear from scrolls and books. As illegible contracts in the City of Splendors kindle an outcry of dissolved deals, can anyone sort through the pulp to determine fact from fiction? 
 
 A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
 
