@@ -553,6 +553,7 @@
 |WBW-DC-JSH-LIB-04 |II            |4h            |Brightly Burn the Flames of Knowledge            |
 |WBW-DC-PHP-01     |II            |4h            |Pot Luck!                                        |
 |WBW-DC-AA-ASHALON-01|II          |4h            |Beneath the Eternal Glacier                      |
+|WBW-DC-AA-ASHALON-02|II          |4h            |Under the Cover of Stars                         |
 |CCC-NBDD01-02     |II            |2-4h          |Where Can She Be                                 |
 |CCC-UNITE-05      |II            |4-6h          |House of Moonlight                               |
 |CCC-MTL-02        |II            |2-4h          |House of Revenance                               |
@@ -7498,6 +7499,16 @@ Oryginalna nagroda Moon Sickle +2 zostala zamieniona na Studded Leather Armor of
 Where there is animosity, the Shadow will swallow all. Tensions arise as a border dispute
 between two archfeys threaten the stability of their domains. Can the adventurers help them
 put aside their differences and make them work together to defeat a coming evil?
+
+A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz** 
+Brak uwag związanych z prowadzeniem przygody.
+
+### [Under the Cover of Stars](https://www.dmsguild.com/product/408497/WBWDCAAASHALON02-Under-the-Cover-of-Stars)
+
+**Informacje o przygodzie:**
+The Shadow will not relinquish its task to consume the shared domain of archfeys Ananeira and Aesandoral for itself. Now, after many moons of destruction and with the help of brave adventurers, the Lord of Winter and the First Daughter of the Night Sky will go to war against the Shadowfell.
 
 A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
