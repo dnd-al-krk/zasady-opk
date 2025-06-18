@@ -6083,7 +6083,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 **Informacje o przygodzie**
 After the death of a local historian, adventurers discover that no one is safe within the walls
-of Hillsfar. Will you they able to stop the culprits before the city is consumed from within?
+of Hillsfar. Will you be able to stop the culprits before the city is consumed from within?
 
 **Komentarz**
 W wyniku głosowania podmieniono wpisany w przygodzie magiczny przedmiot rzadkości uncommon, 
