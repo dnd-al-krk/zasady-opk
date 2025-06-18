@@ -445,6 +445,7 @@
 |CCC-SQC-001       |II            |4h            |The Woodland Sage                                |
 |CCC-SQC-0201      |II            |4h            |None the Wiser                                   |
 |CCC-SQC-0202      |II            |4h            |Last Gasp                                        |
+|CCC-SQC-0301      |II            |2-4h          |Consumption                                      |
 |CCC-SRCC-0101     |I             |2h            |Trouble in the Old City                          |
 |CCC-SRCC-0102     |I             |2h            |Down the River of Snakes                         |
 |CCC-SRCC-0103     |I             |2h            |Altar of the Smoldering Eye                      |
@@ -6076,6 +6077,19 @@ in acquiring good sources of power for her spells. What could go wrong?
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
+
+
+### [Consumption](https://www.dmsguild.com/product/295761/CCCSQC00301-Consumption)
+
+**Informacje o przygodzie**
+After the death of a local historian, adventurers discover that no one is safe within the walls
+of Hillsfar. Will you they able to stop the culprits before the city is consumed from within?
+
+**Komentarz**
+W wyniku głosowania podmieniono wpisany w przygodzie magiczny przedmiot rzadkości uncommon, 
+Wand of Secrets, na magiczny przedmiot rzadkości rare, Wand of Paralysis, przy zachowaniu 
+opisanego w przygodzie fluff'u różdżki.
+
 
 ### [Trouble in the Old City](https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City?affiliate_id=925821)
 
