@@ -2825,9 +2825,7 @@ Part Three of the Storm King’s Descent series of adventures.
 A six-hour adventure for Tier 3 characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
-
+Nagroda w postaci przedmiotu Ioun Stone of Vitality powinna zostać zamieniona na przedmiot Prehistoric Figurine of Wondrous Power - Triceratops.
 
 ### [Moment of Peace](https://www.dmsguild.com/product/344671/DDALDRW07-Moment-of-Peace)
 
