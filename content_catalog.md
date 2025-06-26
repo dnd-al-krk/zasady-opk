@@ -1,6 +1,16 @@
 # Katalog przygód dopuszczonych do rozgrywek w ramach „Organised Play Kraków”
 
-## Lista dopuszczonych przygód
+# Spis treści
+
+[1. Lista dopuszczonych przygód](#lista-przygód)
+
+[2. Informacje o przygodach](#info-przygody)
+
+[3. Definicja serii przygód na potrzeby nagrody "Tryptyk"](#trylogia)
+
+[4. Proces dodawania nowych przygód do katalogu OPK wraz z listą nie dopuszczonych magicznych przedmiotów](new_adventure_in_cc.md)
+
+## Lista dopuszczonych przygód<a name="lista-przygód"></a>
 
 |Kod przygody      |Szczebel(Tier)|Czas rozgrywki|Tytuł przygody                                   |
 |------------------|--------------|--------------|-------------------------------------------------|
@@ -581,7 +591,7 @@
 
 
 
-## Informacje o przygodach
+## Informacje o przygodach<a name="info-przygody"></a>
 
 ### [Window to the Past](https://www.dmsguild.com/product/200609/DDAL0001-Window-to-the-Past&affiliate_id=925821)
 
@@ -7767,58 +7777,10 @@ CONTENT WARNING: Horror, Fear, Blood, Gore, Ghoslty Appearance, Claustrophobia
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
-## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
+## Definicja serii przygód na potrzeby nagrody "Tryptyk"<a name="trylogia"></a>
 
 Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwę tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, przygody należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
 
 - CCC-SFBAY-02-01 - Old Enemies Arise, CCC-SFBAY-02-02 - Rise of the Ogre King, CCC-SFBAY-02-03 - The Risen Minotaur Lord
 - CCC-WYC-01-01 Back to the Burning, CCC-WYC-01-02 Where Rock and Fire Meet, CCC-WYC-01-03 The Dawn Heresy
 - CCC-WYC-2-1 The Light of Heresy, CCC-WYC-2-2 A Shard of Shar, CCC-WYC-2-3 What History Leaves Behind
-
-## Proces dodawania nowych przygód do katalogu OPK
-
-### Definicja
-
-Przez ilość złota i magicznych przedmiotów spełniających wymagania OPK należy ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry, określoną w tabeli znajdującej się w sekcji 3.1 Zasad Zaawansowanych OPK. Ilość i rzadkość permanentnych magicznych przedmiotów przypadających na przygodę, spełniających wymagania OPK określa poniższa tabela.
-
-| Szczebel (Tier) | 2h          | 4h                          |
-|-----------------|-------------|-----------------------------|
-| I               | 1 Uncommon  | 1 Uncommon, max 1 Common    |
-| II              | 1 Rare      | 1 Rare, max 1 Common        |
-| III             | 1 Very Rare | 1 Very Rare, max 1 Uncommon |
-| IV              | 1 Legendary | 1 Legendary, max 1 Rare     |
-
-W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za każde pełne 4h przewidzianego czasu gry.
-
-## Zasady wprowadzania zmian w Katalogu Przygód
-
-Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale [#cc-zmiany](https://discord.com/channels/402539300824154112/1100009287331369011). Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
-
-### Przygoda CCC lub DC dopuszczona w rozgrywkach AL ale niedodana do katalogu OPK
-
-Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć pozostałym Mistrzom Gry. W ramach tego zgłoszenia MG może zaproponować podmianę nagród zgodą z rozdziałem 3.4. Zasad Zaawansowanych OPK. Musi również to zrobić, jeśli przygoda zawiera przedmiot z listy przedmiotów niedozwolonych. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. W wypadku przygód dopuszczonych w rozgrywkach AL, głosowanie Mistrzów Gry jest wymagane tylko jeśli wpis w CC już istnieje i należy go zmienić lub jeśli przygoda wymaga wprowadzenia przystosowania do formatu rozgrywek OPK. Nie ma potrzeby głosowania generycznych wpisów do CC (przygoda może być prowadzona bez zmian, ewentualnie z jakimś pomocnym komentarzem Mistrza Gry niesugerującym znaczących zmian w przygodzie), wystarczy poinformowanie innych Mistrzów Gry o dodaniu wpisu. Zmiany wprowadzane do CC mogą być głosowane szybkim trybem- poprzez zebranie 5 głosów DMów na tak po upłynięciu przynajmniej 24h od utworzenia głosowania. Każdy aktywny DM ma prawo do zawetowania wpisu poprzez utworzenie tematu pod propozycją i wymienienie zastrzeżeń. Tak zawetowany wpis jest głosowany zwykłym trybem, chyba że veto zostanie wycofane. Zmiany głosowane są tak samo jak wprowadzanie nowych przygód- na Discordowym kanale [#cc-zmiany](https://discord.com/channels/402539300824154112/1100009287331369011). 
-
-#### Przygody WBW-DC
-Przygody z serii WBW-DC przewidują możliwość uzyskania przez postaci, poza standardowymi nagrodami, potężnych boon-ów, bonusów, czy magicznych przedmiotów. Nagrody przewidziane przez przygodę w ramach tzw "Pact giftów" (w szczególności magiczne przedmioty) nie mogą wykraczać poza ramy przygody w której są opisane. np. Jeśli przygoda przewiduje powstanie paktu na jej początku to postaci mogą go zawrzeć i korzystać z jego benefitów aż do zakończenia przygody, ale otrzymanych darów (w tym magicznych przedmiotów) nie mogą zatrzymać. Wszelkie pozostałe zmiany w przydzielaniu magicznych przedmiotów i nagród podlegają zasadom ogólnym.
-
-### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
-
-Mistrz Gry chcący dodać przygodę typu HC (w całości lub jej fragment) musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci w taki sposób, aby spełniały one wymagania OPK oraz aby postaci, które ukończyły daną przygodę HC nie odbiegały znacząco pod względem ilości posiadanego złota oraz magicznych przedmiotów od postaci grających pozostałe przygody. Mile widziane są również zalecenia dotyczące prowadzenia poszczególnych rozdziałów.
-
-### Własne przygody i przygody spoza katalogu AL
-
-Mistrz Gry chcący dodać przygodę musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci (ilość ACP za ukończenie przygody jeśli nie jest określona) w taki sposób, aby spełniały one wymagania OPK. Mile widziane są również zalecenia dotyczące prowadzenia. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi przygotowuje „Sesję 0”, w której powinno uczestniczyć przynajmniej 3 innych, aktywnych MG. Po rozegraniu przygody, Mistrzowie uczestniczący w rozgrywce opiniują jej dodanie pozytywnie lub negatywnie. Na tej podstawie można przeprowadzić procedurę opisaną w dziale Zasady Wprowadzania Zmian w Katalogu Przygód.
-
-## Zasady nadawania prefiksów przygodom spoza katalogu AL
-
-Prefiksy przygód spoza katalogu Adventurers' League, które przeszły pomyślnie Sesję 0 oraz uzyskały akceptację Mistrzów Gry:
- - GCC – Guild Created Content – rzeczy z DMs Guild
- - KCC – Kraków Created Content – rzeczy tworzone przez społeczność Kraków Organized Play
- - OCC – Other Created Content – rzeczy z innych źródeł
- - DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
-
-Typowy format kodów i oznaczeń:
-\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer Przygody\> \<Nazwa Przygody\>
-Przykładowo:
-KCC-WAWEL-01 Zemsta Złotówy
-GCC-JOYCE-01 Weekend at Strahd’s
