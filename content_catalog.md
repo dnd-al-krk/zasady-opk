@@ -7108,7 +7108,8 @@ On the Rock of Bral the dohwar of the Silver Beak merchant cartel are feeling th
 An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz** 
-Przygoda przewiduje przydzielenie po jednej magitce na gracza. Przegłosowano zmianę, przygoda nagradza tylko jedną magitką.
+Przygoda przewiduje przydzielenie po jednym Keoghtom's Ointment na gracza i jednym  Bat Burglar Cloak (Cloak of the Bat)  na gracza. 
+Przegłosowano zmianę, przygoda nagradza tylko jednym Keoghtom's Ointment i jednym Bat Burglar Cloak.
 
 ### [Forlorn but not Forgotten](https://www.dmsguild.com/product/418804/Forlorn-but-not-Forgotten-SJDCPHPFLN0101)
 
