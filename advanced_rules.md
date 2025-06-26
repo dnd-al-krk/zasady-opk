@@ -47,7 +47,9 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [3.4. Błogosławieństwa (Blessings)](#blessings)
 
-  [3.5. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
+  [3.5. Pakty z Feywildu (Pact Gifts)](#pact-gifts)
+
+  [3.6. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
 
  [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
@@ -247,8 +249,6 @@ Sześcioosobowa drużyna (Cleric, Wizard, Sorcerer, Fighter, Druid i Rogue) znal
 
 Na tej samej sesji pojawiła się też Magiczna Ciężka Zbroja. Fighter wyraził chęć i ją otrzymał, ponieważ był jedynym chętnym. Pojawił się też Zwój z czarem kleryka Bless. Cleric i Wizard byli nim zainteresowani, lecz Cleric miał pierwszeństwo ponieważ zaklęcie to znajduje się na jego liście zaklęć, a na liście zaklęć Wizarda nie.
 
-###
-
 ### 3.3. Szczególne zasady dotyczące magicznych przedmiotów<a name="zaawansowane-magitki"></a>
 
 Jeśli magiczny przedmiot zostanie zniszczony (np. Gem of Brightness przestanie być magiczny po zużyciu wszystkich ładunków) to nie liczy się od tego momentu do liczby posiadanych magicznych przedmiotów na potrzeby innych zasad. Jednakże, jeśli niszczenie przedmiotów magicznych, które taką możliwość przewidują, wymagałoby rzucania zaklęć między przygodami (np. Wand of Magic Missile), to zgodnie z zasadami OPK nie można tego robić. Wyjątkiem jest udzielenie wyraźnej zgody przez Mistrza Gry na taką czynność dokonywaną przed przygodą (przy czym często, jak w wypadku Wand of Magic Missile wymagałoby to wydania DT w wysokości równej liczbie wykonywanych rzutów na zniszczenie).
@@ -269,9 +269,15 @@ Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z
 
 3. Nagradzając błogosławieństwem stosuje się reguły określone w przygodzie, z zastrzeżeniem, że jeżeli przygoda przewiduje przydzielenie błogosławieństwa tylko jednej z postaci i bez wskazania, której konkretnie, stosuje się reguły określone w Zasadach Zaawansowanych - pkt 3.2. Przydzielanie przedmiotów.
 
-4. Postać może posiadać więcej niż jedno błogosławieństwo, ale tylko jedno z błogosławieństw, wybrane przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody. 
+4. Postać może posiadać więcej niż jedno błogosławieństwo, ale tylko jedno z błogosławieństw, wybrane przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody.
 
-### 3.5. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
+### 3.5 Pakty z Feywildu (Pact Gifts)<a name="pact-gifts"></a>
+
+#### Przygody WBW-DC
+Przygody z serii WBW-DC przewidują możliwość uzyskania przez postaci, poza standardowymi nagrodami, potężnych boon-ów, bonusów, czy magicznych przedmiotów. Nagrody przewidziane przez przygodę w ramach tzw "Pact giftów" (w szczególności magiczne przedmioty) nie mogą wykraczać poza ramy przygody w której są opisane. np. Jeśli przygoda przewiduje powstanie paktu na jej początku to postaci mogą go zawrzeć i korzystać z jego benefitów aż do zakończenia przygody, ale otrzymanych darów (w tym magicznych przedmiotów) nie mogą zatrzymać. Wszelkie pozostałe zmiany w przydzielaniu magicznych przedmiotów i nagród podlegają zasadom ogólnym.
+
+
+### 3.6. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
 Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego momentu zaczęły cierpieć w kwestii nagród ze względu na restrykcje, jakie wprowadzili organizatorzy Adventurers League, efektywnie wymuszając oferowanie nagród o rzadkości niżej, niż sugeruje Tier.
 
