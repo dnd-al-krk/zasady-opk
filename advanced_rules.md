@@ -257,7 +257,7 @@ Każda postać gracza posiada pewien limit przedmiotów magicznych do których m
 
 Z przedmiotów, które dają permanentne benefity postaci (np. tome of understanding, manual of golems) można taki bonus otrzymać tylko raz. Ponadto, przedmioty, które dały permanentną korzyść liczą się do posiadanych przez gracza magicznych przedmiotów, nawet jeśli użycie ich spowodowało, że zostały zniszczone. Można permanentnie zrezygnować z tak otrzymanego benefitu (chyba, że byłoby to sprzeczne z jakimś mechanicznym aspektem postaci, np. multiklasą możliwą tylko dzięki atrybutowi podwyższonemu przez ten przedmiot) i wtedy dany przedmiot przestaje się wliczać w posiadane magiczne przedmioty. Tak porzuconego benefitu nie można już odzyskać.
 
-Wyczerpująca lista magicznych przedmiotów dopuszczonych do gry w OPK (tj. żaden przedmiot magiczny spoza listy nie jest legalny w OPK) znajduje się [tutaj](item_list.md).
+Wyczerpująca lista magicznych przedmiotów dopuszczonych do gry w OPK (tj. żaden przedmiot magiczny spoza listy nie jest legalny w OPK) znajduje się [tutaj](new_adventure_in_cc.md).
 
 ### 3.4. Błogosławieństwa (Blessings)<a name="blessings"></a>
 
