@@ -535,7 +535,7 @@
 | WBW-DC-DCAF01B                          | I              | 2h             | [Barangay Bound](#barangay-bound)                                                                             |
 | PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
 | SJ-DC-DWR-01                            | II             | 4h             | [Dohwar Heist](#dohwar-heist)                                                                                 |
-| SJ-DC-DWR-03                            | III            | 4h             | [Red Flag Of Dread](#red-flag-of-dread)                                                                                 |
+| SJ-DC-DWR-03                            | III            | 4h             | [Red Flag Of Dread](#red-flag-of-dread)                                                                       |
 | SJ-DC-PHP-FLN01-01                      | I              | 2h             | [Forlorn but not Forgotten](#forlorn-but-not-forgotten)                                                       |
 | SJ-DC-PHP-FLN01-02                      | I              | 2h             | [Kaleidoscope Vault](#kaleidoscope-vault)                                                                     |
 | SJ-DC-PHP-FLN01-03                      | I              | 2h             | [Unsworn Oath](#unsworn-oath)                                                                                 |
