@@ -535,6 +535,7 @@
 | WBW-DC-DCAF01B                          | I              | 2h             | [Barangay Bound](#barangay-bound)                                                                             |
 | PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
 | SJ-DC-DWR-01                            | II             | 4h             | [Dohwar Heist](#dohwar-heist)                                                                                 |
+| SJ-DC-DWR-03                            | III            | 4h             | [Red Flag Of Dread](#red-flag-of-dread)                                                                       |
 | SJ-DC-PHP-FLN01-01                      | I              | 2h             | [Forlorn but not Forgotten](#forlorn-but-not-forgotten)                                                       |
 | SJ-DC-PHP-FLN01-02                      | I              | 2h             | [Kaleidoscope Vault](#kaleidoscope-vault)                                                                     |
 | SJ-DC-PHP-FLN01-03                      | I              | 2h             | [Unsworn Oath](#unsworn-oath)                                                                                 |
@@ -6649,6 +6650,17 @@ An action packed Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 **Komentarz**
 Przygoda przewiduje przydzielenie po jednym Keoghtom's Ointment na gracza i jednym Bat Burglar Cloak (Cloak of the Bat) na gracza.
 Przegłosowano zmianę, przygoda nagradza tylko jednym Keoghtom's Ointment i jednym Bat Burglar Cloak.
+
+### [Red Flag Of Dread](https://www.dmsguild.com/product/429546/Red-Flag-Of-Dread-SJDCDWR03)
+
+**Informacje o przygodzie:**
+Security detail at Wildspace’s largest merchant convention seemed like an easy gig. That was until the dreaded Red Flag Fleet attacked and the lives of the dohwar of the Silver Beak Cartel were thrown into chaos! Can you catch the ruthless vampirates and stop Dread Captain Yi before it’s too late?
+
+A Spelljammer Dungeoncraft Adventure for the D&D Adventurers League. 
+A Four Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Forlorn but not Forgotten](https://www.dmsguild.com/product/418804/Forlorn-but-not-Forgotten-SJDCPHPFLN0101)
 
