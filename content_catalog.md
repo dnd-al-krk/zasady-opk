@@ -547,6 +547,7 @@
 | FR-DC-GARY-02                           | II             | 4h             | [Wind to Stone](#wind-to-stone)                                                                               |
 | FR-DC-GARY-03                           | II             | 4h             | [Blade to Branch](#blade-to-branch)                                                                           |
 | FR-DC-GARY-04                           | II             | 4h             | [Frost to Fire](#frost-to-fire)                                                                               |
+| FR-DC-ONI-02                            | II             | 4h             | [Battlefield Blooms](#battlefield-blooms)                                                                     |
 | FR-DC-VECNA-01                          | II             | 4h             | [Three Body Problem](#three-body-problem)                                                                     |
 | FR-DC-VECNA-02                          | II             | 4h             | [Eldritch Eye Wide Shut](#eldritch-eye-wide-shut)                                                             |
 | FR-DC-VECNA-03                          | II             | 4h             | [Neverdeath Nights](#neverdeath-nights)                                                                       |
@@ -6794,6 +6795,20 @@ While giantkind plot for the regard of Annam, the All-Father, the glacial walls 
 A Four -Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 CONTENT WARNING: Burning Wounds. Fatal Artic Rigors, Maiming Accidents
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Battlefield Blooms](https://www.dmsguild.com/product/476395/Battlefield-Blooms-FRDCONI02)
+
+**Informacje o przygodzie**
+On a significant anniversary of a major battle of the Kozakuran civil war, a monster of titanic proportions threatens the village of Hanamigahara. This creature, a massive amalgam of skeletal parts, seems to have a connection to the battlefield itself. Travel to Hanamigahara and put an end to the threat.
+
+A 4 hour Tier 2 Adventure, optimized for APL 8
+
+CONTENT WARNINGS: Death, Disrespect of the Dead
+
+The second adventure in the ONI series, inspired by Heian Japan, its folklore, and its history. The FR-DC-ONI adventures are not sequential, and can be played in any order. They share a setting, not an overarching story.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
