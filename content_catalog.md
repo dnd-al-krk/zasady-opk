@@ -35,6 +35,7 @@
 | DDHC-MORD-02                            | III            | 6h             | [The Lich-Queen’s Begotten](#the-lich-queens-begotten)                                                        |
 | DDHC-MORD-03                            | III            | 4-6h           | [To Wake The Leviathan](#to-wake-the-leviathan)                                                               |
 | DDHC-MORD-05                            | I              | 4h             | [Escape from Wheloon](#escape-from-wheloon)                                                                   |
+| DDHC-GSM-06                             | II             | 6h             | [Tammeraut's Fate](#tammerauts-fate)                                                                   |
 | Sezon 1 - Tyranny of Dragons            |
 | DDEX1-1                                 | I              | 5x1h           | [Defiance in Phlan](#defiance-in-phlan)                                                                       |
 | DDEX1-2                                 | I              | 4h             | [Secrets of Sokol Keep](#secrets-of-sokol-keep)                                                               |
@@ -789,6 +790,17 @@ Runtime - Przygoda jest na 4h dla postaci 1-2lvl, w razie konieczności należy 
 Złoto - Brak nagród w złocie, co jest celowe i uzasadnione. Nie należy dawać złota wg. tabelki, co wynagradza nadmiarowa liczba magicznych przedmiotów.
 Magiczne przedmioty - Przygoda zawiera 2 przedmioty common (jest też 3, mystery key który powinien być zużyty w trakcie przygody i nie jest nagrodą) i jeden rare. Z racji na obecne zasady przekuwania rarity przedmiotu należy zmienić na uncommon, nie wymaga innych zmian mechanicznych.
 Scenariusz przygody częściowo opiera się na pregenach, na potrzeby naszych rozgrywek należy opracować w taki sposób aby uwzględnić dowolne postacie graczy. W szczególności za względu na założenie przez przygodę level upów w trakcie przygody (co u nas nie ma miejsca) początkowe encountery należy wyskalować w górę dla drużyn w większości drugopoziomowych, a końcowe osłabić dla drużyn pierwszopoziomowych.
+
+
+### [Tammeraut's Fate](https://marketplace.dndbeyond.com/category/SRC-00043)
+
+**Informacje o przygodzie**
+Five years ago, a hermitage devoted to the contemplation of nature was established in an abandoned island fortress, once the site of a beacon meant to warn against invasion from the sea. The folk of the hermitage opened the island to people of all faiths, promising a place for those seeking solitude and peace. But that peace has now been shattered, and the characters must determine what force of evil has slain the residents of Firewatch Island almost to the last — and how to prevent the even greater tragedy to come.
+
+**Komentarz**
+Aby wyrównać ilość złota do znalezienia w przygodzie do poziomu typowego dla OPK należy zmniejszyć nagrodę w ostatnim encounterze o połowę, co daje całkowitą kwotę 3975gp - przy 4 graczach 165gp/os/h (poniżej wartości w tabelce). Przygoda zawiera dużą ilość permanentych przedmiotów magicznych. Powinny one zostać używalne na czas przygody, jednak na zakończenie gracze mogą zachować jedynie Ring of Free Action.
+W trakcie przygody można otrzymać specjalnego chowańca - Hawk z 9 Int. Powinno być to traktowane jako story award, który może otrzymać jedna z postaci. Jeśli więcej niż jedna spełnia warunki otrzymania tej nagrody, DM powinien to rozstrzygnąć losowo. 
+
 
 ### [Defiance in Phlan](https://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e&affiliate_id=925821)
 
