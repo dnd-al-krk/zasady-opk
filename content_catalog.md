@@ -586,6 +586,16 @@
 | SJ-DC-DD-08                             | II             | 4h             | [Blast from the Past](#blast-from-the-past)                                                                   |
 | SJ-DC-DD-09                             | II             | 4h             | [The Huangfu Heist](#the-huangfu-heist)                                                                       |
 | SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
+| DC-PoA-NBDD-01                          | II             | 4h             | [Ice, Ice, Birdie](#Ice,-Ice,-Birdie)                                                                         |
+| PS-DC-CAKE-01                           | I              | 4h             | [CAKE WARS](CAKE-WARS)                                                                                        |
+| PS-DC-CAKE-02                           | I              | 4h             | [CAKE WARS II](CAKE-WARS-II)                                                                                  |
+| WBW-DC-NTP-01                           | I              | 4h             | [Cat's Paws](Cat's-Paws)                                                                                      |
+| FR-DC-THAY-02                           | II             | 4h             | [How to Seduce a Thayan in Tendays](#How-toS-educe-a-Thayan-in-Tendays)                                       |
+| CCC-RPSG-04                             | I              | 4h             | [The Waystop](#The-Waystop)                                                                                   |
+| FR-DC-GOBLIN-01                         | I              | 2-3h           | [Goblin's Gambit](#Goblin's-Gambit)                                                                           |
+| CCC-UCON02-01                           | I              | 2-4h           | [The Goat Mayor](#The-Goat-Mayor)                                                                             |
+| CCC-GSP01-02                            | I              | 2-4h           | [Brotherhood](#Brotherhood)                                                                                   |
+| CCC-MAG01-02                            | II             | 2-4h           | [Murder at the Festival!](#Murder-at-the-Festival!)                                                                                   |
 | Przygody dopuszczone spoza kanonu AL    |
 | GCC-JOYCE-01                            | II             | 2h             | [Weekend at Strahd’s](#weekend-at-strahds)                                                                    |
 | KCC-KWIEK-01                            | II             | 2h             | [Mountain Brew](#mountain-brew)                                                                               |
@@ -7346,6 +7356,135 @@ CONTENT WARNING: Horror, Fear, Blood, Gore, Ghoslty Appearance, Claustrophobia
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Ice, Ice, Birdie](https://www.dmsguild.com/product/345306/DCPoANBDD01-Ice-Ice-Birdie)
+
+**Informacje o przygodzie:**
+Alright, stop! Collaborate and listen: Roc Capella's back in a brand new adventure. Specifically, a new Dungeoncraft for D&D Adventurers League season 10, from the writer and artist team behind "Clever" and the award-winning "Where Can She Be?"
+
+In Bryn Shander, the city prepares for a day of celebration and festivities, as a well-known couple finally ties the knot. Adventurers are needed to help ensure all goes well, especially with the appearance of a famed troupe of kenku bards.
+
+Can you protect the troupe, save the wedding, and help the happy couple survive the cruel, cold world that is Icewind Dale under Auril's eternal winter?
+
+A 4-hour adventure for tier 2, optimized for APL 8, using the "Winter Over" Adventure Seed.
+
+What will you get in "Ice, Ice, Birdie?"
+
+**Komentarz**
+Zmiana przedmiotu na pusty Ring of spell storing
+
+### [CAKE WARS](https://www.dmsguild.com/product/489416/CAKE-WARS-PSDCCAKE01)
+
+**Informacje o przygodzie:**
+A reformed member of the Coterie of Cakes needs help to open their store, as rivals do not take kindly to those who enter their sweet territory of business.
+
+A Two-Four Hour Sweet Sigil Adventure for Tier 1 Characters. Optimized for APL 3. 
+
+CONTENT ADVISORY: This adventure contains themes of Mild Body Horror, Sugary Diabetic Sweetness, Violence (Bullying & Gangs). Discretion is advised.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [CAKE WARS II](https://www.dmsguild.com/product/515404/CAKE-WARS-II-PSDCCAKE02)
+
+**Informacje o przygodzie:**
+A patissier needs help to open their store, as rivals do not take kindly to those who enter their sweet territory of business. Infiltrate the rival store and find the secret of the Cakers.
+
+A Two-Four-Hour Sweet Sigil Adventure for Tier 1 Characters. Optimized for APL 3.
+
+By Steven Truong
+
+CONTENT ADVISORY: This adventure contains themes of Mild Body Horror,  Sugary Diabetic Sweetness, and Violence (Bullying & Gangs). Discretion is advised. 
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Cat's Paws](https://www.dmsguild.com/product/408478/Cats-Paws-WBWDCNTP01)
+
+**Informacje o przygodzie:**
+The Dai Meow-Ou is dead, you’re accused of murder, and you have until sunrise to clear your names. It’s time to put on your thinking cats and play detective, adventurers! Can you sniff out the real killers before your time runs out?
+
+A Pawsome Feywild Murder Mystery for Tier 1 Characters. Optimized for APL 3.
+
+This 4-hour module is designed to be played using Theater of the Mind, and depending on the characters and their decisions, multiple endings are possible.
+
+**Komentarz**
+Graczom należy rozdać tylko jeden Spellwrought Tattoo
+
+### [How to Seduce a Thayan in Tendays](https://www.dmsguild.com/product/516348/How-to-Seduce-a-Thayan-in-Tendays-FRDCTHAY02?filters=0_1000055_0_0_0_0_0_0)
+
+**Informacje o przygodzie:**
+What’s a Red Wizard to do when it comes to finding love? Advertise for the best and brightest, obviously! Yaelend Hulthroun has been alone for far too long, and his vaunted position as ruler of Thazalhar has suitors hailing from Eltabbar to Lapendrar. To seal the deal, a token is promised to the one who wins his affections at the Ball: a wondrous gift by way of the High Regent Szass Tam.
+
+     Can you seduce a Thayan in tendays? You can certainly try.
+Part Two of The (Provocative) Thayan Affair 
+
+A Four-Hour Adventure for Level 5-10 Characters (Tier 2, Optimized for APL8)
+[CONTENT WARNING: Dating, Hunting (Invasive Species), Performance Anxiety, Social Situations, Wardrobe Malfunction]
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Waystop](https://www.dmsguild.com/product/341653/CCCRPSG04-The-Waystop?filters=45474)
+
+**Informacje o przygodzie:**
+A relentless torrential storm has forced you to seek shelter at an abandoned caravan lodge with several others you met on the road, but the dangers outside may pale in comparison to the dangers within. Can you survive the night?
+
+A Tale of Mystery & Suspense for Tier 1 Characters. Optimized for APL 3.
+
+From the author of the Neverdusk Trilogy comes a brand new roleplaying & exploration rich adventure in the horror and mystery genre. This module is designed to be played using Theater of the Mind, and depending on the characters and their decisions, multiple endings are possible.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Goblin's Gambit](https://www.dmsguild.com/product/459410/Goblins-Gambit-FRDCGOBLIN01)
+
+**Informacje o przygodzie:**
+A nilbog has been born amongst the wild tribes of the goblin hordes of Phandalin. Adventurers find themselves taking responsibility for this young child, protecting them from the wicked followers of Maglubiyet.
+
+A Two-Three Hour Starter Adventure for Tier 1 Characters. Optimized for APL 2.
+
+By Steven Truong
+
+CONTENT WARNING: This adventure contains themes of Cute Goblin Child Endangerment (Mention), Torture (reference), Unexpected Parenthood. Player discretion is advised.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Goat Mayor](https://www.dmsguild.com/product/341178/CCCUCON0201-The-Goat-Mayor?filters=45470_0_0_0_45536_0_0_0)
+
+**Informacje o przygodzie:**
+You visit the peculiar village of Basht expecting a pleasant evening filled with good food and drink, and a chance to learn their strange customs and superstitions. Your evening is interrupted when you are asked to rescue their mayor. Their mayor? A goat that lives in the center of town. Why is he so vital, and why is this a job for adventurers?
+
+A Two to Four-Hour Adventure for Tier 1 Characters.
+
+Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Brotherhood](https://www.dmsguild.com/product/285688/CCCGSP0102-Brotherhood)
+
+**Informacje o przygodzie:**
+A dear friend of the djinni Rokstasha recently passed away. A funeral ceremony for his friend will be held in three days at the Quivering Forest. Rokstasha needs the assistance of the adventurers to find the other members of the Five-Leaf Clover if ever they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the Clover Group Series.
+
+
+A Two to Four-Hour Adventure for Level 1-4 Characters. Optimized for Average Party Level 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Murder at the Festival!](https://www.dmsguild.com/product/320871/CCCMAG0102-Murder-at-the-Festival?filters=45470_0_0_0_0_0_0_0)
+
+**Informacje o przygodzie:**
+CCC-MAG01-02: Murder at the Festival! A series of grisly murders threatens the festivities at the annual Magic and Gold Festival in Thentia! Can your group of adventurers uncover the source of the attacks and stop the murderer before they strike again?
+
+A delightfuly murderous two-four hour mystery adventure for characters level 5-10 (optimized for APL 8)
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk"<a name="trylogia"></a>
 
