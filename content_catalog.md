@@ -6606,7 +6606,17 @@ Soul and Shadow is a four-hour adventure for characters of levels 17-20.
 **Komentarz**
 Przygoda jako taka nie wymaga dostosowywania do gry w OPK pod kątem nagród. Należy mieć jednak na względzie 2 rzeczy:
 1. Część przygody z włamaniem do banku jest bardzo słabo opisana. Autorska koncepcja jak ją rozbudować znajduje się w formie komentarza do przygody znajdującej się na naszym dysku (wersja z obrazkami, nie printer-friendly).
-2. Ostatni encounter prowadzony zgodnie z przygodą i sugerowanym skalowaniem jest ekstremalnie zabójczy. Granie przygody jako część serii częściowo adresuje ten problem (story awardy mogą zmniejszyć poziom trudności, ale mogą go też zmniejszyć). W przypadku prowadzenie przygody niezależnie od pozostałych przygód w serii, sugerowane jest żeby postacie zaczęły przygodę dzień wcześniej i miały czas się przygotować z wiedzą jakby poprzednie przygody grały (np. należy im przekazać informacje o vulnerability na elektryczność w ostatnim encounterze). Niezalecane jest żeby pozwolić im się buffować na wszystkie możliwe sposoby, bo pozostałe encountery staną się trywialne.
+2. Ostatni encounter prowadzony zgodnie z przygodą i sugerowanym skalowaniem jest ekstremalnie zabójczy. Granie przygody jako część serii częściowo adresuje ten problem (story awardy mogą zmniejszyć poziom trudności, ale mogą go też zwiększyć). W przypadku prowadzenia przygody niezależnie od pozostałych przygód w serii, sugerowane jest żeby postacie zaczęły przygodę dzień wcześniej i miały czas się przygotować z wiedzą jakby poprzednie przygody grały (np. należy im przekazać informacje o vulnerability na elektryczność w ostatnim encounterze). Niezalecane jest żeby pozwolić im się buffować na wszystkie możliwe sposoby, bo pozostałe encountery staną się trywialne.
+Pozostałe przygody z serii:
+Trylogia nr1:
+The Petrified Forest (WBW-DC-ANDL-01)
+The Bleeding Veil (WBW-DC-ANDL-02)
+The Crossings of Fate (WBW-DC-ANDL-03)
+Trylogia nr2:
+Mighty Wings (SJ-DC-TRIDEN-MW)
+Danger Zone (SJ-DC-TRIDEN-MW2)
+Destination Unknown (SJ-DC-TRIDEN-MW3)
+
 
 ### [Pixie Dreams](https://www.dmsguild.com/product/375416/WBWDCDCAF01-Pixie-Dreams)
 
