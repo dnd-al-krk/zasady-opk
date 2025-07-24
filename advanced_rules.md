@@ -45,7 +45,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [3.3. Szczególne zasady dotyczące magicznych przedmiotów](#zaawansowane-magitki)
 
-  [3.4. Błogosławieństwa (Blessings)](#blessings)
+  [3.4. Błogosławieństwa (Blessings) i Epickie Dary (Epic Boons)](#blessings)
 
   [3.5. Pakty z Feywildu (Pact Gifts)](#pact-gifts)
 
@@ -259,23 +259,26 @@ Z przedmiotów, które dają permanentne benefity postaci (np. tome of understan
 
 Wyczerpująca lista magicznych przedmiotów dopuszczonych do gry w OPK (tj. żaden przedmiot magiczny spoza listy nie jest legalny w OPK) znajduje się [tutaj](new_adventure_in_cc.md).
 
-### 3.4. Błogosławieństwa (Blessings)<a name="blessings"></a>
+### 3.4. Błogosławieństwa (Blessings) i Epickie Dary (Epic Boons)<a name="blessings"></a>
 
-Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z błogosławieństw (blessings) opisanych w Części 2 Rozdziale 7 Dungeon Master's Guide. Ze względu na specyfikę tej nagrody, regulowana jest ona przez poniższe zasady szczególne.
+Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z Błogosławieństw (Blessings) lub Epickich Darów (Epic Boons) opisanych w Rozdziale 7, sekcji "Other Rewards" w Dungeon Master's Guide (2014). Ze względu na specyfikę tej nagrody, regulowana jest ona przez poniższe zasady szczególne:
 
-1. Każde zdobyte błogosławieństwo należy traktować jako przedmiot magiczny na potrzeby obliczania ilości przedmiotów magicznych posiadanych przez postać.
+1. Każde zdobyte Błogosławieństwo i Epicki Dar należy traktować jako przedmiot magiczny na potrzeby obliczania ilości przedmiotów magicznych posiadanych przez postać.
 
-2. Na potrzeby dodawania przygód do Katalogu Przygód, błogosławieństwa traktowane są jako przedmioty magiczne o rzadkości very rare.
+2. Na potrzeby dodawania przygód do Katalogu Przygód, Błogosławieństwa traktowane są jako przedmioty magiczne o rzadkości very rare, a Epickie Dary jako przedmioty magiczne o rzadkości legendary.
 
-3. Nagradzając błogosławieństwem stosuje się reguły określone w przygodzie, z zastrzeżeniem, że jeżeli przygoda przewiduje przydzielenie błogosławieństwa tylko jednej z postaci i bez wskazania, której konkretnie, stosuje się reguły określone w Zasadach Zaawansowanych - pkt 3.2. Przydzielanie przedmiotów.
+3. Nagradzając Błogosławieństwem lub Epickim Darem stosuje się reguły określone w przygodzie, z zastrzeżeniem, że jeżeli przygoda przewiduje przydzielenie błogosławieństwa tylko jednej z postaci i bez wskazania, której konkretnie, stosuje się reguły określone w Zasadach Zaawansowanych - pkt 3.2. Przydzielanie przedmiotów.
 
-4. Postać może posiadać więcej niż jedno błogosławieństwo, ale tylko jedno z błogosławieństw, wybrane przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody.
+4. Postać może posiadać więcej niż jedno Błogosławieństwo, ale tylko jedno z Błogosławieństw, wybrane przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody.
+   
+5. Postać może posiadać więcej niż jeden Epicki Dar, ale tylko jeden z Epickich Darów, wybrany przez gracza przed rozpoczęciem sesji, wywiera mechaniczny efekt podczas przygody. Co więcej- dary podlegają zasadom z DMG (2014) i działają dopiero od momentu osiągnięcia przez postać poziomu 20.
+
+6. Zarówno Epickie Dary jak i Błogosławieństwa można odrzucić pomiędzy sesjami aby przestały się liczyć do łącznej liczby magicznych przedmiotów posiadanych przez postać. Tak odrzucony Epicki Dar/Błogosławieństwo zostaje na stałe utracony przez postać (chyba, że ta uzyska nową instancję tegoż w osobnej przygodzie). 
 
 ### 3.5 Pakty z Feywildu (Pact Gifts)<a name="pact-gifts"></a>
 
 #### Przygody WBW-DC
 Przygody z serii WBW-DC przewidują możliwość uzyskania przez postaci, poza standardowymi nagrodami, potężnych boon-ów, bonusów, czy magicznych przedmiotów. Nagrody przewidziane przez przygodę w ramach tzw "Pact giftów" (w szczególności magiczne przedmioty) nie mogą wykraczać poza ramy przygody w której są opisane. np. Jeśli przygoda przewiduje powstanie paktu na jej początku to postaci mogą go zawrzeć i korzystać z jego benefitów aż do zakończenia przygody, ale otrzymanych darów (w tym magicznych przedmiotów) nie mogą zatrzymać. Wszelkie pozostałe zmiany w przydzielaniu magicznych przedmiotów i nagród podlegają zasadom ogólnym.
-
 
 ### 3.6. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
