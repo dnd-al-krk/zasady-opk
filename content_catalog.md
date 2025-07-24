@@ -6616,7 +6616,9 @@ Trylogia nr2:
 Mighty Wings (SJ-DC-TRIDEN-MW)
 Danger Zone (SJ-DC-TRIDEN-MW2)
 Destination Unknown (SJ-DC-TRIDEN-MW3)
-
+Dylogia (t1):
+Squidaddle! (SJ-DC-SQD)
+Squidoosh! (SJ-DC-SQD2)
 
 ### [Pixie Dreams](https://www.dmsguild.com/product/375416/WBWDCDCAF01-Pixie-Dreams)
 
