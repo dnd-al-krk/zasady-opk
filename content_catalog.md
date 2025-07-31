@@ -217,6 +217,7 @@
 | CCC-AETHER-02-03                        | I              | 2-4h           | [One Step Ahead](#one-step-ahead)                                                                             |
 | CCC-AETHER01-01                         | I              | 2-4h           | [The Heir of Orcus: Verse I](#the-heir-of-orcus-verse-i)                                                      |
 | CCC-AETHER01-02                         | I              | 4h             | [The Heir of Orcus: Verse II](#the-heir-of-orcus-verse-ii)                                                    |
+| CCC-ROLL20-02                           | II             | 2-4h           | [The Heir of Orcus: Verse III](#the-heir-of-orcus-verse-iii)                                                  |
 | CCC-AETHER02-01                         | II             | 2-4h           | [The Heir of Orcus: Verse IV](#the-heir-of-orcus-verse-iv)                                                    |
 | CCC-ALMOG-01                            | I              | 4h             | [TALES01-01 What Lies Beneath](#tales01-01-what-lies-beneath)                                                 |
 | CCC-ALMOG-03                            | III            | 4h             | [TALES03-01 Claws of Fury](#tales03-01-claws-of-fury)                                                         |
@@ -231,9 +232,9 @@
 | CCC-APL-01-01                           | I              | 4h             | [It’s Not Easy Being Gene](#its-not-easy-being-gene)                                                          |
 | CCC-ARCANA-01                           | I              | 2h             | [The Phantom Pursuit](#the-phantom-pursuit)                                                                   |
 | CCC-ARCANA-02                           | I              | 2h             | [Seclusion](#seclusion)                                                                                       |
-| CCC-BLD-0103                            | II             | 4h             | [Bleeding Gate: Lineage](#bleeding-gate-lineage)                                                              |
 | CCC-BLD-11                              | I              | 2h             | [Bleeding Gate: Pandemonium](#bleeding-gate-pandemonium)                                                      |
 | CCC-BLD-12                              | I              | 2h             | [Bleeding Gate: Amalgamation](#bleeding-gate-amalgamation)                                                    |
+| CCC-BLD-0103                            | II             | 4h             | [Bleeding Gate: Lineage](#bleeding-gate-lineage)                                                              |
 | CCC-BMG-01                              | I              | 4h             | [CORE1-1 A Scream in the Night](#core1-1-a-scream-in-the-night)                                               |
 | CCC-BMG-02                              | I              | 4h             | [CORE1-2 A Cog in the Wheel](#core1-2-a-cog-in-the-wheel)                                                     |
 | CCC-BMG-03                              | I              | 4h             | [CORE1-3 A Hole in the World](#core1-3-a-hole-in-the-world)                                                   |
@@ -318,11 +319,11 @@
 | CCC-DDSC-01                             | I              | 4h             | [Murder at the Stop](#murder-at-the-stop)                                                                     |
 | CCC-DDSC-02                             | I              | 2h             | [A Fool and His Gold](#a-fool-and-his-gold)                                                                   |
 | CCC-DES-01-01                           | II             | 4h             | [Finding the Rabbit Hole](#finding-the-rabbit-hole)                                                           |
+| CCC-DES-01-02                           | II             | 4h             | [A Sanity Never Questioned](#a-sanity-never-questioned)                                                       |
 | CCC-DES-01-04                           | II             | 2h             | [An Answer Never Offered](#an-answer-never-offered)                                                           |
 | CCC-DES-01-05                           | II             | 2h             | [The Die Is Cast](#the-die-is-cast)                                                                           |
 | CCC-DES-02-02                           | I              | 2h             | [On a Six-Fingered Trail](#on-a-six-fingered-trail)                                                           |
 | CCC-DES-02-03                           | I              | 2h             | [Those Who Eat](#those-who-eat)                                                                               |
-| CCC-DES01-02                            | II             | 4h             | [A Sanity Never Questioned](#a-sanity-never-questioned)                                                       |
 | CCC-DRUID-01                            | II             | 4h             | [The Scourge Unseen](#the-scourge-unseen)                                                                     |
 | CCC-ELF-01                              | I              | 4h             | [Life's A Party](#lifes-a-party)                                                                              |
 | CCC-ELF-02                              | I              | 4h             | [An Adventuring Party Walks Into A Bar](#an-adventuring-party-walks-into-a-bar)                               |
@@ -331,9 +332,9 @@
 | CCC-FC3-01-02                           | II             | 4h             | [Tales of Estirwald: Corruption of theElderoak](#tales-of-estirwald-corruption-of-theelderoak)                |
 | CCC-FC3-03                              | III            | 4h             | [Tales of Estirwald: The Fun House](#tales-of-estirwald-the-fun-house)                                        |
 | CCC-FXC-01                              | I              | 2h             | [Nothing Happens in Elmwood](#nothing-happens-in-elmwood)                                                     |
-| CCC-GAD-01-03                           | III            | 4-6h           | [Caught in Time](#caught-in-time)                                                                             |
 | CCC-GAD01-01                            | II             | 2-4h           | [Broken Blade](#broken-blade)                                                                                 |
 | CCC-GAD01-02                            | II             | 2-4h           | [Red War: Black Phoenix](#red-war-black-phoenix)                                                              |
+| CCC-GAD-01-03                           | III            | 4-6h           | [Caught in Time](#caught-in-time)                                                                             |
 | CCC-GAD02-03                            | III            | 4h             | [Arena of Champions](#arena-of-champions)                                                                     |
 | CCC-GARY-01                             | II             | 2h             | [A Night to Remember](#a-night-to-remember)                                                                   |
 | CCC-GARY-02                             | II             | 2h             | [To Find a Way Out](#to-find-a-way-out)                                                                       |
@@ -372,14 +373,12 @@
 | CCC-GOC-0101                            | I              | 2h             | [Tree Rot](#tree-rot)                                                                                         |
 | CCC-GOC-0102                            | II             | 2h             | [Cairns of Rot](#cairns-of-rot)                                                                               |
 | CCC-GOC-0103                            | II             | 3-4h           | [Winds of Rot](#winds-of-rot)                                                                                 |
-| CCC-GSP-0101                            | I              | 4h             | [A Dragon's Breath](#a-dragons-breath)                                                                        |
-| CCC-GSP-PHIL-01-03                      | I              | 2-4h           | [The Whispering Shadows of the Eldest Ruins](#the-whispering-shadows-of-the-eldest-ruins)                     |
+| CCC-GSP01-01                            | I              | 4h             | [A Dragon's Breath](#a-dragons-breath)                                                                        |
 | CCC-GSP01-02                            | I              | 2-4h           | [Brotherhood](#Brotherhood)                                                                                   |
+| CCC-GSP-PHIL-01-03                      | I              | 2-4h           | [The Whispering Shadows of the Eldest Ruins](#the-whispering-shadows-of-the-eldest-ruins)                     |
 | CCC-HAL-01                              | I              | 4h             | [Fate of the Nightworms](#fate-of-the-nightworms)                                                             |
 | CCC-HAL-02                              | II             | 4h             | [Six Striking Swords](#six-striking-swords)                                                                   |
 | CCC-HAL-03                              | II             | 4h             | [Six Swords Unbound](#six-swords-unbound)                                                                     |
-| CCC-HAL-05                              | II             | 2-4h           | [House of Blades](#house-of-blades)                                                                           |
-| CCC-HAL-06                              | II             | 2-4h           | [House of Tides](#house-of-tides)                                                                             |
 | CCC-HATMS01-01                          | II             | 4h             | [Threatening Tides](#threatening-tides)                                                                       |
 | CCC-HATMS01-02                          | II             | 4h             | [Prophecy’s Promise](#prophecys-promise)                                                                      |
 | CCC-HATMS01-03                          | II             | 4h             | [Destiny Defied](#destiny-defied)                                                                             |
@@ -401,7 +400,7 @@
 | CCC-MACE-01                             | I              | 4h             | [The Blight of Geoffrey](#the-blight-of-geoffrey)                                                             |
 | CCC-MACE-02                             | I              | 4h             | [A Panther’s Peril](#a-panthers-peril)                                                                        |
 | CCC-MACE-03                             | I              | 4h             | [Haunted Memories](#haunted-memories)                                                                         |
-| CCC-MAG01-02                            | II             | 2-4h           | [Murder at the Festival!](#Murder-at-the-Festival!)                                                                                   |
+| CCC-MAG01-02                            | II             | 2-4h           | [Murder at the Festival!](#Murder-at-the-Festival!)                                                           |
 | CCC-MAYDAYS-01                          | I              | 2h             | [The Bandit's Mark](#the-bandits-mark)                                                                        |
 | CCC-MCX-01                              | I              | 2h             | [All in a Day’s Work](#all-in-a-days-work)                                                                    |
 | CCC-MCX01-02                            | I              | 2h             | [The Rescue](#the-rescue)                                                                                     |
@@ -413,8 +412,6 @@
 | CCC-MMT01-02                            | I              | 2h             | [A Little Competition Never Hurt Anyone](#a-little-competition-never-hurt-anyone)                             |
 | CCC-MMT01-05                            | I              | 2h             | [Secrets of the Cure](#secrets-of-the-cure)                                                                   |
 | CCC-MMT02-01                            | II             | 2-4h           | [The Stuff of Memories](#the-stuff-of-memories)                                                               |
-| CCC-MTL-02                              | II             | 2-4h           | [House of Revenance](#house-of-revenance)                                                                     |
-| CCC-MTL-03                              | II             | 2-4h           | [House of Webs](#house-of-webs)                                                                               |
 | CCC-MYR-01                              | II             | 4h             | [Friends in Need](#friends-in-need)                                                                           |
 | CCC-NBDD01-01                           | II             | 2-4h           | [Clever](#clever)                                                                                             |
 | CCC-NBDD01-02                           | II             | 2-4h           | [Where Can She Be](#where-can-she-be)                                                                         |
@@ -451,7 +448,6 @@
 | CCC-RCC-01-04                           | III            | 2h             | [Black Bliss](#black-bliss)                                                                                   |
 | CCC-RCC-01-06                           | III            | 2-4h           | [The Handfasting](#the-handfasting)                                                                           |
 | CCC-REAP-01                             | II             | 4h             | [Red War: Lost Ashes of a Wayward Gnome](#red-war-lost-ashes-of-a-wayward-gnome)                              |
-| CCC-ROLL20-02                           | II             | 2-4h           | [The Heir of Orcus: Verse III](#the-heir-of-orcus-verse-iii)                                                  |
 | CCC-ROZK-0101                           | III            | 4h             | [Binder’s Torment](#binders-torment)                                                                          |
 | CCC-ROZK-0102                           | III            | 4h             | [Zhentarim’s Lament](#zhentarims-lament)                                                                      |
 | CCC-ROZK-0103                           | III            | 4h             | [Necromancer’s Ascent](#necromancers-ascent)                                                                  |
@@ -483,11 +479,11 @@
 | CCC-SKULL01-02                          | II             | 4h             | [Not All Who Are Lost Should Be Found](#not-all-who-are-lost-should-be-found)                                 |
 | CCC-SKULL01-03                          | II             | 4h             | [Who Pulls the Strings](#who-pulls-the-strings)                                                               |
 | CCC-SQC-001                             | II             | 4h             | [The Woodland Sage](#the-woodland-sage)                                                                       |
-| CCC-SQC-0201                            | II             | 4h             | [None the Wiser](#none-the-wiser)                                                                             |
-| CCC-SQC-0202                            | II             | 4h             | [Last Gasp](#last-gasp)                                                                                       |
+| CCC-SQC-02-01                           | II             | 4h             | [None the Wiser](#none-the-wiser)                                                                             |
+| CCC-SQC-02-02                           | II             | 4h             | [Last Gasp](#last-gasp)                                                                                       |
 | CCC-SQC-03-02                           | II             | 2-4h           | [Shiitake](#shiitake)                                                                                         |
 | CCC-SQC-03-03                           | II             | 2-4h           | [Toxicity](#toxicity)                                                                                         |
-| CCC-SQC-0301                            | II             | 2-4h           | [Consumption](#consumption)                                                                                   |
+| CCC-SQC-03-01                           | II             | 2-4h           | [Consumption](#consumption)                                                                                   |
 | CCC-SRCC-0101                           | I              | 2h             | [Trouble in the Old City](#trouble-in-the-old-city)                                                           |
 | CCC-SRCC-0102                           | I              | 2h             | [Down the River of Snakes](#down-the-river-of-snakes)                                                         |
 | CCC-SRCC-0103                           | I              | 2h             | [Altar of the Smoldering Eye](#altar-of-the-smoldering-eye)                                                   |
@@ -538,13 +534,17 @@
 | CCC-TRI-33                              | I              | 2h             | [Matters of Life and Death](#matters-of-life-and-death)                                                       |
 | CCC-TRI-34                              | II             | 2-4h           | [Rise of the Sea Dragon](#rise-of-the-sea-dragon)                                                             |
 | CCC-TTS-1                               | I              | 2-4h           | [Three Moles for Father Octavius](#three-moles-for-father-octavius)                                           |
-| CCC-TXLIFE-01                           | II             | 2-4h           | [House of Masks](#house-of-masks)                                                                             |
 | CCC-UCON-01                             | III            | 4h             | [Blood & Fog](#blood--fog)                                                                                    |
 | CCC-UCON02-01                           | I              | 2-4h           | [The Goat Mayor](#The-Goat-Mayor)                                                                             |
 | CCC-UK-1                                | I              | 4h             | [Call of the Elvenflow](#call-of-the-elvenflow)                                                               |
 | CCC-UK-2                                | I              | 4h             | [The Wayward Wives](#the-wayward-wives)                                                                       |
-| CCC-UNITE-05                            | II             | 4-6h           | [House of Moonlight](#house-of-moonlight)                                                                     |
 | CCC-UNITE-AN-04                         | I              | 2-4h           | [Sisterhood of the Blade](#sisterhood-of-the-blade)                                                           |
+| CCC-UNITE-05                            | II             | 4-6h           | [House of Moonlight](#house-of-moonlight)                                                                     |
+| CCC-MTL-02                              | II             | 2-4h           | [House of Revenance](#house-of-revenance)                                                                     |
+| CCC-MTL-03                              | II             | 2-4h           | [House of Webs](#house-of-webs)                                                                               |
+| CCC-HAL-05                              | II             | 2-4h           | [House of Blades](#house-of-blades)                                                                           |
+| CCC-HAL-06                              | II             | 2-4h           | [House of Silent Tides](#house-of-silent-tides)                                                               |
+| CCC-TXLIFE-01                           | II             | 2-4h           | [House of Masks](#house-of-masks)                                                                             |
 | CCC-UNITE-GD-01                         | II             | 2-4h           | [House of Diamonds](#house-of-diamonds)                                                                       |
 | CCC-VOTE-01-01                          | II             | 4-6h           | [A Small Trifle](#a-small-trifle)                                                                             |
 | CCC-WWC-01                              | I              | 2h             | [In the Face of Fear](#in-the-face-of-fear)                                                                   |
@@ -7254,7 +7254,7 @@ A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody.
 
-### [Silent Tides](https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06)
+### [House of Silent Tides](https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06)
 
 **Informacje o przygodzie**
 The body of a strange elf is discovered on the shores of Moonsea.
@@ -8007,7 +8007,7 @@ Przygoda dodana seryjnie jako "brak uwag"
 ### [The Bleeding Veil](https://www.dmsguild.com/product/387069/The-Bleeding-Veil-WBWDCANDL02)
 
 **Informacje o przygodzie:**
-The discovery of the thin veil between Amn and the fey domain of Andelein has demonstrated how fragile Amn's economy and food supply are against the whims of the archfey, Alindaya. Adventurers of your renown must go into the Feywild, figure out what is causing this â€śthin veilâ€ť, and bring stability to the lives of the citizens of Amn. Part two of the Thin Veil Series. A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+The discovery of the thin veil between Amn and the fey domain of Andelein has demonstrated how fragile Amn's economy and food supply are against the whims of the archfey, Alindaya. Adventurers of your renown must go into the Feywild, figure out what is causing this thin veil, and bring stability to the lives of the citizens of Amn. Part two of the Thin Veil Series. A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
 Przygoda dodana seryjnie jako "brak uwag"
