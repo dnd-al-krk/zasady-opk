@@ -7784,3 +7784,4 @@ Jako przygody należące do serii rozumiemy przygody, które mają w treści wsp
 - CCC-SFBAY-02-01 - Old Enemies Arise, CCC-SFBAY-02-02 - Rise of the Ogre King, CCC-SFBAY-02-03 - The Risen Minotaur Lord
 - CCC-WYC-01-01 Back to the Burning, CCC-WYC-01-02 Where Rock and Fire Meet, CCC-WYC-01-03 The Dawn Heresy
 - CCC-WYC-2-1 The Light of Heresy, CCC-WYC-2-2 A Shard of Shar, CCC-WYC-2-3 What History Leaves Behind
+- DDEX 03-06 No Foolish Matter, CCC-DDSC-01 Murder At The Stop,  CCC-DDSC-02 Fool And His Gold 
