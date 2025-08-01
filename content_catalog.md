@@ -481,9 +481,9 @@
 | CCC-SQC-001                             | II             | 4h             | [The Woodland Sage](#the-woodland-sage)                                                                       |
 | CCC-SQC-02-01                           | II             | 4h             | [None the Wiser](#none-the-wiser)                                                                             |
 | CCC-SQC-02-02                           | II             | 4h             | [Last Gasp](#last-gasp)                                                                                       |
+| CCC-SQC-03-01                           | II             | 2-4h           | [Consumption](#consumption)                                                                                   |
 | CCC-SQC-03-02                           | II             | 2-4h           | [Shiitake](#shiitake)                                                                                         |
 | CCC-SQC-03-03                           | II             | 2-4h           | [Toxicity](#toxicity)                                                                                         |
-| CCC-SQC-03-01                           | II             | 2-4h           | [Consumption](#consumption)                                                                                   |
 | CCC-SRCC-0101                           | I              | 2h             | [Trouble in the Old City](#trouble-in-the-old-city)                                                           |
 | CCC-SRCC-0102                           | I              | 2h             | [Down the River of Snakes](#down-the-river-of-snakes)                                                         |
 | CCC-SRCC-0103                           | I              | 2h             | [Altar of the Smoldering Eye](#altar-of-the-smoldering-eye)                                                   |
