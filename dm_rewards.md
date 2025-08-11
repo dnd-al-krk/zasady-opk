@@ -163,6 +163,16 @@ Należy mieć na względzie, że wymienione rasy mogą nie pasować do formatu p
 | 11 | 14 |
 | 12 | 100 |
 
+
+### Definicja serii przygód na potrzeby nagrody "Tryptyk"<a name="trylogia"></a>
+
+Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwę tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, przygody należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
+
+- CCC-SFBAY-02-01 - Old Enemies Arise, CCC-SFBAY-02-02 - Rise of the Ogre King, CCC-SFBAY-02-03 - The Risen Minotaur Lord
+- CCC-WYC-01-01 Back to the Burning, CCC-WYC-01-02 Where Rock and Fire Meet, CCC-WYC-01-03 The Dawn Heresy
+- CCC-WYC-2-1 The Light of Heresy, CCC-WYC-2-2 A Shard of Shar, CCC-WYC-2-3 What History Leaves Behind
+- DDEX 03-06 No Foolish Matter, CCC-DDSC-01 Murder At The Stop,  CCC-DDSC-02 Fool And His Gold 
+
 ### Zasady przejściowe
 
 Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero [11.10.2023]. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem. Należy wówczas przeliczyć nagrody dla całego sezonu oraz nagrody już odebrane wg obecnego formatu i odjąć punkty (zarówno PQ jak i PMP) odebranych nagród od całości punktów dotychczas zdobytych.

@@ -214,11 +214,14 @@
 | DDAL-DRW16                              | III            | 4h             | [Uprising](#uprising)                                                                                         |
 | CCC - Community-Created Content         |
 | CCC-3MAGS-01                            | I              | 7h             | [Vormestrand’s Scroll](#vormestrands-scroll)                                                                  |
+| CCC-AETHER-02-03                        | I              | 2-4h           | [One Step Ahead](#one-step-ahead)                                                                             |
 | CCC-AETHER01-01                         | I              | 2-4h           | [The Heir of Orcus: Verse I](#the-heir-of-orcus-verse-i)                                                      |
 | CCC-AETHER01-02                         | I              | 4h             | [The Heir of Orcus: Verse II](#the-heir-of-orcus-verse-ii)                                                    |
+| CCC-ROLL20-02                           | II             | 2-4h           | [The Heir of Orcus: Verse III](#the-heir-of-orcus-verse-iii)                                                  |
 | CCC-AETHER02-01                         | II             | 2-4h           | [The Heir of Orcus: Verse IV](#the-heir-of-orcus-verse-iv)                                                    |
 | CCC-ALMOG-01                            | I              | 4h             | [TALES01-01 What Lies Beneath](#tales01-01-what-lies-beneath)                                                 |
 | CCC-ALMOG-03                            | III            | 4h             | [TALES03-01 Claws of Fury](#tales03-01-claws-of-fury)                                                         |
+| CCC-ALMOG-20                            | I              | 2-4h           | [TALES01-04 Jaunt to the Center of Faerun](#tales01-04-jaunt-to-the-center-of-faerun)                         |
 | CCC-AMER-01                             | I              | 4h             | [Asleep and Awake](#asleep-and-awake)                                                                         |
 | CCC-AN-01                               | I              | 4h             | [Secrets of Golden Fire](#secrets-of-golden-fire)                                                             |
 | CCC-AN-02                               | I              | 2h             | [The Wrathful Deity of Khurovogo](#the-wrathful-deity-of-khurovogo)                                           |
@@ -232,10 +235,6 @@
 | CCC-BLD-11                              | I              | 2h             | [Bleeding Gate: Pandemonium](#bleeding-gate-pandemonium)                                                      |
 | CCC-BLD-12                              | I              | 2h             | [Bleeding Gate: Amalgamation](#bleeding-gate-amalgamation)                                                    |
 | CCC-BLD-0103                            | II             | 4h             | [Bleeding Gate: Lineage](#bleeding-gate-lineage)                                                              |
-| CCC-BMG-MOON1-1                         | I              | 1-2h           | [Moonshae Treasure Hunt](#moonshae-treasure-hunt)                                                             |
-| CCC-BMG-MOON2-1                         | I              | 2-4h           | [Defenders of Caer Moray](#defenders-of-caer-moray)                                                           |
-| CCC-BMG-MOON2-2                         | I              | 2-4h           | [Army of the Unseen](#army-of-the-unseen)                                                                     |
-| CCC-BMG-MOON2-3                         | I              | 2-4h           | [The Eye in the Mist](#the-eye-in-the-mist)                                                                   |
 | CCC-BMG-01                              | I              | 4h             | [CORE1-1 A Scream in the Night](#core1-1-a-scream-in-the-night)                                               |
 | CCC-BMG-02                              | I              | 4h             | [CORE1-2 A Cog in the Wheel](#core1-2-a-cog-in-the-wheel)                                                     |
 | CCC-BMG-03                              | I              | 4h             | [CORE1-3 A Hole in the World](#core1-3-a-hole-in-the-world)                                                   |
@@ -245,26 +244,21 @@
 | CCC-BMG-07                              | II             | 4h             | [HULB1-1hulburg Rebuilding](#hulb1-1hulburg-rebuilding)                                                       |
 | CCC-BMG-08                              | II             | 4h             | [HULB1-2hulburg Burning](#hulb1-2hulburg-burning)                                                             |
 | CCC-BMG-09                              | II             | 4h             | [HULB1-3 Hulburg Rising](#hulb1-3-hulburg-rising)                                                             |
-| CCC-BMG-HULB1S                          | II             | 4h             | [HULB1-S Extinction](#hulb1-s-extinction)                                                                     |
 | CCC-BMG-10                              | II             | 4h             | [HILL1-1 Arrival](#hill1-1-arrival)                                                                           |
 | CCC-BMG-11                              | II             | 4h             | [HILL1-2 Exodus](#hill1-2-exodus)                                                                             |
 | CCC-BMG-12                              | II             | 4h             | [HILL1-3 Resurgence](#hill1-3-resurgence)                                                                     |
-| CCC-BMG-HILL1S                          | II             | 4h             | [HILL1-S Onslaught](#hill1-s-onslaught)                                                                       |
 | CCC-BMG-13                              | III            | 4h             | [PHLAN1-1 Sepulture](#phlan1-1-sepulture)                                                                     |
 | CCC-BMG-14                              | III            | 4h             | [PHLAN1-2 Enemy of my Enemy](#phlan1-2-enemy-of-my-enemy)                                                     |
 | CCC-BMG-15                              | III            | 4h             | [PHLAN1-3 Subterfuge](#phlan1-3-subterfuge)                                                                   |
-| CCC-BMG-PHLAN1S                         | III            | 4h             | [PHLAN1-S Uprising](#phlan1-s-uprising)                                                                       |
 | CCC-BMG-16                              | II             | 4h             | [ELM1-1 The Sage of Cormanthor](#elm1-1-the-sage-of-cormanthor)                                               |
 | CCC-BMG-17                              | II             | 4h             | [ELM1-2 The Lost Sanctum](#elm1-2-the-lost-sanctum)                                                           |
 | CCC-BMG-18                              | II             | 4h             | [ELM1-3 The Battle of Elmwood](#elm1-3-the-battle-of-elmwood)                                                 |
 | CCC-BMG-19                              | II             | 4h             | [HULB2-1 Winter’s Frosty Kiss](#hulb2-1-winters-frosty-kiss)                                                  |
 | CCC-BMG-20                              | II             | 4h             | [HULB2-2 Winter’s Frigid Wrath](#hulb2-2-winters-frigid-wrath)                                                |
 | CCC-BMG-21                              | II             | 4h             | [HULB2-3 Winter’s Sharp Bite](#hulb2-3-winters-sharp-bite)                                                    |
-| CCC-BMG-HULB2S                          | II             | 4h             | [HULB2-S Winter’s Feast](#hulb2-s-winters-feast)                                                              |
 | CCC-BMG-22                              | III            | 4h             | [PHLAN2-1 Demagogue](#phlan2-1-demagogue)                                                                     |
 | CCC-BMG-23                              | III            | 4h             | [PHLAN2-2hatemaster](#phlan2-2hatemaster)                                                                     |
 | CCC-BMG-24                              | III            | 4h             | [PHLAN2-3 The Royal We](#phlan2-3-the-royal-we)                                                               |
-| CCC-BMG-PHLAN2S                         | III            | 4h             | [PHLAN2-S Damnation](#phlan2-s-damnation)                                                                     |
 | CCC-BMG-25                              | I              | 4h             | [CORE3-1 The Spectral Incursion](#core3-1-the-spectral-incursion)                                             |
 | CCC-BMG-26                              | I              | 4h             | [CORE3-2 The Ghostly Infestation](#core3-2-the-ghostly-infestation)                                           |
 | CCC-BMG-27                              | I              | 4h             | [CORE3-3 The Spirited Infestation](#core3-3-the-spirited-infestation)                                         |
@@ -289,10 +283,21 @@
 | CCC-BMG-46                              | II             | 4h             | [HILL 3-1 Shepherd the Weak](#hill-3-1-shepherd-the-weak)                                                     |
 | CCC-BMG-47                              | II             | 4h             | [HILL 3-2 Suffer the Children](#hill-3-2-suffer-the-children)                                                 |
 | CCC-BMG-48                              | II             | 4h             | [HILL 3-3 Spare the Rod](#hill-3-3-spare-the-rod)                                                             |
+| CCC-BMG-HILL1S                          | II             | 4h             | [HILL1-S Onslaught](#hill1-s-onslaught)                                                                       |
+| CCC-BMG-HULB1S                          | II             | 4h             | [HULB1-S Extinction](#hulb1-s-extinction)                                                                     |
+| CCC-BMG-HULB2S                          | II             | 4h             | [HULB2-S Winter’s Feast](#hulb2-s-winters-feast)                                                              |
+| CCC-BMG-MOON1-1                         | I              | 1-2h           | [Moonshae Treasure Hunt](#moonshae-treasure-hunt)                                                             |
+| CCC-BMG-MOON2-1                         | I              | 2-4h           | [Defenders of Caer Moray](#defenders-of-caer-moray)                                                           |
+| CCC-BMG-MOON2-2                         | I              | 2-4h           | [Army of the Unseen](#army-of-the-unseen)                                                                     |
+| CCC-BMG-MOON2-3                         | I              | 2-4h           | [The Eye in the Mist](#the-eye-in-the-mist)                                                                   |
+| CCC-BMG-PHLAN1S                         | III            | 4h             | [PHLAN1-S Uprising](#phlan1-s-uprising)                                                                       |
+| CCC-BMG-PHLAN2S                         | III            | 4h             | [PHLAN2-S Damnation](#phlan2-s-damnation)                                                                     |
 | CCC-BWM-001                             | II             | 4h             | [Howling on the Moonsea](#howling-on-the-moonsea)                                                             |
 | CCC-BWM-002                             | II             | 4h             | [The City in the Depths](#the-city-in-the-depths)                                                             |
 | CCC-BWM-003                             | III            | 4h             | [A Tale of Two Towers](#a-tale-of-two-towers)                                                                 |
 | CCC-BWM-06                              | I              | 5h             | [Introduction to Adventuring](#introduction-to-adventuring)                                                   |
+| CCC-BWM-07-02                           | III            | 4h             | [The Beast Within](#the-beast-within)                                                                         |
+| CCC-CENTRIC01-03                        | I              | 2-4h           | [The Patchwork Tower](#the-patchwork-tower)                                                                   |
 | CCC-CIC-01                              | I              | 4h             | [The Vault of the Devourer](#the-vault-of-the-devourer)                                                       |
 | CCC-CIC-02                              | II             | 4h             | [The Clockwork Laboratory](#the-clockwork-laboratory)                                                         |
 | CCC-CIC-03                              | II             | 4h             | [The Desolate Undercroft](#the-desolate-undercroft)                                                           |
@@ -305,22 +310,31 @@
 | CCC-CIC-10                              | II             | 4h             | [Terror at Soward Manor](#terror-at-soward-manor)                                                             |
 | CCC-CIC-11                              | II             | 4h             | [Death at Peril Island](#death-at-peril-island)                                                               |
 | CCC-CIC-12                              | II             | 4h             | [Redemption at Talos Sound](#redemption-at-talos-sound)                                                       |
+| CCC-CIC-16                              | I              | 2-4h           | [Open Ambitions](#open-ambitions)                                                                             |
 | CCC-CNE-01                              | II             | 4h             | [The Treasure Beneath](#the-treasure-beneath)                                                                 |
 | CCC-CNE-02                              | II             | 4h             | [Before The Hatch](#before-the-hatch)                                                                         |
 | CCC-CNE-03                              | II             | 4h             | [Into The Depths](#into-the-depths)                                                                           |
+| CCC-COS-01                              | II             | 2-4h           | [The Only Way to Be Sure](#the-only-way-to-be-sure)                                                           |
 | CCC-COTN-01-01                          | I              | 2h             | [By The Seashore: A Red War Tale](#by-the-seashore-a-red-war-tale)                                            |
 | CCC-DDSC-01                             | I              | 4h             | [Murder at the Stop](#murder-at-the-stop)                                                                     |
 | CCC-DDSC-02                             | I              | 2h             | [A Fool and His Gold](#a-fool-and-his-gold)                                                                   |
-| CCC-DES01-02                            | II             | 4h             | [A Sanity Never Questioned](#a-sanity-never-questioned)                                                       |
+| CCC-DES-01-01                           | II             | 4h             | [Finding the Rabbit Hole](#finding-the-rabbit-hole)                                                           |
+| CCC-DES-01-02                           | II             | 4h             | [A Sanity Never Questioned](#a-sanity-never-questioned)                                                       |
+| CCC-DES-01-04                           | II             | 2h             | [An Answer Never Offered](#an-answer-never-offered)                                                           |
+| CCC-DES-01-05                           | II             | 2h             | [The Die Is Cast](#the-die-is-cast)                                                                           |
+| CCC-DES-02-02                           | I              | 2h             | [On a Six-Fingered Trail](#on-a-six-fingered-trail)                                                           |
+| CCC-DES-02-03                           | I              | 2h             | [Those Who Eat](#those-who-eat)                                                                               |
 | CCC-DRUID-01                            | II             | 4h             | [The Scourge Unseen](#the-scourge-unseen)                                                                     |
 | CCC-ELF-01                              | I              | 4h             | [Life's A Party](#lifes-a-party)                                                                              |
 | CCC-ELF-02                              | I              | 4h             | [An Adventuring Party Walks Into A Bar](#an-adventuring-party-walks-into-a-bar)                               |
 | CCC-ELO-01                              | I              | 4h             | [For the Kids!](#for-the-kids)                                                                                |
+| CCC-EPI-01-01                           | II             | 4h             | [Hordes of Thar - The White Hand of Death](#hordes-of-thar---the-white-hand-of-death)                         |
 | CCC-FC3-01-02                           | II             | 4h             | [Tales of Estirwald: Corruption of theElderoak](#tales-of-estirwald-corruption-of-theelderoak)                |
 | CCC-FC3-03                              | III            | 4h             | [Tales of Estirwald: The Fun House](#tales-of-estirwald-the-fun-house)                                        |
 | CCC-FXC-01                              | I              | 2h             | [Nothing Happens in Elmwood](#nothing-happens-in-elmwood)                                                     |
 | CCC-GAD01-01                            | II             | 2-4h           | [Broken Blade](#broken-blade)                                                                                 |
 | CCC-GAD01-02                            | II             | 2-4h           | [Red War: Black Phoenix](#red-war-black-phoenix)                                                              |
+| CCC-GAD-01-03                           | III            | 4-6h           | [Caught in Time](#caught-in-time)                                                                             |
 | CCC-GAD02-03                            | III            | 4h             | [Arena of Champions](#arena-of-champions)                                                                     |
 | CCC-GARY-01                             | II             | 2h             | [A Night to Remember](#a-night-to-remember)                                                                   |
 | CCC-GARY-02                             | II             | 2h             | [To Find a Way Out](#to-find-a-way-out)                                                                       |
@@ -351,7 +365,6 @@
 | CCC-GHCBK1-08                           | I              | 2h             | [The Hunt for Cutter Jack](#the-hunt-for-cutter-jack)                                                         |
 | CCC-GHCBK1-09                           | I              | 2-4h           | [Scavengers](#scavengers)                                                                                     |
 | CCC-GHCBK1-10                           | III            | 4h             | [The Heart of Shadow](#the-heart-of-shadow)                                                                   |
-| CCC-HERO-GHCBK3-01                      | I              | 4h             | [A Walk Along the Borders](#a-walk-along-the-borders)                                                         |
 | CCC-GHCBK3-02                           | I              | 4h             | [The Girl With the Wet Nose](#the-girl-with-the-wet-nose)                                                     |
 | CCC-GLIP-0101                           | I              | 2h             | [Glip Dak](#glip-dak)                                                                                         |
 | CCC-GLIP-0102                           | I              | 2h             | [Beneath Glip Dak](#beneath-glip-dak)                                                                         |
@@ -360,7 +373,9 @@
 | CCC-GOC-0101                            | I              | 2h             | [Tree Rot](#tree-rot)                                                                                         |
 | CCC-GOC-0102                            | II             | 2h             | [Cairns of Rot](#cairns-of-rot)                                                                               |
 | CCC-GOC-0103                            | II             | 3-4h           | [Winds of Rot](#winds-of-rot)                                                                                 |
-| CCC-GSP-0101                            | I              | 4h             | [A Dragon's Breath](#a-dragons-breath)                                                                        |
+| CCC-GSP01-01                            | I              | 4h             | [A Dragon's Breath](#a-dragons-breath)                                                                        |
+| CCC-GSP01-02                            | I              | 2-4h           | [Brotherhood](#Brotherhood)                                                                                   |
+| CCC-GSP-PHIL-01-03                      | I              | 2-4h           | [The Whispering Shadows of the Eldest Ruins](#the-whispering-shadows-of-the-eldest-ruins)                     |
 | CCC-HAL-01                              | I              | 4h             | [Fate of the Nightworms](#fate-of-the-nightworms)                                                             |
 | CCC-HAL-02                              | II             | 4h             | [Six Striking Swords](#six-striking-swords)                                                                   |
 | CCC-HAL-03                              | II             | 4h             | [Six Swords Unbound](#six-swords-unbound)                                                                     |
@@ -371,10 +386,12 @@
 | CCC-HATMS02-02                          | III            | 4h             | [Something Vile This Way Comes](#something-vile-this-way-comes)                                               |
 | CCC-HATMS02-03                          | III            | 4h             | [A Vile Wake](#a-vile-wake)                                                                                   |
 | CCC-HERO-BK03-03                        | II             | 4h             | [A Lute Strung Double](#a-lute-strung-double)                                                                 |
+| CCC-HERO-GHCBK3-01                      | I              | 4h             | [A Walk Along the Borders](#a-walk-along-the-borders)                                                         |
 | CCC-IFK-01                              | II             | 2h             | [Shadow of Greed](#shadow-of-greed)                                                                           |
 | CCC-IFK-02                              | II             | 2h             | [Shadow of the Weave](#shadow-of-the-weave)                                                                   |
 | CCC-IFK-03                              | II             | 4h             | [Shadow of the Dusk Queen](#shadow-of-the-dusk-queen)                                                         |
 | CCC-JGD-01                              | III            | 2-4h           | [Left Black & Blue](#left-black--blue)                                                                        |
+| CCC-KUMORI-01-2                         | I              | 2h             | [Wretches](#wretches)                                                                                         |
 | CCC-KUMORI-0101                         | I              | 2h             | [Wreckers](#wreckers)                                                                                         |
 | CCC-KUMORI-02-02                        | I              | 2h             | [School Magic](#school-magic)                                                                                 |
 | CCC-KUMORI-0204                         | I              | 2h             | [To Be the Very Best](#to-be-the-very-best)                                                                   |
@@ -383,6 +400,8 @@
 | CCC-MACE-01                             | I              | 4h             | [The Blight of Geoffrey](#the-blight-of-geoffrey)                                                             |
 | CCC-MACE-02                             | I              | 4h             | [A Panther’s Peril](#a-panthers-peril)                                                                        |
 | CCC-MACE-03                             | I              | 4h             | [Haunted Memories](#haunted-memories)                                                                         |
+| CCC-MAG01-02                            | II             | 2-4h           | [Murder at the Festival!](#Murder-at-the-Festival!)                                                           |
+| CCC-MAYDAYS-01                          | I              | 2h             | [The Bandit's Mark](#the-bandits-mark)                                                                        |
 | CCC-MCX-01                              | I              | 2h             | [All in a Day’s Work](#all-in-a-days-work)                                                                    |
 | CCC-MCX01-02                            | I              | 2h             | [The Rescue](#the-rescue)                                                                                     |
 | CCC-MELB-01                             | II             | 4h             | [A Single Tearfall](#a-single-tearfall)                                                                       |
@@ -391,11 +410,11 @@
 | CCC-MIND-03                             | III            | 4h             | [Dream Walkers](#dream-walkers)                                                                               |
 | CCC-MMT01-01                            | I              | 2-4h           | [Secrets of Imaginary Friends](#secrets-of-imaginary-friends)                                                 |
 | CCC-MMT01-02                            | I              | 2h             | [A Little Competition Never Hurt Anyone](#a-little-competition-never-hurt-anyone)                             |
-| CCC-MMT01-03                            | I              | 2h             | [Honorable Dissent - A Price of the Red War Adventure](#honorable-dissent---a-price-of-the-red-war-adventure) |
 | CCC-MMT01-05                            | I              | 2h             | [Secrets of the Cure](#secrets-of-the-cure)                                                                   |
 | CCC-MMT02-01                            | II             | 2-4h           | [The Stuff of Memories](#the-stuff-of-memories)                                                               |
 | CCC-MYR-01                              | II             | 4h             | [Friends in Need](#friends-in-need)                                                                           |
 | CCC-NBDD01-01                           | II             | 2-4h           | [Clever](#clever)                                                                                             |
+| CCC-NBDD01-02                           | II             | 2-4h           | [Where Can She Be](#where-can-she-be)                                                                         |
 | CCC-NUKE-0101                           | I              | 4h             | [The Blighted Sun](#the-blighted-sun)                                                                         |
 | CCC-NUKE-0102                           | I              | 4h             | [Hide and Seek](#hide-and-seek)                                                                               |
 | CCC-OA-01-01                            | I              | 2-4h           | [When Mages Fall](#when-mages-fall)                                                                           |
@@ -411,8 +430,8 @@
 | CCC-OHAYOCON-01-03                      | II             | 2-4h           | [Fiendly Competition](#fiendly-competition)                                                                   |
 | CCC-PDXAGE-0101                         | I              | 2h             | [The White Well](#the-white-well)                                                                             |
 | CCC-PDXAGE-0201                         | II             | 2h             | [The Dark Hunt](#the-dark-hunt)                                                                               |
-| CCC-PHA-01                              | II             | 4h             | [Six Summoned Swords](#six-summoned-swords)                                                                   |
 | CCC-PFF-03-01                           | III            | 4h-6h          | [Hints at Imbalance: Rumors of Moloch](#hints-at-imbalance-rumors-of-moloch)                                  |
+| CCC-PHA-01                              | II             | 4h             | [Six Summoned Swords](#six-summoned-swords)                                                                   |
 | CCC-PPTDD01-01                          | I              | 2h             | [Trouble Under Winton](#trouble-under-winton)                                                                 |
 | CCC-PRETZ-PLA01                         | I              | 2-4h           | [The Mystery at Coppertop Manor](#the-mystery-at-coppertop-manor)                                             |
 | CCC-PRETZ-PLA02                         | I              | 2-4h           | [A Mine of Their Own](#a-mine-of-their-own)                                                                   |
@@ -422,14 +441,20 @@
 | CCC-QCC-2017                            | III            | 4h             | [Delusions of Grandeur, Dreams of Revenge](#delusions-of-grandeur-dreams-of-revenge)                          |
 | CCC-QCC2018-01                          | III            | 2h             | [Of Gods and Monsters](#of-gods-and-monsters)                                                                 |
 | CCC-QCC2018-02                          | II             | 2h             | [Heart and Soul](#heart-and-soul)                                                                             |
+| CCC-QCC2019-01                          | I              | 2-4h           | [Hillsfar's Rancid Webs](#hillsfars-rancid-webs)                                                              |
+| CCC-RCC-01-01                           | I              | 2h             | [Flight of the Forgemage](#flight-of-the-forgemage)                                                           |
+| CCC-RCC-01-02                           | I              | 2h             | [The King of Thar](#the-king-of-thar)                                                                         |
+| CCC-RCC-01-03                           | I              | 2h             | [Chains of Desperation](#chains-of-desperation)                                                               |
+| CCC-RCC-01-04                           | III            | 2h             | [Black Bliss](#black-bliss)                                                                                   |
+| CCC-RCC-01-06                           | III            | 2-4h           | [The Handfasting](#the-handfasting)                                                                           |
 | CCC-REAP-01                             | II             | 4h             | [Red War: Lost Ashes of a Wayward Gnome](#red-war-lost-ashes-of-a-wayward-gnome)                              |
-| CCC-ROLL20-02                           | II             | 2-4h           | [The Heir of Orcus: Verse III](#the-heir-of-orcus-verse-iii)                                                  |
 | CCC-ROZK-0101                           | III            | 4h             | [Binder’s Torment](#binders-torment)                                                                          |
 | CCC-ROZK-0102                           | III            | 4h             | [Zhentarim’s Lament](#zhentarims-lament)                                                                      |
 | CCC-ROZK-0103                           | III            | 4h             | [Necromancer’s Ascent](#necromancers-ascent)                                                                  |
 | CCC-RPR-01                              | I              | 4h             | [Eyes of Blood](#eyes-of-blood)                                                                               |
 | CCC-RPSG-01                             | I              | 4h             | [Ooze There](#ooze-there)                                                                                     |
 | CCC-RPSG-03                             | III            | 4-6h           | [Fenaria's Gambit](#fenarias-gambit)                                                                          |
+| CCC-RPSG-04                             | I              | 4h             | [The Waystop](#The-Waystop)                                                                                   |
 | CCC-SAC-01                              | III            | 4h             | [A Light in the Dark](#a-light-in-the-dark)                                                                   |
 | CCC-SAC-02                              | III            | 4h             | [Fun with Fey](#fun-with-fey)                                                                                 |
 | CCC-SALT-01-01                          | I              | 2h             | [Rumors of Riches](#rumors-of-riches)                                                                         |
@@ -454,9 +479,11 @@
 | CCC-SKULL01-02                          | II             | 4h             | [Not All Who Are Lost Should Be Found](#not-all-who-are-lost-should-be-found)                                 |
 | CCC-SKULL01-03                          | II             | 4h             | [Who Pulls the Strings](#who-pulls-the-strings)                                                               |
 | CCC-SQC-001                             | II             | 4h             | [The Woodland Sage](#the-woodland-sage)                                                                       |
-| CCC-SQC-0201                            | II             | 4h             | [None the Wiser](#none-the-wiser)                                                                             |
-| CCC-SQC-0202                            | II             | 4h             | [Last Gasp](#last-gasp)                                                                                       |
-| CCC-SQC-0301                            | II             | 2-4h           | [Consumption](#consumption)                                                                                   |
+| CCC-SQC-02-01                           | II             | 4h             | [None the Wiser](#none-the-wiser)                                                                             |
+| CCC-SQC-02-02                           | II             | 4h             | [Last Gasp](#last-gasp)                                                                                       |
+| CCC-SQC-03-01                           | II             | 2-4h           | [Consumption](#consumption)                                                                                   |
+| CCC-SQC-03-02                           | II             | 2-4h           | [Shiitake](#shiitake)                                                                                         |
+| CCC-SQC-03-03                           | II             | 2-4h           | [Toxicity](#toxicity)                                                                                         |
 | CCC-SRCC-0101                           | I              | 2h             | [Trouble in the Old City](#trouble-in-the-old-city)                                                           |
 | CCC-SRCC-0102                           | I              | 2h             | [Down the River of Snakes](#down-the-river-of-snakes)                                                         |
 | CCC-SRCC-0103                           | I              | 2h             | [Altar of the Smoldering Eye](#altar-of-the-smoldering-eye)                                                   |
@@ -502,14 +529,23 @@
 | CCC-TRI-24                              | III            | 4h             | [Knight Errand](#knight-errand)                                                                               |
 | CCC-TRI-25                              | II             | 4h             | [Dead Men’s Treasure](#dead-mens-treasure)                                                                    |
 | CCC-TRI-29                              | III            | 4h             | [Tidefall](#tidefall)                                                                                         |
-| CCC-TRI-30                              | I              | 5 h            | [Remnants of a Dream](#remnants-of-a-dream)                                                                   |
 | CCC-TRI-31                              | III            | 4h             | [Out of Time](#out-of-time)                                                                                   |
 | CCC-TRI-32                              | I              | 2h             | [Casks and Caskets](#casks-and-caskets)                                                                       |
 | CCC-TRI-33                              | I              | 2h             | [Matters of Life and Death](#matters-of-life-and-death)                                                       |
+| CCC-TRI-34                              | II             | 2-4h           | [Rise of the Sea Dragon](#rise-of-the-sea-dragon)                                                             |
+| CCC-TTS-1                               | I              | 2-4h           | [Three Moles for Father Octavius](#three-moles-for-father-octavius)                                           |
 | CCC-UCON-01                             | III            | 4h             | [Blood & Fog](#blood--fog)                                                                                    |
-| CCC-UNITE-AN-04                         | I              | 2-4h           | [Sisterhood of the Blade](#sisterhood-of-the-blade)                                                           |
+| CCC-UCON02-01                           | I              | 2-4h           | [The Goat Mayor](#The-Goat-Mayor)                                                                             |
 | CCC-UK-1                                | I              | 4h             | [Call of the Elvenflow](#call-of-the-elvenflow)                                                               |
 | CCC-UK-2                                | I              | 4h             | [The Wayward Wives](#the-wayward-wives)                                                                       |
+| CCC-UNITE-AN-04                         | I              | 2-4h           | [Sisterhood of the Blade](#sisterhood-of-the-blade)                                                           |
+| CCC-UNITE-05                            | II             | 4-6h           | [House of Moonlight](#house-of-moonlight)                                                                     |
+| CCC-MTL-02                              | II             | 2-4h           | [House of Revenance](#house-of-revenance)                                                                     |
+| CCC-MTL-03                              | II             | 2-4h           | [House of Webs](#house-of-webs)                                                                               |
+| CCC-HAL-05                              | II             | 2-4h           | [House of Blades](#house-of-blades)                                                                           |
+| CCC-HAL-06                              | II             | 2-4h           | [House of Silent Tides](#house-of-silent-tides)                                                               |
+| CCC-TXLIFE-01                           | II             | 2-4h           | [House of Masks](#house-of-masks)                                                                             |
+| CCC-UNITE-GD-01                         | II             | 2-4h           | [House of Diamonds](#house-of-diamonds)                                                                       |
 | CCC-VOTE-01-01                          | II             | 4-6h           | [A Small Trifle](#a-small-trifle)                                                                             |
 | CCC-WWC-01                              | I              | 2h             | [In the Face of Fear](#in-the-face-of-fear)                                                                   |
 | CCC-WWC-02                              | I              | 2h             | [Dark Waters of Hate](#dark-waters-of-hate)                                                                   |
@@ -519,64 +555,55 @@
 | CCC-WWC-06                              | II             | 4h             | [The Fear of Fiends](#the-fear-of-fiends)                                                                     |
 | CCC-WWC-07                              | II             | 2h             | [The Icy Hand of Hate](#the-icy-hand-of-hate)                                                                 |
 | CCC-WWC-08                              | II             | 2h             | [Pool of Anihilation](#pool-of-anihilation)                                                                   |
+| CCC-WWC-09                              | I              | 2h             | [Defenders of Est'Ellma](#defenders-of-estellma)                                                              |
+| CCC-WWC-10                              | I              | 2h             | [Brental's Roads Scholars](#brentals-roads-scholars)                                                          |
 | CCC-WYC1-1                              | II             | 4h             | [Back to the Burning](#back-to-the-burning)                                                                   |
 | CCC-WYC1-2                              | II             | 4h             | [Where Rock and Fire Meet](#where-rock-and-fire-meet)                                                         |
 | CCC-WYC1-3                              | II             | 4h             | [The Dawn Heresy](#the-dawn-heresy)                                                                           |
 | CCC-WYC2-1                              | II             | 2-4h           | [The Light of Heresy](#the-light-of-heresy)                                                                   |
 | CCC-WYC2-2                              | II             | 2-4h           | [A Shard of Shar](#a-shard-of-shar)                                                                           |
 | CCC-WYC2-3                              | II             | 2-4h           | [What History Leaves Behind](#what-history-leaves-behind)                                                     |
+| CCC-YLRA-SDCC01-1                       | I              | 4h             | [Exploratory Arts](#exploratory-arts)                                                                         |
+| CCC-YLRA-SDCC01-2                       | I              | 4h             | [No Good Deed](#no-good-deed)                                                                                 |
+| CCC-YLRA-SDCC01-3                       | I              | 4h             | [Cast In Shadow](#cast-in-shadow)                                                                             |
 | CCC-YLRA01-01                           | II             | 4h             | [Her Dying Wish](#her-dying-wish)                                                                             |
 | CCC-YLRA01-02                           | II             | 4h             | [Uneasy Lies the Head](#uneasy-lies-the-head)                                                                 |
 | CCC-YLRA01-03                           | II             | 4h             | [Bound by Duty](#bound-by-duty)                                                                               |
 | CCC-YLRA01-04                           | II             | 4h             | [Down in Flames](#down-in-flames)                                                                             |
-| CCC-KUMORI-01-2                         | I              | 2h             | [Wretches](#wretches)                                                                                         |
+| DC-POA-HAG-SF4                          | II             | 2-3h           | [Failing You](#failing-you)                                                                                   |
+| DC-POA-OGG-02                           | II             | 2-4h           | [Judge and Jury](#judge-and-jury)                                                                             |
+| DC-POA-ROBIN-01-01                      | I              | 4h             | [The Taming of the Chwinga](#the-taming-of-the-chwinga)                                                       |
+| DC-PoA-NBDD-01                          | II             | 4h             | [Ice, Ice, Birdie](#Ice,-Ice,-Birdie)                                                                         |
+| DC-PoA-ROG-3                            | II             | 4h             | [The Last Refuge of Spring](#the-last-refuge-of-spring)                                                       |
 | DDHC-CM-05                              | I              | 2h             | [Shemshime's Bedtime Rhyme](#shemshimes-bedtime-rhyme)                                                        |
 | DDHC-TOA-4                              | I              | 2h             | [Cellar of death](#cellar-of-death)                                                                           |
-| PS-DC-SS                                | IV             | 4-6h           | [Soul and Shadow](#soul-and-shadow)                                                                           |
-| WBW-DC-DCAF01                           | I              | 2h             | [Pixie Dreams](#pixie-dreams)                                                                                 |
-| WBW-DC-DCAF01B                          | I              | 2h             | [Barangay Bound](#barangay-bound)                                                                             |
-| PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
-| SJ-DC-DWR-01                            | II             | 4h             | [Dohwar Heist](#dohwar-heist)                                                                                 |
-| SJ-DC-DWR-03                            | III            | 4h             | [Red Flag Of Dread](#red-flag-of-dread)                                                                       |
-| SJ-DC-PHP-FLN01-01                      | I              | 2h             | [Forlorn but not Forgotten](#forlorn-but-not-forgotten)                                                       |
-| SJ-DC-PHP-FLN01-02                      | I              | 2h             | [Kaleidoscope Vault](#kaleidoscope-vault)                                                                     |
-| SJ-DC-PHP-FLN01-03                      | I              | 2h             | [Unsworn Oath](#unsworn-oath)                                                                                 |
-| PS-DC-HNL-02                            | I              | 4h             | [The Hungry Prince](#the-hungry-prince)                                                                       |
-| PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
-| DC-PoA-ROG-3                            | II             | 4h             | [The Last Refuge of Spring](#the-last-refuge-of-spring)                                                       |
 | FR-DC-BG                                | III            | 4h             | [The Flying Flame](#the-flying-flame)                                                                         |
 | FR-DC-GARY-01                           | II             | 4h             | [Sand to Ash](#sand-to-ash)                                                                                   |
 | FR-DC-GARY-02                           | II             | 4h             | [Wind to Stone](#wind-to-stone)                                                                               |
 | FR-DC-GARY-03                           | II             | 4h             | [Blade to Branch](#blade-to-branch)                                                                           |
 | FR-DC-GARY-04                           | II             | 4h             | [Frost to Fire](#frost-to-fire)                                                                               |
-| FR-DC-ONI-02                            | II             | 4h             | [Battlefield Blooms](#battlefield-blooms)                                                                     |
-| FR-DC-VECNA-01                          | II             | 4h             | [Three Body Problem](#three-body-problem)                                                                     |
-| FR-DC-VECNA-02                          | II             | 4h             | [Eldritch Eye Wide Shut](#eldritch-eye-wide-shut)                                                             |
-| FR-DC-VECNA-03                          | II             | 4h             | [Neverdeath Nights](#neverdeath-nights)                                                                       |
-| FR-DC-WATERDEEP-CHZ                     | I              | 2h             | [Sweet Dreams are Made of Cheese](#sweet-dreams-are-made-of-cheese)                                           |
-| FR-DC-WATERDEEP-TRZ                     | I              | 2h             | [Sweet Dreams are Made of Trees](#sweet-dreams-are-made-of-trees)                                             |
+| FR-DC-GOBLIN-01                         | I              | 2-3h           | [Goblin's Gambit](#Goblin's-Gambit)                                                                           |
 | FR-DC-LIGA-01                           | III            | 4h             | [Wyrmwell Flame](#wyrmwell-flame)                                                                             |
 | FR-DC-LIGA-02                           | II             | 4h             | [House of Shadow](#house-of-shadow)                                                                           |
 | FR-DC-LIGA-03                           | III            | 4h             | [Doom Reborn](#doom-reborn)                                                                                   |
 | FR-DC-LIGA-04                           | III            | 4h             | [Many Spells Gambit](#many-spells-gambit)                                                                     |
 | FR-DC-LIGA-07                           | III            | 4h             | [The Lurking Blade](#the-lurking-blade)                                                                       |
-| WBW-DC-JOQ-01                           | I              | 4h             | [Dancing at Her Funeral](#dancing-at-her-funeral)                                                             |
-| WBW-DC-MOM-01                           | II             | 4h             | [One Moment](#one-moment)                                                                                     |
-| WBW-DC-JSH-LIB-01                       | I              | 2h             | [Inter-library Interception](#inter-library-interception)                                                     |
-| WBW-DC-JSH-LIB-02                       | I              | 4h             | [Search Engine Optimization](#search-engine-optimization)                                                     |
-| WBW-DC-JSH-LIB-03                       | I              | 4h             | [Between Covers and Through Tales](#between-covers-and-through-tales)                                         |
-| WBW-DC-JSH-LIB-04                       | II             | 4h             | [Brightly Burn the Flames of Knowledge](#brightly-burn-the-flames-of-knowledge)                               |
-| WBW-DC-PHP-01                           | II             | 4h             | [Pot Luck!](#pot-luck)                                                                                        |
-| WBW-DC-AA-ASHALON-01                    | II             | 4h             | [Beneath the Eternal Glacier](#beneath-the-eternal-glacier)                                                   |
-| WBW-DC-AA-ASHALON-02                    | II             | 4h             | [Under the Cover of Stars](#under-the-cover-of-stars)                                                         |
-| CCC-NBDD01-02                           | II             | 2-4h           | [Where Can She Be](#where-can-she-be)                                                                         |
-| CCC-UNITE-05                            | II             | 4-6h           | [House of Moonlight](#house-of-moonlight)                                                                     |
-| CCC-MTL-02                              | II             | 2-4h           | [House of Revenance](#house-of-revenance)                                                                     |
-| CCC-MTL-03                              | II             | 2-4h           | [House of Webs](#house-of-webs)                                                                               |
-| CCC-HAL-05                              | II             | 2-4h           | [House of Blades](#house-of-blades)                                                                           |
-| CCC-HAL-06                              | II             | 2-4h           | [House of Tides](#house-of-tides)                                                                             |
-| CCC-TXLIFE-01                           | II             | 2-4h           | [House of Masks](#house-of-masks)                                                                             |
-| CCC-UNITE-GD-01                         | II             | 2-4h           | [House of Diamonds](#house-of-diamonds)                                                                       |
+| FR-DC-ONI-01                            | II             | 4h             | [Oni of the Thousand Gates](#oni-of-the-thousand-gates)                                                       |
+| FR-DC-ONI-02                            | II             | 4h             | [Battlefield Blooms](#battlefield-blooms)                                                                     |
+| FR-DC-THAY-02                           | II             | 4h             | [How to Seduce a Thayan in Tendays](#How-toS-educe-a-Thayan-in-Tendays)                                       |
+| FR-DC-VECNA-01                          | II             | 4h             | [Three Body Problem](#three-body-problem)                                                                     |
+| FR-DC-VECNA-02                          | II             | 4h             | [Eldritch Eye Wide Shut](#eldritch-eye-wide-shut)                                                             |
+| FR-DC-VECNA-03                          | II             | 4h             | [Neverdeath Nights](#neverdeath-nights)                                                                       |
+| FR-DC-WATERDEEP-CHZ                     | I              | 2h             | [Sweet Dreams are Made of Cheese](#sweet-dreams-are-made-of-cheese)                                           |
+| FR-DC-WATERDEEP-TRZ                     | I              | 2h             | [Sweet Dreams are Made of Trees](#sweet-dreams-are-made-of-trees)                                             |
+| PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
+| PS-DC-HNL-01                            | I              | 4h             | [Nowhere Fast](#nowhere-fast)                                                                                 |
+| PS-DC-HNL-02                            | I              | 4h             | [The Hungry Prince](#the-hungry-prince)                                                                       |
+| PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
+| PS-DC-SS                                | IV             | 4-6h           | [Soul and Shadow](#soul-and-shadow)                                                                           |
+| SJ-DC                                   | II             | 2h             | [Happy New Year!](#happy-new-year)                                                                            |
+| SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
+| SJ-DC-AUG-06                            | I              | 4h             | [The Rock: Tales of the Beholder Corps](#the-rock-tales-of-the-beholder-corps)                                |
 | SJ-DC-DD-01                             | I              | 4h             | [Rock Paper Pistols](#rock-paper-pistols)                                                                     |
 | SJ-DC-DD-02                             | I              | 4h             | [Lone Survivors](#lone-survivors)                                                                             |
 | SJ-DC-DD-03                             | I              | 4h             | [Castles in the Sand](#castles-in-the-sand)                                                                   |
@@ -586,17 +613,44 @@
 | SJ-DC-DD-07                             | II             | 4h             | [Sinaya's Song](#sinayas-song)                                                                                |
 | SJ-DC-DD-08                             | II             | 4h             | [Blast from the Past](#blast-from-the-past)                                                                   |
 | SJ-DC-DD-09                             | II             | 4h             | [The Huangfu Heist](#the-huangfu-heist)                                                                       |
-| SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
-| DC-PoA-NBDD-01                          | II             | 4h             | [Ice, Ice, Birdie](#Ice,-Ice,-Birdie)                                                                         |
-| PS-DC-CAKE-01                           | I              | 4h             | [CAKE WARS](CAKE-WARS)                                                                                        |
-| PS-DC-CAKE-02                           | I              | 4h             | [CAKE WARS II](CAKE-WARS-II)                                                                                  |
-| WBW-DC-NTP-01                           | I              | 4h             | [Cat's Paws](Cat's-Paws)                                                                                      |
-| FR-DC-THAY-02                           | II             | 4h             | [How to Seduce a Thayan in Tendays](#How-toS-educe-a-Thayan-in-Tendays)                                       |
-| CCC-RPSG-04                             | I              | 4h             | [The Waystop](#The-Waystop)                                                                                   |
-| FR-DC-GOBLIN-01                         | I              | 2-3h           | [Goblin's Gambit](#Goblin's-Gambit)                                                                           |
-| CCC-UCON02-01                           | I              | 2-4h           | [The Goat Mayor](#The-Goat-Mayor)                                                                             |
-| CCC-GSP01-02                            | I              | 2-4h           | [Brotherhood](#Brotherhood)                                                                                   |
-| CCC-MAG01-02                            | II             | 2-4h           | [Murder at the Festival!](#Murder-at-the-Festival!)                                                                                   |
+| SJ-DC-DEN-H4                            | II             | 4h             | [Departure from Fallen Stars](#departure-from-fallen-stars)                                                   |
+| SJ-DC-DEN-H5                            | II             | 4h             | [The Reef of Living Memory](#the-reef-of-living-memory)                                                       |
+| SJ-DC-DEN-H6                            | II             | 4h             | [Sekolah's Ire](#sekolahs-ire)                                                                                |
+| SJ-DC-DEN-H7                            | I              | 4h             | [Flummoxing Fire from Afar](#flummoxing-fire-from-afar)                                                       |
+| SJ-DC-DEN-H8                            | I              | 4h             | [Pesky Problems of Proprietors and Priests](#pesky-problems-of-proprietors-and-priests)                       |
+| SJ-DC-DUCKS-TTT-01                      | III            | 4h             | [Save the Forest!](#save-the-forest)                                                                          |
+| SJ-DC-DWR-01                            | II             | 4h             | [Dohwar Heist](#dohwar-heist)                                                                                 |
+| SJ-DC-DWR-02                            | III            | 4h             | [Last Flight of the Orca](#last-flight-of-the-orca)                                                           |
+| SJ-DC-DWR-03                            | III            | 4h             | [Red Flag Of Dread](#red-flag-of-dread)                                                                       |
+| SJ-DC-NBDD-01                           | II             | 4h             | [Where in the Worlds?](#where-in-the-worlds)                                                                  |
+| SJ-DC-PHP-FLN01-01                      | I              | 2h             | [Forlorn but not Forgotten](#forlorn-but-not-forgotten)                                                       |
+| SJ-DC-PHP-FLN01-02                      | I              | 2h             | [Kaleidoscope Vault](#kaleidoscope-vault)                                                                     |
+| SJ-DC-PHP-FLN01-03                      | I              | 2h             | [Unsworn Oath](#unsworn-oath)                                                                                 |
+| SJ-DC-SYL-01                            | I              | 4h             | [Prismatic Invitation](#prismatic-invitation)                                                                 |
+| WBW-DC-AA-ASHALON-01                    | II             | 4h             | [Beneath the Eternal Glacier](#beneath-the-eternal-glacier)                                                   |
+| WBW-DC-AA-ASHALON-02                    | II             | 4h             | [Under the Cover of Stars](#under-the-cover-of-stars)                                                         |
+| WBW-DC-ANDL-02                          | II             | 4h             | [The Bleeding Veil](#the-bleeding-veil)                                                                       |
+| WBW-DC-DCAF01                           | I              | 2h             | [Pixie Dreams](#pixie-dreams)                                                                                 |
+| WBW-DC-DCAF01B                          | I              | 2h             | [Barangay Bound](#barangay-bound)                                                                             |
+| WBW-DC-DCAF02                           | I              | 2h             | [Harengon Harana](#harengon-harana)                                                                           |
+| WBW-DC-DREA-01                          | II             | 4h             | [A Nightmare of Dreams](#a-nightmare-of-dreams)                                                               |
+| WBW-DC-FEN-01                           | I              | 2h             | [Tiddy Mun and the Stranger Stone](#tiddy-mun-and-the-stranger-stone)                                         |
+| WBW-DC-JOQ-01                           | I              | 4h             | [Dancing at Her Funeral](#dancing-at-her-funeral)                                                             |
+| WBW-DC-JSH-LIB-01                       | I              | 2h             | [Inter-library Interception](#inter-library-interception)                                                     |
+| WBW-DC-JSH-LIB-02                       | I              | 4h             | [Search Engine Optimization](#search-engine-optimization)                                                     |
+| WBW-DC-JSH-LIB-03                       | I              | 4h             | [Between Covers and Through Tales](#between-covers-and-through-tales)                                         |
+| WBW-DC-JSH-LIB-04                       | II             | 4h             | [Brightly Burn the Flames of Knowledge](#brightly-burn-the-flames-of-knowledge)                               |
+| WBW-DC-MOM-01                           | II             | 4h             | [One Moment](#one-moment)                                                                                     |
+| WBW-DC-MOR-01                           | I              | 4h             | [A Blight in Mordynia](#a-blight-in-mordynia)                                                                 |
+| WBW-DC-MOR-02                           | I              | 4h             | [Dark Miasma of the Mausoleum](#dark-miasma-of-the-mausoleum)                                                 |
+| WBW-DC-NBDD-01                          | II             | 4h             | [Play the game](#play-the-game)                                                                               |
+| WBW-DC-NBDD-02                          | I              | 2h             | [15 Seconds to Curtain](#15-seconds-to-curtain)                                                               |
+| WBW-DC-PHP-01                           | II             | 4h             | [Pot Luck!](#pot-luck)                                                                                        |
+| WBW-DC-PHP-02                           | II             | 4h             | [A Compendium of Curious Curiosities](#a-compendium-of-curious-curiosities)                                   |
+| WBW-DC-PHP-HOE-02                       | II             | 4h             | [Something Borrowed, Something Brewed](#something-borrowed-something-brewed)                                  |
+| WBW-DC-PHP-PHAN-01                      | II             | 4h             | [If the Shoe Fits](#if-the-shoe-fits)                                                                         |
+| WBW-DC-ROG-03                           | II             | 4h             | [Hope in Medusa's Eye](#hope-in-medusas-eye)                                                                  |
+| WBW-DC-THAL-01                          | I              | 4h             | [Heartfire Lost](#heartfire-lost)                                                                             |
 | Przygody dopuszczone spoza kanonu AL    |
 | GCC-JOYCE-01                            | II             | 2h             | [Weekend at Strahd’s](#weekend-at-strahds)                                                                    |
 | KCC-KWIEK-01                            | II             | 2h             | [Mountain Brew](#mountain-brew)                                                                               |
@@ -7200,7 +7254,7 @@ A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody.
 
-### [Silent Tides](https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06)
+### [House of Silent Tides](https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06)
 
 **Informacje o przygodzie**
 The body of a strange elf is discovered on the shores of Moonsea.
@@ -7510,12 +7564,474 @@ A delightfuly murderous two-four hour mystery adventure for characters level 5-1
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 
+### [Shiitake](https://www.dmsguild.com/product/295790/CCC--SQC--0302-Shiitake)
 
-## Definicja serii przygód na potrzeby nagrody "Tryptyk"<a name="trylogia"></a>
+**Informacje o przygodzie:**
+As news of gruesome murders begin to die down within the walls of Hillsfar, reports of deaths in the farmland reach the Senate. Coincidences or is there a bigger evil behind all this? A 2-Hour to 4-Hour Adventures for Tier 2 Characters. Optimized for APL 8.
 
-Jako przygody należące do serii rozumiemy przygody, które mają w treści wspomnianą nazwę tej samej serii, np. CCC-TAROT01-01 Awakening of Fates - Part 1 of **A Song of Fates**, przygody należące do tego samego sezonu Adventurers' League lub serie przygód wymienione poniżej:
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
 
-- CCC-SFBAY-02-01 - Old Enemies Arise, CCC-SFBAY-02-02 - Rise of the Ogre King, CCC-SFBAY-02-03 - The Risen Minotaur Lord
-- CCC-WYC-01-01 Back to the Burning, CCC-WYC-01-02 Where Rock and Fire Meet, CCC-WYC-01-03 The Dawn Heresy
-- CCC-WYC-2-1 The Light of Heresy, CCC-WYC-2-2 A Shard of Shar, CCC-WYC-2-3 What History Leaves Behind
-- DDEX 03-06 No Foolish Matter, CCC-DDSC-01 Murder At The Stop,  CCC-DDSC-02 Fool And His Gold 
+### [Toxicity](https://www.dmsguild.com/product/295878/CCCSQC-0303-Toxicity?affiliate_rem=878642)
+
+**Informacje o przygodzie:**
+Humans and nonhumans are dying of poison across Hillsfar. As old tensions flare up in the Senate, can you bring the mysterious mastermind to justice before civil war erupts in the streets? A Two to Four Hour mystery, guaranteed to end in the Trial of the Century! This adventure is designed to be highly customizable for your group's preferences, giving unique roleplay challenges or going more combat heavy. For Tier 2 characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Finding the Rabbit Hole](https://www.dmsguild.com/product/260395/CCCDES0101-Finding-the-Rabbit-Hole)
+
+**Informacje o przygodzie:**
+Pirates are pillaging and raiding more than usual along the Stojanow River and its tributaries, prompting Aya Glenmiir to invite help from renowned adventurers. The journey toward Greenhall is complicated by deeper issues in the Quivering Forest. The ever-malicious hag Jeny Greenteeth makes an appearance, revealing the hidden source of activity and presenting a new opportunity to the adventurers. Part 1 in the â€śAt Jeny's Requestâ€ť series. A four-hour Adventurers League adventure for levels 5-10.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [An Answer Never Offered](https://www.dmsguild.com/product/298041/CCCDES0104-An-Answer-Never-Offered)
+
+**Informacje o przygodzie:**
+The Mistress of Tides calls upon heroes to awaken an ancient archfey to aid against the threat of Seelie and Unseelie Court conspirators. But a treacherous fey creature fueled by insatiable envy is playing a spoiler. A Two-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Die Is Cast](https://www.dmsguild.com/product/297616/CCCDES0105-The-Die-is-Cast)
+
+**Informacje o przygodzie:**
+After liberating the Green Man from his stony prison, the adventurers are given a lead. Can they reach their informant before their opponent gathers word of their actions? A Two Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [On a Six-Fingered Trail](https://www.dmsguild.com/product/307311/CCCDES0202-On-a-SixFingered-Trail)
+
+**Informacje o przygodzie:**
+You are charged with rescuing Bea's missing sextuplets and must bring their captors to justice. A walk in the park for brave adventurers, unless the trail extends beyond the darkness. A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Those Who Eat](https://www.dmsguild.com/product/307312/CCCDES0203-Those-Who-Eat)
+
+**Informacje o przygodzie:**
+Finding themselves on a foggy bank alongside the Moonsea, the adventurers must dive into sunken ruins to save six innocent children from the God Who Eats. A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Caught in Time](https://www.dmsguild.com/product/284754/CCCGAD0103-Caught-in-Time)
+
+**Informacje o przygodzie:**
+The island-penal colony of Kulaica houses some of the most dangerous creatures in all of Moonsea. You must infiltrate this penal colony and investigate the bizarre murders of wardens before the entire colony erupts in chaos. "They expected a prison filled with filth, disease, and death. Instead they saw an exquisite subterranean city carved out of gem stones; a marvel of Svirfneblin stonesmithing. All the luxuries one could imagine were within their graspâ€¦Kulaica was indeed a psychedelic city of wonders.But soon their dreams devolved into nightmares..." This adventure takes the characters through a surreal journey as their perception of reality itself is torn apart..Will they be able to survive as their own thoughts and memories are sold to the highest bidder? What is there to lose, other than their sanity?
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [One Step Ahead](https://www.dmsguild.com/product/334544/CCCAETHER0203-One-Step-Ahead)
+
+**Informacje o przygodzie:**
+Have you been on an adventure? Gained a single level in a character class? Congratulations, that means you are fully qualified to be a teacher at Quickstep Academy, the Sword Coast's best, newest, shiniest, uhh...most welcoming school for new adventurers. Seriously, we take everyone! The only problem is someone took our headmaster Nora Quickstep! Can you find her before most of the students and other teachers notice? A Two to Four Hour Adventure for Tier 1 Characters.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Beast Within](https://www.dmsguild.com/product/309473/CCCBWM0702-The-Beast-Within)
+
+**Informacje o przygodzie:**
+An ancient dwarven ruin near Hillsfar has been attracting the attention of Thayans and elemental cultist. Now Alanax, the only good Thayan wizard, has requested your help to explore this ruin. What mysteries are held within these old dwarven walls? A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Patchwork Tower](https://www.dmsguild.com/product/322508/CCCCENTRIC0103----The-Patchwork-Tower)
+
+**Informacje o przygodzie:**
+Modrons have gathered in the Moonwatch Hills to build a strange tower. Ranging far and wide, they pilfer items both valuable and worthless to grow the swaying, shaking mass of the Patchwork Tower. What strange impulse guides them? What exactly are they building? A 2-4 Hour Adventure for Tier 1 Characters. Optimized for APL
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Open Ambitions](https://www.dmsguild.com/product/318239/CCCCIC16-Open-Ambitions)
+
+**Informacje o przygodzie:**
+Individuals in Hulburg enlist your aid to combat an ambitious threat to Waterdeep. You are needed to infiltrate Fangjaws Hold and bring the threat's mastermind to justice. A Two- to Four-Hour D&D Adventurers League Adventure for Tier 2 Characters; optimized for APL 8. Brought to you by Cold Iron Conventions and Fair Play Game Store.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Only Way to Be Sure](https://www.dmsguild.com/product/285292/CCCCOS01-The-Only-Way-To-Be-Sure)
+
+**Informacje o przygodzie:**
+A small mining village near the edge of Thar goes silent. You are sent to investigate...and discover that the truth is much worse than expected. A two- to four-hour Adventurers League-legal adventure for Tier 2 characters. It primarily takes place near the border of Thar, but the opening is in Phlan. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Hordes of Thar - The White Hand of Death](https://www.dmsguild.com/product/295621/CCCEPI0101-Hordes-of-Thar--The-White-Hand-of-Death)
+
+**Informacje o przygodzie:**
+A disease is spreading around the town of Melvaunt, causing boils and festering marks to form on townsfolk and travelers alike. The local guard believes that this disease is of unnatural origin, and has issued a call for brave adventurers to investigate the matter. Can you find the source of the plague, or will you simply fall as another victim? Part one of the Hordes of Thar Saga. A Four-Hour Adventure for 5th to 10th Level Characters
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Whispering Shadows of the Eldest Ruins](https://www.dmsguild.com/product/285849/CCCGSPPHIL0103-The-Whispering-Shadows-of-the-Eldest-Ruin)
+
+**Informacje o przygodzie:**
+When the conflict between two fanatical groups boils over, danger knocks directly on Ylraphon's door. As violence erupts all around, you must delve into the Eldest Ruins, the most ancient remnants of Outer Ylraphon. There, a ruined drow manor house is said to contain an artifact strong enough to stop the forces rampaging through the Old City. Part 3 of the Dead Gods Collide Series. A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Bandit's Mark](https://www.dmsguild.com/product/318715/CCCMAYDAYS01-The-Bandits-Mark)
+
+**Informacje o przygodzie:**
+The RED WOLF leads a gang that preys on travellers in the wild lands of THAR. Dozens of adventurers and bounty hunters have come for the bandit, drawn by the price on their head. Can you avoid the other hunters, and find them first? A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Play the game](https://www.dmsguild.com/product/382484/Play-the-Game-WBWDCNBDD01)
+
+**Informacje o przygodzie:**
+The Archfey Yuverion has announced a new competition, where competitors face off in a series of games for the chance to win gold and amazing prizes. Of course, not everyone is there with the best of intentions. Can you prove yourself the lord of games and stop the evil machinations that are afoot? Step into a new Dungeoncraft adventure by the writer and artist team behind "Where Can She Be?" and "Ice, Ice, Birdie." This four-hour adventure is designed for levels 5-10 and uses an original Domain of Delight.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [15 Seconds to Curtain](https://www.dmsguild.com/product/407458/15-Seconds-to-Curtain-WBWDCNBDD02)
+
+**Informacje o przygodzie:**
+It's time to play the music, light the lights, and get things started in the latest Dungeoncraft adventure from the team behind "Where Can She Be?" and "Play the Game!" Step into a new Feywild domain, where a group of outcasts and oddballs need your help putting on a show! Explore Wosh-Teppum, meet its denizens, and maybe even find a new family among the lovers and dreamers. Check out "15 Seconds to Curtain" and see why the creators are calling it "the most obviously referential thing we've ever done" and "the reason I'll never be taken seriously as an adventure writer." A two-hour adventure for tier 1 characters, using the "Create a Domain of Delight" Dungeoncraft seed.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Where in the Worlds?](https://www.dmsguild.com/product/421708/Where-in-the-Worlds-SJDCNBDD01)
+
+**Informacje o przygodzie:**
+Carmille Santiago strikes again! The long-requested, long-awaited follow-up to the award-winning Where Can She Be? is here. Carmille Santiago has stolen a spelljamming ship and escaped into Wildspace - now it's up to you to track her down! Explore Wildspace, discover new and classic systems, and collect the clues to see where Carmille's next heist has taken her. Danger awaits in the depths of space, but if you can put the pieces together, you can still save the day. A four-hour Dungeoncraft adventure for levels 5-10.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Hillsfar's Rancid Webs](https://www.dmsguild.com/product/282851/CCCQCC201901-Hillsfars-Rancid-Webs)
+
+**Informacje o przygodzie:**
+A suspicious murder leads the heroes into an old section of Hillsfar's sewers, where the local fey are stirring up trouble for the surface dwellers. A 2-4 hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Flight of the Forgemage](https://www.dmsguild.com/product/299975/CCCRCC0101-Flight-of-the-Forgemage)
+
+**Informacje o przygodzie:**
+Thorin Ironcap has journeyed from his home in Mithral Hall to the Moonsea in search of his missing brother, Thoradin, who was exiled from Mithral Hall for blacksmithing experiments deemed â€śtoo riskyâ€ť. Rumors exist that he is in Melvaunt, and that he had been using the forges in the city before disappearing recently. Thorin needs adventurers to find Thoradin before his experiments cost his brother his lifeâ€¦or worse! A 2-hour standalone adventure for 1st-4th level characters
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The King of Thar](https://www.dmsguild.com/product/299976/CCCRCC0102-The-King-of-Thar)
+
+**Informacje o przygodzie:**
+Rumors have surfaced of the return of Vorbyx, legendary King of Thar. The characters are hired to travel from Melvaunt deep into the humanoid-infested wastelands of Thar to ascertain the validity of the rumors and deal with the threat. A 2-hour standalone adventure for 1st-4th level characters
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Chains of Desperation](https://www.dmsguild.com/product/299977/CCCRCC0103-Chains-of-Desperation)
+
+**Informacje o przygodzie:**
+An injured scout comes to you after her companions are captured near the Moonsea's eastern coast. Can you save her friends before they disappear forever, or will you find yourself captives instead? A 2-hour standalone adventure for 1st-4th level characters
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Black Bliss](https://www.dmsguild.com/product/299978/CCCRCC0104-Black-Bliss)
+
+**Informacje o przygodzie:**
+On the streets of Mulmaster, a highly addictive elixir called Black Bliss offers hours of relaxation and euphoria for those seeking respite from the dreary, difficult life many struggle to maintain. If left unchecked, it is only a matter of time before its widespread use starts to affect the economic and social structure within the City of Danger. But what exactly is the substance, and where did it come from? A 2-hour standalone adventure for 11th-16th level characters
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Handfasting](https://www.dmsguild.com/product/299979/CCCRCC0106-The-Handfasting)
+
+**Informacje o przygodzie:**
+Enjoy a day at the faire and a chance to earn some easy coin in the process! A wealthy merchant wants to hire security for his daughter's extravagant handfasting ceremony. It sounds like simple work, but why would a merchant hire seasoned adventures as wedding security? Perhaps the groom has some skeletons in his closet? A 4-hour standalone adventure for 11th-16th level characters
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Exploratory Arts](https://www.dmsguild.com/product/312289/CCCYLRASDCC011-Exploratory-Arts)
+
+**Informacje o przygodzie:**
+Anticipation is running high for the Ylraphon Convocation of Delvers, Seekers, and Sages, and every adventurer worth their salt is flocking to Ylraphon to take part. The festival promises tests of skill, renowned guest lecturers, an extensive Mercantile Exhibition, and many more attractions. But within this celebration of the exploratory arts lurks an uninvited guest of honorâ€”danger! A four-hour adventure for Tier 1 characters.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [No Good Deed](https://www.dmsguild.com/product/312294/CCCYLRASDCC012-No-Good-Deed)
+
+**Informacje o przygodzie:**
+The Ylraphon Convocation of Delvers, Seekers, and Sages is in full swing, and its Mercantile Exhibition is packed with festival-goers. But not all of them are here for bargains, as the characters soon discover, and good deeds may not be enough to bring peace to Ylraphon. A four-hour adventure for Tier 1 characters.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Cast In Shadow](https://www.dmsguild.com/product/312295/CCCYLRASDCC013-Cast-In-Shadow)
+
+**Informacje o przygodzie:**
+The many disasters plaguing the first-ever Ylraphon Convocation of Delvers, Seekers, and Sages seem to be the work of someone or something in the Flooded Forest. To put a stop to the festival's troubles, the characters will brave the vast swamp and consult with the Wise Woman who lives thereâ€”and find themselves caught up in a sinister plot centuries in the making. A four-hour adventure for Tier 1 characters.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Rise of the Sea Dragon](https://www.dmsguild.com/product/284078/CCCTRI34-Rise-of-the-Sea-Dragon-Part-Three-of-the-Dead-Men-Series)
+
+**Informacje o przygodzie:**
+Old pirates tell an aged tale of a black dragon attacking merchant ships sailing the Moonsea. The beast was slain, or so they thought. Recently, merchant ships have been attacked, and they say the culprit was a black dragon. The beast may fly away with a few victims, but it leaves the rest to fend for themselves in the Moonsea. Could this be the same creature from before? Can the adventurers slay the dragon and bring peace to the waters of the Moonsea? This is a Tier 2 (APL 5) Adventurers League legal adventure set along the northern coast of the Moonsea.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Three Moles for Father Octavius](https://www.dmsguild.com/product/299061/CCCTTS1-Three-Moles-for-Father-Octavius)
+
+**Informacje o przygodzie:**
+An ancient kindness repaid, a disaster waiting to happen. Can a timely intervention save a befuddled old man and the forgotten cove he loves so dearly. Three Moles for Father Octavius is a two to four hour adventure for 3-7 characters of level 1-4, balanced for five 3rd level characters. The adventure is set on the Eastern shores of the Moonsea, North of Ironfang Keep in sight of the Suncatcher Mountain.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Defenders of Est'Ellma](https://www.dmsguild.com/product/309301/CCCWWC09-Defenders-of-EstEllma)
+
+**Informacje o przygodzie:**
+Humanoid refugees have struggled to make Est'ellma a haven for all races. Sudden disappearances have disturbed their sanctuary. Will you go to their aid? A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Brental's Roads Scholars](https://www.dmsguild.com/product/309308/CCCWWC10-Brentals-Roads-Scholars)
+
+**Informacje o przygodzie:**
+Brental's Caravan Company offers a training course for adventurers seeking the vaunted title Brental's Roads Scholar. Will you prove yourselves worthy? A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [TALES01-04 Jaunt to the Center of Faerun](https://www.dmsguild.com/product/284810/Jaunt-to-the-Center-of-Faerun)
+
+**Informacje o przygodzie:**
+A gnomish scientist working on rapid travel to the Underdark has disappeared after contacting some unknown civilization. How will you rescue this gnome before his new â€śfriendsâ€ť come crawling out of the Underdark? A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Oni of the Thousand Gates](https://www.dmsguild.com/product/474962/Oni-of-the-Thousand-Gates-FRDCONI01)
+
+**Informacje o przygodzie:**
+A Lord of Kozakura requests aid in dealing with a demon that has sworn vengeance upon his house. But there may be more to this tale than just an angry fiend. A Four Hour, Tier 2 Dungeoncraft Adventure set on the Kozakura Islands of Kara-Tur, optimized for APL 8
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Nowhere Fast](https://www.dmsguild.com/product/464022/Nowhere-Fast-PSDCHNL01)
+
+**Informacje o przygodzie:**
+The singer, Angel Aria, has been abducted! The party faces the daunting task of venturing into the Hive where they must confront an infernal street gang that holds the musician captive. A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3. A Dungeoncraft Planescape Adventure set in Sigil, the City of Doors.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Failing You](https://www.dmsguild.com/product/350135/DCPoAHAGSF4-Failing-You)
+
+**Informacje o przygodzie:**
+The Lottery result in Icewind Dale is as feared as it is considered sacred. While interference is heavily frowned upon, that does nothing to stop rumors of rigged results from spreading. To a local fisherman of Targos, the rumors are his only hope when his childhood love is chosen as that New Moon's sacrifice. Will the adventurers be able to prove the rumors are true? Or is this simply a desperate attempt to save his one true love? A Two to Three-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Judge and Jury](https://www.dmsguild.com/product/374070/DCPoAOGG02-Judge-and-Jury)
+
+**Informacje o przygodzie:**
+Town Speaker Nimsy Huddle knows Lonelywood better than anyone. So she knows its residents haven't quite been themselves since the rescue mission. Sure, those broken and battered adventurers brought the missing children back...but something followed them. Now she needs someone she can trust to find out exactly what is going on. A Two- to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Taming of the Chwinga](https://www.dmsguild.com/product/369375/DCPoA-ROBIN-011-The-Taming-of-the-Chwinga)
+
+**Informacje o przygodzie:**
+A merchant from a prominent family needs your help getting rid of his bad luck, and the cursed artifact that has caused it. Will you undo the curse in time for him to avoid his demise, and for you to catch a rare performance at the local theater? A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Departure from Fallen Stars](https://www.dmsguild.com/product/423342/SJDCDENH4-Departure-from-Fallen-Stars)
+
+**Informacje o przygodzie:**
+Many heroic souls are trapped as trophies within the Reef of Living Memory - an Astral Domain of Sekolah, sahuagin God of the Hunt. Before attempting their liberation, you must find a way to get to a place no one in their right mind would want to go. Into the Jaws of History Series: Part 1 of 3. A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Reef of Living Memory](https://www.dmsguild.com/product/423345/SJDCDENH5-The-Reef-of-Living-Memory)
+
+**Informacje o przygodzie:**
+Many heroic souls are trapped as trophies within the Reef of Living Memory - an Astral Domain of Sekolah, sahuagin God of the Hunt. With travel to the reef secured, all you need to do is get in, find the trapped souls of three heroes of the Saltmarsh Alliance, and get out. As easy as a walk on the beach. A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8. Into the Jaws of History Series: Part 2 of 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Sekolah's Ire](https://www.dmsguild.com/product/423346/SJDCDENH6-Sekolahs-Ire)
+
+**Informacje o przygodzie:**
+Many heroic souls are trapped as trophies within the Reef of Living Memory - an Astral Domain of Sekolah, sahuagin God of the Hunt. The souls of the heroes of the Saltmarsh Alliance have been retrieved but the incursion has not gone unnoticed. The Song of the Divine Hunt has been sung. Will you survive the trek back to Toril? A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8. Into the Jaws of History Series. Part 3 of 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Flummoxing Fire from Afar](https://www.dmsguild.com/product/424979/SJDCDENH7-Flummoxing-Fire-from-Afar)
+
+**Informacje o przygodzie:**
+A sightseeing pleasure cruise through Realmspace turns deadly as a mysterious, violet nimbus cling to objects and people. Ever expanding, soon the nimbus may even cover entire ships, outposts, or planets. A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Pesky Problems of Proprietors and Priests](https://www.dmsguild.com/product/430250/SJDCDENH8-Pesky-Problems-of-Proprietors-and-Priests)
+
+**Informacje o przygodzie:**
+The githyanki military base and waystation Port Gargalla has its share of soldiers, shoppes, and shrines. As with any growing city, the need for heroes persists for tasks big and small. What? Rats in the basement? No problem! A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Rock: Tales of the Beholder Corps](https://www.dmsguild.com/product/424363/SJDCAUG06-The-Rock-Tales-of-the-Beholder-Corps)
+
+**Informacje o przygodzie:**
+A four-hour adventure set in Realmspace! High above the surface of the planet Toril and past the asteroid cluster the Tears of Selune is a gathering place for the brave and adventurous. An unusual beholder tyrant ship appears at the Rock of Bral and heads straight to the off-limits private docks on the Underside. More than one beholder on the Rock of Bral? That can't be good for anyone. A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Save the Forest!](https://www.dmsguild.com/product/441754/SJDCDUCKSTTT01--Save-the-Forest)
+
+**Informacje o przygodzie:**
+A great threat is coming to the forests of Chult, prevent it to save the forest! CONTENT WARNING: Murder. A 4-hour adventure for tier 3 characters, optimized for APL 16.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Last Flight of the Orca](https://www.dmsguild.com/product/417640/Last-Flight-Of-The-Orca-SJDCDWR02)
+
+**Informacje o przygodzie:**
+You've been hired aboard a dohwar merchant ship as extra security for an upcoming conference. The last few days have been quiet, almost relaxing as the Uspo rockets across Wildspace, that is until the ship is ripped unceremoniously from spelljamming speed. What lies before you is the massive form of a derelict Whaleship, a long forgotten hulk drifting silently through parts unknown. The ship appears to be the source of an intense gravity well that is keeping your crew from escaping. What awaits our intrepid heroes onboard The Orca and will they return from the belly of the beast? A chilling Four Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Happy New Year!](https://www.dmsguild.com/product/421711/SJDC-Happy-New-Year)
+
+**Informacje o przygodzie:**
+Welcome, one and all, to the grandest event of the year! Join residents of the Rock of Bral and beyond in ushering in the new year with a festive celebration in the stars.  A Two-Hour Adventure for Tier 2 Characters. Optimized for APL 8
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Prismatic Invitation](https://www.dmsguild.com/product/412076/SJDCSYL01-Prismatic-Invitation)
+
+**Informacje o przygodzie:**
+â€śForgive this trespass upon your dream; My name is Qui'Indylin. I represent the scholars of Syl Cimura; a Sanctuary for Spellcraft and I come bearing invitation. We seek to unravel the mysteries that thread the Weave of Magic. Your endeavors are well-known to us, and we divine a promising and fruitful future, together. On the night of the next full moon, seek a glade in the heart of the Cormanthor Forest. If you pass the trials presented, you will be granted access to the greatest magical sanctuary throughout the known universe. Be welcomed, but be prepared.â€ť A Four Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Harengon Harana](https://www.dmsguild.com/product/379979/WBWDCDCAF02-Harengon-Harana)
+
+**Informacje o przygodzie:**
+A young harengon boy wants to use music to compete for the archfey's attention. But he needs the perfect guitar to do so. Can you help build the ultimate instrument? A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [A Nightmare of Dreams](https://www.dmsguild.com/product/408198/WBWDCDREA01-The-Nightmare-of-Dreams)
+
+**Informacje o przygodzie:**
+The characters are pulled into a Domain of Delight, and conscripted by a horseperson to save their master, the Archfey! This is meant to be a cute and non-serious game, and a homage to my plush horses, the Waffles.  A family-friendly game.  Waffle tokens are included! A four-hour game for Tier 2 characters.  Optimized for APL 7.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Tiddy Mun and the Stranger Stone](https://www.dmsguild.com/product/397975/WBWDCFEN01-Tiddy-Mun-and-the-Stranger-Stone)
+
+**Informacje o przygodzie:**
+Gnomish denizens of Berribury are terrorized by flooding. Their only hope is for adventurers to summon the archfey of their domain; Tiddy Mun, to take the waters away. A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [A Blight in Mordynia](https://www.dmsguild.com/product/408231/WBWDCMOR01-A-Blight-in-Mordynia)
+
+**Informacje o przygodzie:**
+The adventurers must rescue a kidnapped bard from a Feywild Domain. Can the party decipher the clues to track the bard and unravel the mysterious blight in Mordynia? A Blight in Mordynia is Adventurer League module set within the Feywild and is suitable for new players. Four Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Dark Miasma of the Mausoleum](https://www.dmsguild.com/product/408233/WBWDCMOR02-Dark-Miasma-of-the-Mausoleum)
+
+**Informacje o przygodzie:**
+Legends have circulated about a legendary Dark Mausoleum of the necromancer Nuldur. The Mausoleum has been lost to the sands of time. Clues of the location of the Mausoleum have surfaced and the adventurers are on a trail which leads into the Feywild. A Four-Hour Adventure for Tier 1 Characters. Optimized for APL 4.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Hope in Medusa's Eye](https://www.dmsguild.com/product/408193/WBWDCROG03-Hope-In-A-Medusas-Eye)
+
+**Informacje o przygodzie:**
+The adventurers have learned of a mysterious wagon that allows them access to a seemingly abandoned Feywild realm. As the moon sets in the darkened sky the adventurers can see a glow on the horizon. An investigation shows that valley has been cut off from the rest of the forest. The forest now overlooks a sea of clouds and twilight skies. As the party stare into the twilight, it becomes quickly apparent that the valley is shrinking, as the land slowly erodes into the sea of clouds. The adventures must race to prevent the land from being completely swallowed into the Feywild. A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 10.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Heartfire Lost](https://www.dmsguild.com/product/385353/WBWDCTHAL01-Heartfire-Lost)
+
+**Informacje o przygodzie:**
+In the undersea domain of Thalassia, your heart lights your way. Everyone has a flame, called heartfire, which represents their greatest desire literally burning in their chest. Now the archfey has lost her heartfire, and the domain lies in darkness. A tier 1 adventure, optimised for APL 3.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Bleeding Veil](https://www.dmsguild.com/product/387069/The-Bleeding-Veil-WBWDCANDL02)
+
+**Informacje o przygodzie:**
+The discovery of the thin veil between Amn and the fey domain of Andelein has demonstrated how fragile Amn's economy and food supply are against the whims of the archfey, Alindaya. Adventurers of your renown must go into the Feywild, figure out what is causing this thin veil, and bring stability to the lives of the citizens of Amn. Part two of the Thin Veil Series. A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [A Compendium of Curious Curiosities](https://www.dmsguild.com/product/387342/WBWDCPHP02-A-Compendium-of-Curious-Curiosities)
+
+**Informacje o przygodzie:**
+Murder! Daggerford is haunted by grisly murders as residents of this simple town are found dead and faceless. What horror awaits adventurers as they attempt to solve this mysterious crime? A 4-Hour Wild Beyond the Witchlight Dungeoncraft Adventure for Tier 2 Characters optimized for player level 8
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [Something Borrowed, Something Brewed](https://www.dmsguild.com/product/407708/WBWDCPHPHOE02-Something-Borrowed-Something-Brewed)
+
+**Informacje o przygodzie:**
+The dream-ghost of a murdered archfey enlists the help of adventurers in gathering three important components for a ritual to revive her â€” and, oh, they need to collect them by sunset before her domain, along with everyone trapped in it, collapses. Hop to it! A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
+
+### [If the Shoe Fits](https://www.dmsguild.com/product/406042/WBWDCPHPPHAN01-If-The-Shoe-Fits)
+
+**Informacje o przygodzie:**
+A prince. A ball. A magical shoe. Everything was supposed to work out fine...until more than one lady's foot fit the glass slipper. Part 1 of The Stories of Phantasia Duology. A 4-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+Przygoda dodana seryjnie jako "brak uwag"
