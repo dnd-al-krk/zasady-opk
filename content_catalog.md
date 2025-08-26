@@ -4074,7 +4074,8 @@ wagons is found abandoned, folks fear the worst. Brave heroes are needed to find
 become of the good Doctor and his troupe. Are you up for the challenge?
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+
+Story Award *I Got My Eye On You* powinien być interpretowany następująco: opcja traktowania gazera Irisa jako familiara jest dostępna dla postaci do momentu "śmierci" takiego familiara (czyli do momentu, gdy pierwszy raz spadnie do 0 HP lub w inny sposób jego ciało zostanie unicestwione). 
 
 ### [A Sanity Never Questioned](https://www.dmsguild.com/product/260385/CCCDES0102-A-Sanity-Never-Questioned?affiliate_id=925821)
 
@@ -7810,7 +7811,8 @@ Przygoda dodana seryjnie jako "brak uwag"
 Humanoid refugees have struggled to make Est'ellma a haven for all races. Sudden disappearances have disturbed their sanctuary. Will you go to their aid? A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 
 **Komentarz**
-Przygoda dodana seryjnie jako "brak uwag"
+
+Szybka i przyjemna przygoda (2 ACP na spokojnie do zrobienia w 2-2,5h, a da się i o wiele szybciej), z jednym zasadniczym problemem (najprawdopodobniej błąd w druku) - Barghest przewidziany w ostatnim encounterze ma wpisane w statblocku AC: 10 i HP: 16 niezależnie od poziomu trudności, co zasadniczo trywializuje cały encounter. Potwór normalnie ma 17 AC i 90 HP, co wydaje się być odpowiedniejsze dla poziomów trudności Average i wyżej, dla Weak lub Very Weak sugerowałbym indywidualnie dostosować encounter do siły party poprzez zmniejszenie nieco AC i HP (np. 14 AC i 60 HP) oraz zmniejszenie obrażeń z głównego ataku potwora z 2d8+4 na 2d4+4, 1d10+4 lub nawet 1d8+4 przy bardzo słabym party. Sugeruję również pominąć wskazaną w przygodzie strategię, według której Barghest powinien uciec przy pomocy zaklęcia Dimension Door z trudnej sytuacji, ponieważ jest to właściwie w 100% skuteczny sposób ucieczki przed graczami, przez co encounter znów straciłby sens.
 
 ### [Brental's Roads Scholars](https://www.dmsguild.com/product/309308/CCCWWC10-Brentals-Roads-Scholars)
 
