@@ -453,6 +453,7 @@
 | CCC-ROZK-0103                           | III            | 4h             | [Necromancer’s Ascent](#necromancers-ascent)                                                                  |
 | CCC-RPR-01                              | I              | 4h             | [Eyes of Blood](#eyes-of-blood)                                                                               |
 | CCC-RPSG-01                             | I              | 4h             | [Ooze There](#ooze-there)                                                                                     |
+| CCC-RPSG-02                             | II              | 2-4h             | [Ooze Next?](#ooze-next)                                                                                     |
 | CCC-RPSG-03                             | III            | 4-6h           | [Fenaria's Gambit](#fenarias-gambit)                                                                          |
 | CCC-RPSG-04                             | I              | 4h             | [The Waystop](#The-Waystop)                                                                                   |
 | CCC-SAC-01                              | III            | 4h             | [A Light in the Dark](#a-light-in-the-dark)                                                                   |
@@ -5438,6 +5439,19 @@ Characters (optimized for 3rd level).
 
 **Komentarz**
 Oryginalna magitka została zastąpiona Winged Boots. Zmiana nie jest retroaktywna i weszła w życie 09.07.2024.
+
+### [Ooze Next?](https://www.dmsguild.com/product/306869/CCCRPSG02-Ooze-Next?filters=45474)
+
+**Informacje o przygodzie**
+
+A sunken ruin deep beneath the bay of Mulmaster holds the key to unraveling the Cult of Glaugrax’s nefarious plans. Dare you brave danger and duplicity to plumb its depths?
+Part 2 of The Neverdusk Trilogy.
+
+A Two-to-Four Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+**Komentarz**
+
+Brak konieczności zmian, brak konieczności głosowania.
 
 ### [Fenaria's Gambit](https://www.dmsguild.com/product/334414/CCCRPSG03-Fenarias-Gambit?filters=45474)
 
