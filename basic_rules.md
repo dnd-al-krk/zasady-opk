@@ -440,6 +440,7 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 | Sword of Wounding | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_, a w wypadku longsworda lub greatsworda również bez cechy _finesse_. |
 | Vicious Weapon | Brak uwag |
 | Weapon of Warning | Brak uwag |
+| Vorpal Weapon | Możliwe przekucie na dowolną broń simple lub martial, bez cech thrown, ranged i special, a w wypadku longsworda lub greatsworda również bez cechy finesse. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
 
 [^1]: Po bardziej szczegółowe wyjaśnienia "savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
 
