@@ -6,11 +6,15 @@
 
 [2. Zasady wprowadzania zmian w Katalogu Przygód](#zasady-cc)
 
-[2.1 Przygoda CCC lub DC dopuszczona w rozgrywkach AL ale niedodana do katalogu OPK](#przygody-al-niedodane)
+[2.1 Dowolna przygoda dopuszczona w rozgrywkach AL używająca zasad DnD5e z roku 2024 lub w settingu niepołączonym z Faerunem](#przygody-al-2024)
 
-[2.2 Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL](#przygody-hc)
+[2.2 Dowolna przygoda dopuszczona w rozgrywkach AL przyznająca kopie permanentnych magicznych przedmiotów lub przedmioty nielegalne w OPK](#przygody-al-nielegalne-przedmioty)
 
-[2.3 Własne przygody i przygody spoza katalogu AL](#przygody-własne)
+[2.3 Przygoda CCC lub DC dopuszczona w rozgrywkach AL ale niedodana do katalogu OPK](#przygody-al-niedodane)
+
+[2.4 Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL](#przygody-hc)
+
+[2.5 Własne przygody i przygody spoza katalogu AL](#przygody-własne)
 
 [3. Zasady nadawania prefiksów przygodom spoza katalogu AL](#zasady-prefiksów)
 
@@ -40,6 +44,19 @@ W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za ka�
 ## Zasady wprowadzania zmian w Katalogu Przygód<a name="zasady-cc"></a>
 
 Mistrz Gry, który chce wprowadzić jakąś zmianę w Katalogu Przygód powinien poinformować o tym ogół DM-ów za pośrednictwem Discorda. Jeśli zmiana jest poważniejsza, (np. dodanie nowej przygody, zmiana nagród w przygodzie), po ewentualnej dyskusji powinien przeprowadzić głosowanie na kanale [#cc-zmiany](https://discord.com/channels/402539300824154112/1100009287331369011). Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK
+
+### Dowolna przygoda dopuszczona w rozgrywkach AL używająca zasad DnD5e z roku 2024 lub w settingu niepołączonym z Faerunem<a name="przygody-al-2024"></a>
+
+W OPK rozgrywamy tylko przygody oparte na zasadach DnD5e z Basic Rules, PHB, DMG i Monster Manual z roku 2014. Od 2024 roku zaczęły się pojawiać w AL przygody częściowo (np. nagrody, niektóre statblocki, niektóre zasady i nowe pojęcia) lub całkowicie oparte na zasadach DnD 5e z roku 2024. Ze względu na niekompatybilność tych dwóch rodzajów zasad, takie przygody nie są dopuszczone do rozgrywek OPK. DM, który chce dodać przygodę do katalogu przygód ma obowiązek sprawdzić, czy wszystkie zasady na których jest oparta pochodzą ze źródeł legalnych w OPK. Szczególną ostrożność należy zachować, jeśli przygoda została wydana w roku 2024 lub później. Jeśli przygoda zawiera zasady, przedmioty lub statblocki z zasad 2024, jest ona nielegalna w OPK. DM może ją zalegalizować odpowiednio poprawiając wszelkie niezgodności i przeprowadzając proces legalizacji tak jakby przygoda nie należała do przygód AL, opisany w [Własne przygody i przygody spoza katalogu AL.](#przygody-własne)
+
+Analogiczne zasady stosowane są do przygód osadzonych w settingach, które nie przewidują kontaktów ze światem Toril i konkretnie Faerunem (takich jak Eberron, Exandria czy Dragonlance). Nie wyklucza to prowadzenia przygód w settingach, które są rozłączne z Toril, ale należą do tego samego uniwersum (np. Spelljammer, Ravenloft w tym Barovia itp.).
+DM przed poprowadzeniem tej przygody ma obowiązek przygotować jej “lokalizację”  i przeprowadzić proces legalizacji tak jakby przygoda nie należała do przygód AL, opisany w [Własne przygody i przygody spoza katalogu AL.](#przygody-własne)
+
+### Dowolna przygoda dopuszczona w rozgrywkach AL przyznająca kopie permanentnych magicznych przedmiotów lub przedmioty nielegalne w OPK<a name="przygody-al-nielegalne-przedmioty"></a>
+
+W wyniku zmiany zasad przyznawania magicznych przedmiotów w AL z roku 2019, pojawiły się przygody, których treść sugeruje lub zaleca przyznanie każdemu członkowi drużyny kopii permanentnego magicznego przedmiotu będącego nagrodą w przygodzie. To nie jest zgodne z mechaniką przyznawania magitek w OPK. Podobnie, niektóre przygody dopuszczone do rozgrywek AL jako nagrody mają przedmioty, które niedopuszczone do rozgrywek OPK (lista legalnych źródeł i nielegalnych przedmiotów znajduje się na końcu Katalogu Przygód).
+
+Jeśli zachodzi taka sytuacja, przed poprowadzeniem przygody DM ma obowiązek dostosować nagrody za przygodę do standardów OPK za pomocą odpowiedniego głosowania i dopisać jego rezultaty jako komentarz do przygody w Katalogu Przygód. Wyjątkowo (po uprzednim głosowaniu, na potrzeby którego DM powinien dokładnie opisać głosowane przedmioty i uzasadnienie ich dopuszczenia) dopuszczalne są kopie przedmiotów rzadkości common jako nagrody dla całej drużyny, o ile jest to uzasadnione fabularnie.
 
 ### Przygoda CCC lub DC dopuszczona w rozgrywkach AL ale niedodana do katalogu OPK<a name="przygody-al-niedodane"></a>
 

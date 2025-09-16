@@ -76,7 +76,7 @@ OPK season 2 began on the 1st of August 2022. Whatever happened before is not re
 
 You need to create at least one character to play in OPK. You may have as many as you'd like, but you may only sign up with one to any particular game. If any part of the character creation process is unclear, we point you to the channel #tworzenie-postaci on the Discord.
 
-Each new character for OPK starts at 1st Level. If this is your first character for DnD 5th edition, we'd recommend using only races, classes, spells and feats in the Player's Handbook, as all of them are permitted to play. The races, classes, subclasses, spells and feats from the following sources can be used for character creation and development:
+Each new character for OPK starts at 1st Level. If this is your first character for DnD 5th edition (2014 rules, not 2024), we'd recommend using only races, classes, spells and feats in the Player's Handbook, as all of them are permitted to play. The races, classes, subclasses, spells and feats from the following sources can be used for character creation and development:
 
 - Player's Handbook (PHB)
 - Elemental Evil Player's Companion (EEPC)

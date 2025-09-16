@@ -286,7 +286,11 @@ Przygody z serii WBW-DC przewidują możliwość uzyskania przez postaci, poza s
 
 Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego momentu zaczęły cierpieć w kwestii nagród ze względu na restrykcje, jakie wprowadzili organizatorzy Adventurers League, efektywnie wymuszając oferowanie nagród o rzadkości niżej, niż sugeruje Tier.
 
-Jeżeli Przygoda o kodzie zaczynającym się od CCC nie zawiera jako nagrody magicznego permanentnego przedmiotu właściwego dla danego Szczebla (T1-uncommon, T2-rare, T3-very rare, T4-legendary), lub zawiera przedmiot nielegalny do użytku w OPK (lista tych przedmiotów znajduje się w Katalogu Przygód) DM może zastąpić nagrodę przewidzianą w przygodzie nagrodą o właściwej dla tego Szczbla rzadkości. DM powinien zadbać o tematyczny sens tej zamiany, może zaproponować odpowiedni przedmiot lub go wylosować, natomiast nie jest w żaden sposób ograniczony typem przedmiotu (chyba, że jest to niezbędne z przyczyn fabularnych). By podmiana mogła zostać dokonana, DM powinien przed poprowadzeniem sesji zgłosić taką potrzebę, uzyskać zgodę pozostałych DMów i postarać się o wpisanie tej zmiany do Katalogu Przygód, by ta zamiana obowiązywała DM-ów prowadzących tę przygodę w przyszłości.
+Ponadto, od pewnego momentu zasady przyznawania i posiadania przedmiotów magicznych w AL i OPK się znacząco rozeszły i niektóre przygody przyznają nagrody w ilości (lub jakości) nieprzewidzianej w zasadach OPK.
+
+Jeżeli  przygoda o kodzie zaczynającym się od CCC lub DC nie zawiera jako nagrody magicznego permanentnego przedmiotu właściwego dla danego Szczebla i zalegalizowanego do użytku w OPK (T1-uncommon, T2-rare, T3-very rare, T4-legendary), wtedy  DM może złożyć pod głosowanie wniosek o zastąpienie nagrody przewidzianej w przygodzie nagrodą o właściwej dla tego Szczebla rzadkości. Dodatkowo, jeśli przygoda zawiera przedmiot nielegalny do użytku w OPK (lista tych przedmiotów znajduje się w Katalogu Przygód) lub sugeruje, że DM powinien przyznać magiczne przedmioty każdej postaci w drużynie, przed poprowadzeniem przygody DM ma obowiązek dostosować nagrody za przygodę do standardów OPK za pomocą odpowiedniego głosowania (podmiany, redukcji liczby lub legalizacji nagrody).
+
+Szczegółowe zasady podmian i standardową ilość i rzadkość permanentnych przedmiotów w przygodach OPK reguluje odpowiedni rozdział Katalogu Przygód.
 
 ## 4. Śmierć postaci, odzyskiwanie ciał, wskrzeszenia oraz klątwy<a name="zaawansowane-smierc"></a>
 
