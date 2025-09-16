@@ -63,6 +63,8 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [6.2. Uprawnienia i przywileje Mistrza Gry](#zaawansowane-mg-perks)
 
+  [6.3. Rezerwacja salki w Rlyeh](#rezerwacja-rlyeh)
+
  [7. Reguły przejściowe: sezon 1 i początek sezonu 2](#zaawansowane-przejsciowe)
 
  [8. Changelog](#zaawansowane-changelog)
@@ -315,8 +317,6 @@ By zostać Mistrzem Gry, należy zgłosić taką chęć do innych Mistrzów Gry 
 
 Gdy przygoda będzie już ogłoszona, nowy DM powienien się zgłosić do koordynatora i modów naszej grupy discordowej, by uzyskać pełny dostęp do zasobów DMów.
 
-###
-
 ### 6.2. Uprawnienia i przywileje Mistrza Gry<a name="zaawansowane-mg-perks"></a>
 
 Poza możliwością prowadzenia sesji w OPK, Mistrz Gry ma dwa przywileje:
@@ -324,6 +324,34 @@ Poza możliwością prowadzenia sesji w OPK, Mistrz Gry ma dwa przywileje:
 - Po pierwsze, może zgłaszać propozycje zmian zasad OPK oraz zmian w Katalogu Przygód, jak również brać udział w dyskusjach i głosowaniach nad takimi głosowaniami.
 
 - Po drugie, może korzystać z Nagród Mistrzów Gry uzyskiwanych za prowadzenie. Część z nich ma na celu zrekompensowanie Mistrzom Gry tego, że prowadzą zamiast grać i pozwalają na przyznanie ich postaciom łupów z sesji na zasadach symulujących uczestniczenie w nich na zasadach takich jak gracze. Druga część to specjalne nagrody za misje DM oparte na prowadzeniu sesji w sposób, który przynosi najwięcej satysfakcji graczom (np. prowadzenie różnorodnych sesji, zachęcanie do gry nowych graczy, prowadzenie cykli fabularnych i regularność prowadzenia). Nagrody Mistrzów Gry są szczegółowo opisane w osobnym pliku.
+
+### 6.3. Rezerwacja salki w Rlyeh<a name="rezerwacja-rlyeh"></a>
+
+**Chcesz zarezerwować salkę pod sesję w ramach OPK?**
+
+Napisz na fanpage R'lyeh Cafe (fb/rlyehcafe) - jaki termin Cię interesuje i w jakich godzinach planujecie grać. To dla lokalu szczególnie ważne w weekendy, kiedy mają otwarte od rana i często działają na dwóch „zmianach” – porannej i popołudniowej dla salek RPG.
+
+Godziny otwarcia R’lyeh Cafe:
+
+poniedziałek: 17:00–23:00
+
+wtorek–piątek: 17:00–00:00
+
+sobota: 9:00–00:00
+
+niedziela: 9:00–23:00
+
+W środy, piątki i soboty jedna salka jest przeznaczona dla OPK i ma stałą rezerwację. Jeśli w te dni dana salka jest wolna (sprawdź to na portalu), prosimy napisz do R'lyeh, że ją zajmujesz i zaklep sobie stolik na portalu (stolik jest już stworzony, wystarczy tylko go zająć i dać nam znać).
+
+W każdy inny dzień (albo jeśli salka OPK jest już zajęta) po prostu napisz, że potrzebujesz stolik na konkretną datę i w wybranych godzinach. Obsługa z R'lyeh stara się odpisywać w ciągu 24h, ale pamiętaj, że nie zawsze siedzą na Facebooku – czasem też grają w RPG albo ogarniają jakieś rzeczy w lokalu.
+
+Tu znajdziesz wszystkie szczegóły dotyczące zasad rezerwacji:
+
+https://rlyehcafe.pl/rezerwacje/rezerwacje-salek-rpg/
+
+Przede wszystkim zapoznaj się z sugerowanymi kwotami, jakie gracze powinni wydać – to pomoże Ci dopasować godziny grania. Sprawdź też, jak działa rezerwacja salek w weekendy rano, bo tam znajdziesz dodatkowe informacje o śniadaniach.
+
+W salkach można grać wyłącznie w RPG. Jeśli jednak zmienicie plany i zamiast sesji wolicie rozegrać planszówkę, koniecznie poinformujcie R'lyeh. Zdarza się też, że klienci wpadają spontanicznie na RPG – wtedy starają się przenieść ich do wolnej salki, żeby mieli komfortowe warunki do gry. Sami wiecie jak ważne jest, żeby mieć spokój na sesji.
 
 ## 7. Reguły przejściowe: sezon 1 i początek sezonu 2.<a name="zaawansowane-przejsciowe"></a>
 
