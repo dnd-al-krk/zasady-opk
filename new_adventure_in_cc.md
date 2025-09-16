@@ -90,6 +90,8 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Chest of Preserving (Waterdeep: Dungeon of the Mad Mage)
 - Blast Scepter (Waterdeep: Dungeon of the Mad Mage)
 - Shield of the Uven Rune (Waterdeep: Dungeon of the Mad Mage)
+- Mask of the Beast (Tomb of Annihilation)
+- Knave's Eye Patch (Waterdeep: Dragon Heist)
 
 **Przedmioty magiczne jednorazowego użytku nie podlegają ograniczeniom źródeł, o ile nie zostały wprost umieszczone na liście przedmiotów zabronionych**
 
