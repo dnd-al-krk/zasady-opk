@@ -44,9 +44,17 @@ If you have any questions or require any rules clarified, we invite you to our D
 
   [3.3. Special rules for magic items](#zaawansowane-magitki)
 
-  [3.4. Swapping and adding items to adventures](#zaawansowane-podmiany-przedmiotow)
+  [3.4. Blessings and Epic Boons](#blessings)
+  
+  [3.5. Pact Gifts](#pact-gifts)
+  
+  [3.6. Familiar options](#opcje-familiarow)
+
+  [3.7. Swapping and adding items to adventures](#zaawansowane-podmiany-przedmiotow)
 
  [4. Character death, recovering bodies and resurrection](#zaawansowane-smierc)
+
+  [4.1.  The Curse of Lycanthropy](#klatwa-likantropii)
 
  [5. Character development between adventures](#zaawansowane-miedzy-przygodami)
 
@@ -55,6 +63,8 @@ If you have any questions or require any rules clarified, we invite you to our D
   [6.1. How to become a Dungeon Master?](#zaawansowane-jak-zostac-mg)
 
   [6.2. Rights and privileges of a Dungeon Master](#zaawansowane-mg-perks)
+
+  [6.3. Reservations at Rlyeh](#rezerwacja-rlyeh)
 
  [7. Transition rules: season 1 and beginning of season 2](#zaawansowane-przejsciowe)
 
@@ -239,8 +249,6 @@ A 6-player party (Cleric, Wizard, Sorcerer, Fighter, Druid and Rogue) just finis
 
 On the same adventure, the party found a magic Heavy Armor. The Fighter was the only one who wished to keep it, so they did. A spell scroll of Bless was found as well. Both Wizard and Cleric were interested, but the Cleric had priority because Bless appears on the Cleric's spell list but not on the Wizard's. 
 
-###
-
 ### 3.3. Special rules for magic items<a name="zaawansowane-magitki"></a>
 
 If a magic item is destroyed (e.g. a Gem of Brightness ceases to be magical after expending all charges) it ceases to count against the number of permanent magic items. However, if destroying a magic item is possible, but requires casting spells between adventures (like a Wand of Magic Missile), it is not possible to destroy it like that. With explicit DM permission, they may allow doing it before an adventure (often, like in the case of the Wand of Magic Missile, it would be required to spend DT equal to the number of rolls made to destroy the item).
@@ -249,7 +257,36 @@ Each player character has a limit to how many magic items they can attune to. Th
 
 Items that give permanent bonuses (e.g. Tome of Understanding, Manual of Golems) can only be used once. Additionally, items that give permanent benefits count against the number of permanent matgic items, even if using them destroys the item. Such benefit can be discarded (unless it conflicts with other mechanical aspects of the character, like a multiclass made possible by boosting the ability score), the item then creases to count against the number of permanent magic items. Such discarded benefit cannot be regained.
 
-### 3.4. Swapping and adding items to adventures<a name="zaawansowane-podmiany-przedmiotow"></a>
+A comprehensive list of magical items permitted in OPK (i.e., no magical item outside of this list is legal in OPK) can be found [here](new_adventure_in_cc.md).
+
+### 3.4. Blessings and Epic Boons<a name="blessings"></a>
+
+Adventures may reward characters participating in them with one of the Blessings or Epic Boons described in Chapter 7, section “Other Rewards” in the Dungeon Master's Guide (2014). Due to the specific nature of this reward, it is governed by the following special rules:
+
+1. Each Blessing and Epic Boon obtained should be treated as a magic item for the purposes of calculating the number of magic items a character possesses.
+
+2. For the purposes of adding adventures to the Adventure Catalog, Blessings are treated as very rare magical items, and Epic Gifts as legendary magical items.
+
+3. When awarding a Blessing or Epic Gift, the rules specified in the adventure apply, with the proviso that if the adventure provides for the blessing to be assigned to only one character without specifying which one, the rules specified in the Advanced Rules - section 3.2. Assigning Items apply.
+
+4. A character may have more than one Blessing, but only one of the Blessings, chosen by the player before the session begins, has a mechanical effect during the adventure.
+   
+5. A character may have more than one Epic Gift, but only one of the Epic Gifts, chosen by the player before the session begins, has a mechanical effect during the adventure. Furthermore, gifts are subject to the rules in the DMG (2014) and only take effect once the character reaches level 20.
+
+6. Both Epic Gifts and Blessings can be discarded between sessions so that they no longer count towards the total number of magical items possessed by the character. An Epic Gift/Blessing discarded in this way is permanently lost by the character (unless they obtain a new instance of it in a separate adventure). 
+
+### 3.5. Pact Gifts<a name="pact-gifts"></a>
+
+#### Przygody WBW-DC
+Adventures from the WBW-DC series provide characters with the opportunity to obtain powerful boons, bonuses, or magical items in addition to standard rewards. Rewards provided by the adventure as part of the so-called “Pact gifts” (in particular magical items) cannot go beyond the scope of the adventure in which they are described. For example, if the adventure provides for the creation of a pact at the beginning, characters can enter into it and enjoy its benefits until the end of the adventure, but they cannot keep the gifts they receive (including magical items). All other changes in the allocation of magical items and rewards are subject to the general rules.
+  
+### 3.6. Familiar options<a name="opcje-familiarow"></a>
+
+If there is a possibility of gaining an additional option to summon a familiar with the Find Familiar spell, which allows you to summon a familiar with a stat block different from the stat blocks of the creatures listed in the spell, the DM is required to submit an entry to the CC describing the familiar's abilities for a vote. Without such an entry, this option is not available.
+
+If a familiar obtained in an adventure is significantly more powerful mechanically than the familiars available in the spell, we suggest that this familiar option be available to the character until the familiar “dies” (i.e., until it first drops to 0 HP or its body is otherwise destroyed).
+
+### 3.7. Swapping and adding items to adventures<a name="zaawansowane-podmiany-przedmiotow"></a>
 
 Some CCC adventures (written by independent authors) suffer from inadequate rewards due to restrictions imposed by Adventurer's League organizers, effectively forcing them to offer rewards of a rarity lower than the norm for the tier.
 
@@ -262,6 +299,11 @@ To increase the enjoyment of players, we introduced a way to resurrect a charact
 If the same adventure the character died in is played again, their body can be retrieved. To do so, the party that takes part in the adventure must successfully finish it (complete the adventure's main goal). If they fail, the character is permanently dead and can no longer participate in OPK games. If they succeed, the character is in the same state they would be if their body was retrieved during their adventure. There is no restrictions on the DM and players participating in such adventure, but the attempt can be made only once.
 
 Remember, a dead character's resources including equipment (with the exception of elements required for a resurrection) are unavailable until the character is alive again.
+
+## 4.1. The Curse of Lycanthropy<a name="klatwa-likantropii"></a>
+
+A character affected by the lycanthropy curse cannot begin an adventure in OPK games. During the adventure in which such a curse was acquired, or between adventures, a Remove Curse spell must be cast on the character under the influence of such a curse, either by another player character or by paying for the spellcasting service.
+
 
 ## 5. Character development between adventures<a name="zaawansowane-miedzy-przygodami"></a>
 
@@ -277,8 +319,6 @@ To become a Dungeon Master, you should announce that intention to other Dungeon 
 
 If the game is announced, a new DM should reach out to the coordinators and moderators of our Discord Server to access our full DM resources.
 
-###
-
 ### 6.2. Rights and privileges of a Dungeon Master<a name="zaawansowane-mg-perks"></a>
 
 Aside from running OPK games, the Dungeon Master has two privileges:
@@ -286,6 +326,34 @@ Aside from running OPK games, the Dungeon Master has two privileges:
 - They may propose changes to the OPK rules and changes to Katalog Przygód, as well as participate in discussion and voting on such changes.
 
 - They may receive Dungeon Master's Rewards, gained through running games. Some of them aim to compensate the DMs for running games over playing in them and allow their characters to receive rewards, similar to what they would gain if they played a regular OPK game. There are also special DM awards that are rewards for running games in a satisfying manner (variety of games, encouraging new players, games connected by a story arc, running games consistently). Dungeon Master's Rewards are contained in a separate file.
+
+### 6.3. Reservations at Rlyeh<a name="rezerwacja-rlyeh"></a>
+
+**Would you like to reserve a room for an OPK session?**
+
+Write to the R'lyeh Cafe fan page (fb/rlyehcafe) - what date are you interested in and what times are you planning to play? This is particularly important for the venue on weekends, when they are open from the morning and often operate two “shifts” - morning and afternoon for RPG rooms.
+
+R'lyeh Cafe opening hours:
+
+Monday: 5:00 p.m.–11:00 p.m.
+
+Tuesday–Friday: 5:00 p.m.–12:00 a.m.
+
+Saturday: 9:00 a.m.–12:00 a.m.
+
+Sunday: 9:00 a.m.–11:00 p.m.
+
+On Wednesdays, Fridays, and Saturdays, one room is reserved for OPK and has a standing reservation. If the room is available on those days (check the portal), please write to R'lyeh to let us know that you are taking it and reserve a table on the portal (the table has already been created, you just need to take it and let us know).
+
+On any other day (or if the OPK room is already occupied), simply write that you need a table for a specific date and time. The staff at R'lyeh try to respond within 24 hours, but keep in mind that they are not always on Facebook – sometimes they are playing RPGs or taking care of things at the venue.
+
+Here you will find all the details regarding the booking rules:
+
+https://rlyehcafe.pl/rezerwacje/rezerwacje-salek-rpg/
+
+First of all, familiarize yourself with the suggested amounts that players should spend – this will help you adjust your playing hours. Also, check how room reservations work on weekend mornings, as you will find additional information about breakfasts there.
+
+Only RPGs can be played in the rooms. However, if you change your plans and prefer to play a board game instead of an RPG session, be sure to inform R'lyeh. Sometimes, customers spontaneously decide to play an RPG – in such cases, the staff tries to move them to a free room so that they have comfortable conditions for playing. You know how important it is to have peace and quiet during a session.
 
 ## 7. Transition rules: season 1 and beginning of season 2<a name="zaawansowane-przejsciowe"></a>
 

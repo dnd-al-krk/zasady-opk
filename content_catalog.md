@@ -865,7 +865,9 @@ Five years ago, a hermitage devoted to the contemplation of nature was establish
 
 **Komentarz**
 Aby wyrównać ilość złota do znalezienia w przygodzie do poziomu typowego dla OPK należy zmniejszyć nagrodę w ostatnim encounterze o połowę, co daje całkowitą kwotę 3975gp - przy 4 graczach 165gp/os/h (poniżej wartości w tabelce). Przygoda zawiera dużą ilość permanentych przedmiotów magicznych. Powinny one zostać używalne na czas przygody, jednak na zakończenie gracze mogą zachować jedynie Ring of Free Action.
-W trakcie przygody można otrzymać specjalnego chowańca - Hawk z 9 Int. Powinno być to traktowane jako story award, który może otrzymać jedna z postaci. Jeśli więcej niż jedna spełnia warunki otrzymania tej nagrody, DM powinien to rozstrzygnąć losowo. 
+W trakcie przygody można otrzymać specjalnego chowańca - Hawk z 9 Int. Powinno być to traktowane jako story award, który może otrzymać jedna z postaci. Jeśli więcej niż jedna spełnia warunki otrzymania tej nagrody, DM powinien to rozstrzygnąć losowo.
+Familiar zdobyty w tej przygodzie może być przyzywany przez postać, która go pozyskała, bez ograniczeń częstości przyzywania, według reguł opisanych w przygodzie.
+
 
 
 ### [Defiance in Phlan](https://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e&affiliate_id=925821)
@@ -1684,7 +1686,7 @@ pleasant tea in her garden, SEER calls upon you to beat him there and put a stop
 A Four-Hour Adventure for 11th – 16th level Characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Familiar zdobyty w tej przygodzie może być przyzywany przez postać, która go pozyskała, bez ograniczeń częstości przyzywania, według reguł opisanych w przygodzie.
 
 ### [Durlag’s Tomb](https://www.dmsguild.com/product/199491/DDAL0509-Durlags-Tomb-5e&affiliate_id=925821)
 
@@ -4542,7 +4544,7 @@ belong to that cat. Who’s a pretty human?
 A Two-Hour to Four-Hour Adventure for Tier 1 Characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Familiar zdobyty w tej przygodzie może być przyzywany przez postać, która go pozyskała, bez ograniczeń częstości przyzywania, według reguł opisanych w przygodzie.
 
 ### [The Hunt for Cutter Jack](https://www.dmsguild.com/product/260878/CCCGHCBK108-The-Hunt-for-Cutter-Jack?term=CCC-GHC-BK1&test_epoch=0)
 
