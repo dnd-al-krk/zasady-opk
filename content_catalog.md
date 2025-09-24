@@ -455,7 +455,7 @@
 | CCC-RPSG-01                             | I              | 4h             | [Ooze There](#ooze-there)                                                                                     |
 | CCC-RPSG-02                             | II              | 2-4h             | [Ooze Next?](#ooze-next)                                                                                     |
 | CCC-RPSG-03                             | III            | 4-6h           | [Fenaria's Gambit](#fenarias-gambit)                                                                          |
-| CCC-RPSG-04                             | I              | 4h             | [The Waystop](#The-Waystop)                                                                                   |
+| CCC-RPSG-04                             | I              | 2h             | [The Waystop](#The-Waystop)                                                                                   |
 | CCC-SAC-01                              | III            | 4h             | [A Light in the Dark](#a-light-in-the-dark)                                                                   |
 | CCC-SAC-02                              | III            | 4h             | [Fun with Fey](#fun-with-fey)                                                                                 |
 | CCC-SALT-01-01                          | I              | 2h             | [Rumors of Riches](#rumors-of-riches)                                                                         |
