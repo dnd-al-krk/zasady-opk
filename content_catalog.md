@@ -2692,6 +2692,14 @@ The search for a missing young woman kicks off a treacherous journey on the Sea 
 **Komentarz**
 Uwaga: warto się zastanowić co zrobić kiedy postać wypadnie za burtę podczas sztormu (skutek uboczny zdania whelma Water Elementala). Niezalecane prowadzenie trylogii, kolejna przygoda (Blood in the Water) jest tragicznie napisana.
 
+Przygoda daje możliwość jednej postaci, która potrafi rzucać Find Familiar i traktowała z szacunkiem Mipika (według oceny DMa) zdobycia Nagrody Fabularnej (Story Award) o treści:
+We've got Efreeti at Home
+You showed respect to the "mighty Efreeti" Mipik. You may claim this magma mephit as a familiar provided that you continue to show him respect. Mipik claims he is an Efreeti trapped in a body of a magma mephit. Mipik truly believes what he’s saying. For such a tiny creature, Mipik is quite grandiose, and takes an immediate liking to anyone who offers him praise and flattery.  You gain a new form to choose from when you cast your Find Familiar spell -  Magma Mephit -  Mipik is summoned in this way and its creature type is elemental. 
+
+However, allowing Mipik to die is considered disrespectful. Whenever Mipik "dies" serving you as a familiar (namely, goes down to 0 HP or his body is destroyed by any other means) , he (and any other Magma Mephit) can no longer be summoned as a familiar from this Story Award.
+
+Additional clarification: If Mipik concentrates on a spell (such as Heat Metal) and is sent to a pocket dimension (as per the text of Find Familiar), his concentration is broken immediately.
+
 ### [Blood in the Water](https://www.dmsguild.com/product/282024/DDALDRW02-Blood-in-the-Water)
 
 **Informacje o przygodzie**
