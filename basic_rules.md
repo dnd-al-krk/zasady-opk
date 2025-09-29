@@ -132,8 +132,6 @@ Liczbę początkowych HP (Hit Points, Punkty Wytrzymałości) obliczamy zgodnie 
 
 ### 1.3. Charakter (alignment), pochodzenie (background) i religia<a name="background"></a>
 
-###
-
 Charakter (alignment) postaci nie może być Neutralny Zły ani Chaotyczny Zły (Neutral Evil/Chaotic Evil). Jeśli kiedykolwiek taki się stanie, postać staje się niegrywalna i nie jest możliwe używanie jej w OPK.
 
 Od rozegrania pierwszej przygody Szczebla 2 (T2), oficjalne imię postaci nie może się zmienić (ze względów organizacyjnych). Poza tym, gracz ma niemal pełną swobodę w kontrolowaniu niemechanicznych aspektów swojej postaci, czyli opisie jej historii, religii, cech charakterystycznych, wyglądu, wieku itp. (o ile to nie jest sprzeczne z innymi regułami i nie jest nastawione wbrew przyjemności z gry pozostałych graczy). Dla dobra klimatu zabawy, prosimy jednak o zachowanie w tym zdrowego rozsądku oraz przynajmniej minimum spójności i zgodności ze światem Faerunu (a przynajmniej z klimatem pseudopóźnośredniowiecznego heroic fantasy z zaawansowaną magią i jawnymi ingerencjami istot nadprzyrodzonych, w tym bóstw)[^1].

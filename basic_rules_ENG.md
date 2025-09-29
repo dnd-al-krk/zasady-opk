@@ -66,6 +66,8 @@ If you have any questions or require any rules clarified, we invite you to our D
 
 [6. Weapon reforging list](#tabela-bronie)
 
+[7. Other items available for purchase](#tabela-inne)
+
 ### I. Basic Rules<a name="zasady-podstawowe"></a>
 
 OPK season 2 began on the 1st of August 2022. Whatever happened before is not relevant to games played in the 2nd season (most importantly, characters who played in OPK games before season 2 began are not permitted to play).
@@ -94,13 +96,14 @@ Each new character for OPK starts at 1st Level. If this is your first character 
 - One Grung Above
 - The Lunar Sorcerer subclass from Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
 - The Path of the Giant subclass and feats from Bigby Presents: Glory of the Giants (BP:GotG)
+- feats from Planescape: Adventures in the Multiverse (PS:AitM) (the Scion of the Outer Planes feat campaign restriction does not apply)
 
 The following character options are **NOT** allowed:
 
 - Custom Lineage (TCoE)
 - Changeling race (MP:MotM)
 - Shifter race (MP:MotM)
-- backgrounds from BP:GotG
+- backgrounds from BP:GotG and PS:AitM
 
 Some races appear in more than one version in the sources above (e.g. simultaneously in VGtM/MToF and MP:MotM). In such cases, the player may choose which version to use.
 
@@ -129,8 +132,6 @@ After assigning ability scores you add your racial ability score bonuses, determ
 Your starting Hit Points are determined by your class. When your character gains levels, they gain the average amount of Hit Points for the class they gained a level in. Rolling is not permitted.
 
 ### 1.3. Alignment, background and religion<a name="background"></a>
-
-###
 
 Your character's alignment cannot be Neutral Evil or Chaotic Evil. If it ever becomes that, the character becomes unplayable and cannot be used for OPK games.
 
@@ -230,11 +231,23 @@ The DM decides on the amount of gold the characters receive, in line with the Ad
 
 ### 3.2. Material rewards - magic and non-magic items<a name="magitki"></a>
 
-The rewards for an adventure can include one or more magic items. Their distribution between characters is decided by the DM according to the rules described in detail in part III of the Advanced Rules. The general rule is that the characters who can use the item have priority. Additionally, in case of permanent (not single use) magic items of uncommon or higher rarity, the characters who possess less permanent magic items have priority, regardless of whether the items were taken on the adventure (it is therefore important to remember how many magic items of uncommon or higher rarity a character has - the DM may need this information).
+The reward in an adventure is often one or more magical items. In OPK, magical items are divided into:
 
-Attention! Permanent magic items (except those that can, according to DnD rules, lose their powers (staves, wands, consumables and charged items)) cannot simply be removed from a character's possesion. There is no way to permanently destroy them, dispose of them, sell them or get rid of them in any way (therefore reducing the character's permanent magic item count), unless the adventure explicitly allows such removal. The only option is to trade (or reforge, in case of weapons) the magic item for a different one, which is described in chapter 4 of Basic Rules.
+a) Single-use or disposable items (commonly referred to as consumables, although this term sometimes causes confusion, so it will not be used in the rules from now on). Such items include items that lose their magical properties forever after a single use (potions, scrolls, some tattoos, elemental gems, etc.), magical ammunition (regardless of the amount specified in the adventure), i.e., bolts, arrows, and bullets for firearms, as well as smokepowder, and special items with a limited number of uses, specific to particular AL storylines (i.e., seasons), which must always be voted on before being added to the list of single-use items (the current list includes: Soul Coin, Balloon Pack, Wingwear).
 
-Common magic items, non-magic items (if the adventure allows for keeping them, rather than selling) and consumables (e.g. potions, scrolls) do not count towards a character's permanent magic item count. When distributing them, the permanent magic item count is not taken into consideration.
+b) Permanent items: all items that are not single-use. Please note that items with a finite number of uses greater than 1 (e.g., Keoghtom's Ointment, Gem of Brightness, Ring of Three Wishes) are permanent items for the purposes of this classification.
+
+In addition, items can be classified according to rarity (common, uncommon, rare, very rare, legendary) in accordance with the general rules of DnD 5e. 
+
+These classifications are primarily relevant when assigning magic items as rewards after a session (see below) and when exchanging magic items [(see Section 4.3 of the Basic Rules, first 2 points – only permanent items can be exchanged).](#downtime)
+
+The distribution of magical items as rewards for adventures among player characters is managed by the Game Master, following the rules described in detail in chapter [3.2 Advanced Rules](advanced_rules.md#zaawansowane-przydzielanie-przedmiotow). From the player's perspective, it is enough to know that characters who can use a given item have priority in obtaining it, and secondly, in the case of permanent magical items of at least uncommon rarity, characters who have fewer such items have priority in receiving them, regardless of whether those items were taken on the adventure or not.
+
+Therefore, keep in mind the number of permanent magical items of at least uncommon rarity assigned to the character participating in the adventure and provide this information upon request by the Game Master. According to the detailed arrangements, this number does not include a maximum of one of the following items: magical, generic +1 weapon; Wraps of Unarmed Prowess; Insignia of Claws, Uncommon.
+
+We emphasize that common magical items (common rarity), single-use magical items, and non-magical items (if the adventure allows for them to be kept instead of sold) do not count towards the number of permanent magical items, and their possession is not relevant when assigning them as material rewards.
+
+Note: Magical items, except for those that can lose their power according to DnD rules (e.g., staves, wands, single-use items, and items with a limited number of charges), cannot simply be removed from a character's inventory. It is impossible to permanently destroy, discard, sell for money, or otherwise dispose of them, reducing the number of permanent magic items owned, unless the adventure explicitly provides for such removal. The only acceptable option is to exchange them (or, in the case of weapons, reforge them) for other magical items in the manner described in [Chapter 4.4 of the Basic Rules.](#przekuwanie-broni)
 
 ### 3.3. Story Awards<a name="story-awards"></a>
 
@@ -285,9 +298,7 @@ The characters can only exchange items of the same rarity (e.g. an uncommon item
 
 All trades should be recorded on the Discord channel #bazar.
 
-**2. Exchange permanent magic items with magic items for trade:**
-
-Magic items can be exchanged with the infamous fence S. Wawelski from the "Dragon's Cave" pawn shop. Such exchange does not require permission from other players and it allows for exchanging higher-rarity items with lower-rarity ones (e.g. rare to uncommon), but the list of available items is shorter, and the prices may be higher. The prices, list of items and limitations of exchange can be found in Table 5, part II of these rules. Magic items exchanged in the pawn shop disappear into the dragon's treasure hoard and cannot be retrieved.
+**2. Exchange permanent magic items with magic items for trade:** Permanent magic items can also be exchanged with the famous fence S. Wawelski at the “Dragon's Lair” pawn shop. Such exchanges do not require the consent of other players, and it is also possible to exchange a higher rarity item for a lower rarity item (e.g., rare for uncommon), but the list of items that can be obtained is significantly shorter, and in some cases, the cost is higher. Specific prices, a list of items that can be obtained in exchange, and restrictions on such exchanges can be found in [Table 5 of Part II of these rules](#tabela-lombard). Items given to the pawnshop as part of an exchange disappear into the dragon's treasury and will never be recovered.
 
 **3. Level boosting:** At levels 4, 10, and 16 a character may spend downtime to advance one level to a higher Tier of play. The cost is 25, 75 and 150 DT.
 
@@ -414,9 +425,11 @@ Magic items that are exchanged during that trade must be permanent and 'fully ch
 
 |                                                                                                                               | Price                                                                                            | Additional restrictions                |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
-| Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanent, fully charged magic item of uncommon or higher rarity + 15 DT          |                                           |
-|     Weapon +2 (any)                                                                                                       | Permanent, fully charged magic item of rare or higher rarity + 2 000 gp + 30 DT      |     Character level - at least 5th        |
-|     Weapon +3 (any)                                                                                                       | Permanent, fully charged magic item of very rare or higher rarity + 5 000 gp + 45 DT |     Character level - at least 11th       |
+| Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws, Uncommon<br />Wraps of Unarmed Prowess, Uncommon<br />Ring of Swimming<br />Saddle of the Cavalier | Permanent, fully charged magic item of uncommon or higher rarity + 15 DT          |                                           |
+|     Weapon +2 (any)<br />Insignia of Claws, Rare*                                                                                                       | Permanent, fully charged magic item of rare or higher rarity + 2 000 gp + 30 DT      |     Character level - at least 5th        |
+|     Weapon +3 (any)<br />Insignia of Claws, Very Rare*                                                                                                       | Permanent, fully charged magic item of very rare or higher rarity + 5 000 gp + 45 DT |     Character level - at least 11th       |
+
+*Rarer variants of the Insignia of Claws item provide a higher bonus to hit and damage: Rare - +2, Very Rare - +3. Otherwise, the item's properties are identical to the Uncommon variant.
 
 ## 6. Weapon reforging list<a name="tabela-bronie"></a>
 
@@ -424,12 +437,35 @@ All weapons in the table abide by the restrictions in [chapter 4.4](#przekuwanie
 
 | Weapon name | Additional notes and restrictions |
 | --- | --- |
-| Weapon +1/+2/+3 | Exception 1: Each weapon can be reforged into a +1/+2/+3 weapon (abiding by general restrictions) losing all magic properties and replacing them with a bonus to hit and damage.<br /> Exception 2: Weapon reforged to +1/+2/+3 can gain the _finesse_ property. |
+| Weapon +1/+2/+3 | Any weapon can be reforged into a +1/+2/+3 weapon (subject to general restrictions) by losing all magical properties of the original weapon and replacing them with an appropriate bonus to hit and damage. <br /> Weapons reforged into +1/+2/+3 weapons can gain the finesse trait. <br /> Wraps of Unarmed Prowess items of Uncommon rarity and Insignia of Claws count as Simple weapons for the purposes of reforging into +1/+2/+3 weapons.  |
 | Flame Tongue | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. The resulting weapon cannot qualify for use with the Polearm Master feat (so it cannot be a glaive, halberd, pike or quarterstaff).|
 | Javelin of Lightning | Can be reforged into any _simple_, _thrown_ weapon. |
 | Moon-Touched Sword | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. |
 | Sword of Wounding | Can be reforged into any simple or martial weapon without _thrown_ i _ranged_ properties, in case of a longsword or greatsword also without the _finesse_ property. |
 | Vicious Weapon | - |
 | Weapon of Warning | - |
+| Vorpal Weapon | Can be reforged into any simple or martial weapon, without the thrown, ranged, or special traits, and in the case of a longsword or greatsword, also without the finesse trait. The target weapon cannot qualify for use with the Polearm Master feat (i.e., it cannot be a glaive, halberd, pike, or quarterstaff).|
 
 [^1]: For additional explanation of the "savoir vivre" of non-mechanical character and backtstory adjustments, have a look at chapter 1.3 of Advanced Rules (or better yet, discuss it with your fellow DMs and players).
+
+# 7. Other items available for purchase<a name="tabela-inne"></a>
+
+### Firearms:
+
+Characters from Tier 2 and above have the option to purchase Renaissance firearms, as described in Chapter 9 of the DMG:
+
+|        | Price  | Damage        | Weight | Properties                                     |
+|--------|--------|---------------|--------|------------------------------------------------|
+| Pistol | 250 gp | 1d10 piercing |  3 lb. |        Ammunition (range 30/90), loading       |
+| Musket | 500 gp | 1d12 piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
+
+### Ammunition:
+
+|              | Price | Weight |
+|:------------:|:-----:|:------:|
+| Bullets (10) |  3 gp |  2 lb. |
+
+Ammunition for firearms consists of projectiles that are destroyed upon impact. Proficiency with firearms requires an ability that specifies this type of weapon by name in its description, such as the Gunner feat or the Artificer class. For purposes other than determining proficiency, such weapons are treated as martial weapons.
+If a reward or rule allows you to obtain a weapon, e.g., a magical one, paying the above cost in gold allows you to obtain the firearm version, provided it meets all the restrictions of such a rule or reward. Such magical weapons cannot be exchanged with Tier 1 characters.
+
+**Example:** If we exchange an item for a +1 weapon according to the rule described in [Chapter 4.3 of the basic rules](#downtime), after paying an additional 500 gp, a musket is a legal choice for this weapon.

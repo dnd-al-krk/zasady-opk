@@ -49,11 +49,13 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [3.5. Pakty z Feywildu (Pact Gifts)](#pact-gifts)
 
-  [3.6. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
+  [3.6. Opcje familiarów](#opcje-familiarow)
+
+  [3.7. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
 
  [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
-  [4.1. Klątwa likantropii](#41-klątwa-likantropii)
+  [4.1. Klątwa likantropii](#klatwa-likantropii)
 
  [5. Rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
 
@@ -282,7 +284,13 @@ Przygody mogą przewidywać nagrodzenie postaci w nich uczestniczących jednym z
 #### Przygody WBW-DC
 Przygody z serii WBW-DC przewidują możliwość uzyskania przez postaci, poza standardowymi nagrodami, potężnych boon-ów, bonusów, czy magicznych przedmiotów. Nagrody przewidziane przez przygodę w ramach tzw "Pact giftów" (w szczególności magiczne przedmioty) nie mogą wykraczać poza ramy przygody w której są opisane. np. Jeśli przygoda przewiduje powstanie paktu na jej początku to postaci mogą go zawrzeć i korzystać z jego benefitów aż do zakończenia przygody, ale otrzymanych darów (w tym magicznych przedmiotów) nie mogą zatrzymać. Wszelkie pozostałe zmiany w przydzielaniu magicznych przedmiotów i nagród podlegają zasadom ogólnym.
 
-### 3.6. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
+### 3.6. Opcje familiarów<a name="opcje-familiarow"></a>
+
+Jeśli na przygodzie istnieje możliwość zdobycia dodatkowej opcji przyzwania do zaklęcia Find Familiar, która pozwala na przyzwanie familiara o statblocku różnym od statblocków istot wypisanych w treści zaklęcia, to DM ma obowiązek przedstawić do głosowania wpis do CC opisujący działanie tego familiara. Bez takiego wpisu, opcja ta nie jest dostępna.
+
+Jeśli familiar otrzymany w przygodzie jest znacząco mechanicznie silniejszy od familiarów dostępnych w treści zaklęcia, sugerujemy, by taka opcja familiara była dostępna dla postaci do momentu "śmierci" takiego familiara (czyli do momentu, gdy pierwszy raz spadnie do 0 HP lub w inny sposób jego ciało zostanie unicestwione).
+
+### 3.7. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
 Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego momentu zaczęły cierpieć w kwestii nagród ze względu na restrykcje, jakie wprowadzili organizatorzy Adventurers League, efektywnie wymuszając oferowanie nagród o rzadkości niżej, niż sugeruje Tier.
 
@@ -303,7 +311,7 @@ Jednocześnie, jeśli skorzystanie z takiej zasady lub Nagrody Fabuły wymaga wy
 
 Przypominamy, że zasoby postaci martwej, w tym jej ekwipunek (z wyjątkiem elementów potrzebnych do wskrzeszenia), są niedostępne dopóki postać nie będzie żywa.
 
-### 4.1. Klątwa likantropii
+### 4.1. Klątwa likantropii<a name="klatwa-likantropii"></a>
 
 Postać poddana działaniu klątwy likantropii nie może rozpocząć przygody w rozgrywkach OPK. Na przygodzie, w której taka klątwa została nabyta, lub pomiędzy przygodami na postać pod działaniem takiej klątwy musi zostać rzucone zaklęcie Remove Curse, czy to z ręki innej postaci gracza, czy to w wyniku opłacenia usługi rzucania zaklęć.
 
