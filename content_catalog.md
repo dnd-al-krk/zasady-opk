@@ -2947,7 +2947,7 @@ the aid of a dragon, or go deep within the Flooded Forest to uncover the Cult of
 The choices are yours to make!
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Jako nagroda dla graczy w miejsce Hat of Disguise należy umieścić Glamoured Studded Leather.
 
 ### [TALES01-01 What Lies Beneath](https://www.dmsguild.com/product/257958/CCCALMOG01-TALES0101-What-Lies-Beneath?affiliate_id=925821)
 
