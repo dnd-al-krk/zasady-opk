@@ -7819,7 +7819,7 @@ Przygoda dodana seryjnie jako "brak uwag"
 Old pirates tell an aged tale of a black dragon attacking merchant ships sailing the Moonsea. The beast was slain, or so they thought. Recently, merchant ships have been attacked, and they say the culprit was a black dragon. The beast may fly away with a few victims, but it leaves the rest to fend for themselves in the Moonsea. Could this be the same creature from before? Can the adventurers slay the dragon and bring peace to the waters of the Moonsea? This is a Tier 2 (APL 5) Adventurers League legal adventure set along the northern coast of the Moonsea.
 
 **Komentarz**
-Przygoda dodana seryjnie jako "brak uwag"
+Jako nagroda dla graczy w miejsce Weapon of Warning (Trident) należy umieścić Knave's Eye Patch.
 
 ### [Three Moles for Father Octavius](https://www.dmsguild.com/product/299061/CCCTTS1-Three-Moles-for-Father-Octavius)
 
