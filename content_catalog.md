@@ -728,7 +728,7 @@ Among the jovial festivities, a sinister mystery waits to be unwrapped.
 A two-hour holiday adventure for 1st – 4th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Dodatkowa opcja familiara (złoty pseudosmok - celestial) zdobyty w tej przygodzie może być przyzywany przez postać, której udało się go przyzwać w trakcie samej przygody (1 próba na postać), bez ograniczeń częstości przyzywania. W celu otrzymania powyższej dodatkowej opcji do zaklęcia find familiar postać musi przyzwać pseudosmoka w trakcie przygody Winter's Splendor, żeby ten zaakceptował postać - warunkami udanego przyzwania jest użycie w trakcie tej przygody zaklęcia Find Familiar na postaci z good alignmentem połączone z udanym Charisma (Performance) check o DC wpisanym w nagrodzie A Gift of Golden Wings. Każda postać spełniająca warunki może podjąć jedną próbę przyzwania smoka.
 
 ### [Lost Laboratory of Kwalish](https://www.dmsguild.com/product/258047/Lost-Laboratory-of-Kwalish-5e?affiliate_id=925821)
 
