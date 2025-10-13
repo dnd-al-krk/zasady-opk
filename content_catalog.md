@@ -375,6 +375,7 @@
 | CCC-GOC-0103                            | II             | 3-4h           | [Winds of Rot](#winds-of-rot)                                                                                 |
 | CCC-GSP01-01                            | I              | 4h             | [A Dragon's Breath](#a-dragons-breath)                                                                        |
 | CCC-GSP01-02                            | I              | 2-4h           | [Brotherhood](#Brotherhood)                                                                                   |
+| CCC-GSP04-01                            | I              | 2h           | [Devil King Highschool, Year One](#devil-king-highschool-year-one)                                                                                   |
 | CCC-GSP-PHIL-01-03                      | I              | 2-4h           | [The Whispering Shadows of the Eldest Ruins](#the-whispering-shadows-of-the-eldest-ruins)                     |
 | CCC-HAL-01                              | I              | 4h             | [Fate of the Nightworms](#fate-of-the-nightworms)                                                             |
 | CCC-HAL-02                              | II             | 4h             | [Six Striking Swords](#six-striking-swords)                                                                   |
@@ -4691,6 +4692,17 @@ A Four-Hour Adventure for Level 1-4 Characters. Optimized for Average Party Leve
 
 **Komentarz**
 Brak magitki uncommon w przygodzie- na drodze głosowania przyjęto magitkę: Eldrich claw tattoo + fluff dodany ze story award.
+
+### [Devil King Highschool, Year One](https://www.dmsguild.com/en/product/336048/ccc-gsp04-01-devil-king-high-school-year-one)
+
+**Informacje o przygodzie**
+The Devil King School of Higher Learning is looking for new students this school year. Those who accept the school’s invitation will be sent to Minauros, the third layer of the Nine Hells. Will the adventu—I mean students—survive the tests given to them by their devilish professors? Part One of I Got Accepted as a Student in the Nine Hells and Now I'm at the Top of the Class series.
+
+A Two-Hour Adventure for Level 1-4 Characters. Optimized for Average Party Level 3.
+
+**Komentarz**
+Przygoda przewiduje przydzielenie każdej uczestniczącej postaci magicznego przedmiotu rzadkości uncommon (fluffowane Bag of Holding). Zgodnie z regułami OPK, taki przedmiot może otrzymać najwyżej jedna postać w drużynie i tej zasady należy przestrzegać.  Natomiast każdej postaci z drużyny, zgodnie z zapisami przygody, można przydzielić przedmiot common (fluffowane Clothes of Mending).
+
 
 ### [Fate of the Nightworms](https://www.dmsguild.com/product/258088/CCCHAL01-Fate-of-the-Nightworms?affiliate_id=925821)
 
