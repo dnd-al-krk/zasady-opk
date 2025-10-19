@@ -540,6 +540,7 @@
 | CCC-TTS-1                               | I              | 2-4h           | [Three Moles for Father Octavius](#three-moles-for-father-octavius)                                           |
 | CCC-UCON-01                             | III            | 4h             | [Blood & Fog](#blood--fog)                                                                                    |
 | CCC-UCON02-01                           | I              | 2-4h           | [The Goat Mayor](#The-Goat-Mayor)                                                                             |
+| CCC-UCON03                           | I              | 2-4h           | [The Straw Bears](#The-straw-bears)                                                                             |
 | CCC-UK-1                                | I              | 4h             | [Call of the Elvenflow](#call-of-the-elvenflow)                                                               |
 | CCC-UK-2                                | I              | 4h             | [The Wayward Wives](#the-wayward-wives)                                                                       |
 | CCC-UNITE-AN-04                         | I              | 2-4h           | [Sisterhood of the Blade](#sisterhood-of-the-blade)                                                           |
@@ -7615,6 +7616,18 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 **Informacje o przygodzie:**
 You visit the peculiar village of Basht expecting a pleasant evening filled with good food and drink, and a chance to learn their strange customs and superstitions. Your evening is interrupted when you are asked to rescue their mayor. Their mayor? A goat that lives in the center of town. Why is he so vital, and why is this a job for adventurers?
+
+A Two to Four-Hour Adventure for Tier 1 Characters.
+
+Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Straw Bears](https://www.dmsguild.com/pl/product/341504/ccc-ucon03-the-straw-bears)
+
+**Informacje o przygodzie:**
+You return to the peculiar village of Basht for one of their unusual festivals: the procession of the Straw Bears. While there, you meet some old friends and are asked to escort the brave villagers into the woods to continue the party into the night. It should be perfectly safe, shouldn’t it?
 
 A Two to Four-Hour Adventure for Tier 1 Characters.
 
