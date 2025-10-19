@@ -212,6 +212,10 @@
 | DDAL-DRW14                              | III            | 4h             | [The City That Should Not Be](#the-city-that-should-not-be)                                                   |
 | DDAL-DRW15                              | III            | 4h             | [Frozen Whispers](#frozen-whispers)                                                                           |
 | DDAL-DRW16                              | III            | 4h             | [Uprising](#uprising)                                                                                         |
+| DDAL-DRW19                              | IV             | 4h             | [Fall the Cold Night](#fall-the-cold-night)
+                          |
+| DDAL-DRW-EP03                           | II/III         | 4h             | [When the Lights Went Out in Candlekeep](#when-the-lights-went-out-in-candlekeep)
+                          |
 | CCC - Community-Created Content         |
 | CCC-3MAGS-01                            | I              | 7h             | [Vormestrand’s Scroll](#vormestrands-scroll)                                                                  |
 | CCC-AETHER-02-03                        | I              | 2-4h           | [One Step Ahead](#one-step-ahead)                                                                             |
@@ -2884,6 +2888,36 @@ here.
 Part Three of the The Cold Dark series of adventures.
 A four hour adventure for 11th through 16th level characters.
 Optimized for: APL 13
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Fall the Cold Night](https://www.dmsguild.com/en/product/402519/ddal-drw-19-fall-the-cold-night)
+
+**Informacje o przygodzie**
+In trying to undo the characters’ sabotage, the Red Wizards have ripped wide the portal to the Far Realm. Father Llymic’s brood swarms forth and the Elder Evil hears their call.
+
+Part One of the Frozen Worlds series of adventures.
+
+A four hour adventure for 17th through 20th level characters.
+
+Optimized for: APL 18
+
+Content Warnings: Far Realm effects, body horror (transformation), mind and body control, possible character retirement, decapitation, possible phobia trigger (worms), mentions slavery.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [When the Lights Went Out in Candlekeep](https://www.dmsguild.com/en/product/378931/ddal-drw-ep-03-when-the-lights-went-out-in-candlekeep)
+
+**Informacje o przygodzie**
+Darkness has fallen on Candlekeep. Just as the Great Library is about to shed light on the last pieces of Szass Tam’s plan, another enemy seeks to prevent kindling that knowledge.
+
+A four hour adventure for 5th through 16th level characcters.
+
+Optimized for: APL 8 (Tier 2) and APL 13 (Tier 3)
+
+CONTENT WARNINGS: mental health (anxiety, “madness”)
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
