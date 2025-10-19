@@ -212,6 +212,8 @@
 | DDAL-DRW14                              | III            | 4h             | [The City That Should Not Be](#the-city-that-should-not-be)                                                   |
 | DDAL-DRW15                              | III            | 4h             | [Frozen Whispers](#frozen-whispers)                                                                           |
 | DDAL-DRW16                              | III            | 4h             | [Uprising](#uprising)                                                                                         |
+| DDAL-DRW19                              | IV             | 4h             | [Fall the Cold Night](#fall-the-cold-night)                                                                   |
+| DDAL-DRW-EP03                           | II/III         | 4h             | [When the Lights Went Out in Candlekeep](#when-the-lights-went-out-in-candlekeep)                             |   
 | CCC - Community-Created Content         |
 | CCC-3MAGS-01                            | I              | 7h             | [Vormestrand’s Scroll](#vormestrands-scroll)                                                                  |
 | CCC-AETHER-02-03                        | I              | 2-4h           | [One Step Ahead](#one-step-ahead)                                                                             |
@@ -2887,6 +2889,48 @@ Optimized for: APL 13
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Fall the Cold Night](https://www.dmsguild.com/en/product/402519/ddal-drw-19-fall-the-cold-night)
+
+**Informacje o przygodzie**
+In trying to undo the characters’ sabotage, the Red Wizards have ripped wide the portal to the Far Realm. Father Llymic’s brood swarms forth and the Elder Evil hears their call.
+
+Part One of the Frozen Worlds series of adventures.
+
+A four hour adventure for 17th through 20th level characters.
+
+Optimized for: APL 18
+
+Content Warnings: Far Realm effects, body horror (transformation), mind and body control, possible character retirement, decapitation, possible phobia trigger (worms), mentions slavery.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [When the Lights Went Out in Candlekeep](https://www.dmsguild.com/en/product/378931/ddal-drw-ep-03-when-the-lights-went-out-in-candlekeep)
+
+**Informacje o przygodzie**
+Darkness has fallen on Candlekeep. Just as the Great Library is about to shed light on the last pieces of Szass Tam’s plan, another enemy seeks to prevent kindling that knowledge.
+
+A four hour adventure for 5th through 16th level characcters.
+
+Optimized for: APL 8 (Tier 2) and APL 13 (Tier 3)
+
+CONTENT WARNINGS: mental health (anxiety, “madness”)
+
+**Komentarz**
+** Kilka (niezobowiązujących) uwag dot. prowadzenia wynikających z poprowadzonych sesji 0:**
+**Obie ścieżki:**
+1. Epik ma bardzo niewiele interakcji między stolikami. Sugerowane jest żeby oba stoliki mogły się dzielić punktami "Friends of Candlekeep" (jest ich względnie niewiele, więc jeśli jedna ścieżka ma problemy, to druga może jej pomóc). 
+2. Sugerowane jest pozbycie się opcji long resta z nagród.
+3. Przygoda nie mówi nic o czasie pomiędzy poszczególnymi sekcjami. Sugerowane jest danie party 10 min na potencjalne przygotowania. Nie wystarczy to na normalnego short resta (który jest do kupienia za punkty), ale może pozwolić na odpoczynek z catnapa.
+4. W obu ścieżkach możliwe jest pozwolenie drużynom na wybór 2 z 3 sekcji. W ramach tych trzech sekcji znajduje się opcja czysto rolplejowa, która jest dość słabo napisana i mało angażująca. Sugerowane jest usunięcie tej sekcji (i prowadzenie dwóch pozostałych, bez dawania graczom wyboru). 
+   
+**Ścieżka T3:**
+1. Pierwszy encounter może być bardzo trudny albo bardzo łatwy w zależności od kompozycji party. Przeciwnicy nie mają legendary resistance (więc potencjalnie można zakończyć walkę jednym banishmentem), ale zadają bardzo solidny damage i mają dużo hp. W przypadku dobrze zbalansowanego party warto rozważyć dodanie legendarek. W przypadku słabego- zmniejszenie hp przeciwników.
+2. Dodatkowo podczas tego encountera party może pomagać ogr, który ma bardzo niski potencjał pomocowy (niskie HP, niemagiczna broń przeciwko przeciwnikom z resistem na takową). Sugerowane jest jasne zakomunikowanie party, że lepiej ewakuować go z pola bitwy.
+3. Drugi (a zarazem ostatni) encounter jest z kolei niezwykle słaby. Sugerowane jest dostosowanie go, np. poprzez dodanie smoka (takiego jak w pierwszym encounterze, ew. ze zmniejszonymi HPkami), na którym główny boss mógłby jechać. Jak długo się na tym smoku znajduje, obrażenia są dzielone na nich dwóch. Można też walkę zacząć od silniejszej formy bossa (pozwalając mu, potencjalnie, na zdjęcie buffów z drużyny).
+4. Dodatkowo cały encounter jest trywializowany darmowymi mind blankami, które party może otrzymać zaraz przed walką (tyczy się to też ostatniej walki na t2). Sugerowane jest ograniczenie tychże, np. do jednego mind blanka na **oba stoliki** (albo usunięcie tej opcji zupełnie- i bez tego encounter potrzebuje wzmocnienia.
+5. Sekcja detektywistyczna ma kilka dziur logicznych- sugerowane jest dokładne jej przeczytanie przed prowadzeniem.
 
 ### [Vormestrand’s Scroll](https://www.dmsguild.com/product/260364/CCC3MAGSONE-Vormestrands-Scroll?affiliate_id=925821)
 
