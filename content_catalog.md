@@ -2920,7 +2920,19 @@ Optimized for: APL 8 (Tier 2) and APL 13 (Tier 3)
 CONTENT WARNINGS: mental health (anxiety, “madness”)
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+** Kilka (niezobowiązujących) uwag dot. prowadzenia wynikających z poprowadzonych sesji 0:**
+**Obie ścieżki:**
+1. Epik ma bardzo niewiele interakcji między stolikami. Sugerowane jest żeby oba stoliki mogły się dzielić punktami "Friends of Candlekeep" (jest ich względnie niewiele, więc jeśli jedna ścieżka ma problemy, to druga może jej pomóc). 
+2. Sugerowane jest pozbycie się opcji long resta z nagród.
+3. Przygoda nie mówi nic o czasie pomiędzy poszczególnymi sekcjami. Sugerowane jest danie party 10 min na potencjalne przygotowania. Nie wystarczy to na normalnego short resta (który jest do kupienia za punkty), ale może pozwolić na odpoczynek z catnapa.
+4. W obu ścieżkach możliwe jest pozwolenie drużynom na wybór 2 z 3 sekcji. W ramach tych trzech sekcji znajduje się opcja czysto rolplejowa, która jest dość słabo napisana i mało angażująca. Sugerowane jest usunięcie tej sekcji (i prowadzenie dwóch pozostałych, bez dawania graczom wyboru). 
+   
+**Ścieżka T3:**
+1. Pierwszy encounter może być bardzo trudny albo bardzo łatwy w zależności od kompozycji party. Przeciwnicy nie mają legendary resistance (więc potencjalnie można zakończyć walkę jednym banishmentem), ale zadają bardzo solidny damage i mają dużo hp. W przypadku dobrze zbalansowanego party warto rozważyć dodanie legendarek. W przypadku słabego- zmniejszenie hp przeciwników.
+2. Dodatkowo podczas tego encountera party może pomagać ogr, który ma bardzo niski potencjał pomocowy (niskie HP, niemagiczna broń przeciwko przeciwnikom z resistem na takową). Sugerowane jest jasne zakomunikowanie party, że lepiej ewakuować go z pola bitwy.
+3. Drugi (a zarazem ostatni) encounter jest z kolei niezwykle słaby. Sugerowane jest dostosowanie go, np. poprzez dodanie smoka (takiego jak w pierwszym encounterze, ew. ze zmniejszonymi HPkami), na którym główny boss mógłby jechać. Jak długo się na tym smoku znajduje, obrażenia są dzielone na nich dwóch. Można też walkę zacząć od silniejszej formy bossa (pozwalając mu, potencjalnie, na zdjęcie buffów z drużyny).
+4. Dodatkowo cały encounter jest trywializowany darmowymi mind blankami, które party może otrzymać zaraz przed walką (tyczy się to też ostatniej walki na t2). Sugerowane jest ograniczenie tychże, np. do jednego mind blanka na **oba stoliki** (albo usunięcie tej opcji zupełnie- i bez tego encounter potrzebuje wzmocnienia.
+5. Sekcja detektywistyczna ma kilka dziur logicznych- sugerowane jest dokładne jej przeczytanie przed prowadzeniem.
 
 ### [Vormestrand’s Scroll](https://www.dmsguild.com/product/260364/CCC3MAGSONE-Vormestrands-Scroll?affiliate_id=925821)
 
