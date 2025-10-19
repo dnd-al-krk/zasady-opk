@@ -212,8 +212,8 @@
 | DDAL-DRW14                              | III            | 4h             | [The City That Should Not Be](#the-city-that-should-not-be)                                                   |
 | DDAL-DRW15                              | III            | 4h             | [Frozen Whispers](#frozen-whispers)                                                                           |
 | DDAL-DRW16                              | III            | 4h             | [Uprising](#uprising)                                                                                         |
-| DDAL-DRW19                              | IV             | 4h             | [Fall the Cold Night](#fall-the-cold-night)
-| DDAL-DRW-EP03                           | II/III         | 4h             | [When the Lights Went Out in Candlekeep](#when-the-lights-went-out-in-candlekeep)
+| DDAL-DRW19                              | IV             | 4h             | [Fall the Cold Night](#fall-the-cold-night)                                                                   |
+| DDAL-DRW-EP03                           | II/III         | 4h             | [When the Lights Went Out in Candlekeep](#when-the-lights-went-out-in-candlekeep)                             |   
 | CCC - Community-Created Content         |
 | CCC-3MAGS-01                            | I              | 7h             | [Vormestrand’s Scroll](#vormestrands-scroll)                                                                  |
 | CCC-AETHER-02-03                        | I              | 2-4h           | [One Step Ahead](#one-step-ahead)                                                                             |
