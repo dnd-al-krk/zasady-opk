@@ -186,6 +186,8 @@ b) Half Rate: ACP, gold and DT earned from the adventure is halved (rounding dow
 
 c) Zero Rate: No ACP, gold and DT from the adventure. Cannot obtain permanent magic items.
 
+Please note! The intention of the above rule was to make it possible to complete the storyline with one character, which would be impossible under the standard rules due to promotion to a higher Level of play. Please do not abuse this option, especially for the purpose of “hunting for perfect magics” or keeping a character at one of the highest levels of a given Tier and showing off its power (which in the long run would reduce the enjoyment of the game for other participants).
+
 ### 2.6. Permanent effects resulting from spells cast before an adventure<a name="zaawansowane-johny-dispell"></a>
 
 Some spells cast on a session can have long-lasting consequences for the player character, potentially extending to future games. As written in Basic Rules: "Before the adventure starts, the player who wishes to use such effects should prepare a list of all continuous effects on the player character with all their variables (e.g. the trigger of Contingency spell, statblock and sourcebook of a bound creature, the effects of a Wish). The DM has the right to verify this list before adventure and disable such effects for the duration of the adventure they're running. Continuous effects not declared before adventure start cannot be used for that adventure. With the DM's permission, the character may cast a spell (like Find Familiar) before the adventure begins, keeping in mind the spell's cost."
@@ -214,7 +216,7 @@ Additionally, for every ACP a character earns they receive 2,5 DT.
 
 Gold is earned according to adventure's guidelines and divided evenly between players at the end of a game or adventure. This concerns adventures written in line with the rules of seasons 1-7.
 
-In case of adventures where gold and other treasures with gold value do not appear (like adventures written in line with the rules of season 8), the DM should place treasures in sensible locations, according to the table below. The given value is the average gold a character can earn for every hour of adventure game time. In other words, in a regular adventure, where the players fulfill their goals but did not go "above and beyond", they should receive compensation equal to the amount in the table, adjusted for tier and game time. For example, each character participating in a 4 hour tier 1 adventure should receive 160 GP (40 GP x 4 hours). If characters avoid or miss spots where the rewards could be found, or do not accomplish all their goals, the gold amount received can be reduced to a minimum of 20% of the average. If the characters accomplished much more than they were expected to, the gold reward can be raised, but the cap is 150% of the average.
+In case of adventures where gold and other treasures with gold value do not appear (like adventures written in line with the rules of season 8), the DM should place treasures in sensible locations, according to the table below. This also applies to adventures that describe gold rewards based on tables other than the one below (e.g., Season 10+). The given value is the average gold a character can earn for every hour of adventure game time. In other words, in a regular adventure, where the players fulfill their goals but did not go "above and beyond", they should receive compensation equal to the amount in the table, adjusted for tier and game time. For example, each character participating in a 4 hour tier 1 adventure should receive 160 GP (40 GP x 4 hours). If characters avoid or miss spots where the rewards could be found, or do not accomplish all their goals, the gold amount received can be reduced to a minimum of 20% of the average. If the characters accomplished much more than they were expected to, the gold reward can be raised, but the cap is 150% of the average.
 
 | Tier | Gold |
 | --- | --- |
@@ -256,6 +258,8 @@ If a magic item is destroyed (e.g. a Gem of Brightness ceases to be magical afte
 Each player character has a limit to how many magic items they can attune to. This limit is shared between all player-controlled characters. If a character's attunement limit is 3, it is not possible for the character to attune to 2 items, their familiar to attune to 1 and their mount to attune to 1 as well, as it would result in 4 attuned items.
 
 Items that give permanent bonuses (e.g. Tome of Understanding, Manual of Golems) can only be used once. Additionally, items that give permanent benefits count against the number of permanent matgic items, even if using them destroys the item. Such benefit can be discarded (unless it conflicts with other mechanical aspects of the character, like a multiclass made possible by boosting the ability score), the item then creases to count against the number of permanent magic items. Such discarded benefit cannot be regained.
+
+Ascendant items (Hoard Items from Fizban's Treasury of Dragons) are not subject to the degradation described in Fizban's Treasury of Dragons.
 
 A comprehensive list of magical items permitted in OPK (i.e., no magical item outside of this list is legal in OPK) can be found [here](new_adventure_in_cc.md).
 
