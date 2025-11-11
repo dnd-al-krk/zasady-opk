@@ -109,6 +109,7 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Shield of the Uven Rune (Waterdeep: Dungeon of the Mad Mage)
 - Mask of the Beast (Tomb of Annihilation)
 - Knave's Eye Patch (Waterdeep: Dragon Heist)
+- Kyrzin's Ooze (Eberron: Rising from the Last War) - black pudding powstający zgodnie z opisem działania przedmiotu jest wrogo nastawiony do wszystkich istot
 
 **Przedmioty magiczne jednorazowego użytku nie podlegają ograniczeniom źródeł, o ile nie zostały wprost umieszczone na liście przedmiotów zabronionych**
 
