@@ -601,8 +601,10 @@
 | FR-DC-VECNA-03                          | II             | 4h             | [Neverdeath Nights](#neverdeath-nights)                                                                       |
 | FR-DC-WATERDEEP-CHZ                     | I              | 2h             | [Sweet Dreams are Made of Cheese](#sweet-dreams-are-made-of-cheese)                                           |
 | FR-DC-WATERDEEP-TRZ                     | I              | 2h             | [Sweet Dreams are Made of Trees](#sweet-dreams-are-made-of-trees)                                             |
+| FR-DC-WATERDEEP-GSZ                     | I              | 2h             | [Sweet Dreams are Made of Geese](#sweet-dreams-are-made-of-geese)                                             |
 | PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
 | PO-BK-1-02                              | II             | 4-6h             | [Trust No One](#trust-no-one)                                                                         |
+| PO-BK-1-03                              | II             | 4-6h             | [Red Masks](#red-masks)                                                                         |
 | PS-DC-HNL-01                            | I              | 4h             | [Nowhere Fast](#nowhere-fast)                                                                                 |
 | PS-DC-HNL-02                            | I              | 4h             | [The Hungry Prince](#the-hungry-prince)                                                                       |
 | PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
@@ -6836,6 +6838,18 @@ A Four-Hour to Six-Hour Adventure for Characters of 5th – 10th Level
 **Komentarz**
 Złoto zgodnie z tabelką OPK
 
+### [Red Masks](https://www.dmsguild.com/pl/product/392803/po-bk-1-03-red-masks)
+
+**Informacje o przygodzie:**
+Having descended upon the Border Kingdoms, a merciless Thayan army marches toward the great port city of Derlusk. Unfortified, the city mobilizes its meagre forces in a desperate attempt to stall the invaders long enough for civilians to evacuate.
+
+Can a group of adventurers on a daring secret mission turn the tide of war?
+
+A Four-Hour to Six-Hour Adventure for Characters of 5th – 10th Level
+
+**Komentarz**
+Złoto zgodnie z tabelką OPK
+
 ### [Dohwar Heist](https://www.dmsguild.com/product/410906/Dohwar-Heist-SJDCDWR01)
 
 **Informacje o przygodzie:**
@@ -7053,6 +7067,17 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 **Informacje o przygodzie:**
 The relentless bustle of Waterdhavian trade screeches to a halt when letters and words disappear from scrolls and books. As illegible contracts in the City of Splendors kindle an outcry of dissolved deals, can anyone sort through the pulp to determine fact from fiction?
+
+A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Sweet Dreams are Made of Geese](https://www.drivethrurpg.com/en/product/481665/sweet-dreams-are-made-of-geese-fr-dc-waterdeep-gsz)
+
+**Informacje o przygodzie:**
+Waterdeep’s Fellowship of Bowyers and Fletchers is known for their exceptional arrows, crafted with locally-sourced feathers. But when Seelie Goose Farm is struck by fowl play, it is up to adventurers to go on a wild goose chase - even if they have to wing it! 
+A (Goosey) Waterdeep Escapade 
 
 A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
 
