@@ -21,6 +21,8 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [1.3. Flavor is free, ale…](#zaawansowane-flavor-ograniczenie)
 
+  [1.4. Nowa postać na poziomie 5](#nowa-postac-5-poziom)
+
  [2. Organizacja sesji](#zaawansowane-organizacja-sesji)
 
   [2.1. Jakie przygody są rozgrywane w ramach OPK?](#zaawansowane-jakie-przygody)
@@ -125,6 +127,19 @@ Przykłady niewłaściwego zastosowania zasady _Flavor is Free_:
 - To, że twoja tarcza jest bardzo mała, nie oznacza, że nagle możesz w ręce z tą tarczą trzymać broń, albo używać jej do ładowania hand crossbow lub rzucania zaklęć (bez szczególnych zasad kleryków/paladynów lub feata War Caster), względnie odrzucić ją bez poświęcania akcji. To, że twój goliat jest bardzo wysoki, nie oznacza, że może atakować inne istoty mieczem na zasięg 10 stóp, jeśli się odpowiednio nachyli. To, że twój rapier jest fluffowany jako wałek (nawet jeśli DM na to pozwoli) nie oznacza, że nagle typ zadawanych przez tę broń obrażeń zmienia się na bludgeoning. To, że DM się zgodził, żeby twój familiar miał statblock sowy, ale wyglądał mniej więcej jak gołąb, nie oznacza, że na pewno pozwoli, by familiar wmieszał się perfekcyjnie między miejskie gołębie i w ten sposób śledził podejrzanego NPCa. To, że druid opisze właśnie kupiony half-plate jako zrobiony z drewna, skór i magicznej energii, nie sprawi, że half-plate przestanie być metalowy. Podsumowując – wszelkie zmiany czysto opisowe jakie gracz wprowadza na swojej postaci nie będą mu dawać korzyści mechanicznych.
 
 W razie wątpliwości, warto zawsze skonsultować swoje pomysły ,,dosmaczania'' postaci ze współgraczami i Mistrzem Gry tak, by znaleźć satysfakcjonujące wszystkich rozwiązanie.
+
+### 1.4. Nowa postać na poziomie 5<a name="nowa-postac-5-poziom"></a>
+
+W wyjątkowych sytuacjach (wymagania szczegółowo opisane poniżej) gracz OPK może zacząć grę nową postacią od poziomu 5 (czyli od razu grać przygody Szczebla 2). W tym celu powinien stworzyć postać na poziomie 1 według pozostałych zasad OPK, a następnie przydzielić jej dodatkowo 16 ACP, 40 DT (dni wolnych) i 640 sztuk złota (gp). Można też przydzielić takiej postaci jeden przedmiot rzadkości uncommon z listy magicznych przedmiotów na wymianę (czyli z pierwszej kolumny Tabeli 5 Zasad Podstawowych).
+
+By skorzystać z tej możliwości, gracz musi spełnić następujące warunki:
+
+a) Zagrał już na Szczeblu (Tier) 2 co najmniej jedną przygodę inną postacią.
+
+b) Nie ma żadnej innej postaci, którą mógłby zagrać przygodę na Szczeblu 2. 
+
+Wszystkie postaci tego gracza znajdujące się na Szczeblu 2 w momencie zagrania pierwszej przygody postacią zbudowaną w sposób opisany w tym podrozdziale są uznawane za permanentnie martwe i niemożliwe do przywrócenia do rozgrywek OPK.
+
 
 ## 2. Organizacja sesji<a name="zaawansowane-organizacja-sesji"></a>
 
