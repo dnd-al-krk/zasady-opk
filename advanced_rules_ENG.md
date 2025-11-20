@@ -20,6 +20,8 @@ If you have any questions or require any rules clarified, we invite you to our D
 
   [1.3. Flavor is free, but…](#zaawansowane-flavor-ograniczenie)
 
+  [1.4. New character on 5th level](#nowa-postac-5-poziom)
+
  [2. Organizing a game](#zaawansowane-organizacja-sesji)
 
   [2.1. Which adventures can be played in OPK?](#zaawansowane-jakie-przygody)
@@ -124,6 +126,18 @@ Examples of incorrect use of the _Flavor is Free_ rule:
 - Just because your shield is very small, it doesn't allow you to hold a weapon in that hand, use it to reload a hand crossbow or cast spells (without other rules allowing it) or throw it away without spending an action. Just because your goliath is very tall, doesn't allow them to treat their sword's reach as 10 ft if they lean in. Just because your rapier is flavored as a rolling pin (even if the DM allows it) doesn't mean the damage type of the weapon changes to bludgeoning. Just because your DM allowed your familiar to have the statblock of an owl, but look like a pidgeon, doesn't mean they will let them seamlessly blend in with the city's pidgeons and tail a suspicious NPC that way. Just because a druid describes their newly-bought half-plate as made of wood, leather and magic energy, doesn't cause the half-plate to cease being metal. In summary, changes to the character's flavor will never give mechanical benefits.
 
 If you have any doubts, we recommend consulting your character "flavoring" ideas with other players and DM to find a satisfying solution.
+
+  ### 1.4. New character on 5th level<a name="nowa-postac-5-poziom"></a>
+
+In exceptional circumstances (requirements described in detail below), an OPK player may start the game with a new character at level 5 (i.e., immediately play Tier 2 adventures). To do so, they should create a character at level 1 according to the other OPK rules, and then assign them an additional 16 ACP, 40 DT (days off), and 640 gold pieces (gp). You can also assign one uncommon item from the list of magic items for exchange (i.e., from the first column of Table 5 of the Basic Rules) to such a character.
+
+To take advantage of this option, the player must meet the following conditions:
+
+a) They have already played at least one Tier 2 adventure with another character.
+
+b) They have no other character that could play an adventure at Tier 2. 
+
+All of this player's characters at Tier 2 at the time of playing the first adventure with a character built as described in this subsection are considered permanently dead and cannot be restored to OPK gameplay.
 
 ## 2. Organizing a game<a name="zaawansowane-organizacja-sesji"></a>
 
