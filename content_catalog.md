@@ -657,6 +657,7 @@
 | WBW-DC-PHP-02                           | II             | 4h             | [A Compendium of Curious Curiosities](#a-compendium-of-curious-curiosities)                                   |
 | WBW-DC-PHP-HOE-02                       | II             | 4h             | [Something Borrowed, Something Brewed](#something-borrowed-something-brewed)                                  |
 | WBW-DC-PHP-PHAN-01                      | II             | 4h             | [If the Shoe Fits](#if-the-shoe-fits)                                                                         |
+| WBW-DC-PHP-POLAR-01                     | II             | 2h             | [Snow Ice](#snow-ice)                                                                                         |
 | WBW-DC-ROG-03                           | II             | 4h             | [Hope in Medusa's Eye](#hope-in-medusas-eye)                                                                  |
 | WBW-DC-THAL-01                          | I              | 4h             | [Heartfire Lost](#heartfire-lost)                                                                             |
 | Przygody dopuszczone spoza kanonu AL    |
@@ -8166,3 +8167,13 @@ A prince. A ball. A magical shoe. Everything was supposed to work out fine...unt
 
 **Komentarz**
 Przygoda dodana seryjnie jako "brak uwag"
+
+### [Snow Ice](https://www.dmsguild.com/en/product/400851/snow-ice-wbw-dc-php-polar-01)
+
+**Informacje o przygodzie:**
+A contract for a magical study appears in front of the adventurers and after signing it, they find themselves in a mysterious tower. Do they have the wits to escape?
+
+A 2-Hour Adventure set in The Acre Woods the Feywild Domain of Trickery and Deceit, playable by D&D Adventurers League Forgotten Realms characters levels 5-10. Optimized for APL 10.
+
+**Komentarz**
+Przygoda przewiduje nieproporcjonalnie dużo złota i powinno być ono zmniejszone o połowę.
