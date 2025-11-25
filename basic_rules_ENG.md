@@ -175,7 +175,8 @@ Next, the players determine the equipment their characters will take on the sess
 
 -You are not obligated to take all your equipment (including money) that the character owns (e.g. due to encumbrance limits). However, the equipment that the character has with them during an adventure should be clearly separated from the equipment left behind.
 
--Each character can take spell scrolls on an adventure, with the limitation that the sum of spell levels on the scrolls is not greater than the tier of the adventure multiplied by the game time expressed in ACP by the DM (e.g. a Tier 2 adventure with 4 ACP, the sum of spell levels on your spell scrolls must not be greater than 2*4=8, like 1 scroll of a 5th level spell and 1 scroll of a 3rd level spell, or 2 scrolls of 2nd level spells and 4 scrolls of 1st level spells)
+-Each character can take spell scrolls on an adventure, with the limitation that the sum of spell levels on the scrolls is not greater than the tier of the adventure multiplied by the game time expressed in ACP by the DM (e.g. a Tier 2 adventure with 4 ACP, the sum of spell levels on your spell scrolls must not be greater than 2*4=8, like 1 scroll of a 5th level spell and 1 scroll of a 3rd level spell, or 2 scrolls of 2nd level spells and 4 scrolls of 1st level spells);
+Spellwrought Tattoo and other single-use items that work by casting a specific spell of a given circle count as scrolls with a spell of the same circle for the purposes of the above limit.
 
 -Each character may (but is not required to) begin the adventure with one of the benefits listed below, depending on the adventure's Tier:
 
