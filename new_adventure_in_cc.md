@@ -111,6 +111,9 @@ Nie podlegają temu ograniczeniu przedmioty, które są tylko pomniejszymi modyf
 - Knave's Eye Patch (Waterdeep: Dragon Heist)
 - Kyrzin's Ooze (Eberron: Rising from the Last War) - black pudding powstający zgodnie z opisem działania przedmiotu jest wrogo nastawiony do wszystkich istot
 - Stonespeaker Crystal (Out of the Abyss)
+- Staff of Defence (Phandelver and Below: The shattered obelisk)
+- Fish Suit (Very Rare)(Spelljammer: Adventures in Space - Astral Adventurer's Guide)
+- 
 
 **Przedmioty magiczne jednorazowego użytku nie podlegają ograniczeniom źródeł, o ile nie zostały wprost umieszczone na liście przedmiotów zabronionych**
 
