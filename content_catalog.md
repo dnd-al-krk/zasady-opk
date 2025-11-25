@@ -7083,7 +7083,7 @@ A (Goosey) Waterdeep Escapade
 A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w ramach OPK
+Mistrz gry powinien przyznać tylko bag of holding zgodnie z zasadami OPK o 1 magicznym przedmiocie na przygodzie.
 
 ### [Wyrmwell Flame](https://www.dmsguild.com/product/474180/FRDCLIGA01--Wyrmwell-Flame)
 
@@ -7455,7 +7455,7 @@ A Sunny Four-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 Content Warning: Possible phobia triggers (tentacles, beaches, oceans)
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w ramach OPK
+Zmiana magitki na Necklace of Adaptation bez zmian Fluffu
 
 ### [The Highest Bidder](https://www.dmsguild.com/product/428035/SJDCDD04-The-Highest-Bidder)
 
@@ -7540,7 +7540,7 @@ An Audacious Four-Hour Heist for Tier 2 Characters. Optimized for APL 8.
 Content Warning: Alcohol, Fantasy Violence, Gambling, Tobacco Use
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w ramach OPK
+Zmiana minor property Guardians na Illusion.
 
 ### [Starlight's Lament](https://www.dmsguild.com/product/465326/SJDCAMAK-Starlights-Lament)
 
@@ -8166,7 +8166,7 @@ Przygoda dodana seryjnie jako "brak uwag"
 A prince. A ball. A magical shoe. Everything was supposed to work out fine...until more than one lady's foot fit the glass slipper. Part 1 of The Stories of Phantasia Duology. A 4-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 **Komentarz**
-Przygoda dodana seryjnie jako "brak uwag"
+Zmiana Guardian property w rare i common magitce na Gleaming property
 
 ### [Snow Ice](https://www.dmsguild.com/en/product/400851/snow-ice-wbw-dc-php-polar-01)
 
