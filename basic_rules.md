@@ -175,6 +175,7 @@ Następnie, gracze ustalają ekwipunek, który ich postaci zabierają na przygod
 - Nie ma obowiązku zabierania na przygodę wszystkich przedmiotów (w tym pieniędzy) posiadanych przez postać (np. ze względu na limit obciążenia wynikający z zasad DnD). Niemniej, przedmioty, które są w posiadaniu postaci podczas przygody, powinny być wyraźnie odróżnione od tych, które "zostały w domu";
 
 - Każda postać może wziąć na przygodę tylko tyle zwojów z zaklęciami (spell scrolls), że suma kręgów zaklęć na tych zwojach nie przekracza iloczynu szczebla (tieru) przygody i czasu trwania przygody zadeklarowanego w ACP przez Mistrza Gry (czyli np. na przygodę T2, którą DM planuje na 4ACP, można wziąć zwoje, na których suma kręgów (levels) zaklęć wynosi co najwyżej 2\*4=8 – np. jeden zwój z zaklęciem piątego kręgu (level 5th) i jeden z zaklęciem trzeciego kręgu (level 3rd), albo 2 zwoje z zaklęciami drugiego kręgu (level 2nd) i 4 z zaklęciami pierwszego kręgu (level 1st);
+Spellwrought Tattoo i inne przedmioty jednorazowe, których działanie polega na rzuceniu konkretnego zaklęcia danego kręgu, na potrzeby powyższego limitu liczą się jak zwoje z zaklęciem tego samego kręgu.
 
 - Każda z postaci może (ale nie musi) rozpocząć przygodę z jednym benefitem z listy poniżej, w zależności od Tieru przygody:.
 
