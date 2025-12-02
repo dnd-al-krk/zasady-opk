@@ -384,6 +384,8 @@ Przede wszystkim zapoznaj się z sugerowanymi kwotami, jakie gracze powinni wyda
 
 W salkach można grać wyłącznie w RPG. Jeśli jednak zmienicie plany i zamiast sesji wolicie rozegrać planszówkę, koniecznie poinformujcie R'lyeh. Zdarza się też, że klienci wpadają spontanicznie na RPG – wtedy starają się przenieść ich do wolnej salki, żeby mieli komfortowe warunki do gry. Sami wiecie jak ważne jest, żeby mieć spokój na sesji.
 
+Dodatkowo, jeśli chcesz żeby zarezerwowany stolik się pojawił na portalu OPK jako osobny slot, to koniecznie napisz o tym w wiadomości dotyczącej rezerwacji, wtedy slot zostanie dodany na portal.
+
 ## 7. Reguły przejściowe: sezon 1 i początek sezonu 2.<a name="zaawansowane-przejsciowe"></a>
 
 Cokolwiek się działo w Krakowskim AL-u, NielegALu lub OPK przed 1.08.2022, jest uznawane za pierwszy sezon OPK i jest nieważne na potrzeby rozgrywek drugiego sezonu OPK. W szczególności postacie, które wtedy powstały i przygody w których uczestniczyły nie mają wpływu na obecne rozgrywki. Oczywiście, nic nie stoi na przeszkodzie, by stworzyć je od nowa w ramach naszego systemu.

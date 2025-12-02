@@ -331,6 +331,7 @@
 | CCC-ELF-02                              | I              | 4h             | [An Adventuring Party Walks Into A Bar](#an-adventuring-party-walks-into-a-bar)                               |
 | CCC-ELO-01                              | I              | 4h             | [For the Kids!](#for-the-kids)                                                                                |
 | CCC-EPI-01-01                           | II             | 4h             | [Hordes of Thar - The White Hand of Death](#hordes-of-thar---the-white-hand-of-death)                         |
+| CCC-EPI-01-02                           | II             | 4h             | [Hordes of Thar - The Bloody Crescent](#hordes-of-thar---the-bloody-crescent)                         |
 | CCC-FC3-01-02                           | II             | 4h             | [Tales of Estirwald: Corruption of theElderoak](#tales-of-estirwald-corruption-of-theelderoak)                |
 | CCC-FC3-03                              | III            | 4h             | [Tales of Estirwald: The Fun House](#tales-of-estirwald-the-fun-house)                                        |
 | CCC-FXC-01                              | I              | 2h             | [Nothing Happens in Elmwood](#nothing-happens-in-elmwood)                                                     |
@@ -7806,6 +7807,14 @@ A disease is spreading around the town of Melvaunt, causing boils and festering 
 
 **Komentarz**
 Przygoda dodana seryjnie jako "brak uwag"
+
+### [Hordes of Thar - The Bloody Crescent](https://www.dmsguild.com/en/product/319994/ccc-epi01-02-hordes-of-thar-the-bloody-crescent)
+
+**Informacje o przygodzie:**
+Melvaunt’s guards are found dead in the barracks, the mark of an orcish murder god splattered on their walls. While the assassins are elusive, the Emerald Enclave has found a way to track them to their shadowy hold in the form of a strange hermit. Will the adventurers bring light to the situation or be lost in the dark? A Four-Hour Adventure for Tier 2 Characters.
+
+**Komentarz**
+Bez komentarza
 
 ### [The Whispering Shadows of the Eldest Ruins](https://www.dmsguild.com/product/285849/CCCGSPPHIL0103-The-Whispering-Shadows-of-the-Eldest-Ruin)
 

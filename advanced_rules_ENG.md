@@ -373,6 +373,8 @@ First of all, familiarize yourself with the suggested amounts that players shoul
 
 Only RPGs can be played in the rooms. However, if you change your plans and prefer to play a board game instead of an RPG session, be sure to inform R'lyeh. Sometimes, customers spontaneously decide to play an RPG – in such cases, the staff tries to move them to a free room so that they have comfortable conditions for playing. You know how important it is to have peace and quiet during a session.
 
+Additionally, if you want the reserved table to appear on the OPK portal as a separate slot, be sure to mention this in your reservation message, and the slot will be added to the portal.
+
 ## 7. Transition rules: season 1 and beginning of season 2<a name="zaawansowane-przejsciowe"></a>
 
 Whatever happened in Cracow's AL, NielegAL or OPK before 1st of August 2022 is considered 'season 1' of OPK and is not relevant to the games of season 2. In particular, the characters that were created back then and adventures they participated in do not influence current games. Of course, it is possible to create these characters from scratch in our new system.
