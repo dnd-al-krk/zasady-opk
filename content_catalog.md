@@ -603,6 +603,7 @@
 | FR-DC-WATERDEEP-CHZ                     | I              | 2h             | [Sweet Dreams are Made of Cheese](#sweet-dreams-are-made-of-cheese)                                           |
 | FR-DC-WATERDEEP-TRZ                     | I              | 2h             | [Sweet Dreams are Made of Trees](#sweet-dreams-are-made-of-trees)                                             |
 | FR-DC-WATERDEEP-GSZ                     | I              | 2h             | [Sweet Dreams are Made of Geese](#sweet-dreams-are-made-of-geese)                                             |
+| FR-DC-XMAS-01                           | I              | 4h             | [Silent Night](#silent-night)                                                                                 |
 | PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
 | PO-BK-1-02                              | II             | 4-6h             | [Trust No One](#trust-no-one)                                                                         |
 | PO-BK-1-03                              | II             | 4-6h             | [Red Masks](#red-masks)                                                                         |
@@ -7085,6 +7086,18 @@ A Two-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
 
 **Komentarz**
 Mistrz gry powinien przyznać tylko bag of holding zgodnie z zasadami OPK o 1 magicznym przedmiocie na przygodzie.
+
+### [Silent Night](https://www.dmsguild.com/en/product/463480/silent-night-fr-dc-xmas-01-5e?language=enFfiltersDfilters)
+
+**Informacje o przygodzie:**
+Saint Nicholas is in trouble!  An emissary for St. Nick, Jafis, has frantically informed you that he and his entire village are under attack, and they are in desperate need of assistance. Will you travel with Jafis to the demiplane where St. Nicholas resides to help root out the evil, free St. Nicholas, and save the entire realm from a total collapse of holiday spirit?
+The adventure takes place in the Forgotten Realms in a demiplane attached to the mortal realm. It is a winter-themed adventure involving good and evil in a battle for the souls of mortals. This adventure has been purposely created to resemble the many stories about St. Nicholas (aka Santa Claus) but put into the context of the Forgotten Realms.
+
+A Four-Hour Adventure for Level 1-4 Characters (Tier 1, Optimized for APL3)
+
+**Komentarz**
+Przygoda oferuje graczom skorzystanie z ekwipunku (broń, posrebrzana broń, zbroje) o łącznej wartości do 1000GP (dla całej drużyny), który na końcu przygody może zostać zachowany lub sprzedany w ramach nagród za przygodę. Jako że łączna ilość nagród byłaby ze względu na ten ekwipunek zbyt duża, to należy potraktować ten ekwipunek jako wypożyczony, do zwrotu po wypełnieniu misji, a do łącznej nagrody za przygodę dodać 250 GP (tym samym łączna ilość złota do rozdania drużynie za przygodę wyniesie 750 GP).
+W kwestii nagród rzeczowych należy wprowadzić kilka modyfikacji: można rozdać graczom do podziału, jeśli spełnią warunki do ich otrzymania, dwa przedmioty rzadkości uncommon przewidziane w przygodzie, Boots of Elvenkind z minor property temperate oraz Keoghtom's Ointment, a także można przyznać otrzymywany przez każdego z nich pamiątkowo przedmiot rzadkości common, Cloak of Billowing, zmieniając jednak przewidziane w przygodzie minor property guardian na minor property language (elvish).
 
 ### [Wyrmwell Flame](https://www.dmsguild.com/product/474180/FRDCLIGA01--Wyrmwell-Flame)
 
