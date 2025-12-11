@@ -348,8 +348,6 @@ Możliwość przekucia jednej magicznej broni w drugą podlega następującym og
 
 5) Broń, która znajduje się w tabelce Simple Weapon w PHB nie może być przekuta na broń, która się znajduje w tabelce Martial Weapon w PHB (czyli nie da się przekuć quarterstaff w glaive – ale można na odwrót).
 
-6) Broń, która nie posiada własności _finesse_ nie może być przekuta w broń, która taką własność posiada (czyli nie da się przekuć longswordów w rapiery – można przekuć rapier w longsword).
-
 Przekute, magiczne bronie, które można zniszczyć zadając im obrażenia (np. Net) i zniszczone w ten sposób, samoistnie się naprawiają na zakończenie przygody (przed rozdaniem nagród za przygodę) i są odzyskiwane przez postać.
 
 ### 4.5. Przekuwanie magicznej amunicji<a name="przekuwanie-amunicji"></a>
@@ -443,14 +441,15 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 
 | Nazwa broni | Dodatkowe uwagi i ograniczenia |
 | --- | --- |
-| Weapon +1/+2/+3 | Każdą broń można przekuć na broń +1/+2/+3 (z zachowaniem ograniczeń ogólnych) tracąc wszystkie własności magiczne wyjściowej broni i zastępując je odpowiednim bonusem do trafienia i obrażeń.<br /> Broń przekuwana na broń +1/+2/+3 może uzyskać cechy _finesse_.<br /> Przedmioty Wraps of Unarmed Prowess o rzadkości Uncommon i Insignia of Claws liczą się jako broń o cesze Simple na potrzeby zasad przekuwania w broń +1/+2/+3 |
-| Flame Tongue | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown i ranged,_ a w wypadku longsworda lub greatsworda również bez cechy _finesse_. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
+| Weapon +1/+2/+3 | Każdą broń można przekuć na broń +1/+2/+3 (z zachowaniem ograniczeń ogólnych) tracąc wszystkie własności magiczne wyjściowej broni i zastępując je odpowiednim bonusem do trafienia i obrażeń.<br /> Przedmioty Wraps of Unarmed Prowess o rzadkości Uncommon i Insignia of Claws liczą się jako broń o cesze Simple na potrzeby zasad przekuwania w broń +1/+2/+3 |
+| Flame Tongue | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown i ranged_. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
 | Javelin of Lightning | Możliwe przekucie na dowolną broń z cechami _simple_, _thrown._ |
-| Moon-Touched Sword | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_, a w wypadku longsworda lub greatsworda również bez cechy _finesse_. |
-| Sword of Wounding | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_, a w wypadku longsworda lub greatsworda również bez cechy _finesse_. |
+| Moon-Touched Sword | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_. |
+| Sword of Wounding | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_. |
 | Vicious Weapon | Brak uwag |
 | Weapon of Warning | Brak uwag |
-| Vorpal Weapon | Możliwe przekucie na dowolną broń simple lub martial, bez cech thrown, ranged i special, a w wypadku longsworda lub greatsworda również bez cechy finesse. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
+| Vorpal Weapon | Możliwe przekucie na dowolną broń simple lub martial, bez cech thrown, ranged i special. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
+| Dancing sword | Możliwe przekucie na dowolną broń simple lub martial, bez cech thrown, ranged i special. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
 
 [^1]: Po bardziej szczegółowe wyjaśnienia "savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
 
