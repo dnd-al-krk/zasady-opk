@@ -23,6 +23,7 @@
 | DDAL00-02e                              | III            | 2h             | [Forgotten Foes](#forgotten-foes)                                                                             |
 | DDAL00-02f                              | IV             | 2h             | [The Definition of Heroism](#the-definition-of-heroism)                                                       |
 | DDAL00-03                               | III/IV         | 4h             | [Those That Came Before](#those-that-came-before)                                                             |
+| DDAL00-10                               | IV             | 6-8h           | [Trust and Understanding](#trust-and-understanding)                                                           |
 | DDAL00-04                               | I              | 2h             | [Winter’s Flame](#winters-flame)                                                                              |
 | DDAL00-05                               | I              | 2h             | [Winter’s Splendor](#winters-splendor)                                                                        |
 | DDAL00-06                               | II             | 8h             | [Lost Laboratory of Kwalish](#lost-laboratory-of-kwalish)                                                     |
@@ -704,7 +705,7 @@ Lost Tales of Myth Drannor includes the following adventures:
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-### [Those That Came Before](https://www.dmsguild.com/product/230030/DDAL0003-Those-That-Came-Before?affiliate_id=925821)
+### [Those That Came Before](https://www.dmsguild.com/product/230030/DDAL0003-Those-That-Came-Before)
 
 **Informacje o przygodzie**
 All of the scribes in Candlekeep are reporting eerie dreams, dreams in which the flying citadels of
@@ -713,6 +714,16 @@ Waterdeep far below. These hazy visions all end the same way: with tremendous ca
 fortresses smash down upon the defenseless metropolises. What aid can be enlisted when such
 doom is on the horizon?
 A 4-Hour Adventure for 11th – 16th, or 17th – 20th Level Characters
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Trust and Understanding](https://www.dmsguild.com/en/product/285124/ddal00-10-trust-and-understanding)
+
+**Informacje o przygodzie**
+The shield dwarves of western Faerûn sometimes speak of a labyrinthine structure on the shores of a misty lake. Rumored to imprison an ancient creature that predates Faerûn’s beginnings, the place has long been sealed. But now coins are showing up in bazaars and trader’s booths that match the description of those minted by this citadel, and they are rightly concerned.
+
+A Six-to-Eight-Hour Adventure for Tier 4 Characters. Optimized for APL 18.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
