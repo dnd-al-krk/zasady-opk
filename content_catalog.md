@@ -949,7 +949,7 @@ Phlan.
 An introductory adventure for 1st-4th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Magiczny przedmiot Ring of Fire Resistance posiada błędnie określoną rzadkość. Zgodnie z podręcznikiem jego rzadkość to rare, a nie uncommon, jak wskazano w opisie na końcu przygody.
 
 ### [The Scroll Thief](https://www.dmsguild.com/product/170463/DDEX106-The-Scroll-Thief-5e&affiliate_id=925821)
 
