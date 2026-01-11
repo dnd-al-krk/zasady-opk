@@ -214,6 +214,7 @@
 | DDAL-DRW15                              | III            | 4h             | [Frozen Whispers](#frozen-whispers)                                                                           |
 | DDAL-DRW16                              | III            | 4h             | [Uprising](#uprising)                                                                                         |
 | DDAL-DRW19                              | IV             | 4h             | [Fall the Cold Night](#fall-the-cold-night)                                                                   |
+| DDAL-DRW20                              | IV             |                | [The Death of Szass Tam](#the-death-of-szass-tam)                                                             |
 | DDAL-DRW-EP03                           | II/III         | 4h             | [When the Lights Went Out in Candlekeep](#when-the-lights-went-out-in-candlekeep)                             |   
 | CCC - Community-Created Content         |
 | CCC-3MAGS-01                            | I              | 7h             | [Vormestrand’s Scroll](#vormestrands-scroll)                                                                  |
@@ -2920,6 +2921,22 @@ A four hour adventure for 17th through 20th level characters.
 Optimized for: APL 18
 
 Content Warnings: Far Realm effects, body horror (transformation), mind and body control, possible character retirement, decapitation, possible phobia trigger (worms), mentions slavery.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Death of Szass Tam](https://www.dmsguild.com/en/product/405259/ddal-drw-20-the-death-of-szass-tam)
+
+**Informacje o przygodzie**
+Szass Tam arrives in Xorvintroth! Just as you were about to secure victory, the Regent of Thay is poised to turn things back in his favor. However, if Szass Tam is there to set things right, that means he’s out in the open, and the rebel Zulkir Dar’lon Ma has a plan!
+
+Part Two of the Frozen Worlds series of adventures.
+
+A four hour adventure for 17th through 20th level characters.
+
+Optimized for: APL 18
+
+Content Warnings: Far Realm effects, “madness,” body horror (transformation), mind and body control, gore, possible phobia trigger (insects, rodents, snakes), compulsion curse, possible character death, possible character retirement
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
