@@ -664,6 +664,7 @@
 | WBW-DC-PHP-POLAR-01                     | II             | 2h             | [Snow Ice](#snow-ice)                                                                                         |
 | WBW-DC-ROG-03                           | II             | 4h             | [Hope in Medusa's Eye](#hope-in-medusas-eye)                                                                  |
 | WBW-DC-THAL-01                          | I              | 4h             | [Heartfire Lost](#heartfire-lost)                                                                             |
+| RV-DC-FREAK-01                          | I              | 2h             | [Hypnotic Pattern](#hypnotic-pattern)                                                                         |
 | Przygody dopuszczone spoza kanonu AL    |
 | GCC-JOYCE-01                            | II             | 2h             | [Weekend at Strahd’s](#weekend-at-strahds)                                                                    |
 | KCC-KWIEK-01                            | II             | 2h             | [Mountain Brew](#mountain-brew)                                                                               |
@@ -8227,3 +8228,16 @@ A 2-Hour Adventure set in The Acre Woods the Feywild Domain of Trickery and Dece
 
 **Komentarz**
 Przygoda przewiduje nieproporcjonalnie dużo złota i powinno być ono zmniejszone o połowę.
+
+### [Hypnotic Pattern](https://www.dmsguild.com/en/product/541193/rv-dc-freak-01-hypnotic-pattern?src=newest_recent1)
+
+**Informacje o przygodzie:**
+Looking to summon a Nightmare Court member, a sorceress is looking to recruit adventurers to help her complete a strange ritual involving cat ears and a café. Will you help her?
+
+A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Przygoda została stworzona w oparciu o zasady z wersji 2024, zatem powinna być zmieniona na zasady z wersji 2014, w następujący sposób:
+Statblocki powinny zostać zamienione na odpowiedniki z wersji 2014.
+Study action (Arcana) powinno zostać zamienione na Arcana check.
+Przedmioty magiczne powinny zostać zamienione na odpowiedniki z wersji 2014.
