@@ -830,7 +830,7 @@ An Introductory adventure for Xanthar's Guide to EverythingTM supporting charact
 4th level.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przedmiot magiczny Ersatz Eye (common) należy zastąpić przedmiotem Pearl of Power (uncommon). 
 
 ### [Riddle of the Raven Queen](https://www.dmsguild.com/product/242611/Riddle-of-the-Raven-Queen?affiliate_id=925821)
 
