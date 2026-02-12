@@ -8245,4 +8245,4 @@ A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 Przygoda została stworzona w oparciu o zasady z wersji 2024, zatem powinna być zmieniona na zasady z wersji 2014, w następujący sposób:
 Statblocki powinny zostać zamienione na odpowiedniki z wersji 2014.
 Study action (Arcana) powinno zostać zamienione na Arcana check.
-Przedmioty magiczne powinny zostać zamienione na odpowiedniki z wersji 2014.
+Przedmioty magiczne powinny zostać zamienione na odpowiedniki z wersji 2014 oraz rozdane zgodnie z zasadami OPK- po jednym na całą drużynę, nie po jednym na postać. 
