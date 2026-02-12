@@ -811,7 +811,7 @@ A tier 2 adventure by Greg Marks, optimized for 8th-level characters that
 takes place in the Moonsea and Malbolge, the Sixth Layer of Hell
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+W ramach Story Awardu nie można wybrać Philter of Love, ponieważ jest zbanowy w OPK.
 
 ### [In Volo’s Wake](https://www.dmsguild.com/product/203580/In-Volos-Wake-5e?affiliate_id=925821)
 
