@@ -23,13 +23,14 @@
 | DDAL00-02e                              | III            | 2h             | [Forgotten Foes](#forgotten-foes)                                                                             |
 | DDAL00-02f                              | IV             | 2h             | [The Definition of Heroism](#the-definition-of-heroism)                                                       |
 | DDAL00-03                               | III/IV         | 4h             | [Those That Came Before](#those-that-came-before)                                                             |
-| DDAL00-10                               | IV             | 6-8h           | [Trust and Understanding](#trust-and-understanding)                                                           |
 | DDAL00-04                               | I              | 2h             | [Winter’s Flame](#winters-flame)                                                                              |
 | DDAL00-05                               | I              | 2h             | [Winter’s Splendor](#winters-splendor)                                                                        |
 | DDAL00-06                               | II             | 8h             | [Lost Laboratory of Kwalish](#lost-laboratory-of-kwalish)                                                     |
 | DDAL00-07                               | I/II           | 4h             | [The Embers of Hate](#the-embers-of-hate)                                                                     |
 | DDAL00-08                               | I/II           | 4h             | [Layers Upon Layers](#layers-upon-layers)                                                                     |
-| DDAL00-09                               | II             | 2h             | [Minsc&Boo](#minscboo)                                                                                        |
+| DDAL00-09                               | II             | 2h             | [Undermountain: The Musical!](#undermountain-the-musical)                                                     |
+| DDAL00-10                               | IV             | 6-8h           | [Trust and Understanding](#trust-and-understanding)                                                           |
+| DDAL00-11d                              | II             | 2-4h           | [The Love Triangle Contract](#the-love-triangle-contract)                                                     |
 | DDIA-VOLO                               | I              | 4-8h           | [In Volo’s Wake](#in-volos-wake)                                                                              |
 | DDIA-XGE                                | I              | 4h             | [Underworld Speculation](#underworld-speculation)                                                             |
 | DDHC-MORD-01                            | II             | 8h             | [Riddle of the Raven Queen](#riddle-of-the-raven-queen)                                                       |
@@ -720,16 +721,6 @@ A 4-Hour Adventure for 11th – 16th, or 17th – 20th Level Characters
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-### [Trust and Understanding](https://www.dmsguild.com/en/product/285124/ddal00-10-trust-and-understanding)
-
-**Informacje o przygodzie**
-The shield dwarves of western Faerûn sometimes speak of a labyrinthine structure on the shores of a misty lake. Rumored to imprison an ancient creature that predates Faerûn’s beginnings, the place has long been sealed. But now coins are showing up in bazaars and trader’s booths that match the description of those minted by this citadel, and they are rightly concerned.
-
-A Six-to-Eight-Hour Adventure for Tier 4 Characters. Optimized for APL 18.
-
-**Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
-
 ### [Winter’s Flame](https://www.dmsguild.com/product/229261/DDAL0004-Winters-Flame-5e?affiliate_id=925821)
 
 **Informacje o przygodzie**
@@ -794,16 +785,30 @@ A Four-Hour Adventure for 1st-10th Level Characters.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-### [Minsc & Boo](https://www.dmsguild.com/product/271488/DDAL0009-Minsc--Boos-Guide-to-Stuff-and-Things?affiliate_id=925821)
+### [Undermountain: The Musical!](https://warhorn.net/organized-play/s/ddal00-09-undermountain-the-musical)
 
 **Informacje o przygodzie**
-Minsc and his faithful ally Boo have seen much of the Forgotten Realms, and have been inspired by
-Volo to produce a guidebook detailing some of the more incredible things that they've experienced!
-From the magic-infused cuisine of the Lantan Isles to the designers of massive urban frescos (well,
-they call them frescos but everyone else recognizes graffiti when they see it) to the divinely
-apathetic and beyond, these pages are told from Minsc's point of view. Because of this flawed
-recollection, the character options contained on these pages are only allowed in campaign play if
-additional, official documentation is acquired or when playing the included adventure.
+Undermountain: The Musical! is a lighthearted, satirical adventure optimized for five 8th-level 
+characters that takes place in Waterdeep and later a lost level of that famed dungeon: Undermountain.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Trust and Understanding](https://www.dmsguild.com/en/product/285124/ddal00-10-trust-and-understanding)
+
+**Informacje o przygodzie**
+The shield dwarves of western Faerûn sometimes speak of a labyrinthine structure on the shores of a misty lake. Rumored to imprison an ancient creature that predates Faerûn’s beginnings, the place has long been sealed. But now coins are showing up in bazaars and trader’s booths that match the description of those minted by this citadel, and they are rightly concerned.
+
+A Six-to-Eight-Hour Adventure for Tier 4 Characters. Optimized for APL 18.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Love Triangle Contract](dmsguild.com/pl/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells?)
+
+**Informacje o przygodzie**
+A tier 2 adventure by Greg Marks, optimized for 8th-level characters that
+takes place in the Moonsea and Malbolge, the Sixth Layer of Hell
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
