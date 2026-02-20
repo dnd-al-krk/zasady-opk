@@ -509,6 +509,8 @@
 | CCC-TAROT-0106                          | I              | 2h             | [Lies in the Moonlight](#lies-in-the-moonlight)                                                               |
 | CCC-TAROT-0107                          | I              | 4h             | [The Seat of the Ruler](#the-seat-of-the-ruler)                                                               |
 | CCC-TAROT-02-01                         | II             | 4h             | [A Sunk Cost](#a-sunk-cost)                                                                                   |
+| CCC-TAROT-02-02                         | II             | 4h             | [Guardian's Scourge](#guardians-scourge)                                                                                   |
+| CCC-TAROT-02-03                         | II             | 4h             | [To Boldly Go](#to-boldly-go)                                                                                   |
 | CCC-TAROT-S1-01                         | I              | 2h             | [A Long Night](#a-long-night)                                                                                 |
 | CCC-THENT-0101                          | I              | 2h             | [Beneath the Surface](#beneath-the-surface)                                                                   |
 | CCC-THENT-0102                          | I              | 2h             | [Those That Dwell Beneath](#those-that-dwell-beneath)                                                         |
@@ -6082,6 +6084,30 @@ With the election of a new Watchlord, Thentia’s will has been made clear: the 
 from the healthy. Great walls now cut off the Harbor District from the rest of Thentia where the
 Watchlord promises the ill are being taken care of, but how do they really live?
 A 4-hour adventure for 5th - 10th level characters.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.### 
+
+### [Guardian's Scourge](https://www.dmsguild.com/en/product/293956/ccc-tarot02-02-guardian-s-scourge)
+
+**Informacje o przygodzie**
+Nearly 700 years old, it has outlasted Zhentil Keep and withstood Thar's hordes. Now a new invader threatens to destroy Thentia. The Watchlord struggles to contain the infected while the city's mages race to unravel the enigmas of this disease. Will the Moonsea soon add another ruin to its vast collection?
+
+A Two-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+Part Nine on A Song of Fates.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [To Boldly Go](https://www.dmsguild.com/en/product/267942/ccc-tarot02-03-to-boldly-go)
+
+**Informacje o przygodzie**
+A strange visitor has arrived in Thentia. Both the Council of Mages and Merchants are interested in speaking with him as things in Thentia have been a bit gloom. Once his business is concluded in town he’ll need an escort back home to the … Feywild. 
+
+A Two-Hour Adventure for 5th-10th Level Characters
+
+Part 10 of A Song of Fates.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
