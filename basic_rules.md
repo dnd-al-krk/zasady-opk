@@ -177,6 +177,8 @@ Następnie, gracze ustalają ekwipunek, który ich postaci zabierają na przygod
 - Każda postać może wziąć na przygodę tylko tyle zwojów z zaklęciami (spell scrolls), że suma kręgów zaklęć na tych zwojach nie przekracza iloczynu szczebla (tieru) przygody i czasu trwania przygody zadeklarowanego w ACP przez Mistrza Gry (czyli np. na przygodę T2, którą DM planuje na 4ACP, można wziąć zwoje, na których suma kręgów (levels) zaklęć wynosi co najwyżej 2\*4=8 – np. jeden zwój z zaklęciem piątego kręgu (level 5th) i jeden z zaklęciem trzeciego kręgu (level 3rd), albo 2 zwoje z zaklęciami drugiego kręgu (level 2nd) i 4 z zaklęciami pierwszego kręgu (level 1st);
 Spellwrought Tattoo i inne przedmioty jednorazowe, których działanie polega na rzuceniu konkretnego zaklęcia danego kręgu, na potrzeby powyższego limitu liczą się jak zwoje z zaklęciem tego samego kręgu.
 
+- Każda postać może wziąć na przygodę tylko tyle mikstur leczniczych, że ich łączny poziom (opisany w Tabeli 3) nie przekracza iloczynu szczebla (tieru) przygody i czasu trwania przygody zadeklarowanego w ACP przez Mistrza Gry (czyli np. na przygodę T2, którą DM planuje na 4ACP, można wziąć mikstury, których łączny poziom wynosi co najwyżej 2*4=8 – np. 4 Potions of Greater Healing i 2 Potions of Healing, albo 2 Potions of Greater Healing i 5 Potions of Healing. Tymczasowa mikstura przyznana przez DMa na początku sesji nie liczy się do limitu.
+
 - Każda z postaci może (ale nie musi) rozpocząć przygodę z jednym benefitem z listy poniżej, w zależności od Tieru przygody:.
 
 Tier 1 (T1): Potion of Healing
@@ -317,7 +319,7 @@ Postać dostaje tyle ACP, ile brakuje jej do następnego poziomu według Tabeli 
 
 **8. Zakupu lub stworzenia zwoju:** Postać biegła w Arcana, posiadająca spell sloty lub pact sloty i znająca zaklęcie może wytworzyć zwój magiczny z tym zaklęciem. Dowolna postać może zakupić zwój z zaklęciem. Koszty i ograniczenia dotyczące stworzenia lub zakupu zwoju znaleźć można w Tabeli 4 części II tych zasad.
 
-**9. Uprawiania rzemiosła/craftingu:** Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 3 DT i 50 gp, Potion of Superior Healing kosztem 10 DT i 250 gp lub Potion of Supreme Healing kosztem 15 DT i 500 gp. Postacie biegłe w narzędziach rzemieślniczych są w stanie tworzyć przedmioty niemagiczne (Weapons, Armor, Adventuring Gear, Vehicles) na zasadach opisanych w PHB lub XGE. Postać gracza wybiera które zasady są dla niej korzystniejsze. Ponadto, postacie biegłe w narzędziach mogą się nimi posługiwać zgodnie z dodatkowymi zasadami z podręcznika XGE, podrozdział Tool Proficiencies. Jeśli czas wykonywanego za pomocą narzędzi zadania to minimum jedna godzina, można takie zadanie wykonać w czasie między przygodami. Koszt to 1 DT za każde rozpoczęte 8 godzin aktywności (jeśli opis wykorzystania narzędzi mówi, że jakąś aktywność można wykonać w ramach odpoczynku (krótkiego lub długiego), to traktowana jest jak zajmująca 1 godzinę).
+**9. Uprawiania rzemiosła/craftingu:** Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 2 DT i 75 gp, Potion of Superior Healing kosztem 4 DT i 225 gp lub Potion of Supreme Healing kosztem 8 DT i 675 gp. Postacie biegłe w narzędziach rzemieślniczych są w stanie tworzyć przedmioty niemagiczne (Weapons, Armor, Adventuring Gear, Vehicles) na zasadach opisanych w PHB lub XGE. Postać gracza wybiera które zasady są dla niej korzystniejsze. Ponadto, postacie biegłe w narzędziach mogą się nimi posługiwać zgodnie z dodatkowymi zasadami z podręcznika XGE, podrozdział Tool Proficiencies. Jeśli czas wykonywanego za pomocą narzędzi zadania to minimum jedna godzina, można takie zadanie wykonać w czasie między przygodami. Koszt to 1 DT za każde rozpoczęte 8 godzin aktywności (jeśli opis wykorzystania narzędzi mówi, że jakąś aktywność można wykonać w ramach odpoczynku (krótkiego lub długiego), to traktowana jest jak zajmująca 1 godzinę).
 
 **10. Relaksu:** Postać wydaje 5 DT i utrzymuje podczas tych dni co najmniej wygodny tryb życia (czyli wydaje co najmniej 10 gp). Postać zyskuje inspirację do wykorzystania. Postać gracza może przechowywać maksymalnie jedną inspirację z tego przestoju.
 
@@ -392,17 +394,16 @@ Podczas sesji dostępność usług rzucania zaklęć leży **wyłącznie** w ges
 
 Ceny zakupu pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygody
 
-| **Mikstura** | **Koszt w złocie** |
-| --- | --- |
-| Potion of Healing | 50 gp |
-| Potion of Greater Healing | 100 gp |
-| Potion of Superior Healing | 500 gp |
-| Potion of Supreme Healing | 5 000 gp |
+| **Mikstura** | **Koszt w złocie** | **Poziom** |
+| --- | --- | --- |
+| Potion of Healing | 50 gp | 1 |
+| Potion of Greater Healing | 150 gp | 1,5 |
+| Potion of Superior Healing | 450 gp | 2 |
+| Potion of Supreme Healing | 1 350 gp | 2,5 |
 | Elixir of Health | 500 gp |
 | Potion of Climbing | 75 gp |
 | Potion of Animal Friendship | 100 gp |
 | Potion of Water Breathing | 100 gp |
-| Potion of Invisibility | 5 000 gp |
 
 ## 4. Zwoje<a name="tabela-zwoje"></a>
 
