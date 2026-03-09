@@ -587,6 +587,7 @@
 | DC-PoA-NBDD-01                          | II             | 4h             | [Ice, Ice, Birdie](#Ice,-Ice,-Birdie)                                                                         |
 | DC-PoA-ROG-3                            | II             | 4h             | [The Last Refuge of Spring](#the-last-refuge-of-spring)                                                       |
 | DDHC-CM-05                              | I              | 2h             | [Shemshime's Bedtime Rhyme](#shemshimes-bedtime-rhyme)                                                        |
+| DDHC-MORD-04                            | I              | 4h             | [Pudding Faire](#pudding-faire)                                                                               |
 | DDHC-TOA-4                              | I              | 2h             | [Cellar of death](#cellar-of-death)                                                                           |
 | FR-DC-BG                                | III            | 4h             | [The Flying Flame](#the-flying-flame)                                                                         |
 | FR-DC-GARY-01                           | II             | 4h             | [Sand to Ash](#sand-to-ash)                                                                                   |
@@ -6798,6 +6799,15 @@ Shemshime's Bedtime Rhyme has been gathering dust on its shelf in Candlekeep for
 
 **Komentarz**
 Przygoda pochodzi z oficjalnego hardcovera Candlekeep Mysteries. Informacje o sugerowanym skalowaniu i zmianach w nagrodach znajdują się w przygodzie na dysku z CC. W ramach dostsowania przygody do standardów OPK należy przydzielić każdej postaci, która przeżyła przygodę dodatkową nagrodę w wysokości 50 sztuk od Avowed (co przy 5 postaciach da nagrodę w złocie na poziomie 74 gp za 2 ACP T1) oraz usunąć jedną rare potkę z pokoju F11 - Potion of Gaseous Form.
+
+### [Pudding Faire](https://www.dmsguild.com/en/product/249757/pudding-faire)
+
+**Informacje o przygodzie**
+You awaken on the morning of the Pudding Faire: just as you did yesterday… and the day before that… and the day before that! To escape the loop, you must break a curse that strikes to the heart of halfling and gnome lore.
+A 3-4 hour Dungeons & Dragons module for character levels 1-4. 
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### [Cellar of Death](https://www.dmsguild.com/product/220572/Cellar-of-Death)
 
