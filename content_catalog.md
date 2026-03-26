@@ -584,6 +584,7 @@
 | DC-POA-HAG-SF4                          | II             | 2-3h           | [Failing You](#failing-you)                                                                                   |
 | DC-POA-OGG-02                           | II             | 2-4h           | [Judge and Jury](#judge-and-jury)                                                                             |
 | DC-POA-ROBIN-01-01                      | I              | 4h             | [The Taming of the Chwinga](#the-taming-of-the-chwinga)                                                       |
+| DC-PoA-MCWWS-02                         | I              | 4h             | [Wine, Wizards, and Song](#Wine,-Wizards,-and-Song)                                                           |
 | DC-PoA-NBDD-01                          | II             | 4h             | [Ice, Ice, Birdie](#Ice,-Ice,-Birdie)                                                                         |
 | DC-PoA-ROG-3                            | II             | 4h             | [The Last Refuge of Spring](#the-last-refuge-of-spring)                                                       |
 | DDHC-CM-05                              | I              | 2h             | [Shemshime's Bedtime Rhyme](#shemshimes-bedtime-rhyme)                                                        |
@@ -7635,6 +7636,20 @@ A Four-Hour Adventure for Tier 2 Characters. Optimized for APL 7.
 
 An adventure inspired by Ridley Scott's Alien.
 CONTENT WARNING: Horror, Fear, Blood, Gore, Ghoslty Appearance, Claustrophobia
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Wine, Wizards, and Song](https://www.dmsguild.com/en/product/352164/dc-poa-mcwws-02-wine-wizards-and-song)
+
+**Informacje o przygodzie:**
+Two wine merchants from Waterdeep set off from Good Mead with a sleigh filled with wine and mead pulled by two strong horses. When they fail to arrive in Easthaven it is feared they’ve lost their way.
+
+Rumors abound of the wealth of these wine merchants, undead sightings near town, wizards causing mischief…. and did anyone hear that singing?
+
+This is a Four-Hour Adventure for Tier 1 Characters
+
+DC-PoA Seed: Do You Know the Way to Lonely Wood
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
