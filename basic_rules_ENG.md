@@ -139,6 +139,8 @@ After playing the first Tier 2 adventure, the character's official name cannot b
 
 In particular, you can choose a background from books mentioned in chapter 1.1., as well as the campaigns Baldur's Gate: Descent into Avernus, Curse of Strahd, Tomb of Annihilation, The Wild Beyond the Witchlight, Ghosts of Saltmarsh. You can choose the Athlete background from Mythic Odyssey of Theros, or create your own using rules in PHB (Customize Your Background).
 
+The languages selected when creating a character based on their Background may only be chosen from the Standard Languages table or the Exotic Languages table in the PHB.
+
 ### 1.4. Starting Equipment<a name="ekwipunek-startowy"></a>
 
 Starting equipment and gold are determined by your character's class and background. You may not replace the default starting equipment with rolling for gold. You may, however, sell starting equipment at half its listed price in the PHB, and buy new equipment normally.
