@@ -30,7 +30,11 @@
 | DDAL00-08                               | I/II           | 4h             | [Layers Upon Layers](#layers-upon-layers)                                                                     |
 | DDAL00-09                               | II             | 2h             | [Undermountain: The Musical!](#undermountain-the-musical)                                                     |
 | DDAL00-10                               | IV             | 6-8h           | [Trust and Understanding](#trust-and-understanding)                                                           |
+| DDAL00-11b                              | I              | 2h             | [When the Debt Comes Due](#when-the-debt-comes-due)                                                           |
+| DDAL00-11c                              | II             | 3h             | [I've Seen Fire and I've Seen Pain](#ive-seen-fire-and-ive-seen-pain)                                         |
 | DDAL00-11d                              | II             | 2-4h           | [The Love Triangle Contract](#the-love-triangle-contract)                                                     |
+| DDAL00-11e                              | III            | 4-6h           | [A Fire Grows in Cania](#a-fire-grows-in-cania)                                                               |
+| DDAL00-11f                              | IV             | 4-6h           | [Twice as Nice for Half the Price](#twice-as-nice-for-half-the-price)                                         |
 | DDIA-VOLO                               | I              | 4-8h           | [In Volo’s Wake](#in-volos-wake)                                                                              |
 | DDIA-XGE                                | I              | 4h             | [Underworld Speculation](#underworld-speculation)                                                             |
 | DDHC-MORD-01                            | II             | 8h             | [Riddle of the Raven Queen](#riddle-of-the-raven-queen)                                                       |
@@ -809,6 +813,24 @@ A Six-to-Eight-Hour Adventure for Tier 4 Characters. Optimized for APL 18.
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [When the Debt Comes Due](dmsguild.com/pl/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells?)
+
+**Informacje o przygodzie**
+A tier 1 adventure by Claire Hoffman and Greg Marks, optimized for 3rd level characters 
+that takes place in the Moonsea and Dis, the Second Layer of Hell.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [I've Seen Fire and I've Seen Pain](dmsguild.com/pl/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells?)
+
+**Informacje o przygodzie**
+A tier 2 adventure by Amy Lynn Dzura, optimized for 8th-level characters 
+that takes place in the Moonsea and Phlegethos, the Fourth Layer of Hell.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
 ### [The Love Triangle Contract](dmsguild.com/pl/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells?)
 
 **Informacje o przygodzie**
@@ -817,6 +839,24 @@ takes place in the Moonsea and Malbolge, the Sixth Layer of Hell
 
 **Komentarz**
 W ramach Story Awardu nie można wybrać Philter of Love, ponieważ jest zbanowy w OPK.
+
+### [A Fire Grows in Cania](dmsguild.com/pl/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells?)
+
+**Informacje o przygodzie**
+A tier 3 adventure by Lysa Penrose and Greg Marks, optimized for 13th-level characters 
+that takes place near Waterdeep, Avernus the First Layer of Hell, and Cania, the Eighth Layer of Hell.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [Twice as Nice for Half the Price](dmsguild.com/pl/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells?)
+
+**Informacje o przygodzie**
+A tier 4 adventure by Alan Patrick, optimized for 18th-level characters 
+that takes anywhere in Faerûn and Nessus, the Ninth Layer of Hell.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### [In Volo’s Wake](https://www.dmsguild.com/product/203580/In-Volos-Wake-5e?affiliate_id=925821)
 
