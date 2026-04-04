@@ -138,6 +138,8 @@ Od rozegrania pierwszej przygody Szczebla 2 (T2), oficjalne imię postaci nie mo
 
 W szczególności, można wybrać Pochodzenie (Background) z podręczników wymienionych w podrozdziale 1.1., a także z kampanii: Baldur's Gate: Descent into Avernus, Curse of Strahd, Tomb of Annihilation, The Wild Beyond the Witchlight, Ghosts of Saltmarsh. Można też wybrać pochodzenie Athlete z Mythic Odyssey of Theros, bądź stworzyć własne w oparciu o zasady z PHB (Personalizacja Pochodzenia/Customize Your Background).
 
+Języki wybierane w trakcie tworzenia postaci na podstawie jej Pochodzenia mogą być wybrane tylko z listy języków standardowych (Standard Languages table) lub z listy języków egzotycznych ( Exotic Languages table) z PHB.
+
 ### 1.4. Ekwipunek Startowy<a name="ekwipunek-startowy"></a>
 
 Startowy ekwipunek i złoto ustalane są zgodnie z Klasą i Pochodzeniem (Background) postaci. Nie można zastąpić domyślnego ekwipunku startowego losowaniem ilości startowego złota. Można natomiast sprzedać ekwipunek startowy po standardowej cenie, czyli za połowę jego wartości i zakupić dodatkowy ekwipunek z PHB za pełną cenę.
