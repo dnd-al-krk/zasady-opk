@@ -514,7 +514,9 @@
 | CCC-TAROT-0107                          | I              | 4h             | [The Seat of the Ruler](#the-seat-of-the-ruler)                                                               |
 | CCC-TAROT-02-01                         | II             | 4h             | [A Sunk Cost](#a-sunk-cost)                                                                                   |
 | CCC-TAROT-02-02                         | II             | 4h             | [Guardian's Scourge](#guardians-scourge)                                                                                   |
-| CCC-TAROT-02-03                         | II             | 4h             | [To Boldly Go](#to-boldly-go)                                                                                   |
+| CCC-TAROT-02-03                         | II             | 2h             | [To Boldly Go](#to-boldly-go)                                                                                   |
+| CCC-TAROT-02-06                         | II             | 2-4h             | [The Hand that Wields](#the-hand-that-wields)                                                                                   |
+| CCC-TAROT-02-09                         | II             | 2-4h             | [The Thentia Job](#the-thentia-job)                                                                                   |
 | CCC-TAROT-S1-01                         | I              | 2h             | [A Long Night](#a-long-night)                                                                                 |
 | CCC-THENT-0101                          | I              | 2h             | [Beneath the Surface](#beneath-the-surface)                                                                   |
 | CCC-THENT-0102                          | I              | 2h             | [Those That Dwell Beneath](#those-that-dwell-beneath)                                                         |
@@ -6129,7 +6131,7 @@ Watchlord promises the ill are being taken care of, but how do they really live?
 A 4-hour adventure for 5th - 10th level characters.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.### 
+Brak uwag związanych z prowadzeniem przygody w OPK.
 
 ### [Guardian's Scourge](https://www.dmsguild.com/en/product/293956/ccc-tarot02-02-guardian-s-scourge)
 
@@ -6152,6 +6154,28 @@ A strange visitor has arrived in Thentia. Both the Council of Mages and Merchant
 A Two-Hour Adventure for 5th-10th Level Characters
 
 Part 10 of A Song of Fates.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Hand that Wields](https://www.dmsguild.com/en/product/246698/ccc-tarot02-06-the-hand-that-wields)
+
+**Informacje o przygodzie**
+The Council of Mages is under attack! Karasht Silverflame blames his murdered apprentices on the revival of a strange, almost forgotten local cult. He wants you to capture their leader and end the killing spree. But can his stories about a flying sword that slays on its own possibly be true?
+
+A Two to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
+Part 13 of A Song of Fates
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Thentia Job](https://www.dmsguild.com/en/product/301715/ccc-tarot-02-09-the-thentia-job)
+
+**Informacje o przygodzie**
+Deep in Karasht Silverflame’s vault is an item that can control the infected Thentia citizens. Is he storing it for safekeeping or does he have sinister plans? The Selunites have tasked you with retrieving the item and finding out Karasht's plans
+
+A Two to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
