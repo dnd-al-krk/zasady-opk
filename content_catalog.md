@@ -623,7 +623,7 @@
 | PS-DC-HNL-01                            | I              | 4h             | [Nowhere Fast](#nowhere-fast)                                                                                 |
 | PS-DC-HNL-02                            | I              | 4h             | [The Hungry Prince](#the-hungry-prince)                                                                       |
 | PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
-| PS-DC-RAVENGARD-V                       | IV             | 4h             | [Duke Ravengard Gets Sent to Hell](#the-greatest-gameshow)                                                    |
+| PS-DC-RAVENGARD-V                       | IV             | 4h              | [Duke Ravengard Gets Sent to Hell](#duke-ravengard-gets-sent-to-hell)                                        |                          
 | PS-DC-SS                                | IV             | 4-6h           | [Soul and Shadow](#soul-and-shadow)                                                                           |
 | SJ-DC                                   | II             | 2h             | [Happy New Year!](#happy-new-year)                                                                            |
 | SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
