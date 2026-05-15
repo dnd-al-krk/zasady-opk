@@ -623,6 +623,7 @@
 | PS-DC-HNL-01                            | I              | 4h             | [Nowhere Fast](#nowhere-fast)                                                                                 |
 | PS-DC-HNL-02                            | I              | 4h             | [The Hungry Prince](#the-hungry-prince)                                                                       |
 | PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
+| PS-DC-RAVENGARD-V                       | IV             | 4h             | [Duke Ravengard Gets Sent to Hell](#duke-ravengard-gets-sent-to-hell)                                         |                          
 | PS-DC-SS                                | IV             | 4-6h           | [Soul and Shadow](#soul-and-shadow)                                                                           |
 | SJ-DC                                   | II             | 2h             | [Happy New Year!](#happy-new-year)                                                                            |
 | SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
@@ -7073,6 +7074,16 @@ Nagroda Pocieszenia
 Ta niewielka skrzyneczka w formie kufra ma półokrągłe wieko i wygodny uchwyt, który pozwala na jej łatwe przenoszenie. Utrzymana w czerwonej kolorystyce z brązowo-złotymi zdobieniami, sprawia wrażenie eleganckiego pudełka na wyjątkowe skarby. W środku kryje słodycze pochodzące z najróżniejszych zakątków Forgotten Realms.
 Oraz PAUP QUIZZEM’S SPELLBOOK (COPY) dostaje fluff:
 Poza licznymi zaklęciami, w tym opasłym tomie zamieszczono również całą kolekcję „suchych” żartów prowadzącego oraz nauki mistrza Karola ze Strasburga — wybitnego maga, który zainspirował Paup Quizza do rozpoczęcia kariery w prowadzeniu teleturniejów.
+
+### [Duke Ravengard Gets Sent to Hell](https://www.dmsguild.com/en/product/479242/duke-ravengard-gets-sent-to-hell-again-ps-dc-ravengard-v)
+
+**Informacje o przygodzie:**
+The mighty hero Duke Ravengard returns to hell to face his most dangerous challenge yet: being too famous for his own good.
+
+A Four-Hour Adventure for Tier 4 characters. Optimized for APL 18.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [The Last Refuge of Spring](https://www.dmsguild.com/product/369343/DCPoAROG3-The-Last-Refuge-of-Spring)
 
