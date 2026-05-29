@@ -6169,7 +6169,8 @@ A Two to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 Part 13 of A Song of Fates
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Złoto przydzielane zgodnie z tabelą OPK. Przedmiot Amulet of Proof Against Detection and Location (uncommon) należy zastąpić przedmiotem Protective Verses (rare).
+Bonus Objective A: należy zrezygnować z ostatniej zagadki przy dużym ołtarzu, ponieważ jest zbyt czasochłonna, lub zastąpić ją łatwiejszą.
 
 ### [The Thentia Job](https://www.dmsguild.com/en/product/301715/ccc-tarot-02-09-the-thentia-job)
 
