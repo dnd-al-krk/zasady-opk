@@ -517,7 +517,7 @@
 | CCC-TAROT-02-03                         | II             | 2h             | [To Boldly Go](#to-boldly-go)                                                                                   |
 | CCC-TAROT-02-06                         | II             | 2-4h             | [The Hand that Wields](#the-hand-that-wields)                                                                                   |
 | CCC-TAROT-02-09                         | II             | 2-4h             | [The Thentia Job](#the-thentia-job)                                                                                   |
-| CCC-TAROT-02-10                         | II             | 2-4h             | [Facades Undone](#facades-undone)                                                                                   |
+| CCC-TAROT-02-10                         | II             | 4-6h             | [Facades Undone](#facades-undone)                                                                                   |
 | CCC-TAROT-S1-01                         | I              | 2h             | [A Long Night](#a-long-night)                                                                                 |
 | CCC-THENT-0101                          | I              | 2h             | [Beneath the Surface](#beneath-the-surface)                                                                   |
 | CCC-THENT-0102                          | I              | 2h             | [Those That Dwell Beneath](#those-that-dwell-beneath)                                                         |
