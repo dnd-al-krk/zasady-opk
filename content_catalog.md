@@ -517,6 +517,7 @@
 | CCC-TAROT-02-03                         | II             | 2h             | [To Boldly Go](#to-boldly-go)                                                                                   |
 | CCC-TAROT-02-06                         | II             | 2-4h             | [The Hand that Wields](#the-hand-that-wields)                                                                                   |
 | CCC-TAROT-02-09                         | II             | 2-4h             | [The Thentia Job](#the-thentia-job)                                                                                   |
+| CCC-TAROT-02-10                         | II             | 2-4h             | [Facades Undone](#facades-undone)                                                                                   |
 | CCC-TAROT-S1-01                         | I              | 2h             | [A Long Night](#a-long-night)                                                                                 |
 | CCC-THENT-0101                          | I              | 2h             | [Beneath the Surface](#beneath-the-surface)                                                                   |
 | CCC-THENT-0102                          | I              | 2h             | [Those That Dwell Beneath](#those-that-dwell-beneath)                                                         |
@@ -6179,8 +6180,15 @@ Deep in Karasht Silverflame’s vault is an item that can control the infected T
 
 A Two to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8
 
+### [Facades Undone](https://www.dmsguild.com/en/product/321118/ccc-tarot-02-10-facades-undone)
+
+**Informacje o przygodzie**
+In Thentia, the illness seems to have subsided, and there is rioting demand for the walls to come down. However, something lurks in the wall that is a threat to the citizens. See where allegiances lie and find the hidden machinations for those interested in the power of Fate.
+
+A Four to Six-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Złoto według tabeli OPK. Nagrodę Helm of Telepathy (uncommon) należy zastąpić przedmiotem Ring of Resistance (Psychic) (rare)
 
 ### [A Long Night](https://www.dmsguild.com/product/308752/CCCTAROTS101-A-Long-Night)
 
