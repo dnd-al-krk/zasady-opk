@@ -6180,6 +6180,9 @@ Deep in Karasht Silverflame’s vault is an item that can control the infected T
 
 A Two to Four-Hour Adventure for Tier 2 Characters. Optimized for APL 8
 
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
 ### [Facades Undone](https://www.dmsguild.com/en/product/321118/ccc-tarot-02-10-facades-undone)
 
 **Informacje o przygodzie**
