@@ -280,6 +280,8 @@ Z przedmiotów, które dają permanentne benefity postaci (np. tome of understan
 
 Przedmioty Ascendant (Hoard Items z Fizban’s Treasury of Dragons) nie podlegają degradacji opisanej w Fizban’s Treasury of Dragons.
 
+Przedmiot Robe of the Archmagi nie podlega ograniczeniu w zakresie charakteru (alignement) postaci, które mogą się dostroić (attune) do jego poszczególnych wariantów - kolorów.
+
 Wyczerpująca lista magicznych przedmiotów dopuszczonych do gry w OPK (tj. żaden przedmiot magiczny spoza listy nie jest legalny w OPK) znajduje się [tutaj](new_adventure_in_cc.md).
 
 ### 3.4. Błogosławieństwa (Blessings) i Epickie Dary (Epic Boons)<a name="blessings"></a>
