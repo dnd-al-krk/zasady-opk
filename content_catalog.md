@@ -620,7 +620,7 @@
 | FR-DC-XMAS-01                           | I              | 4h             | [Silent Night](#silent-night)                                                                                 |
 | PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
 | PO-BK-1-02                              | II             | 4-6h             | [Trust No One](#trust-no-one)                                                                         |
-| PO-BK-1-03                              | II             | 4h-6h            | [Red Masks](#red-masks)                                                                         |
+| PO-BK-1-03                              | II             | 4-6h             | [Red Masks](#red-masks)                                                                         |
 | PO-BK-3-11                              | IV             | 4h             | [Covenant of the Blood Goddess](#covenant-of-the-blood-goddess)                                               |
 | PS-DC-CEG-02                            | IV             | 2h             | [Snakes on a Planescape](snakes-on-a-planescape)                                                              |
 | PS-DC-HNL-01                            | I              | 4h             | [Nowhere Fast](#nowhere-fast)                                                                                 |
