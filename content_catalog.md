@@ -620,7 +620,9 @@
 | FR-DC-XMAS-01                           | I              | 4h             | [Silent Night](#silent-night)                                                                                 |
 | PO-BK-1-01                              | II             | 2h             | [Autumn Burns Red](#autumn-burns-red)                                                                         |
 | PO-BK-1-02                              | II             | 4-6h             | [Trust No One](#trust-no-one)                                                                         |
-| PO-BK-1-03                              | II             | 4-6h             | [Red Masks](#red-masks)                                                                         |
+| PO-BK-1-03                              | II             | 4h-6h            | [Red Masks](#red-masks)                                                                         |
+| PO-BK-3-11                              | IV             | 4h             | [Covenant of the Blood Goddess](#covenant-of-the-blood-goddess)                                               |
+| PS-DC-CEG-02                            | IV             | 2h             | [Snakes on a Planescape](snakes-on-a-planescape)                                                              |
 | PS-DC-HNL-01                            | I              | 4h             | [Nowhere Fast](#nowhere-fast)                                                                                 |
 | PS-DC-HNL-02                            | I              | 4h             | [The Hungry Prince](#the-hungry-prince)                                                                       |
 | PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
@@ -7003,6 +7005,16 @@ A Four-Hour to Six-Hour Adventure for Characters of 5th – 10th Level
 **Komentarz**
 Złoto zgodnie z tabelką OPK
 
+### [Covenant of the Blood Goddess](https://www.dmsguild.com/en/product/474556/po-bk-3-11-covenant-of-the-blood-goddess)
+
+**Informacje o przygodzie:**
+Mage Rymdyl — master mage and protector of the Border Kingdoms — has disappeared. All signs point to a kidnapping, but who is powerful enough to abduct one of such stature? The answers lead adventurers on a deadly journey across the planes, to events that threaten all of Faerun.
+
+A Four-Hour Adventure for 17th- through 20th-Level Characters
+
+**Komentarz**
+Złoto zgodnie z tabelką OPK
+
 ### [Dohwar Heist](https://www.dmsguild.com/product/410906/Dohwar-Heist-SJDCDWR01)
 
 **Informacje o przygodzie:**
@@ -7052,6 +7064,16 @@ may have a solution to save the planet, but can you act fast enough to prevent u
 Part three of the Crystalstar Trilogy
 
 A Two-Hour Adventure for Tier 1 Characters. Optimized for APL 3.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Snakes on a Planescape](https://www.dmsguild.com/en/product/478979/snakes-on-a-planescape-ps-dc-ceg-02)
+
+**Informacje o przygodzie:**
+The Fraternity of Order needs your help to prevent a snake-astrophe in Sigil! Citizens in the City of Doors have been sprouting scales, fangs, even serpent tails, and the problem is only getting worse. The curse seems to originate in the sewers beneath the Ditch, but the first team sent to investigate hasn’t returned. Can you rescue them and prevent the coming snake-pocalypse?
+
+Snakes on a Planescape is a dungeon crawl romp filled with action, role play, and more snake memes than is medically advisable!
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
