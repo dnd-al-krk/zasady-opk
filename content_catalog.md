@@ -609,7 +609,7 @@
 | FR-DC-LIGA-04                           | III            | 4h             | [Many Spells Gambit](#many-spells-gambit)                                                                     |
 | FR-DC-LIGA-07                           | III            | 4h             | [The Lurking Blade](#the-lurking-blade)                                                                       |
 | FR-DC-ONI-01                            | II             | 4h             | [Oni of the Thousand Gates](#oni-of-the-thousand-gates)                                                       |
-| FR-DC-ONI-02                            | II             | 4h             | [Battlefield Blooms](#battlefield-blooms)                                                                     |
+| FR-DC-ONI-02                            | II             | 2h             | [Battlefield Blooms](#battlefield-blooms)                                                                     |
 | FR-DC-THAY-02                           | II             | 4h             | [How to Seduce a Thayan in Tendays](#How-toS-educe-a-Thayan-in-Tendays)                                       |
 | FR-DC-VECNA-01                          | II             | 4h             | [Three Body Problem](#three-body-problem)                                                                     |
 | FR-DC-VECNA-02                          | II             | 4h             | [Eldritch Eye Wide Shut](#eldritch-eye-wide-shut)                                                             |
@@ -7197,7 +7197,7 @@ Brak uwag związanych z prowadzeniem przygody w ramach OPK
 **Informacje o przygodzie**
 On a significant anniversary of a major battle of the Kozakuran civil war, a monster of titanic proportions threatens the village of Hanamigahara. This creature, a massive amalgam of skeletal parts, seems to have a connection to the battlefield itself. Travel to Hanamigahara and put an end to the threat.
 
-A 4 hour Tier 2 Adventure, optimized for APL 8
+A 2 hour Tier 2 Adventure, optimized for APL 8
 
 CONTENT WARNINGS: Death, Disrespect of the Dead
 
