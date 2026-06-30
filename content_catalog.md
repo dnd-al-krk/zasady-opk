@@ -628,6 +628,7 @@
 | PS-DC-NBDD-01                           | III            | 4h             | [The Greatest Gameshow](#the-greatest-gameshow)                                                               |
 | PS-DC-RAVENGARD-V                       | IV             | 4h             | [Duke Ravengard Gets Sent to Hell](#duke-ravengard-gets-sent-to-hell)                                         |                          
 | PS-DC-SS                                | IV             | 4-6h           | [Soul and Shadow](#soul-and-shadow)                                                                           |
+| PS-DC-STRAT-UNDEAD-05                   | IV             | 4h             | [Return of the Dragon](#return-of-the-dragon)                                                                 |
 | SJ-DC                                   | II             | 2h             | [Happy New Year!](#happy-new-year)                                                                            |
 | SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
 | SJ-DC-AUG-06                            | I              | 4h             | [The Rock: Tales of the Beholder Corps](#the-rock-tales-of-the-beholder-corps)                                |
@@ -6923,6 +6924,19 @@ Destination Unknown (SJ-DC-TRIDEN-MW3)
 Dylogia (t1):
 Squidaddle! (SJ-DC-SQD)
 Squidoosh! (SJ-DC-SQD2)
+
+### [Return of the Dragon](https://www.drivethrurpg.com/en/product/482253/ps-dc-strat-undead-05-return-of-the-dragon)
+
+**Inormacje o przygodzie**
+You've been assigned the vital mission of investigating a newly formed cult in the Astral Sea, aiming to safeguard citizens from their sinister intentions. Your objective is to uncover the mysterious magical ritual orchestrated by this enigmatic group, ultimately preventing the looming threat of the RETURN OF THE DRAGON.
+
+Part 1 of 2 in the Reign of Dragon Series.
+
+A Four-Hour Adventure for Tier 4 Characters.
+Optimized for APL 18.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
 
 ### [Pixie Dreams](https://www.dmsguild.com/product/375416/WBWDCDCAF01-Pixie-Dreams)
 
