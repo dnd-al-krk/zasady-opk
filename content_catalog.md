@@ -412,6 +412,7 @@
 | CCC-MACE-02                             | I              | 4h             | [A Panther’s Peril](#a-panthers-peril)                                                                        |
 | CCC-MACE-03                             | I              | 4h             | [Haunted Memories](#haunted-memories)                                                                         |
 | CCC-MAG01-02                            | II             | 2-4h           | [Murder at the Festival!](#Murder-at-the-Festival!)                                                           |
+| CCC-MAG01-03                            | III            | 4h             | [The Clock that Didn't Tick](the-clock-that-didn't-tick)                                                      |
 | CCC-MAYDAYS-01                          | I              | 2h             | [The Bandit's Mark](#the-bandits-mark)                                                                        |
 | CCC-MCX-01                              | I              | 2h             | [All in a Day’s Work](#all-in-a-days-work)                                                                    |
 | CCC-MCX01-02                            | I              | 2h             | [The Rescue](#the-rescue)                                                                                     |
@@ -5086,6 +5087,20 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 The search for Geoffrey’s family mace leads you to a meeting with a famous thief. In exchange for
 the information, she asks you to find a painting called Dawnsight. An easy task if you can withstand
 the haunted memories surrounding the painting.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+### [The Clock that Didn't Tick](https://www.dmsguild.com/en/product/320986/ccc-mag01-03-the-clock-that-didn-t-tick)
+
+**Informacje o przygodzie**
+Mystery in the Moonsea.
+
+Disappearing shipments, missing alchemists—and proven musical acts whose rehearsals sound terrible! Instead of showing off Thentia to potential trading partners and giving the locals something to celebrate, the pall over this year’s Magic and Gold Festival threatens to drive business to Melvaunt and give the locals a reason to riot.
+
+A Four-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
+
+This AL-legal adventure debuted at MagFest 2019. Related adventures include Mischief at the Festival (https://www.dmsguild.com/product/318581/CCCMAG0101-Mischief-at-the-Festival) and Murder at the Festival (https://www.dmsguild.com/product/320871/CCCMAG0102-Murder-at-the-Festival).
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
