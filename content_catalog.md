@@ -6,9 +6,7 @@
 
 [2. Informacje o przygodach](#info-przygody)
 
-[3. Definicja serii przygód na potrzeby nagrody "Tryptyk"](#trylogia)
-
-[4. Proces dodawania nowych przygód do katalogu OPK wraz z listą nie dopuszczonych magicznych przedmiotów](new_adventure_in_cc.md)
+[3. Proces dodawania nowych przygód do katalogu OPK wraz z listą nie dopuszczonych magicznych przedmiotów](new_adventure_in_cc.md)
 
 ## Lista dopuszczonych przygód<a name="lista-przygód"></a>
 
