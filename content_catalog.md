@@ -454,6 +454,7 @@
 | CCC-QCC2018-01                          | III            | 2h             | [Of Gods and Monsters](#of-gods-and-monsters)                                                                 |
 | CCC-QCC2018-02                          | II             | 2h             | [Heart and Soul](#heart-and-soul)                                                                             |
 | CCC-QCC2019-01                          | I              | 2-4h           | [Hillsfar's Rancid Webs](#hillsfars-rancid-webs)                                                              |
+| CCC-QCC2019-03                          | III              | 2-4h           | [The Scarlet Divide](#the-scarlet-divide)                                                              |
 | CCC-RCC-01-01                           | I              | 2h             | [Flight of the Forgemage](#flight-of-the-forgemage)                                                           |
 | CCC-RCC-01-02                           | I              | 2h             | [The King of Thar](#the-king-of-thar)                                                                         |
 | CCC-RCC-01-03                           | I              | 2h             | [Chains of Desperation](#chains-of-desperation)                                                               |
@@ -8118,6 +8119,17 @@ A suspicious murder leads the heroes into an old section of Hillsfar's sewers, w
 
 **Komentarz**
 Przygoda dodana seryjnie jako "brak uwag"
+
+### [The Scarlet Divide](https://www.drivethrurpg.com/en/product/282991/ccc-qcc2019-03-the-scarlet-divide)
+
+**Informacje o przygodzie:**
+A contingent of Red Wizards has arrived in Hillsfar and is planning something. Rumors abound
+of a massive ritual being prepared to affect the entire city. Is their intent to help the city or harm
+it? And how is the First Lord involved? A Two to Four-Hour Adventure for Tier 3 Characters.
+Optimized for APL 13.
+
+**Komentarz**
+Brak uwag
 
 ### [Flight of the Forgemage](https://www.dmsguild.com/product/299975/CCCRCC0101-Flight-of-the-Forgemage)
 
