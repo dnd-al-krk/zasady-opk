@@ -180,6 +180,8 @@ Next, the players determine the equipment their characters will take on the sess
 -Each character can take spell scrolls on an adventure, with the limitation that the sum of spell levels on the scrolls is not greater than the tier of the adventure multiplied by the game time expressed in ACP by the DM (e.g. a Tier 2 adventure with 4 ACP, the sum of spell levels on your spell scrolls must not be greater than 2*4=8, like 1 scroll of a 5th level spell and 1 scroll of a 3rd level spell, or 2 scrolls of 2nd level spells and 4 scrolls of 1st level spells);
 Spellwrought Tattoo and other single-use items that work by casting a specific spell of a given circle count as scrolls with a spell of the same circle for the purposes of the above limit.
 
+- Each character may take only as many healing potions on an adventure as will ensure that their combined level (as described in Table 3) does not exceed the product of the adventure’s tier and the adventure duration declared by the Game Master in the ACP (i.e., for a T2 adventure that the GM plans for 4 ACP, you can take potions with a total level of no more than 2×4=8—for example, 4 Potions of Greater Healing and 2 Potions of Healing, or 2 Potions of Greater Healing and 5 Potions of Healing. A temporary potion granted by the DM at the beginning of the session does not count toward the limit.
+
 -Each character may (but is not required to) begin the adventure with one of the benefits listed below, depending on the adventure's Tier:
 
 Tier 1 (T1): Potion of Healing
@@ -190,7 +192,7 @@ Tier 3 (T3): Potion of Healing (Superior)
 
 Tier 4 (T4): Potion of Healing (Supreme)
 
-These item benefits disappear at the end of an adventure regardless of whether they were used or not. With the DM's permission you may replace the potion's benefit with a single spell component or piece of equipment with a value equal to or less than the Tier's default potion (which is 50/100/500/5000 gp respectively). Additionally, the first time a player joins a game in OPK, their first character receives one regular Potion of Healing that will not be removed at the end of adventure unless consumed.
+These item benefits disappear at the end of an adventure regardless of whether they were used or not. With the DM's permission you may replace the potion's benefit with a single spell component or piece of equipment with a value equal to or less than the Tier's default potion (which is 50/150/450/1350 gp respectively). Additionally, the first time a player joins a game in OPK, their first character receives one regular Potion of Healing that will not be removed at the end of adventure unless consumed.
 
 An advanced character may, with the DM's permission, begin the adventure under the effects of spells cast during previous adventures. Before the adventure starts, the player who wishes to use such effects should prepare a list of all continuous effects on the player character with all their variables (e.g. the trigger of Contingency spell, statblock and sourcebook of a bound creature, the effects of a Wish). The DM has the right to verify this list before adventure and disable such effects for the duration of the adventure they're running. Continuous effects not declared before adventure start cannot be used for that adventure. With the DM's permission, the character may cast a spell (like Find Familiar) before the adventure begins, keeping in mind the spell's cost.
 
@@ -391,17 +393,16 @@ During games the availability of spellcasting services occur **only** with the D
 
 The buying price between adventures or (with DM permission) during adventures.
 
-| **Potion** | **Gold cost** |
-| --- | --- |
-| Potion of Healing | 50 gp |
-| Potion of Greater Healing | 100 gp |
-| Potion of Superior Healing | 500 gp |
-| Potion of Supreme Healing | 5 000 gp |
+| **Potion** | **Gold cost** | **Level** |
+| --- | --- | --- |
+| Potion of Healing | 50 gp | 1
+| Potion of Greater Healing | 150 gp | 1,5
+| Potion of Superior Healing | 450 gp | 2
+| Potion of Supreme Healing | 1 350 gp | 2,5
 | Elixir of Health | 500 gp |
 | Potion of Climbing | 75 gp |
 | Potion of Animal Friendship | 100 gp |
 | Potion of Water Breathing | 100 gp |
-| Potion of Invisibility | 5 000 gp |
 
 ## 4. Scrolls<a name="tabela-zwoje"></a>
 

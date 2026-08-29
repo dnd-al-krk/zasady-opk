@@ -191,7 +191,7 @@ Tier 3 (T3): Potion of Healing (Superior)
 
 Tier 4 (T4): Potion of Healing (Supreme)
 
-Przedmioty-benefity znikają na koniec przygody niezależnie od tego, czy zostały użyte, czy nie. Za zgodą DM można jako przedmiot-benefit wybrać (zamiast odpowiedniej mikstury) jeden komponent lub element ekwipunku z PHB o koszcie nie większym niż domyślna dla danego mikstura (czyli 50/100/500/5000 gp ). Dodatkowo, pierwsza postać gracza debiutującego w OPK otrzymuje jedną zwyczajną (tj. znikającą tylko po zużyciu) miksturę leczenia.
+Przedmioty-benefity znikają na koniec przygody niezależnie od tego, czy zostały użyte, czy nie. Za zgodą DM można jako przedmiot-benefit wybrać (zamiast odpowiedniej mikstury) jeden komponent lub element ekwipunku z PHB o koszcie nie większym niż domyślna mikstura (czyli 50/150/450/1350 gp ). Dodatkowo, pierwsza postać gracza debiutującego w OPK otrzymuje jedną zwyczajną (tj. znikającą tylko po zużyciu) miksturę leczenia.
 
 Bardziej zaawansowane w rozwoju postaci za zgodą DM-a mogą podlegać efektom zaklęć rzuconych podczas wcześniejszych sesji. Przed sesją gracz, który chce korzystać z takiej możliwości, powinien przygotować listę efektów ciągłych działających na postać wraz ze wszystkimi zmiennymi tych efektów (np. trigger zaklęcia Contigency, statblock i przygoda źródłowa związanego stworzenia, efekty Wisha). DM przed sesją ma prawo zweryfikować tę listę i wyłączyć dowolne z takich efektów na czas prowadzonej przez niego przygody. Efekty ciągłe, o których DM nie został uprzedzony przed sesją nie mogą być używane podczas sesji. Za wyraźnie udzieloną zgodą DM-a, gracz może też rzucić jakieś zaklęcie (np. Find Familiar) przed rozpoczęciem fabuły przygody, uwzględniając wydanie odpowiednich zasobów.
 
