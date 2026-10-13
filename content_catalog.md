@@ -630,6 +630,7 @@
 | PS-DC-RAVENGARD-V                       | IV             | 4h             | [Duke Ravengard Gets Sent to Hell](#duke-ravengard-gets-sent-to-hell)                                         |                          
 | PS-DC-SS                                | IV             | 4-6h           | [Soul and Shadow](#soul-and-shadow)                                                                           |
 | PS-DC-STRAT-UNDEAD-05                   | IV             | 4h             | [Return of the Dragon](#return-of-the-dragon)                                                                 |
+| PS-DC-TST-01                            | IV             | 4h             | [The Eye Behind the Mask](#the-eye-behind-the-mask)                                                           |
 | SJ-DC                                   | II             | 2h             | [Happy New Year!](#happy-new-year)                                                                            |
 | SJ-DC-AMAK                              | II             | 4h             | [Starlight’s Lament](#starlights-lament)                                                                      |
 | SJ-DC-AUG-06                            | I              | 4h             | [The Rock: Tales of the Beholder Corps](#the-rock-tales-of-the-beholder-corps)                                |
@@ -6952,6 +6953,15 @@ Optimized for APL 18.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [The Eye Behind the Mask](https://www.dmsguild.com/en/product/504348/ps-dc-tst-01-the-eye-behind-the-mask)
+
+**Informacje o przygodzie**
+A disease is bound to spread throughout the realms and only divine blood is strong enough to cure it. The task of finding divine blood lies with a cursed child. Can the adventurers aid him in this endeavor? A Four-Hour Adventure for Tier 4 Characters. Optimized for APL 18. CONTENT WARNING: Gore, Trauma
+Maps included
+
+**Komentarz**
+Nie należy przydzielać nagrody: Charm of Fates
 
 ### [Pixie Dreams](https://www.dmsguild.com/product/375416/WBWDCDCAF01-Pixie-Dreams)
 
